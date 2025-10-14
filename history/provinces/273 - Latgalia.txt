@@ -1,0 +1,21 @@
+#273 - Latgalia / Inflanty Duchy
+owner = LIT
+controller = LIT
+add_core = LTG
+culture = latvian
+religion = catholic
+capital = "Dünaburg"
+trade_goods = livestock
+base_tax = 2
+base_production = 2
+base_manpower = 1
+is_city = yes
+discovered_by = KAZ
+discovered_by = CRI
+discovered_by = GOL
+discovered_by = AST
+discovered_by = QAS
+discovered_by = western
+discovered_by = eastern
+add_core = LIT
+fort_15th = yes

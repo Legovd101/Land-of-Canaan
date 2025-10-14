@@ -1,0 +1,17 @@
+# 93 Liège - Principal cities: Liège & Namur
+owner = GER
+controller = GER
+capital = "Liège"
+is_city = yes
+culture = wallonian
+religion = catholic
+base_tax = 6
+base_production = 6
+trade_goods = glass
+base_manpower = 3
+discovered_by = eastern
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman
+add_core = GER
+fort_15th = yes
