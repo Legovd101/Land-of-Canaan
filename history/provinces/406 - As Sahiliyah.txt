@@ -1,6 +1,6 @@
 #406 - As Sahiliyah
-owner = LRI
-controller = LRI
+owner = BHT
+controller = BHT
 culture = al_iraqiya_arabic
 religion = zoroastrian
 capital = "Sahiliyah"
@@ -17,4 +17,5 @@ discovered_by = indian
 discovered_by = nomad_group
 discovered_by = BYZ
 add_local_autonomy = 20
-add_core = LRI
+add_core = BHT
+hre = yes

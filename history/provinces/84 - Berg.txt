@@ -16,7 +16,7 @@ base_manpower = 1
 trade_goods = cloth
 
 culture = hessian
-religion = germanic_pagan
+religion = new_gothic
 capital = "Düsseldorf"
 
 is_city = yes

@@ -19,7 +19,7 @@ trade_goods = wine
 extra_cost = 8
 
 culture = tuscan
-religion = hellenic_pagan_reformed
+religion = jupiterian
 capital = "Pisa"
 
 is_city = yes

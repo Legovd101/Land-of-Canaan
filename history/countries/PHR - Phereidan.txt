@@ -1,0 +1,5 @@
+capital = 3027
+government_rank = 1
+religion = zoroastrian
+technology_group = 
+primary_culture = georgian

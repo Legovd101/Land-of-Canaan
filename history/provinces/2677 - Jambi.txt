@@ -2,7 +2,7 @@
 owner = JMB
 controller = JMB
 culture = sumatran
-religion = sunni
+religion = hinduism
 capital = "Jambi"
 trade_goods = incense
 base_tax = 3

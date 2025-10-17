@@ -16,7 +16,7 @@ base_manpower = 4
 trade_goods = livestock
 
 culture = leonese
-religion = germanic_pagan
+religion = new_gothic
 capital = "Salamanca"
 
 is_city = yes

@@ -2,7 +2,7 @@
 owner = PSA
 controller = PSA
 culture = acehnese
-religion = sunni
+religion = buddhism
 capital = "Peureulak"
 trade_goods = spices
 base_tax = 4

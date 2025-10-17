@@ -1,6 +1,6 @@
 #4392 - Mardin
-owner = HSN
-controller = HSN
+owner = CRD
+controller = CRD
 culture = kurdish
 religion = zoroastrian
 capital = "Mardin"
@@ -16,4 +16,5 @@ discovered_by = ottoman
 discovered_by = eastern
 discovered_by = nomad_group
 #fort_15th = yes #The Citadel of Mardin which withstood repeated sieges by Timur and was frequently seiged in Ottoman-Safavid conflicts.
-add_core = HSN
+add_core = CRD
+hre = yes

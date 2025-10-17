@@ -2,7 +2,7 @@
 owner = BEI
 controller = BEI
 culture = bornean
-religion = sunni
+religion = hinduism
 capital = "Sigalang"
 trade_goods = gems
 base_tax = 3

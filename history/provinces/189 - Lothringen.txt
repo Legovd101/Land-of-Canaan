@@ -16,7 +16,7 @@ base_manpower = 5
 trade_goods = iron
 
 culture = burgundian
-religion = germanic_pagan
+religion = new_gothic
 capital = "Nancy"
 
 is_city = yes

@@ -16,7 +16,7 @@ base_manpower = 3
 trade_goods = grain
 
 culture = neapolitan
-religion = hellenic_pagan_reformed
+religion = jupiterian
 capital = "Avellino"
 
 is_city = yes

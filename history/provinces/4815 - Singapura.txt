@@ -1,7 +1,7 @@
 owner = MLC
 controller = MLC
 culture = malayan
-religion = sunni
+religion = vajrayana
 capital = "Singapura"
 trade_goods = fish
 base_tax = 2

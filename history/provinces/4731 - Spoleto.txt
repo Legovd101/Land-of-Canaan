@@ -17,7 +17,7 @@ base_manpower = 1
 trade_goods = livestock
 
 culture = umbrian
-religion = hellenic_pagan_reformed
+religion = jupiterian
 capital = "Spoleto"
 
 is_city = yes

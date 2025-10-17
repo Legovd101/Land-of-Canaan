@@ -16,7 +16,7 @@ base_manpower = 4
 trade_goods = glass
 
 culture = tuscan
-religion = hellenic_pagan_reformed
+religion = jupiterian
 capital = "Siena"
 
 is_city = yes

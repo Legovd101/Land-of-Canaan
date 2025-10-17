@@ -1,0 +1,5 @@
+capital = 435
+technology_group = ottoman
+government_rank = 1
+elector = yes
+religion = zoroastrian

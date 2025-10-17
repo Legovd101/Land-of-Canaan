@@ -1,6 +1,6 @@
 #1849 - Hama
-owner = TRP
-controller = TRP
+owner = NTI
+controller = NTI
 culture = al_suryah_arabic
 religion = zoroastrian
 capital = "Hama"
@@ -17,4 +17,5 @@ discovered_by = western
 discovered_by = eastern
 discovered_by = nomad_group
 discovered_by = indian
-add_core = TRP
+add_core = NTI
+hre = yes

@@ -17,7 +17,7 @@ trade_goods = wine
 extra_cost = 10
 
 culture = catalan
-religion = germanic_pagan
+religion = new_gothic
 capital = "Taragona"
 
 is_city = yes

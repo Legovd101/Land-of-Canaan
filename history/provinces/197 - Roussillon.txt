@@ -17,7 +17,7 @@ base_manpower = 2
 trade_goods = wine
 
 culture = catalan
-religion = germanic_pagan
+religion = new_gothic
 capital = "Perpignan"
 
 is_city = yes

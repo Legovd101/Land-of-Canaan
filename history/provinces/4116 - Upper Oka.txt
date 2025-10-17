@@ -2,7 +2,7 @@
 owner = GLH#Controlled by various small Principalities shifting allegience between Muscovy and Lithuania
 controller = GLH
 culture = ryazanian
-religion = orthodox
+religion = vajrayana
 base_tax = 3
 base_production = 3
 trade_goods = grain

@@ -1,0 +1,124 @@
+#Country Name: Please see filename.
+graphical_culture = easterngfx
+color = { 189 70 180 }
+revolutionary_colors = { 14 0 14 }
+historical_idea_groups = { 
+	religious_ideas
+	defensive_ideas
+	spy_ideas
+	trade_ideas
+	offensive_ideas
+	economic_ideas
+	diplomatic_ideas
+	innovativeness_ideas
+}
+historical_units = { 
+	eastern_medieval_infantry
+	eastern_knights
+	slavic_stradioti
+	eastern_militia
+	ottoman_spahi
+	ottoman_sekban
+	ottoman_reformed_spahi
+	ottoman_reformed_janissary
+	ottoman_toprakli_hit_and_run
+	ottoman_nizami_cedid
+	ottoman_toprakli_dragoon
+	eastern_skirmisher
+	eastern_uhlan
+	eastern_carabinier
+	ottoman_new_model
+	ottoman_lancer
+}
+monarch_names = { 
+	"Kanishka #0" = 40
+	"Huvishka #0" = 20
+	"Vima Kadphises #0" = 20
+	"Kujula Kadphises #0" = 15
+	"Vasudeva #0" = 10
+	"Vima Taktu #0" = 10
+	"Vima Devi #0" = -10
+	"Kamara #0" = -5
+	"Rajnadevi #0" = -5
+	"Vasumitra #0" = -1
+	"Padmavati #0" = -1
+	"Sujata #0" = -1
+	"Devamitra #0" = -1
+	"Prabhavati #0" = -1
+	"Yashomati #0" = -1
+	"Rupashri #0" = -1
+	"Toramana #0" = 0
+	"Mihirakula #0" = 0
+	"Khingila #0" = 0
+	"Napki Malka #0" = 0
+	"Narana #0" = 0
+	"Khushnavaz #0" = 0
+	"Ghadamala #0" = 0
+	"Thilas #0" = 0
+	"Vakhudeva #0" = 0
+	"Arjuna #0" = 0
+	"Shahi Khushana #0" = 0
+	"Yolug #0" = 0
+	"Yargal #0" = 0
+	"Tegin #0" = 0
+	"Khagan #0" = 0
+	"Kidara #0" = 0
+	"Brahmagupta #0" = 0
+	"Sanghasena #0" = 0
+	"Simhagupta #0" = 0
+	"Devasena #0" = 0
+	"Shiladitya #0" = 0
+	"Surendra #0" = 0
+	"Rajula #0" = 0
+	"Mahasena #0" = 0
+	"Chandragupta #0" = 0
+	"Harsha #0" = 0
+	"Narendra #0" = 0
+	"Indravarma #0" = 0
+	"Sasanka #0" = 0
+	"Kartir #0" = 0
+	"Sogdaspad #0" = 0
+	"Vakhshunvar #0" = 0
+	"Yuvraja #0" = 0
+	"Ananda #0" = 0
+	"Bhadrasena #0" = 0
+	"Rudrasena #0" = 0
+	"Budhagupta #0" = 0
+	"Shri Kula #0" = 0
+	"Vishnu Gupta #0" = 0
+	"Samudragupta #0" = 0
+	"Yasodhara #0" = 0
+	"Suhasra #0" = 0
+	"Daraya #0" = 0
+	"Yasovardhana #0" = 0
+}
+leader_names = { 
+	Kujula Kanishka Huvishka Vima Kadphises Vasudeva Toramana Mihirakula Khingila Kidara
+	Narana Napki Malka Khushnavaz Vakhudeva Yargal Thilas Vakhshunvar Sogdaspad Shahi
+	Vima Yolug Tegin Khagan Khingila Toramana Vashishka Vasishka Vima Taktu
+	Kadphises Kumara Devaputra Mahasena Shahiya Alchon Nezak Khionite Hephthal Khushanshah
+	Suren Duvakhsh Kanishka II Huvishka II Vasudeva II Narana II
+	Kidara II Simha Harsha Yuvraja Kartir Indravarma Sogda Vakhshu Devasena
+	Sanghasena Brahmagupta Vishnu Gupta Budhagupta Rudrasena Shiladitya Samudragupta Sasanka Yasovardhana
+	Kushanaputra Kushanadeva Kanishkaputra Toramanaputra Huna Khionite Hephthalite Turkashahi Maitraka Kapisa
+	Kapisha Kapishika Bactra Balkhara Balkharae Tokhara Tocharian Yona Gandhara Daraya
+	Rajula Indragupta Vasumitra Rajanaka Rajaputra Maharaja Devaraja Mahadeva Parvata Gopala
+	Jayasena Anandasena Simhagupta Chandragupta Mahasthana 
+}
+ship_names = { 
+	Kanishka Huvishka Vasudeva Vima Kadphises Kujula Kadphises Toramana Mihirakula Khingila
+	Khushnavaz Kidara Napki Malka Narana Yargal Thilas Vakhudeva Sogdaspad Vakhshunvar
+	Alchon Nezak Khionite Tokhara Bactra Balkh Gandhara Pushkalavati Kapisa Kunduz
+	Khotan Kashgar Purushapura Begram Bamiyan Surkh Kotal Kabul Zabul Peshawar
+	Ujjain Mathura Taxila Nagarahara Saketa Rajapura Balkhara Kapishaka Baghlan Takht-i-Bahi
+	Shahiya Tokharistan Tegin Khagan Yabghu Khushanshah Devaraja Maharaja Mahadeva Surendra
+	Indragupta Vishnugupta Chandragupta Harsha Sasanka Simhagupta Samudragupta Rudrasena Devaputra Jayasena
+	Mahasena Rajanaka Rajula Ananda Suhasra Padmavati Yashomati Kamara Prabhavati Vasumitra
+	Devamitra Rupashri Yashodhara Parvata Buddha Dharma Mahayana Vajrapani Avalokiteshvara Manjusri
+	Maitreya Sakyamuni Kanishkapura Vasudevapura Huvishkapura Begrama Kapishapura Gandharika Tokharika Balhara
+	Indravarma Narana-deva Khushnavaza Mihirakula-deva Khingila-deva Toramana-deva Kidarashahi Bactriana Tokharistan Gandhara
+	Kapisa Begram Purushapura Mathura Saketa Nagarahara Khotana Kashgaria Daraya Kushanratha
+	Hephthalratha Hunratha Tokhraratha Dharmajyoti Bodhinaga Vajradeva Indraja Surajaya Chandradeva Varunratha
+	Agnideva Yuvraja Shivashahi Kapishananda Kushansena Mahashahi Vakhshuratha Indrapura Vasudevaratha Begramadevi
+	Kamaladevi Padmadevi Rajadevi Sujatadevi Devamitradevi 
+}

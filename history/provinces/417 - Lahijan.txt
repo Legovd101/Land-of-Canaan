@@ -2,8 +2,8 @@
 latent_trade_goods = { 
 	coal 
 }
-owner = ARM
-controller = ARM
+owner = TAB
+controller = TAB
 culture = mazandarani
 religion = zoroastrian
 capital = "Lahijan"
@@ -17,4 +17,5 @@ discovered_by = ottoman
 discovered_by = eastern
 discovered_by = indian
 discovered_by = nomad_group
-add_core = ARM
+add_core = TAB
+hre = yes

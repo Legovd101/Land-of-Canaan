@@ -16,7 +16,7 @@ base_manpower = 4
 trade_goods = paper
 
 culture = venetian
-religion = germanic_pagan
+religion = new_gothic
 capital = "Treviso"
 
 is_city = yes

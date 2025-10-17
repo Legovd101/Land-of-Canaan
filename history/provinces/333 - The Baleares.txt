@@ -16,7 +16,7 @@ base_manpower = 1
 trade_goods = sugar
 
 culture = catalan
-religion = germanic_pagan
+religion = new_gothic
 capital = "Palma"
 
 is_city = yes

@@ -16,7 +16,7 @@ base_manpower = 3
 trade_goods = salt
 
 culture = burgundian
-religion = germanic_pagan
+religion = new_gothic
 capital = "Besançon"
 
 is_city = yes

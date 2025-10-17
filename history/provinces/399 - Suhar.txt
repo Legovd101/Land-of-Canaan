@@ -1,6 +1,6 @@
 #399 - Suhar
-owner = ORM
-controller = ORM
+owner = OMA
+controller = OMA
 culture = omani_culture
 religion = arab_pagan
 capital = "Suhar"
@@ -9,7 +9,6 @@ base_tax = 3
 base_production = 3
 base_manpower = 3
 is_city = yes
-add_core = ORM
 add_core = OMA
 discovered_by = muslim
 discovered_by = ottoman

@@ -2,7 +2,7 @@
 owner = ARM
 controller = ARM
 culture = azerbaijani
-religion = shiite
+religion = buddhism
 capital = "Ganja"
 trade_goods = cotton
 base_tax = 2

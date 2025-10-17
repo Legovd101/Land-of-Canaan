@@ -1,6 +1,6 @@
 # - Buzau
-owner = WAL
-controller = WAL
+owner = DAC
+controller = DAC
 culture = romanian
 religion = vajrayana
 capital = "Buzau"
@@ -9,7 +9,7 @@ base_tax = 4
 base_production = 4
 base_manpower = 2
 is_city = yes
-add_core = WAL
+add_core = DAC
 discovered_by = KAZ
 discovered_by = CRI
 discovered_by = GOL

@@ -18,7 +18,7 @@ trade_goods = glass
 extra_cost = 8
 
 culture = burgundian
-religion = germanic_pagan
+religion = new_gothic
 capital = "Metz"
 
 is_city = yes

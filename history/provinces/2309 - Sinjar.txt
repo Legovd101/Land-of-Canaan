@@ -1,6 +1,6 @@
 #2309 - Sinjar
-owner = LRI
-controller = LRI
+owner = BHT
+controller = BHT
 culture = al_iraqiya_arabic
 religion = zoroastrian
 capital = "Sindjar"
@@ -17,4 +17,5 @@ discovered_by = ottoman
 discovered_by = eastern
 discovered_by = nomad_group
 add_local_autonomy = 20
-add_core = LRI
+add_core = BHT
+hre = yes

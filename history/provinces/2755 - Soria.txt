@@ -16,7 +16,7 @@ base_manpower = 1
 trade_goods = wool
 
 culture = castillian
-religion = germanic_pagan
+religion = new_gothic
 capital = "Soria"
 
 is_city = yes

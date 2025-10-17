@@ -17,7 +17,7 @@ base_manpower = 2
 trade_goods = salt
 
 culture = romagnan
-religion = hellenic_pagan_reformed
+religion = jupiterian
 capital = "Ravenna"
 
 is_city = yes

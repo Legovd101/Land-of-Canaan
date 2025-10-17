@@ -1,6 +1,6 @@
 #379 - Judea
-owner = SYR
-controller = SYR
+owner = CNN
+controller = CNN
 culture = al_suryah_arabic
 religion = zoroastrian
 capital = "Al Quds"
@@ -18,4 +18,5 @@ discovered_by = indian
 discovered_by = east_african
 add_province_triggered_modifier = jerusalem_held
 add_province_triggered_modifier = promised_land_modifier
-add_core = SYR
+add_core = CNN
+hre = yes

@@ -2,7 +2,7 @@
 owner = GER
 controller = GER
 culture = franconian
-religion = catholic
+religion = old_gothic
 trade_goods = salt
 capital = "Ansbach"
 is_city = yes

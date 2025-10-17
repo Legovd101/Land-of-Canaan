@@ -18,7 +18,7 @@ trade_goods = paper
 extra_cost = 8
 
 culture = umbrian
-religion = hellenic_pagan_reformed
+religion = jupiterian
 capital = "Roma"
 
 is_city = yes

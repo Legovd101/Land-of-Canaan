@@ -1,0 +1,7 @@
+government = monarchy
+add_government_reform = tanistry_reform
+government_rank = 1
+technology_group = ottoman
+primary_culture = irish
+religion = zoroastrian
+capital = 1854 # Jaffa

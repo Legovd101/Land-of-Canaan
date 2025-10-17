@@ -2,7 +2,7 @@
 owner = NOG
 controller = NOG
 culture = khazak
-religion = sunni
+religion = mahayana
 capital = "Tortkara"
 trade_goods = naval_supplies
 base_tax = 1

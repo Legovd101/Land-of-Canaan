@@ -16,7 +16,7 @@ base_manpower = 2
 trade_goods = livestock
 
 culture = neapolitan
-religion = hellenic_pagan_reformed
+religion = jupiterian
 capital = "Foggia"
 
 is_city = yes

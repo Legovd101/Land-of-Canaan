@@ -1,6 +1,6 @@
 #380 - Al Karak
-owner = SYR
-controller = SYR
+owner = CNN
+controller = CNN
 culture = bedouin_arabic
 religion = zoroastrian
 capital = "Al Karak"
@@ -16,5 +16,6 @@ discovered_by = western
 discovered_by = nomad_group
 discovered_by = indian
 discovered_by = east_african
-add_core = SYR
+add_core = CNN
 fort_15th = yes
+hre = yes

@@ -16,7 +16,7 @@ base_manpower = 5
 trade_goods = cloth
 
 culture = occitain
-religion = germanic_pagan
+religion = new_gothic
 capital = "Montpellier"
 
 is_city = yes

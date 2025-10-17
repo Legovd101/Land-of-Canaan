@@ -18,7 +18,7 @@ trade_goods = wine
 extra_cost = 10
 
 culture = occitain
-religion = germanic_pagan
+religion = new_gothic
 capital = "Aix-en-Provence"
 
 is_city = yes

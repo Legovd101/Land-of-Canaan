@@ -1,0 +1,8 @@
+government = monarchy
+add_government_reform = principality
+government_rank = 1
+primary_culture = byelorussian
+religion = mahayana
+technology_group = eastern
+capital = 275# Polotsk
+fixed_capital = 275

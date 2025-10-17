@@ -1,6 +1,6 @@
 # - Cezair i-Arab -> al-Qurna, Zihiya, Rahmaniya
-owner = LRI
-controller = LRI
+owner = HVY
+controller = HVY
 culture = al_iraqiya_arabic
 religion = zoroastrian
 capital = "al-Qurna"
@@ -16,4 +16,5 @@ discovered_by = ottoman
 discovered_by = indian
 discovered_by = nomad_group
 discovered_by = BYZ
-add_core = LRI
+add_core = HVY
+hre = yes

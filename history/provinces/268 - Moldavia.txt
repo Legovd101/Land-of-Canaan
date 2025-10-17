@@ -1,6 +1,6 @@
 #268 - Moldavia
-owner = MOL
-controller = MOL
+owner = DAC
+controller = DAC
 culture = romanian
 religion = vajrayana
 base_tax = 5
@@ -9,7 +9,7 @@ capital = "Suceava"
 is_city = yes
 trade_goods = livestock
 base_manpower = 2
-add_core = MOL
+add_core = DAC
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim

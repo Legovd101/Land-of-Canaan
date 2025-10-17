@@ -2,7 +2,7 @@
 owner = GER
 controller = GER
 culture = hannoverian
-religion = catholic
+religion = old_gothic
 trade_goods = cloth
 capital = "Münster"
 base_tax = 4

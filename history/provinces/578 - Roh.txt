@@ -1,7 +1,6 @@
 #578 - Roh
-owner = AFG
-controller = AFG
-add_core = AFG
+owner = NDA
+controller = NDA
 culture = afghani
 religion = zoroastrian
 capital = "Peshawar"
@@ -18,4 +17,6 @@ discovered_by = ottoman
 discovered_by = nomad_group
 extra_cost = 8
 center_of_trade = 1
+add_core = NDA
 fort_15th = yes
+hre = yes

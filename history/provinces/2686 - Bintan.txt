@@ -2,7 +2,7 @@
 owner = MLC
 controller = MLC
 culture = malayan
-religion = sunni
+religion = vajrayana
 capital = "Tanjungpinaung"
 trade_goods = naval_supplies
 base_tax = 3

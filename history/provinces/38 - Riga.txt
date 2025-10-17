@@ -2,7 +2,7 @@
 owner = EST
 controller = EST
 culture = baltic_german
-religion = catholic
+religion = baltic_pagan_reformed
 base_tax = 5
 base_production = 5
 trade_goods = naval_supplies

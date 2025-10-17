@@ -2,7 +2,7 @@
 owner = NOV
 controller = NOV
 culture = novgorodian
-religion = orthodox
+religion = mahayana
 base_tax = 7
 base_production = 7
 trade_goods = fur

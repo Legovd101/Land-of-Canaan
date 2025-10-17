@@ -18,7 +18,7 @@ trade_goods = fish
 extra_cost = 26
 
 culture = portugese
-religion = germanic_pagan
+religion = new_gothic
 capital = "Lisboa"
 
 is_city = yes

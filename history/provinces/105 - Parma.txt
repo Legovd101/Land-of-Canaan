@@ -16,7 +16,7 @@ base_manpower = 4
 trade_goods = livestock
 
 culture = romagnan
-religion = hellenic_pagan_reformed
+religion = jupiterian
 capital = "Parma"
 
 is_city = yes

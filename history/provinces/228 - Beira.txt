@@ -16,7 +16,7 @@ base_manpower = 3
 trade_goods = wine
 
 culture = portugese
-religion = germanic_pagan
+religion = new_gothic
 capital = "Viseu"
 
 is_city = yes

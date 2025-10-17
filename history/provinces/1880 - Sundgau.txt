@@ -17,7 +17,7 @@ base_manpower = 3
 trade_goods = iron
 
 culture = swabian
-religion = germanic_pagan
+religion = new_gothic
 capital = "Altkirch"
 
 is_city = yes

@@ -16,7 +16,7 @@ base_manpower = 3
 trade_goods = livestock
 
 culture = dutch
-religion = germanic_pagan
+religion = new_gothic
 capital = "Arnhem"
 
 is_city = yes

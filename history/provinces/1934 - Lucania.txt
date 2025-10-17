@@ -16,7 +16,7 @@ base_manpower = 1
 trade_goods = livestock
 
 culture = neapolitan
-religion = hellenic_pagan_reformed
+religion = jupiterian
 capital = "Potenza"
 
 is_city = yes

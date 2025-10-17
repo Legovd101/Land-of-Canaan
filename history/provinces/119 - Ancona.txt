@@ -16,7 +16,7 @@ base_manpower = 4
 trade_goods = paper
 
 culture = umbrian
-religion = hellenic_pagan_reformed
+religion = jupiterian
 capital = "Ancona"
 
 is_city = yes

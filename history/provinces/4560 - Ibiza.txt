@@ -16,7 +16,7 @@ base_manpower = 1
 trade_goods = fish
 
 culture = catalan
-religion = germanic_pagan
+religion = new_gothic
 capital = "Ibiza"
 
 is_city = yes

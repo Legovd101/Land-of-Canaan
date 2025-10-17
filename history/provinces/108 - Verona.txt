@@ -19,7 +19,7 @@ trade_goods = grain
 extra_cost = 8
 
 culture = venetian
-religion = germanic_pagan
+religion = new_gothic
 capital = "Verona"
 
 is_city = yes

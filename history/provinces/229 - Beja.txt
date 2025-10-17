@@ -16,7 +16,7 @@ base_manpower = 3
 trade_goods = livestock
 
 culture = portugese
-religion = germanic_pagan
+religion = new_gothic
 capital = "Beja"
 
 is_city = yes

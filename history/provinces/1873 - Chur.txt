@@ -2,7 +2,7 @@
 owner = BUR
 controller = BUR
 culture = swiss
-religion = catholic
+religion = old_gothic
 capital = "Chur"
 trade_goods = livestock
 base_tax = 3

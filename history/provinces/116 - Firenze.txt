@@ -18,7 +18,7 @@ trade_goods = wine
 extra_cost = 16
 
 culture = tuscan
-religion = hellenic_pagan_reformed
+religion = jupiterian
 capital = "Firenze"
 
 is_city = yes

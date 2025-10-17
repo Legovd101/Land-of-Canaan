@@ -1,0 +1,7 @@
+government = monarchy
+add_government_reform = feudalism_reform
+religion = new_gothic
+primary_culture = catalan
+technology_group = western
+capital = 213# Barcelona
+government_rank = 1

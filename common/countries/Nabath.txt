@@ -1,0 +1,109 @@
+#Country Name: Please see filename.
+graphical_culture = easterngfx
+color = { 146 203 197 }
+historical_idea_groups = { 
+	religious_ideas
+	offensive_ideas
+	trade_ideas
+	defensive_ideas
+	maritime_ideas
+	economic_ideas
+	diplomatic_ideas
+	administrative_ideas
+}
+historical_units = { 
+	bardiche_infantry
+	eastern_knights
+	slavic_stradioti
+	eastern_militia
+	muscovite_musketeer
+	muscovite_caracolle
+	muscovite_soldaty
+	muscovite_cossack
+	russian_petrine
+	russian_lancer
+	russian_green_coat
+	russian_cuirassier
+	eastern_skirmisher
+	eastern_uhlan
+	eastern_carabinier
+	russian_mass
+}
+historical_units = { 
+	bardiche_infantry
+	eastern_knights
+	slavic_stradioti
+	eastern_militia
+	muscovite_musketeer
+	muscovite_caracolle
+	muscovite_soldaty
+	muscovite_cossack
+	russian_petrine
+	russian_lancer
+	russian_green_coat
+	russian_cuirassier
+	eastern_skirmisher
+	eastern_uhlan
+	eastern_carabinier
+	russian_mass
+}
+monarch_names = { 
+	"Ashur-uballit #0" = 10
+	"Adad-nirari #0" = 10
+	"Shalmaneser #0" = 10
+	"Tukulti-Ninurta #0" = 10
+	"Ashur-nasir-pal #0" = 10
+	"Ashur-dan #0" = 10
+	"Ashur-rabi #0" = 10
+	"Ashur-nadin-ahhe #0" = 10
+	"Tiglath-Pileser #0" = 10
+	"Ashur-bel-kala #0" = 10
+	"Ninurta-apal-Ekur #0" = 10
+	"Shamshi-Adad #0" = 10
+	"Ashur-nirari #0" = 10
+	"Ashur-resh-ishi #0" = 10
+	"Enlil-nasir #0" = 10
+	"Ashur-etil-ilani #0" = 10
+	"Ashur-bani-apli #0" = 10
+	"Sennacherib #0" = 10
+	"Esarhaddon #0" = 10
+	"Ashurbanipal #0" = 10
+	"Sin-shar-ishkun #0" = 10
+	"Ashur-uballit II #0" = 10
+	"Shamshi-Adad II #0" = 0
+	"Shamshi-Adad III #0" = 0
+	"Adad-nirari II #0" = 0
+	"Adad-nirari III #0" = 0
+	"Tiglath-Pileser II #0" = 0
+	"Tiglath-Pileser III #0" = 0
+	"Shalmaneser II #0" = 0
+	"Shalmaneser III #0" = 0
+	"Shalmaneser IV #0" = 0
+	"Shalmaneser V #0" = 0
+	"Sargon #0" = 0
+	"Sargon II #0" = 0
+	"Ashur-dan II #0" = 0
+	"Ashur-dan III #0" = 0
+	"Ashur-dan IV #0" = 0
+	"Ishtar #0" = -10
+	"Shaushka #0" = -10
+	"Ninlil #0" = -5
+	"Ninkarrak #0" = -5
+	"Nisaba #0" = -3
+	"Belet-ili #0" = -3
+	"Aya #0" = -2
+	"Gula #0" = -2
+	"Damkina #0" = -1
+	"Nanshe #0" = -1
+}
+leader_names = { 
+	Ashur-uballit Adad-nirari Shalmaneser Tukulti-Ninurta Ashur-nasir-pal Ashur-dan Ashur-rabi Tiglath-Pileser Shamshi-Adad Ashur-etil-ilani
+	Ashur-bani-apli Sennacherib Esarhaddon Ashurbanipal Sin-shar-ishkun Sargon Shalmaneser Ashur-dan Adad-nirari Ashur-bel-kala
+	Enlil-nasir 
+}
+ship_names = { 
+	Ashur Enlil Adad Shamash Sin Ninurta Nabu Ishtar Shaushka Shalmaneser
+	Tiglath-Pileser Sargon Esarhaddon Ashurbanipal Sennacherib Ashur-nasir-pal Tukulti-Ninurta Ashur-uballit Adad-nirari Shamshi-Adad
+	Ashur-bani-apli Sin-shar-ishkun Ashur-etil-ilani Ashur-dan Ninkarrak Belet-ili Gula Aya Ninlil Nisaba
+	Damkina Nanshe 
+}

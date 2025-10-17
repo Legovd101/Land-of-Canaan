@@ -17,7 +17,7 @@ base_manpower = 4
 trade_goods = livestock
 
 culture = cosmopolitan_french
-religion = germanic_pagan
+religion = new_gothic
 capital = "Soissons"
 
 is_city = yes

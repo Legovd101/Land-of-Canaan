@@ -2,7 +2,7 @@
 owner = PLT
 controller = PLT
 culture = byelorussian
-religion = orthodox
+religion = mahayana
 base_tax = 1
 base_production = 1
 trade_goods = wool

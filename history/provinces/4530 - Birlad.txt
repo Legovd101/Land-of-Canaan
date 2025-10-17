@@ -1,6 +1,6 @@
 #4530 - Birlad
-owner = MOL
-controller = MOL
+owner = DAC
+controller = DAC
 culture = romanian
 religion = vajrayana
 capital = "Birlad"
@@ -9,7 +9,7 @@ base_tax = 2
 base_production = 1
 base_manpower = 1
 is_city = yes
-add_core = MOL
+add_core = DAC
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim

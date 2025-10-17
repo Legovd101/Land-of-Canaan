@@ -16,7 +16,7 @@ base_manpower = 5
 trade_goods = grain
 
 culture = lombard
-religion = germanic_pagan
+religion = new_gothic
 capital = "Pavia"
 
 is_city = yes

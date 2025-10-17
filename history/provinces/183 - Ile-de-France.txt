@@ -17,7 +17,7 @@ center_of_trade = 2
 trade_goods = paper
 
 culture = cosmopolitan_french
-religion = germanic_pagan
+religion = new_gothic
 capital = "Paris"
 
 is_city = yes

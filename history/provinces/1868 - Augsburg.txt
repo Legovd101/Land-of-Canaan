@@ -2,7 +2,7 @@
 owner = SAX
 controller = SAX
 culture = swabian
-religion = catholic
+religion = old_gothic
 base_tax = 7
 base_production = 6
 trade_goods = cloth#fustians

@@ -1,0 +1,4 @@
+capital = 3039
+technology_group = ottoman
+government_rank = 1
+religion = zoroastrian

@@ -16,7 +16,7 @@ base_manpower = 3
 trade_goods = fish
 
 culture = catalan
-religion = germanic_pagan
+religion = new_gothic
 capital = "Girona"
 
 is_city = yes

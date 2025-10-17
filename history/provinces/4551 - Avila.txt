@@ -16,7 +16,7 @@ base_manpower = 1
 trade_goods = livestock
 
 culture = castillian
-religion = germanic_pagan
+religion = new_gothic
 capital = "Avila"
 
 is_city = yes

@@ -16,7 +16,7 @@ base_manpower = 3
 trade_goods = grain
 
 culture = andalucian
-religion = germanic_pagan
+religion = new_gothic
 capital = "Cartagena"
 
 is_city = yes

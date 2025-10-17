@@ -17,7 +17,7 @@ base_manpower = 3
 trade_goods = salt
 
 culture = catalan
-religion = germanic_pagan
+religion = new_gothic
 capital = "Alàcant"
 
 is_city = yes

@@ -16,7 +16,7 @@ base_manpower = 1
 trade_goods = wine
 
 culture = umbrian
-religion = hellenic_pagan_reformed
+religion = jupiterian
 capital = "Perugia"
 
 is_city = yes

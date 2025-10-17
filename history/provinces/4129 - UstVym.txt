@@ -2,7 +2,7 @@
 owner = PRM
 controller = PRM
 culture = uralic
-religion = orthodox
+religion = vajrayana
 base_tax = 1
 base_production = 1
 trade_goods = fur

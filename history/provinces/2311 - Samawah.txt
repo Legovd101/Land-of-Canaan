@@ -1,6 +1,6 @@
 #2311 - Samawah
-owner = LRI
-controller = LRI
+owner = KRB
+controller = KRB
 culture = al_iraqiya_arabic
 religion = zoroastrian
 capital = "Najaf"
@@ -19,4 +19,5 @@ discovered_by = east_african
 discovered_by = BYZ
 add_local_autonomy = 20
 add_province_triggered_modifier = religious_center
-add_core = LRI
+add_core = KRB
+hre = yes

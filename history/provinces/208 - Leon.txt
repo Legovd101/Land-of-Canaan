@@ -18,7 +18,7 @@ trade_goods = livestock
 extra_cost = 8
 
 culture = leonese
-religion = germanic_pagan
+religion = new_gothic
 capital = "León"
 
 is_city = yes

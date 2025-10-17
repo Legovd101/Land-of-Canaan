@@ -2,7 +2,7 @@
 owner = JMB
 controller = JMB
 culture = sumatran
-religion = sunni
+religion = vajrayana
 capital = "Lingga"
 trade_goods = fish
 base_tax = 1

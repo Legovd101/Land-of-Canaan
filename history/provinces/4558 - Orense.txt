@@ -16,7 +16,7 @@ base_manpower = 1
 trade_goods = naval_supplies
 
 culture = galician
-religion = germanic_pagan
+religion = new_gothic
 capital = "Orense"
 
 is_city = yes

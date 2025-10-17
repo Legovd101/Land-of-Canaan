@@ -18,7 +18,7 @@ trade_goods = naval_supplies
 extra_cost = 8
 
 culture = andalucian
-religion = germanic_pagan
+religion = new_gothic
 capital = "Cadiz"
 
 is_city = yes

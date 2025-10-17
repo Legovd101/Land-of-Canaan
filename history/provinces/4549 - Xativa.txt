@@ -17,7 +17,7 @@ base_manpower = 2
 trade_goods = paper
 
 culture = catalan
-religion = germanic_pagan
+religion = new_gothic
 capital = "Xativa"
 
 is_city = yes

@@ -2,7 +2,7 @@
 owner = GER
 controller = GER
 culture = saxon
-religion = catholic
+religion = old_gothic
 capital = "Erfurt"
 trade_goods = dyes#Woad, also a center for glassmaking
 base_tax = 5

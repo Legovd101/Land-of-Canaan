@@ -2,7 +2,7 @@
 owner = BUR
 controller = BUR
 culture = piedmontese
-religion = catholic
+religion = old_gothic
 base_tax = 7
 base_production = 7
 trade_goods = wine

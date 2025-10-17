@@ -16,7 +16,7 @@ base_manpower = 1
 trade_goods = livestock
 
 culture = leonese
-religion = germanic_pagan
+religion = new_gothic
 capital = "Plasencia"
 
 is_city = yes

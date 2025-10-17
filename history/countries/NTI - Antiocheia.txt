@@ -1,0 +1,7 @@
+religion = zoroastrian
+technology_group = ottoman
+government_rank = 1
+capital = 2313
+government = monarchy
+add_government_reform = feudalism_reform
+elector = yes

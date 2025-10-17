@@ -16,7 +16,7 @@ base_manpower = 3
 trade_goods = wool
 
 culture = castillian
-religion = germanic_pagan
+religion = new_gothic
 capital = "Cuenca"
 
 is_city = yes

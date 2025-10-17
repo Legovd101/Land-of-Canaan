@@ -17,7 +17,7 @@ base_manpower = 3
 trade_goods = livestock
 
 culture = leonese
-religion = germanic_pagan
+religion = new_gothic
 capital = "Oviedo"
 
 is_city = yes

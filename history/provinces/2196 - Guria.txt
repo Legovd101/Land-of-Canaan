@@ -2,7 +2,7 @@
 owner = ARM
 controller = ARM
 culture = georgian
-religion = orthodox
+religion = buddhism
 capital = "Batumi"
 trade_goods = fish
 base_tax = 3

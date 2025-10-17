@@ -1,6 +1,6 @@
 #2310 - Tikrit
-owner = LRI
-controller = LRI
+owner = MKR
+controller = MKR
 culture = al_iraqiya_arabic
 religion = zoroastrian
 capital = "Tikrit"
@@ -17,4 +17,5 @@ discovered_by = eastern
 discovered_by = indian
 discovered_by = nomad_group
 add_local_autonomy = 20
-add_core = LRI
+add_core = MKR
+hre = yes

@@ -17,7 +17,7 @@ base_manpower = 5
 trade_goods = wine
 
 culture = occitain
-religion = germanic_pagan
+religion = new_gothic
 capital = "Toulouse"
 
 is_city = yes

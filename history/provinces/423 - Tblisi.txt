@@ -2,7 +2,7 @@
 owner = ARM
 controller = ARM
 culture = georgian
-religion = orthodox
+religion = buddhism
 capital = "T'bilisi"
 trade_goods = dyes
 base_tax = 4

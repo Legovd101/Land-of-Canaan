@@ -2,7 +2,7 @@
 owner = MLC
 controller = MLC
 culture = malayan
-religion = sunni
+religion = mahayana
 capital = "Malacca"
 trade_goods = spices
 base_tax = 7

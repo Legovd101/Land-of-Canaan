@@ -1,6 +1,6 @@
 #161 - Tîrgoviste
-owner = WAL
-controller = WAL
+owner = DAC
+controller = DAC
 culture = romanian
 religion = vajrayana
 capital = "Tîrgoviste"
@@ -9,7 +9,7 @@ base_tax = 5
 base_production = 5
 base_manpower = 3
 is_city = yes
-add_core = WAL
+add_core = DAC
 discovered_by = KAZ
 discovered_by = CRI
 discovered_by = GOL

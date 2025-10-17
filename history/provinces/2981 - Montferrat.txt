@@ -16,7 +16,7 @@ base_manpower = 2
 trade_goods = wine
 
 culture = piedmontese
-religion = germanic_pagan
+religion = new_gothic
 capital = "Montferrat"
 
 is_city = yes

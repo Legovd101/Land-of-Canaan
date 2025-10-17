@@ -16,7 +16,7 @@ base_manpower = 2
 trade_goods = wool
 
 culture = andalucian
-religion = germanic_pagan
+religion = new_gothic
 capital = "Jaén"
 
 is_city = yes

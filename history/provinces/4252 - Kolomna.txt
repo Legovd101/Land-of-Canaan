@@ -2,7 +2,7 @@
 owner = MOS
 controller = MOS
 culture = russian
-religion = orthodox
+religion = vajrayana
 base_tax = 2
 base_production = 2
 trade_goods = livestock

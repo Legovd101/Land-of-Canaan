@@ -1,0 +1,120 @@
+#Country Name: Please see filename.
+graphical_culture = easterngfx
+color = { 58 54 191 }
+revolutionary_colors = { 14 0 14 }
+historical_idea_groups = { 
+	religious_ideas
+	defensive_ideas
+	spy_ideas
+	trade_ideas
+	offensive_ideas
+	economic_ideas
+	diplomatic_ideas
+	innovativeness_ideas
+}
+historical_units = { 
+	eastern_medieval_infantry
+	eastern_knights
+	slavic_stradioti
+	eastern_militia
+	ottoman_spahi
+	ottoman_sekban
+	ottoman_reformed_spahi
+	ottoman_reformed_janissary
+	ottoman_toprakli_hit_and_run
+	ottoman_nizami_cedid
+	ottoman_toprakli_dragoon
+	eastern_skirmisher
+	eastern_uhlan
+	eastern_carabinier
+	ottoman_new_model
+	ottoman_lancer
+}
+monarch_names = { 
+	"Þiudarex #0" = 40
+	"Armanar?x #0" = 20
+	"Wulfilos #0" = 20
+	"Alarex #0" = 15
+	"Þaureiks #0" = 10
+	"Gaisar?x #0" = 10
+	"Ragnila #0" = -10
+	"Sunhild? #0" = -5
+	"G?þila #0" = -5
+	"Þe?drika #0" = -1
+	"Amalafrid? #0" = -1
+	"Þaurila #0" = -1
+	"Wulfild? #0" = -1
+	"Fridigund? #0" = -1
+	"Arb?tha #0" = -1
+	"Liub?tha #0" = -1
+	"Hermanar?x #0" = 0
+	"Teodamir #0" = 0
+	"Þiudim?r #0" = 0
+	"Valamir #0" = 0
+	"Vidim?r #0" = 0
+	"Þiudila #0" = 0
+	"Gautar?x #0" = 0
+	"Widug?th #0" = 0
+	"Ardar?x #0" = 0
+	"Harjar?x #0" = 0
+	"Widim?r #0" = 0
+	"Þrudir?x #0" = 0
+	"Gaisaric #0" = 0
+	"Þe?dareiks #0" = 0
+	"Wandal?x #0" = 0
+	"Gundar?x #0" = 0
+	"Liubar?x #0" = 0
+	"R?dar?x #0" = 0
+	"Walthar?x #0" = 0
+	"Ermanfr?d #0" = 0
+	"Hildar?x #0" = 0
+	"Amalar?x #0" = 0
+	"Þiudomar #0" = 0
+	"Frethar?x #0" = 0
+	"Harjil?x #0" = 0
+	"Wulfar?x #0" = 0
+	"Fr?dar?x #0" = 0
+	"Widarik #0" = 0
+	"Þe?darik #0" = 0
+	"Þiudulf #0" = 0
+	"Widar?x #0" = 0
+	"Þiudfrith #0" = 0
+	"Gundulf #0" = 0
+	"Þiudhram #0" = 0
+	"Þe?dagild #0" = 0
+	"Wulfam?r #0" = 0
+	"Hermar?x #0" = 0
+	"Þiudegais #0" = 0
+	"Ragnarik #0" = 0
+	"Wulfsar?x #0" = 0
+	"Þaurim?r #0" = 0
+	"Þiudhrand #0" = 0
+	"Harjarand #0" = 0
+	"Gaisamir #0" = 0
+	"Þe?daskul #0" = 0
+	"Armanulf #0" = 0
+}
+leader_names = { 
+	Þiudarex Armanar?x Wulfilos Þaureiks Gaisar?x Hermanar?x Alarex Valamir Vidim?r Þiudim?r
+	Teodamir Þiudila Gautar?x Widug?th Ardar?x Harjar?x Þrudir?x Þe?dareiks Gundar?x Walthar?x
+	Wandal?x Liubar?x R?dar?x Hildar?x Amalar?x Þiudomar Frethar?x Harjil?x Wulfar?x Fr?dar?x
+	Widarik Þe?darik Þiudulf Widar?x Þiudfrith Gundulf Þiudhram Þe?dagild Wulfam?r Hermar?x
+	Þiudegais Ragnarik Wulfsar?x Þaurim?r Þiudhrand Harjarand Gaisamir Þe?daskul Armanulf Þe?dawald
+	Gaisawulf Ardarik Amalawulf Liubamir Wulfrand Waltharand Þiudorand Þe?dan?x Gundarik Þiudimar
+	Wulfiland Amalarand Þiudogais Fr?dulf Þiudegund Gaisam?r Widufrid Þiudagund Hildamir Þe?dulf
+	Þiudawald Amalfrid Þiudogund R?thar?x Þe?darand Amalir?x 
+}
+ship_names = { 
+	Þiudarex Armanar?x Wulfilos Alarex Þaureiks Gaisar?x Hermanar?x Valamir Vidim?r Þiudim?r
+	Teodamir Þiudila Gautar?x Widug?th Ardar?x Harjar?x Þrudir?x Þe?dareiks Gundar?x Walthar?x
+	Wandal?x Liubar?x R?dar?x Hildar?x Amalar?x Þiudomar Frethar?x Harjil?x Wulfar?x Fr?dar?x
+	Widarik Þe?darik Þiudulf Widar?x Þiudfrith Gundulf Þiudhram Þe?dagild Wulfam?r Hermar?x
+	Þiudegais Ragnarik Wulfsar?x Þaurim?r Þiudhrand Harjarand Gaisamir Þe?daskul Armanulf Þe?dawald
+	Gaisawulf Ardarik Amalawulf Liubamir Wulfrand Waltharand Þiudorand Þe?dan?x Gundarik Þiudimar
+	Wulfiland Amalarand Þiudogais Fr?dulf Þiudegund Gaisam?r Widufrid Þiudagund Hildamir Þe?dulf
+	Þiudawald Amalfrid Þiudogund R?thar?x Þe?darand Amalir?x Þe?dar?x Þe?daskul Þe?daskul? Þe?dawulf
+	Þiudam?r Þiudagund? Þe?d?rik? Amalfrid? Wulfild? Þe?dagais Amalir?x Amalfr?d? Gaisar?x Gaisarand
+	R?tharik Þiudar?x Þaurir?x Amalawulf? Þe?dawulfa Þiudamir? Þiudhrand? Þe?dawald? Harjarand? Þe?dan?x?
+	Amalfrith? Amalir?x? Þe?daskul? Þe?dagund? Amalawulf? Þe?dareiks? Wulfiland? Þiudareks? Amalr?x? Þaurim?r?
+	Amalar?x? Þe?darik? Walthar?x? Þiudimar? Þiudawald? Amalfrid? Wulfsar?x? Amalfr?d? 
+}

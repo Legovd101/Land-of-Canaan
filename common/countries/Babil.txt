@@ -1,0 +1,87 @@
+#Country Name: Please see filename.
+graphical_culture = muslimgfx
+color = { 102 96 176 }
+historical_idea_groups = { 
+	defensive_ideas
+	religious_ideas
+	offensive_ideas
+	trade_ideas
+	spy_ideas
+	economic_ideas
+	diplomatic_ideas
+	administrative_ideas
+}
+historical_units = { 
+	persian_footsoldier
+	persian_cavalry_charge
+	persian_shamshir
+	qizilbash_cavalry_unit
+	tofongchis_musketeer
+	topchis_artillery
+	afsharid_reformed
+	afsharid_reformed_infantry
+	muslim_mass_infantry
+	muslim_dragoon
+	persian_rifle
+}
+monarch_names = { 
+	"Hammurabi #0" = 10
+	"Samsu-iluna #0" = 10
+	"Abi-Eshuh #0" = 10
+	"Ammiditana #0" = 10
+	"Ammisaduqa #0" = 10
+	"Samsu-Ditana #0" = 10
+	"Agum-Kakrime #0" = 10
+	"Karaindash #0" = 10
+	"Kurigalzu #0" = 10
+	"Kadashman-Enlil #0" = 10
+	"Kadashman-Turgu #0" = 10
+	"Adad-shuma-iddina #0" = 10
+	"Adad-shuma-usur #0" = 10
+	"Meli-Shipak #0" = 10
+	"Nebuchadnezzar #0" = 10
+	"Ninurta-nadin-shumi #0" = 10
+	"Nabopolassar #0" = 10
+	"Nebuchadnezzar II #0" = 10
+	"Amel-Marduk #0" = 10
+	"Neriglissar #0" = 10
+	"Labashi-Marduk #0" = 10
+	"Nabonidus #0" = 10
+	"Belshazzar #0" = 10
+	"Sin-muballit #0" = 0
+	"Sumu-abum #0" = 0
+	"Sumu-la-El #0" = 0
+	"Sabium #0" = 0
+	"Apil-Sin #0" = 0
+	"Sin-idinnam #0" = 0
+	"Sin-kashid #0" = 0
+	"Warad-Sin #0" = 0
+	"Rim-Sin #0" = 0
+	"Sin-eribam #0" = 0
+	"Sin-iqisham #0" = 0
+	"Ishme-Dagan #0" = 0
+	"Lipit-Enlil #0" = 0
+	"Enlil-nasir #0" = 0
+	"Damiq-ilishu #0" = 0
+	"Ishtar #0" = -10
+	"Inanna #0" = -10
+	"Ninisinna #0" = -5
+	"Nanaya #0" = -5
+	"Tashmetu #0" = -3
+	"Gula #0" = -3
+	"Aya #0" = -2
+	"Belet-ili #0" = -2
+	"Sarpanit #0" = -1
+	"Zarpanitum #0" = -1
+}
+leader_names = { 
+	Hammurabi Samsu-iluna Abi-Eshuh Ammiditana Ammisaduqa Samsu-Ditana Agum-Kakrime Karaindash Kurigalzu Kadashman-Enlil
+	Kadashman-Turgu Adad-shuma-iddina Adad-shuma-usur Meli-Shipak Nebuchadnezzar Nabopolassar Amel-Marduk Neriglissar Labashi-Marduk Nabonidus
+	Belshazzar Sin-muballit Sumu-abum Sumu-la-El Sabium Apil-Sin Rim-Sin Damiq-ilishu 
+}
+ship_names = { 
+	Marduk Bel Enlil Nabu Adad Shamash Sin Nergal Ninurta Hammurabi
+	Samsu-iluna Abi-Eshuh Ammiditana Ammisaduqa Samsu-Ditana Agum-Kakrime Karaindash Kurigalzu Kadashman-Enlil Kadashman-Turgu
+	Adad-shuma-iddina Adad-shuma-usur Meli-Shipak Nebuchadnezzar Nabopolassar Amel-Marduk Neriglissar Labashi-Marduk Nabonidus Belshazzar
+	Ishtar Inanna Ninisinna Nanaya Tashmetu Gula Aya Belet-ili Sarpanit 
+}

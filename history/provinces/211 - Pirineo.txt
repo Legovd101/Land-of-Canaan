@@ -16,7 +16,7 @@ base_manpower = 2
 trade_goods = wool
 
 culture = aragonese
-religion = germanic_pagan
+religion = new_gothic
 capital = "Huesca"
 
 is_city = yes

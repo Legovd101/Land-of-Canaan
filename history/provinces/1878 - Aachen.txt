@@ -16,7 +16,7 @@ base_manpower = 2
 trade_goods = grain
 
 culture = hessian
-religion = germanic_pagan
+religion = new_gothic
 capital = "Aachen"
 
 is_city = yes

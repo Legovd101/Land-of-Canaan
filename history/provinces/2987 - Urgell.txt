@@ -16,7 +16,7 @@ base_manpower = 2
 trade_goods = wool
 
 culture = catalan
-religion = germanic_pagan
+religion = new_gothic
 capital = "Tàrrega"
 
 is_city = yes

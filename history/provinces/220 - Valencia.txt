@@ -19,7 +19,7 @@ trade_goods = cloth
 extra_cost = 16
 
 culture = catalan
-religion = germanic_pagan
+religion = new_gothic
 capital = "València"
 
 is_city = yes

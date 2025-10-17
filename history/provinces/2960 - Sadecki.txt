@@ -2,7 +2,7 @@
 owner = POL
 controller = POL
 culture = polish
-religion = catholic
+religion = buddhism
 capital = "Nowy Sacz"
 base_tax = 6
 base_production = 6

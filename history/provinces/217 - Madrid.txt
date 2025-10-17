@@ -16,7 +16,7 @@ base_manpower = 5
 trade_goods = cloth
 
 culture = castillian
-religion = germanic_pagan
+religion = new_gothic
 capital = "Madrid"
 
 is_city = yes

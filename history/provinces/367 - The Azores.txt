@@ -13,7 +13,7 @@ base_manpower = 1
 trade_goods = fish
 
 culture = berber
-religion = germanic_pagan
+religion = new_gothic
 capital = "The Azores"
 
 

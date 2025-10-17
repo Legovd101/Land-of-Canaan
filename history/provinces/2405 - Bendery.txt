@@ -1,6 +1,6 @@
 #2405 - Bender
-owner = MOL
-controller = MOL
+owner = DAC
+controller = DAC
 culture = romanian
 religion = vajrayana
 capital = "Bender"
@@ -9,7 +9,7 @@ base_tax = 3
 base_production = 2
 base_manpower = 2
 is_city = yes
-add_core = MOL
+add_core = DAC
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim

@@ -2,7 +2,7 @@
 owner = SAX
 controller = SAX
 culture = saxon
-religion = catholic
+religion = old_gothic
 capital = "Meissen"
 trade_goods = iron
 base_tax = 6

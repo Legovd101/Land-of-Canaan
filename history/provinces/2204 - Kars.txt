@@ -2,7 +2,7 @@
 owner = ARM
 controller = ARM
 culture = georgian
-religion = orthodox
+religion = buddhism
 capital = "Akhaltsikhe"
 trade_goods = wine
 base_tax = 3

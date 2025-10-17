@@ -2,7 +2,7 @@
 owner = ARM
 controller = ARM
 culture = azerbaijani
-religion = sunni
+religion = buddhism
 capital = "Baku"
 trade_goods = silk#And Salt and Petroleum
 base_tax = 3

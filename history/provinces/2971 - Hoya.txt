@@ -2,7 +2,7 @@
 owner = GER
 controller = GER
 culture = hannoverian
-religion = catholic
+religion = old_gothic
 capital = "Hoya"
 trade_goods = livestock
 base_tax = 2

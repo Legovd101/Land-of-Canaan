@@ -1,0 +1,7 @@
+government = republic
+government_rank = 1
+add_government_reform = free_city
+capital = 1968
+technology_group = ottoman
+government_rank = 1
+religion = zoroastrian

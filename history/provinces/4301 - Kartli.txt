@@ -2,7 +2,7 @@
 owner = ARM
 controller = ARM
 culture = georgian
-religion = orthodox
+religion = buddhism
 capital = "Gori"
 trade_goods = silk
 base_tax = 4

@@ -18,7 +18,7 @@ trade_goods = glass
 extra_cost = 16
 
 culture = flemish
-religion = germanic_pagan
+religion = new_gothic
 capital = "Antwerp"
 
 is_city = yes

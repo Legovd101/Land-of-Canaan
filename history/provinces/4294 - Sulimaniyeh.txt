@@ -1,6 +1,6 @@
 #4394 - Sulimaniyeh
-owner = BHT
-controller = BHT
+owner = KRD
+controller = KRD
 culture = kurdish
 religion = zoroastrian
 capital = "Sulimaniyeh"
@@ -9,7 +9,6 @@ base_tax = 2
 base_production = 2
 base_manpower = 2
 is_city = yes
-add_core = BHT
 add_core = ARD
 discovered_by = east_african
 discovered_by = muslim
@@ -17,3 +16,5 @@ discovered_by = ottoman
 discovered_by = eastern
 discovered_by = indian
 discovered_by = nomad_group
+add_core = KRD
+hre = yes

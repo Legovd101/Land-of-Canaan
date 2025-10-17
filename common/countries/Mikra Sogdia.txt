@@ -1,0 +1,72 @@
+#Country Name: Please see filename.
+graphical_culture = easterngfx
+color = { 202 103 52 }
+revolutionary_colors = { 14 0 14 }
+historical_idea_groups = { 
+	religious_ideas
+	defensive_ideas
+	spy_ideas
+	trade_ideas
+	offensive_ideas
+	economic_ideas
+	diplomatic_ideas
+	innovativeness_ideas
+}
+historical_units = { 
+	eastern_medieval_infantry
+	eastern_knights
+	slavic_stradioti
+	eastern_militia
+	ottoman_spahi
+	ottoman_sekban
+	ottoman_reformed_spahi
+	ottoman_reformed_janissary
+	ottoman_toprakli_hit_and_run
+	ottoman_nizami_cedid
+	ottoman_toprakli_dragoon
+	eastern_skirmisher
+	eastern_uhlan
+	eastern_carabinier
+	ottoman_new_model
+	ottoman_lancer
+}
+monarch_names = { 
+	"Wakhshuvar #0" = 40
+	"Tarkhun #0" = 20
+	"Divashtich #0" = 20
+	"Karkara #0" = 15
+	"Azka #0" = 10
+	"Nana #0" = 10
+	"Rutbi #0" = 10
+	"Tarkhan #0" = 10
+	"Buniyad #0" = 0
+	"Wakhsh #0" = 0
+	"Siyavush #0" = 0
+	"Piruz #0" = 0
+	"Wandak #0" = 0
+	"Siyavakhsh #0" = 0
+	"Mastich #0" = 0
+	"Piduk #0" = 0
+	"Tish #0" = 0
+	"Yakha #0" = 0
+	"Zarmihr #0" = 0
+	"Warkhuman #0" = 0
+	"Vandokhsh #0" = -10
+	"Chashm #0" = -5
+	"Arduxsho #0" = -5
+	"Rakhshan #0" = -1
+	"Nanaï #0" = -1
+	"Wirochana #0" = -1
+	"Shodokht #0" = -1
+	"Mardana #0" = -1
+}
+leader_names = { 
+	Wakhshuvar Tarkhun Divashtich Karkara Azka Nana Rutbi Tarkhan Buniyad Siyavush
+	Piruz Wandak Khusraw Wakhsh Mastich Piduk Tish Yakha Zarmihr Warkhuman
+	Siyavakhsh 
+}
+ship_names = { 
+	Azka Buniyad Divashtich Karkara Khusraw Mastich Nana Piduk Piruz Rutbi
+	Siyavakhsh Siyavush Tarkhan Tarkhun Tish Wakhsh Wakhshuvar Wandak Warkhuman Yakha
+	Zarmihr 
+}

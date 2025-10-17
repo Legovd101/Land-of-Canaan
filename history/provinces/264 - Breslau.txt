@@ -2,7 +2,7 @@
 owner = SAX
 controller = SAX
 culture = schlesian
-religion = catholic
+religion = old_gothic
 capital = "Breslau"
 trade_goods = cloth
 base_tax = 5

@@ -1,0 +1,93 @@
+#Country Name: Please see filename.
+graphical_culture = muslimgfx
+color = { 239 164 19 }
+historical_idea_groups = { 
+	defensive_ideas
+	religious_ideas
+	offensive_ideas
+	trade_ideas
+	spy_ideas
+	economic_ideas
+	diplomatic_ideas
+	administrative_ideas
+}
+historical_units = { 
+	persian_footsoldier
+	persian_cavalry_charge
+	persian_shamshir
+	qizilbash_cavalry_unit
+	tofongchis_musketeer
+	topchis_artillery
+	afsharid_reformed
+	afsharid_reformed_infantry
+	muslim_mass_infantry
+	muslim_dragoon
+	persian_rifle
+}
+monarch_names = {
+    "Pahkir-ishshan #0" = 10
+    "Hutran-tepti #0" = 10
+    "Shilhak-Inshushinak #0" = 10
+    "Humban-numena #0" = 10
+    "Teumman #0" = 10
+    "Urtak #0" = 10
+    "Hutelutush-Inshushinak #0" = 10
+    "Shutruk-Nahhunte #0" = 10
+    "Kutir-Nahhunte #0" = 10
+    "Indattu-Inshushinak #0" = 10
+    "Hallutash-Inshushinak #0" = 10
+    "Attar-kittah #0" = 10
+    "Humban-haltash #0" = 10
+    "Shutur-Nahhunte #0" = 10
+    "Kidin-Hutran #0" = 10
+    "Tempti-Humban-Inshushinak #0" = 10
+    "Kutik-Inshushinak #0" = 10
+    "Siwe-palar-huppak #0" = 10
+    "Kuk-Nashur #0" = 10
+    "Kuk-Sanit #0" = 10
+    "Kuk-Kirwash #0" = 10
+    "Humban-nikash #0" = 10
+    "Shuturuk #0" = 10
+
+    "Tempti-Agun #0" = 0
+    "Hutelutush #0" = 0
+    "Shilhaha #0" = 0
+    "Kuk-Nahhunte #0" = 0
+    "Shutruk #0" = 0
+    "Hutran #0" = 0
+    "Pahkir #0" = 0
+    "Humban #0" = 0
+    "Inshushinak #0" = 0
+    "Nahhunte #0" = 0
+    "Kutik #0" = 0
+    "Attar #0" = 0
+    "Kirwash #0" = 0
+    "Sanit #0" = 0
+    "Nashur #0" = 0
+
+    "Napirisha #0" = -10
+    "Pinikir #0" = -10
+    "Kiririsha #0" = -5
+    "Manzat #0" = -5
+    "Tapti #0" = -3
+    "Ruhuratir #0" = -3
+    "Partakka #0" = -2
+    "Nahhunte-utu #0" = -2
+    "Shimut #0" = -1
+    "Upurkubak #0" = -1
+}
+leader_names = {
+    Pahkir Hutran Shilhak Shimut Kutik Nahhunte Inshushinak
+    Humban Tepti Attar Kittah Tempti Kuk Kirwash Sanit
+    Nashur Agun Warwash Halutash Puzur Kutir Urtak
+}
+ship_names = {
+    Agun Attar Hallutash Halutash Humban Humban-haltash Humban-nikash
+    Hutelutush Hutelutush-Inshushinak Hutran Hutran-tepti Indattu Indattu-Inshushinak
+    Inshushinak Kidin Kidin-Hutran Kirwash Kuk Kuk-Kirwash Kuk-Nahhunte Kuk-Nashur
+    Kuk-Sanit Kutik Kutik-Inshushinak Kutir Kutir-Nahhunte Nahhunte Napir
+    Napirisha Narundi Pahkir Partakka Pinikir Puzur Ruhuratir Sanit Shilhaha
+    Shilhak Shilhak-Inshushinak Shilkhak Shimut Shimut-Wartash Shutur-Nahhunte
+    Shuturuk Shutruk Shutruk-Nahhunte Siwe-palar-huppak Simut Tapti
+    Tempti Tempti-Agun Tempti-Humban-Inshushinak Teumman Urtak Upurkubak
+}

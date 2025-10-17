@@ -1,6 +1,6 @@
 #400 - Muscat
-owner = ORM
-controller = ORM
+owner = OMA
+controller = OMA
 culture = omani_culture
 religion = arab_pagan
 capital = "Masqat"
@@ -10,7 +10,6 @@ base_production = 4
 base_manpower = 1
 is_city = yes
 add_core = OMA
-add_core = ORM
 discovered_by = muslim
 discovered_by = ottoman
 discovered_by = indian

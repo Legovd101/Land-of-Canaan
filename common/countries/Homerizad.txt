@@ -1,0 +1,99 @@
+#Country Name: Please see filename.
+graphical_culture = easterngfx
+color = { 225 138 5 }
+revolutionary_colors = { 14 0 14 }
+historical_idea_groups = { 
+	religious_ideas
+	defensive_ideas
+	spy_ideas
+	trade_ideas
+	offensive_ideas
+	economic_ideas
+	diplomatic_ideas
+	innovativeness_ideas
+}
+historical_units = { 
+	eastern_medieval_infantry
+	eastern_knights
+	slavic_stradioti
+	eastern_militia
+	ottoman_spahi
+	ottoman_sekban
+	ottoman_reformed_spahi
+	ottoman_reformed_janissary
+	ottoman_toprakli_hit_and_run
+	ottoman_nizami_cedid
+	ottoman_toprakli_dragoon
+	eastern_skirmisher
+	eastern_uhlan
+	eastern_carabinier
+	ottoman_new_model
+	ottoman_lancer
+}
+monarch_names = { 
+	"Ardashir #0" = 40
+	"Shapur #0" = 20
+	"Khusrau #0" = 20
+	"Peroz #0" = 15
+	"Mihran #0" = 10
+	"Tirdad #0" = 10
+	"Anahita #0" = -10
+	"Zariadr #0" = -5
+	"Ana #0" = -5
+	"Artamiz #0" = -1
+	"Eran #0" = -1
+	"Fr?z #0" = -1
+	"Laskar #0" = -1
+	"Manta #0" = -1
+	"Tali #0" = -1
+	"Šahbanu #0" = -1
+	"Sufi #0" = -1
+	"Artabanus #0" = 0
+	"Darius #0" = 0
+	"Xerxes #0" = 0
+	"Mithridates #0" = 0
+	"Spentadates #0" = 0
+	"Orodes #0" = 0
+	"Phraates #0" = 0
+	"Vologases #0" = 0
+	"Yazdegerd #0" = 0
+	"Arsaces #0" = 0
+	"Tiridates #0" = 0
+	"Valash #0" = 0
+	"Izdegerd #0" = 0
+	"Frahad #0" = 0
+	"Hutrud #0" = 0
+	"Varazes #0" = 0
+	"Arshak #0" = 0
+	"Mihrdad #0" = 0
+	"Spandiat #0" = 0
+	"Varaz #0" = 0
+	"Darayavahush #0" = 0
+	"Khshayarsha #0" = 0
+}
+leader_names = { 
+	Artabanus Angelopoulos Androutsos Aulakos Bahram Botsaris Bouboulis Mihran Chatzeris Christianopoulos
+	Chatzimoschos Darius Dalianis Doumpiotis Diakos Danglis Dagres Deligiannis Damodos Frahad
+	Flessas Farmakidis Khusrau Gotzias Gonemis Gouras Giatrakos Gazalis Peroz Hatzipetros
+	Ardashir Kapodistrias Kolokotronis Karaiskakis Kanaris Katsonis Karykes Kontares Karatzas Kriezotis
+	Kirezis Kountouriotis Korais Xerxes Kairis Kyriazis Kontostavlos Orodes Loukaris Livinis
+	Mithridates Mavrokordatos Mavrikios Makris Mavromichalis Meletopoulos Metaxas Milios Meintanis Mavrogenes
+	Spentadates Notaras Phraates Pegas Patelaros Pelekasis Petrovas Panourgias Pappas Papatsonis
+	Papazafiropoulos Psalidas Papanikolis Pinotsis Vologases Ratzikotsikas Yazdegerd Serpetzoglou Skoufas Sachtouris
+	Skourtis Stamatelopoulos Soumalis Izdegerd Triantaphyllos Tsakalov Tsokris Tombazis Varaz Vokos
+	Verousis Vasileiou Voulgaris Tirdad Xanthos Xiros Valash Ypsilantis Yiannouzas Zariadr
+	Zalykis Zeras 
+}
+ship_names = { 
+	Abaz Arsaces Orodes Mikun Spentadates Sam Timust Ewrid Arstufan Aršmid
+	Dimukrat Anazgar Dimud Erakl Atri Piruz Ejibd Ayul Pušidun Atina
+	Zu Di Krun Ra ?ran Era Adun Frudi Ardashir Xerxes
+	Mihran Darius Orodes Phraates Vologases Yazdegerd Arsaces Tiridates Valash Izdegerd
+	Frahad Hutrud Varazes Arshak Mihrdad Spandiat Varaz Darayavahush Khshayarsha Abaz
+	Laz Limn Mikun Salam Sam Timust Ewrid Aškil Arstufan Aršmid
+	Dimukrat Anazgar Dimud Erakl Atri Piruz Ejibd Ayul Pušidun Atina
+	Zu Di Krun Ra ?ran Era Adun Frudi Abaz Arsaces
+	Orodes Mikun Spentadates Sam Timust Ewrid Arstufan Aršmid Dimukrat Anazgar
+	Dimud Erakl Atri Piruz Ejibd Ayul Pušidun Atina Zu Di
+	Krun Ra ?ran Era Adun Frudi 
+}

@@ -16,7 +16,7 @@ base_manpower = 3
 trade_goods = naval_supplies
 
 culture = occitain
-religion = germanic_pagan
+religion = new_gothic
 capital = "Toulon"
 
 is_city = yes

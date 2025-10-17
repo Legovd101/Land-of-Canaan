@@ -2,7 +2,7 @@
 owner = KIE
 controller = KIE
 culture = goths
-religion = orthodox
+religion = buddhism
 base_tax = 3
 base_production = 3
 trade_goods = wine

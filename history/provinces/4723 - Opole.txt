@@ -1,7 +1,7 @@
 owner = SAX
 controller = SAX
 culture = schlesian
-religion = catholic
+religion = old_gothic
 base_tax = 3
 base_production = 3
 capital = "Opole"

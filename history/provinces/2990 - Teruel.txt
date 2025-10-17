@@ -16,7 +16,7 @@ base_manpower = 3
 trade_goods = iron
 
 culture = aragonese
-religion = germanic_pagan
+religion = new_gothic
 capital = "Teruel"
 
 is_city = yes

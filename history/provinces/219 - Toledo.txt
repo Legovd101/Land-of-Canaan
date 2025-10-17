@@ -18,7 +18,7 @@ trade_goods = iron
 extra_cost = 8
 
 culture = castillian
-religion = germanic_pagan
+religion = new_gothic
 capital = "Toledo"
 
 is_city = yes

@@ -16,7 +16,7 @@ base_manpower = 3
 trade_goods = cloth
 
 culture = lombard
-religion = germanic_pagan
+religion = new_gothic
 capital = "Brescia"
 
 is_city = yes
