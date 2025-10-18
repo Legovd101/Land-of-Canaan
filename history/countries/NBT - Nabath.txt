@@ -8,3 +8,5 @@ religion = zoroastrian
 capital = 3064
 technology_group = ottoman
 government_rank = 1
+government = tribal
+add_government_reform = steppe_horde

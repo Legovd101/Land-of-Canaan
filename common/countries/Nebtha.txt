@@ -81,7 +81,7 @@ monarch_names = {
 leader_names = { 
 	Ashur-uballit Adad-nirari Shalmaneser Tukulti-Ninurta Ashur-nasir-pal Ashur-dan Ashur-rabi Tiglath-Pileser Shamshi-Adad Ashur-etil-ilani
 	Ashur-bani-apli Sennacherib Esarhaddon Ashurbanipal Sin-shar-ishkun Sargon Shalmaneser Ashur-dan Adad-nirari Ashur-bel-kala
-	Enlil-nasir 
+	Enlil-nasir
 }
 ship_names = { 
 	Ashur Enlil Adad Shamash Sin Ninurta Nabu Ishtar Shaushka Shalmaneser

@@ -8,3 +8,5 @@ religion = zoroastrian
 capital = 2999
 technology_group = ottoman
 government_rank = 1
+government = republic
+add_government_reform = merchants_reform

@@ -15,25 +15,25 @@ SRF = "countries/Siraf.txt" #
 RTK = "countries/Artaka.txt" #
 SVS = "countries/Sarvestan.txt" #
 ABR = "countries/Abarshahr.txt" #
-BCT = "countries/Baktra.txt" #
+BCT = "countries/Baktra.txt" ##
 BLS = "countries/Balashxa.txt" #
 
  ## Hellenic
 NTI = "countries/Antiocheia.txt" ##
 SLC = "countries/Seleucia.txt" ##
 KSM = "countries/Kassima.txt" #
-BSL = "countries/Basilto.txt" #
+BSL = "countries/Basilto.txt" ##
 ORO = "countries/Orodesia.txt" #
 KSR = "countries/Kassar.txt" #
 DND = "countries/Dindella.txt" #
 BMA = "countries/Bama.txt" #
-DRN = "countries/Drangiana.txt" # Indo-Greek
+DRN = "countries/Drangiana.txt" ## Indo-Greek
 ADB = "countries/Adoborsa.txt" #
-ARI = "countries/Aria.txt" #
+ARI = "countries/Aria.txt" ##
 LXE = "countries/Alexandreia Eschata.txt" #
 TRM = "countries/Thermae.txt" #
-NDA = "countries/India.txt" #
-RCH = "countries/Arachoisa.txt" #
+NDA = "countries/India.txt" ##
+RCH = "countries/Arachoisa.txt" ##
 
  ## Eraník
 HMZ = "countries/Homerizad.txt" ##
@@ -73,4 +73,4 @@ RPH = "countries/Repha.txt" # Roman
 VKS = "countries/Vaxshabad.txt" # Parthian
 PMG = "countries/Pompeia Margiana.txt" # Roman
 BMC = "countries/Bamice.txt" # Gothic
-KUS = "countries/Kushansha.txt" # Kushan
+KUS = "countries/Kushansha.txt" ## Kushan

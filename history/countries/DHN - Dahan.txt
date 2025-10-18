@@ -2,3 +2,5 @@ capital = 429
 technology_group = ottoman
 government_rank = 1
 religion = zoroastrian
+government = monarchy
+add_government_reform = feudalism_reform

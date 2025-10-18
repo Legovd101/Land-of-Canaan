@@ -8,3 +8,5 @@ religion = zoroastrian
 capital = 3065
 technology_group = ottoman
 government_rank = 1
+government = monarchy
+add_government_reform = feudalism_reform

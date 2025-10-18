@@ -110,8 +110,7 @@ monarch_names = {
 }
 leader_names = { 
 	#UNCLASSIFIED
-	Gabashvili Gegechkori Amilakhvari Amirejibi
-	Baratashvili
+	Gabashvili Gegechkori Amilakhvari Amirejibi Baratashvili
 	Bebutashvili
 	Begtabegishvili
 	Cherkezeshvili
@@ -192,9 +191,9 @@ leader_names = {
 ship_names = { 
 	Abo Amirani Aragvi Armazi Anakopia Artaani Argo Abkhazeti Apsaros "Ateni Sioni"
 	Avtandil Bichvinta Batomi Bodbe Colchis Dmanisi "Demetre Tavdadebuli" "Davit Gareja" Didgori "Davit Aghmashenebeli"
-	Dioscurias Geguti Gelati "Giorgi V Brtskinvale" Gori Gremi Hereti Iberia
-	Jvari "Jvari Vazisa" Kartlos Kutaisi Khornabuji Lasharisjvari Lore Mtkvari Mtskheta Narikala
-	Ninotsminda "Okros Satsmisi" Parnavaz Phasis Pityus "Petre Iberi" Ruisi Racha Rioni Seti
-	Skhalta Svaneti Svetitskhoveli "Shota Rustaveli" Tamar Tbilisi Telavi Tashiri "Tsminda Giorgi" "Tsotne Dadiani"
-	"Tetri Giorgi" Urbnisi Ushba Uplistsikhe "Vakhtang Gorgasali" Vardzia Venakhi 
+	Dioscurias Geguti Gelati "Giorgi V Brtskinvale" Gori Gremi Hereti Iberia Jvari "Jvari Vazisa"
+	Kartlos Kutaisi Khornabuji Lasharisjvari Lore Mtkvari Mtskheta Narikala Ninotsminda "Okros Satsmisi"
+	Parnavaz Phasis Pityus "Petre Iberi" Ruisi Racha Rioni Seti Skhalta Svaneti
+	Svetitskhoveli "Shota Rustaveli" Tamar Tbilisi Telavi Tashiri "Tsminda Giorgi" "Tsotne Dadiani" "Tetri Giorgi" Urbnisi
+	Ushba Uplistsikhe "Vakhtang Gorgasali" Vardzia Venakhi 
 }

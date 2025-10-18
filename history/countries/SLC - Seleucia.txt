@@ -9,3 +9,5 @@ capital = 2312
 technology_group = ottoman
 government_rank = 1
 elector = yes
+government = republic
+add_government_reform = oligarchy_reform

@@ -2,3 +2,5 @@ capital = 415
 technology_group = ottoman
 government_rank = 1
 religion = zoroastrian
+government = tribal
+add_government_reform = steppe_horde

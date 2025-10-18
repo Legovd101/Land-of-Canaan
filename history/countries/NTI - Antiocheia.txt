@@ -1,7 +1,15 @@
 religion = zoroastrian
 technology_group = ottoman
-government_rank = 1
+government_rank = 3
 capital = 2313
 government = monarchy
 add_government_reform = feudalism_reform
-elector = yes
+1440.1.1 = {
+	monarch = {
+		name = "Nikeros"
+		dynasty = "Seleukid"
+		adm = 2
+		dip = 4
+		mil = 1
+	}
+}

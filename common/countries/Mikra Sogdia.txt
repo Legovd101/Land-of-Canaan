@@ -63,10 +63,10 @@ monarch_names = {
 leader_names = { 
 	Wakhshuvar Tarkhun Divashtich Karkara Azka Nana Rutbi Tarkhan Buniyad Siyavush
 	Piruz Wandak Khusraw Wakhsh Mastich Piduk Tish Yakha Zarmihr Warkhuman
-	Siyavakhsh 
+	Siyavakhsh
 }
 ship_names = { 
 	Azka Buniyad Divashtich Karkara Khusraw Mastich Nana Piduk Piruz Rutbi
 	Siyavakhsh Siyavush Tarkhan Tarkhun Tish Wakhsh Wakhshuvar Wandak Warkhuman Yakha
-	Zarmihr 
+	Zarmihr
 }

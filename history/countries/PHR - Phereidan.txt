@@ -1,5 +1,7 @@
 capital = 3027
 government_rank = 1
 religion = zoroastrian
-technology_group = 
 primary_culture = georgian
+technology_group = east_african
+government = monarchy
+add_government_reform = feudalism_reform

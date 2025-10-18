@@ -61,8 +61,7 @@ leader_names = {
 	Gewirk
 	Rekani
 	Hadhabani
-	"Ali Sherwan" Herki Jalilavand Zafaranlu
-	Zarrinkafsh
+	"Ali Sherwan" Herki Jalilavand Zafaranlu Zarrinkafsh
 	Mangur
 	Jaff
 	Sheylanli

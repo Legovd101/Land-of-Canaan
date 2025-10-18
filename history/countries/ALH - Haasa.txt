@@ -4,7 +4,7 @@ government_rank = 1#Emirate
 technology_group = muslim
 religion = zoroastrian
 primary_culture = gulf_arabic
-capital = 394# Al Hasa
+capital = 2347 # Hofuf
 religious_school = maliki_school
 #Rulers of Qatif
 1444.1.1 = { 
