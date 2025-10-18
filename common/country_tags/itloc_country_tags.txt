@@ -1,69 +1,67 @@
- # "#" Loc, no flag
- # "##" Loc and Flag
 
-DAC = "countries/Dacia.txt" ##
+DAC = "countries/Dacia.txt"
 
  # OKS
  ## Iranic
-MZN = "countries/Mazun.txt" ##
-ELM = "countries/Elam.txt" ##
-BBL = "countries/Babil.txt" ##
-HVY = "countries/Hoveyzeh.txt" #
-RGA = "countries/Raga.txt" #
-DHN = "countries/Dahan.txt" #
-SRF = "countries/Siraf.txt" #
-RTK = "countries/Artaka.txt" #
-SVS = "countries/Sarvestan.txt" #
-ABR = "countries/Abarshahr.txt" #
-BCT = "countries/Baktra.txt" ##
-BLS = "countries/Balashxa.txt" #
+MZN = "countries/Mazun.txt"
+ELM = "countries/Elam.txt"
+BBL = "countries/Babil.txt"
+HVY = "countries/Hoveyzeh.txt"
+RGA = "countries/Raga.txt"
+DHN = "countries/Dahan.txt"
+SRF = "countries/Siraf.txt"
+RTK = "countries/Artaka.txt"
+SVS = "countries/Sarvestan.txt"
+ABR = "countries/Abarshahr.txt"
+BCT = "countries/Baktra.txt"
+BLS = "countries/Balashxa.txt"
 
  ## Hellenic
-NTI = "countries/Antiocheia.txt" ##
-SLC = "countries/Seleucia.txt" ##
-KSM = "countries/Kassima.txt" #
-BSL = "countries/Basilto.txt" ##
-ORO = "countries/Orodesia.txt" #
-KSR = "countries/Kassar.txt" #
-DND = "countries/Dindella.txt" #
-BMA = "countries/Bama.txt" #
+NTI = "countries/Antiocheia.txt"
+SLC = "countries/Seleucia.txt"
+KSM = "countries/Kassima.txt"
+BSL = "countries/Basilto.txt"
+ORO = "countries/Orodesia.txt"
+KSR = "countries/Kassar.txt"
+DND = "countries/Dindella.txt"
+BMA = "countries/Bama.txt"
 DRN = "countries/Drangiana.txt" ## Indo-Greek
-ADB = "countries/Adoborsa.txt" #
-ARI = "countries/Aria.txt" ##
-LXE = "countries/Alexandreia Eschata.txt" #
-TRM = "countries/Thermae.txt" #
-NDA = "countries/India.txt" ##
-RCH = "countries/Arachoisa.txt" ##
+ADB = "countries/Adoborsa.txt"
+ARI = "countries/Aria.txt"
+LXE = "countries/Alexandreia Eschata.txt"
+TRM = "countries/Thermae.txt"
+NDA = "countries/India.txt"
+RCH = "countries/Arachoisa.txt"
 
  ## Eraník
-HMZ = "countries/Homerizad.txt" ##
-ELY = "countries/Elymais.txt" ##
+HMZ = "countries/Homerizad.txt"
+ELY = "countries/Elymais.txt"
 MKR = "countries/Mikra Sogdia.txt" ## Sogdian
-KRB = "countries/Karbelaton.txt" #
-TSP = "countries/Tespho.txt" #
-AKB = "countries/Akbatan.txt" #
-KMR = "countries/Komeran.txt" #
-PRS = "countries/Perso.txt" #
+KRB = "countries/Karbelaton.txt"
+TSP = "countries/Tespho.txt"
+AKB = "countries/Akbatan.txt"
+KMR = "countries/Komeran.txt"
+PRS = "countries/Perso.txt"
 KES = "countries/Kesh.txt" # Sogdian
 KMS = "countries/Komeshah.txt" # Sogdian
-FAS = "countries/Phasso.txt" #
-PSP = "countries/Parsapolis.txt" #
-MMN = "countries/Maman.txt" #
+FAS = "countries/Phasso.txt"
+PSP = "countries/Parsapolis.txt"
+MMN = "countries/Maman.txt"
 BRD = "countries/Bardasho.txt" # Sogdian
-CRS = "countries/Chorso.txt" #
+CRS = "countries/Chorso.txt"
 KMH = "countries/Komesha.txt" # Parthian
 PRT = "countries/Perto.txt" # Parthian
-SSH = "countries/Sosha.txt" #
+SSH = "countries/Sosha.txt"
 KOS = "countries/Kosh.txt" # Sogdian
 WRN = "countries/Warnos.txt" # Sogdian
 
  ## Semitic
-CNN = "countries/Kana.txt" ##
-NQR = "countries/Niqirah.txt" ##
-NBT = "countries/Nabath.txt" ##
-GNB = "countries/Ghanib Nahrain.txt" ##
-NEB = "countries/Nebtha.txt" ##
-PLM = "countries/Palmyra.txt" ##
+CNN = "countries/Kana.txt"
+NQR = "countries/Niqirah.txt"
+NBT = "countries/Nabath.txt"
+GNB = "countries/Ghanib Nahrain.txt"
+NEB = "countries/Nebtha.txt"
+PLM = "countries/Palmyra.txt"
 
  ## Other
 CRD = "countries/Corduene.txt" ## Kurdish
