@@ -1,7 +1,7 @@
 #2308 - Urfa
 owner = NTI
 controller = NTI
-culture = kurdish
+culture = assyrian
 religion = zoroastrian
 capital = "Urfa"
 trade_goods = wool

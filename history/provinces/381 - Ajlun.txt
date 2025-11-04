@@ -1,7 +1,7 @@
 #381 - Ajlun
 owner = CNN
 controller = CNN
-culture = al_suryah_arabic
+culture = moabite
 religion = zoroastrian
 capital = "Ajlun"
 trade_goods = grain

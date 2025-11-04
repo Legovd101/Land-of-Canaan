@@ -1,7 +1,7 @@
 #382 - Damascus
 owner = CNN
 controller = CNN
-culture = al_suryah_arabic
+culture = ammonite
 religion = zoroastrian
 capital = "Dimashq"
 trade_goods = iron

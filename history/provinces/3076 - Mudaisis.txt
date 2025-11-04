@@ -1,6 +1,6 @@
 owner = NEB
 controller = NEB
-culture = persian
+culture = aramean
 religion = zoroastrian
 capital = "Mudaisis"
 trade_goods = livestock#known for its pastures for Timurid armies

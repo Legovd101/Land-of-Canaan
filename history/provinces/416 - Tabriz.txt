@@ -1,7 +1,7 @@
 #416 - Azerbaijan
 owner = ARM
 controller = ARM
-culture = azerbaijani
+culture = armenian
 religion = zoroastrian
 capital = "Tabriz"
 trade_goods = silk

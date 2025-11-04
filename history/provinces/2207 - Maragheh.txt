@@ -1,7 +1,7 @@
 #2207 - Maragheh
 owner = ARM
 controller = ARM
-culture = azerbaijani
+culture = armenian
 religion = zoroastrian
 capital = "Marageh"
 trade_goods = wool

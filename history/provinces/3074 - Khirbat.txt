@@ -1,6 +1,6 @@
 owner = NBT
 controller = NBT
-culture = persian
+culture = aramean
 religion = zoroastrian
 capital = "Khirbat"
 trade_goods = livestock#known for its pastures for Timurid armies

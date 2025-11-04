@@ -1,7 +1,7 @@
 #4270 - Azraq
 owner = NTI
 controller = NTI
-culture = bedouin_arabic
+culture = ammonite
 religion = zoroastrian
 capital = "Al Azraq"
 trade_goods = livestock

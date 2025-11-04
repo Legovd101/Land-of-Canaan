@@ -1,7 +1,7 @@
 #2212 - Zanjan
 owner = ARM
 controller = ARM
-culture = azerbaijani
+culture = armenian
 religion = zoroastrian
 capital = "Zanjan"
 trade_goods = spices

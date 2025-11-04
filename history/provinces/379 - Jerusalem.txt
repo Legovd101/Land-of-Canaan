@@ -1,7 +1,7 @@
 #379 - Judea
 owner = CNN
 controller = CNN
-culture = al_suryah_arabic
+culture = philistine
 religion = zoroastrian
 capital = "Al Quds"
 trade_goods = grain

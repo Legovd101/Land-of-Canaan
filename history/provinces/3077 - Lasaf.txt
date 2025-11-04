@@ -1,6 +1,6 @@
 owner = GNB
 controller = GNB
-culture = persian
+culture = aramean
 religion = zoroastrian
 capital = "Lasaf"
 trade_goods = livestock#known for its pastures for Timurid armies

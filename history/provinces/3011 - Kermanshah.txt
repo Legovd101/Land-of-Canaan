@@ -1,6 +1,6 @@
 owner = BSL
 controller = BSL
-culture = azerbaijani
+culture = mesopotamian
 religion = buddhism
 capital = "Kermanshah"
 trade_goods = silk#And Salt and Petroleum

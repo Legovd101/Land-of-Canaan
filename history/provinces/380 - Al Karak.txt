@@ -1,7 +1,7 @@
 #380 - Al Karak
 owner = CNN
 controller = CNN
-culture = bedouin_arabic
+culture = moabite
 religion = zoroastrian
 capital = "Al Karak"
 trade_goods = grain
@@ -17,5 +17,5 @@ discovered_by = nomad_group
 discovered_by = indian
 discovered_by = east_african
 add_core = CNN
-fort_15th = yes
 hre = yes
+fort_15th = yes

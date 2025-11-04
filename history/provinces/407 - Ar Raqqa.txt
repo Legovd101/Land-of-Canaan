@@ -1,7 +1,7 @@
 #407 - Ar-Raqqah
 owner = NTI
 controller = NTI
-culture = al_suryah_arabic
+culture = assyrian
 religion = zoroastrian
 capital = "Ar Rakkah"
 trade_goods = livestock

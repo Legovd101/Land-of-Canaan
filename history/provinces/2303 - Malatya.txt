@@ -1,7 +1,7 @@
 #2303 - Malatya
 owner = NTI
 controller = NTI
-culture = turkish
+culture = assyrian
 religion = zoroastrian
 capital = "Malatiya"
 trade_goods = cloth

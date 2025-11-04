@@ -5,7 +5,6 @@ DAC = "countries/Dacia.txt"
  ## Iranic
 MZN = "countries/Mazun.txt"
 ELM = "countries/Elam.txt"
-BBL = "countries/Babil.txt"
 HVY = "countries/Hoveyzeh.txt"
 RGA = "countries/Raga.txt"
 DHN = "countries/Dahan.txt"
@@ -15,6 +14,10 @@ SVS = "countries/Sarvestan.txt"
 ABR = "countries/Abarshahr.txt"
 BCT = "countries/Baktra.txt"
 BLS = "countries/Balashxa.txt"
+VKS = "countries/Vaxshabad.txt" # Parthian
+CRD = "countries/Corduene.txt" ## Kurdish
+KRD = "countries/Kurdistan.txt" ## Kurdish
+KUS = "countries/Kushansha.txt" ## Kushan
 
  ## Hellenic
 NTI = "countries/Antiocheia.txt"
@@ -62,13 +65,10 @@ NBT = "countries/Nabath.txt"
 GNB = "countries/Ghanib Nahrain.txt"
 NEB = "countries/Nebtha.txt"
 PLM = "countries/Palmyra.txt"
+BBL = "countries/Babil.txt"
 
  ## Other
-CRD = "countries/Corduene.txt" ## Kurdish
-KRD = "countries/Kurdistan.txt" ## Kurdish
 PHR = "countries/Phereidan.txt" # Georgian/Iberian
 RPH = "countries/Repha.txt" # Roman
-VKS = "countries/Vaxshabad.txt" # Parthian
 PMG = "countries/Pompeia Margiana.txt" # Roman
 BMC = "countries/Bamice.txt" # Gothic
-KUS = "countries/Kushansha.txt" ## Kushan

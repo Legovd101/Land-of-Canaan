@@ -1,6 +1,6 @@
 owner = CNN
 controller = CNN
-culture = persian
+culture = assyrian
 religion = zoroastrian
 capital = "Baalbek"
 trade_goods = livestock#known for its pastures for Timurid armies

@@ -1,7 +1,7 @@
 #1854 - Negev
 owner = CNN
 controller = CNN
-culture = al_suryah_arabic
+culture = phoenician
 religion = zoroastrian
 capital = "Nablus"
 trade_goods = sugar

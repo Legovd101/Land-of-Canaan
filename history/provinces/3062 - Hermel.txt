@@ -1,6 +1,6 @@
 owner = NTI
 controller = NTI
-culture = persian
+culture = assyrian
 religion = zoroastrian
 capital = "Hermel"
 trade_goods = livestock#known for its pastures for Timurid armies

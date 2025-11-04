@@ -1,6 +1,6 @@
 owner = PLM
 controller = PLM
-culture = persian
+culture = syriac
 religion = zoroastrian
 capital = "Bawdah"
 trade_goods = livestock#known for its pastures for Timurid armies
