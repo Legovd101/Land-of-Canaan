@@ -4,3 +4,4 @@ technology_group = ottoman
 government = monarchy
 add_government_reform = feudalism_reform
 religion = zoroastrian
+primary_culture = mesopotamian

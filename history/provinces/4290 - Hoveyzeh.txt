@@ -1,7 +1,7 @@
 #4290 - Hoveyzeh
 owner = HVY
 controller = HVY
-culture = al_iraqiya_arabic
+culture = babylonian
 religion = zoroastrian
 capital = "Hoveyzeh"
 trade_goods = grain

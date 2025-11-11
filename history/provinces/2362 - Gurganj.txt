@@ -1,7 +1,7 @@
 # 2362 - Gurganj
 owner = NOG
 controller = NOG
-culture = turkmeni
+culture = parthian
 religion = zoroastrian
 capital = "Gurganj"
 trade_goods = wool

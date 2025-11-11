@@ -1,7 +1,7 @@
 #396 - Bahrain
 owner = MZN
 controller = MZN
-culture = gulf_arabic
+culture = limenioi
 religion = zoroastrian
 capital = "Manama"
 trade_goods = gems#Pearls

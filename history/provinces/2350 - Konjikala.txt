@@ -1,7 +1,7 @@
 # 2350 - Konjikala
 owner = PMG
 controller = PMG
-culture = turkmeni
+culture = parthian
 religion = zoroastrian
 capital = "Konjikala"
 trade_goods = copper

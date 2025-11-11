@@ -1,7 +1,7 @@
 #410 - Iraq-i-Arab
 owner = BBL
 controller = BBL
-culture = al_iraqiya_arabic
+culture = babylonian
 religion = zoroastrian
 capital = "Baghdad"
 trade_goods = cloth

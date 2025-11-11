@@ -1,7 +1,7 @@
 # 2349 - Kizil-Su
 owner = VKS
 controller = VKS
-culture = turkmeni
+culture = parthian
 religion = zoroastrian
 capital = "Kizil-Su"
 trade_goods = fish

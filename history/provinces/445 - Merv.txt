@@ -1,7 +1,7 @@
 #445 - Marv
 owner = PMG
 controller = PMG
-culture = turkmeni
+culture = parthian
 religion = zoroastrian
 capital = "Merv"
 trade_goods = cotton

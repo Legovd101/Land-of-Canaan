@@ -2,7 +2,7 @@
 owner = TRE
 controller = TRE
 culture = pontic_greek
-religion = zoroastrian
+religion = dionysian
 capital = "Phadisani"
 trade_goods = cotton
 base_tax = 3

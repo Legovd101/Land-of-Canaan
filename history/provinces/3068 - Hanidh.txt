@@ -1,6 +1,6 @@
 owner = MZN
 controller = MZN
-culture = gulf_arabic
+culture = limenioi
 religion = zoroastrian
 capital = "Hanidh"
 trade_goods = spices#Dates

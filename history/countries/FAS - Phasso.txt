@@ -4,3 +4,4 @@ government_rank = 1
 religion = zoroastrian
 government = theocracy
 add_government_reform = leading_clergy_reform
+primary_culture = pharsik

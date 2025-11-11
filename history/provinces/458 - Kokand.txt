@@ -1,7 +1,7 @@
 #458 - Kokand
 owner = BCT
 controller = BCT
-culture = uzbehk
+culture = bactrian
 religion = zoroastrian
 capital = "Kokand"
 trade_goods = iron

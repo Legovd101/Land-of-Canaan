@@ -1,7 +1,7 @@
 #451 - Kabulistan
 owner = RCH
 controller = RCH
-culture = afghani
+culture = sogdian
 religion = zoroastrian
 capital = "Kabul"
 trade_goods = gems#Emeralds

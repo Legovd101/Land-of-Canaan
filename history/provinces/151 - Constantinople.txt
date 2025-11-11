@@ -1,6 +1,6 @@
 #151 - Constantinople
-owner = BYZ
-controller = BYZ
+owner = BZH
+controller = BZH
 culture = greek
 religion = buddhism
 capital = "Constantinople"
@@ -9,7 +9,7 @@ base_tax = 8
 base_production = 8
 base_manpower = 4
 is_city = yes
-add_core = BYZ
+add_core = BZH
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim

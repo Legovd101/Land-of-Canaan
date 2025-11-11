@@ -1,7 +1,7 @@
 #442 - Bukhara
 owner = BCT
 controller = BCT
-culture = uzbehk
+culture = bactrian
 religion = zoroastrian
 capital = "Bukhara"
 trade_goods = salt

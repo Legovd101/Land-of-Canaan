@@ -111,7 +111,7 @@
  cybelene_rebels_title: "Religious"
  cybelene_religion_desc: "The Phrygian cult of Cybele is linked to prehistoric Mother-Goddess worship. Evolving over thousands of years, the cult of Cybele often claimed relationship to mythical figures and heroes, and practiced their religion with the veneration of idols."
 
- druidism: "Druidism"
+ druidism: "Druwitacht"
  druidism_rebels_army: "$RELIGION$ Army"
  druidism_rebels_demand: "Convert $COUNTRYNAME$"
  druidism_rebels_demand_desc: "The religious rebels fight for the $RELIGION$ religion. They demand that we recognize its supremacy or at the very least cease our efforts to convert them and let them worship in peace."

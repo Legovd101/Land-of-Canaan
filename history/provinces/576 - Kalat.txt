@@ -1,7 +1,7 @@
 #576 - Kalat
 owner = KUS
 controller = KUS
-culture = baluchi
+culture = kushan
 religion = zoroastrian
 capital = "Kalat"
 trade_goods = dyes

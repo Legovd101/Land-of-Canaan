@@ -1,6 +1,6 @@
 owner = MZN
 controller = MZN
-culture = omani_culture
+culture = limenioi
 religion = arab_pagan
 capital = "Ajman"
 trade_goods = grain#And pearls

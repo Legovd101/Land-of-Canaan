@@ -4,8 +4,8 @@ government_rank = 3
 capital = 2313
 government = monarchy
 add_government_reform = feudalism_reform
-1440.1.1 = {
-	monarch = {
+1440.1.1 = { 
+	monarch = { 
 		name = "Nikeros"
 		dynasty = "Seleukid"
 		adm = 2
@@ -13,3 +13,4 @@ add_government_reform = feudalism_reform
 		mil = 1
 	}
 }
+primary_culture = antiochoi

@@ -1,7 +1,7 @@
 #409 - Karbala
 owner = KRB
 controller = KRB
-culture = al_iraqiya_arabic
+culture = babylonian
 religion = zoroastrian
 capital = "Karbala"
 trade_goods = wool

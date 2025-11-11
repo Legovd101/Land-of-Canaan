@@ -1,7 +1,7 @@
 #3104 - Tarsos
-owner = NTI
-controller = NTI
-culture = turkish
+owner = MTO
+controller = MTO
+culture = serican
 religion = zoroastrian
 capital = "Tarsos"
 trade_goods = cotton
@@ -17,4 +17,4 @@ discovered_by = nomad_group
 extra_cost = 8
 center_of_trade = 1
 hre = yes
-add_core = NTI
+add_core = MTO

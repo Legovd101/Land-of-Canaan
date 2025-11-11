@@ -87,8 +87,7 @@ monarch_names = {
 }
 leader_names = { 
 	"Bani Malik" "al-Ajwad" "Bani Sa'id" "Banu 'Uqayl" "Banu 'Amir" "Al Saadun" "Al-Dhafeer" "Bani Khalid" "Al Humaid" Juboor
-	"Du'um" "Al Janah" Grusha
-	"Al Subaih" 
+	"Du'um" "Al Janah" Grusha "Al Subaih" 
 }
 ship_names = { 
 	Faydhi

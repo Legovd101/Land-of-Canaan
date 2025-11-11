@@ -6,3 +6,4 @@ elector = yes
 technology_group = indian
 capital = 3011# Kermanshah
 fixed_capital = 3011# Cannot move capital away from this province & no power cost to move to it
+primary_culture = mesopotamian

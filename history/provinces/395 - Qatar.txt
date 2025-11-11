@@ -1,7 +1,7 @@
 #395 - Qatar
 owner = MZN
 controller = MZN
-culture = gulf_arabic
+culture = limenioi
 religion = zoroastrian
 capital = "Qatar"
 trade_goods = gems

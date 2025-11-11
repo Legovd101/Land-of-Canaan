@@ -1,8 +1,8 @@
 #3103 - Korakesion
-owner = RAM
-controller = RAM
-culture = turkish
-religion = zoroastrian
+owner = MTO
+controller = MTO
+culture = serican
+religion = buddhism
 capital = "Korakesion"
 trade_goods = cotton
 base_tax = 3
@@ -16,4 +16,4 @@ discovered_by = ottoman
 discovered_by = nomad_group
 extra_cost = 8
 center_of_trade = 1
-add_core = RAM
+add_core = MTO

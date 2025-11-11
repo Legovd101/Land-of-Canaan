@@ -1,7 +1,7 @@
 #444 - Charjuy
 owner = PMG
 controller = PMG
-culture = uzbehk
+culture = bactrian
 religion = zoroastrian
 capital = "Charjuy"
 trade_goods = livestock

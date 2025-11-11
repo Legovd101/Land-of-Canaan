@@ -1,7 +1,7 @@
 #2063 - Bela
 owner = KUS
 controller = KUS
-culture = baluchi
+culture = kushan
 religion = zoroastrian
 capital = "Bela"
 trade_goods = fish

@@ -1,7 +1,7 @@
 #1967 - Khujand
 owner = BCT
 controller = BCT
-culture = uzbehk
+culture = bactrian
 religion = zoroastrian
 capital = "Khujand"
 trade_goods = silk

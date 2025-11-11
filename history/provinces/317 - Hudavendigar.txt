@@ -1,8 +1,8 @@
 #317 - Bursa
-owner = RAM
-controller = RAM
-culture = turkish
-religion = buddhism
+owner = XIM
+controller = XIM
+culture = serican
+religion = confucianism
 capital = "Bursa"
 trade_goods = silk
 base_tax = 5
@@ -16,4 +16,4 @@ discovered_by = ottoman
 discovered_by = nomad_group
 extra_cost = 16
 center_of_trade = 2
-add_core = RAM
+add_core = XIM

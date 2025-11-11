@@ -1,7 +1,7 @@
 #4344 - Kish
 owner = BCT
 controller = BCT
-culture = uzbehk
+culture = bactrian
 religion = zoroastrian
 capital = "Shahrisabz"#Renamed by Timur, but both names in use for most our era.
 trade_goods = wool

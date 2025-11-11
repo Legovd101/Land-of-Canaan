@@ -72,3 +72,27 @@ PHR = "countries/Phereidan.txt" # Georgian/Iberian
 RPH = "countries/Repha.txt" # Roman
 PMG = "countries/Pompeia Margiana.txt" # Roman
 BMC = "countries/Bamice.txt" # Gothic
+
+ # Anatolia
+ ## Selikuó
+XIN = "countries/Xin.txt"
+KAI = "countries/Kaisa.txt"
+MXI = "countries/Amaxiya.txt"
+XNP = "countries/Xinuopu.txt"
+KNY = "countries/Keniya.txt"
+PFL = "countries/Pafulageniya.txt"
+XIM = "countries/Ximatuo.txt"
+NKL = "countries/Ankaila.txt"
+BEL = "countries/Beilama.txt"
+QTX = "countries/Qutaxiya.txt"
+BZH = "countries/Baizhanting.txt"
+TLU = "countries/Teluoya.txt"
+YUN = "countries/West Yuan.txt"
+LKA = "countries/Likinazhuo.txt"
+ATL = "countries/Ataliya.txt"
+LIX = "countries/Lixi.txt"
+MTO = "countries/Maituo.txt"
+
+ ## Hellenic
+ION = "countries/Ionia.txt"
+PHI = "countries/Philadelphia.txt"

@@ -1,7 +1,7 @@
 #320 - Rhodes
 owner = BYZ# Knights of St. John Hospitaler of Jerusalem
 controller = BYZ
-culture = greek
+culture = anatolian
 religion = buddhism
 capital = "Rhodes"
 trade_goods = fish

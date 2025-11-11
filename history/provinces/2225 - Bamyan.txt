@@ -1,7 +1,7 @@
 #2225 - Bamyan
 owner = RCH
 controller = RCH
-culture = afghani
+culture = sogdian
 religion = zoroastrian
 capital = "Bamyan"
 trade_goods = dyes

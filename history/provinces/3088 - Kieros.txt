@@ -1,8 +1,8 @@
 #3088 - Kieros
-owner = RAM
-controller = RAM
-culture = turkish
-religion = zoroastrian
+owner = XIM
+controller = XIM
+culture = anatolian
+religion = confucianism
 capital = "Kieros"
 trade_goods = cotton
 base_tax = 4
@@ -16,4 +16,4 @@ discovered_by = ottoman
 discovered_by = nomad_group
 extra_cost = 8
 center_of_trade = 1
-add_core = RAM
+add_core = XIM

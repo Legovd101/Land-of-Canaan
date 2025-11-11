@@ -1,7 +1,7 @@
 #3102 - Herakleia Kybistra
-owner = RAM
-controller = RAM
-culture = turkish
+owner = KNY
+controller = KNY
+culture = serican
 religion = zoroastrian
 capital = "Herakleia Kybistra"
 trade_goods = cotton
@@ -16,4 +16,4 @@ discovered_by = ottoman
 discovered_by = nomad_group
 extra_cost = 8
 center_of_trade = 1
-add_core = RAM
+add_core = KNY

@@ -1,7 +1,7 @@
 #408 - Basra
 owner = BSR
 controller = BSR
-culture = al_iraqiya_arabic
+culture = babylonian
 religion = zoroastrian
 capital = "Basra"
 trade_goods = salt

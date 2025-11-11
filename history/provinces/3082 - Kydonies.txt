@@ -1,7 +1,7 @@
 #3082 - Kydonies
-owner = RAM
-controller = RAM
-culture = turkish
+owner = YUN
+controller = YUN
+culture = serican
 religion = zoroastrian
 capital = "Kydonies"
 trade_goods = cotton
@@ -16,4 +16,4 @@ discovered_by = ottoman
 discovered_by = nomad_group
 extra_cost = 8
 center_of_trade = 1
-add_core = RAM
+add_core = YUN

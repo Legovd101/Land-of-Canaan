@@ -1,7 +1,7 @@
 #2227 - Kunduz
 owner = WRN
 controller = WRN
-culture = afghani
+culture = sogdian
 religion = zoroastrian
 capital = "Kunduz"
 trade_goods = cotton

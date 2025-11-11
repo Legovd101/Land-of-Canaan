@@ -4,3 +4,4 @@ government_rank = 1
 religion = zoroastrian
 government = republic
 add_government_reform = peasants_republic
+primary_culture = roman

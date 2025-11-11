@@ -1,8 +1,8 @@
 #3108 - Hierapolis
-owner = RAM
-controller = RAM
-culture = turkish
-religion = zoroastrian
+owner = KNY
+controller = KNY
+culture = serican
+religion = confucianism
 capital = "Hierapolis"
 trade_goods = cotton
 base_tax = 2
@@ -16,4 +16,4 @@ discovered_by = ottoman
 discovered_by = nomad_group
 extra_cost = 8
 center_of_trade = 1
-add_core = RAM
+add_core = KNY

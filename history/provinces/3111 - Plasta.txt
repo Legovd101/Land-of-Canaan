@@ -1,8 +1,8 @@
 #3111 - Plasta
-owner = RAM
-controller = RAM
-culture = turkish
-religion = zoroastrian
+owner = KAI
+controller = KAI
+culture = serican
+religion = confucianism
 capital = "Plasta"
 trade_goods = cotton
 base_tax = 2
@@ -17,4 +17,4 @@ discovered_by = nomad_group
 extra_cost = 8
 center_of_trade = 1
 hre = yes
-add_core = RAM
+add_core = KAI

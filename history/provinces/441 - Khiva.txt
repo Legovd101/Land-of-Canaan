@@ -1,7 +1,7 @@
 #441 - Khiva
 owner = SHY
 controller = SHY
-culture = uzbehk
+culture = bactrian
 religion = zoroastrian
 capital = "Khiva"
 trade_goods = wool

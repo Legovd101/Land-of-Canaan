@@ -1,7 +1,7 @@
 #3113 - PROV3982
 owner = CYP
 controller = CYP
-culture = turkish
+culture = greek
 religion = zoroastrian
 capital = "PROV3982"
 trade_goods = cotton

@@ -5,3 +5,4 @@ capital = 410
 technology_group = ottoman
 government_rank = 1
 religion = zoroastrian
+primary_culture = babylonian

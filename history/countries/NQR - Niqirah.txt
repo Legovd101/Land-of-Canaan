@@ -11,3 +11,4 @@ religion = zoroastrian
 capital = 3067
 technology_group = ottoman
 government_rank = 1
+primary_culture = gulf_arabic

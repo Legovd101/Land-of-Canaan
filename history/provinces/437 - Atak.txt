@@ -1,7 +1,7 @@
 #437 - Atak
 owner = PRT
 controller = PRT
-culture = turkmeni
+culture = parthian
 religion = zoroastrian
 capital = "Nisa"
 trade_goods = livestock

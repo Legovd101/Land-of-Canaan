@@ -1,7 +1,7 @@
 #2311 - Samawah
 owner = KRB
 controller = KRB
-culture = al_iraqiya_arabic
+culture = babylonian
 religion = zoroastrian
 capital = "Najaf"
 trade_goods = spices#Dates

@@ -4,3 +4,4 @@ government_rank = 1
 religion = zoroastrian
 government = republic
 add_government_reform = oligarchy_reform
+primary_culture = indoi
