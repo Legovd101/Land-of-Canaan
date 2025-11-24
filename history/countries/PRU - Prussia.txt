@@ -1,7 +1,7 @@
 government = monarchy
 add_government_reform = feudalism_reform
 government_rank = 1
-primary_culture = prussian
+primary_culture = pruthenian
 religion = baltic_pagan_reformed
 technology_group = western
 capital = 41# Königsberg
@@ -19,7 +19,7 @@ capital = 41# Königsberg
 1525.1.1 = { 
 	changed_tag_from = TEU
 	government = monarchy
-	add_government_reform = prussian_monarchy
+	add_government_reform = pruthenian_monarchy
 }
 1526.2.12 = { 
 	queen = { 
@@ -241,7 +241,7 @@ capital = 41# Königsberg
 }
 1688.5.10 = { 
 	government = monarchy
-	add_government_reform = prussian_monarchy
+	add_government_reform = pruthenian_monarchy
 }
 1688.8.14 = { 
 	heir = { 

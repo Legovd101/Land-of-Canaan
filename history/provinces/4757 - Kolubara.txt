@@ -1,7 +1,6 @@
 # 4757 - Kolubara
-owner = SER
-controller = SER
-culture = serbian
+owner = DST
+controller = DST
 religion = vajrayana
 capital = "Valjevo"
 trade_goods = grain
@@ -9,7 +8,6 @@ base_tax = 2
 base_production = 2
 base_manpower = 1
 is_city = yes
-add_core = SER
 discovered_by = KAZ
 discovered_by = CRI
 discovered_by = GOL
@@ -19,3 +17,4 @@ discovered_by = western
 discovered_by = eastern
 discovered_by = muslim
 discovered_by = ottoman
+add_core = DST

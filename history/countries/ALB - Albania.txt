@@ -1,11 +1,10 @@
 government = monarchy
 add_government_reform = league_of_lezhe_reform
 government_rank = 1
-primary_culture = albanian
+primary_culture = albanoi
 religion = vajrayana
 technology_group = eastern
-capital = 4175# Lezhe
-# The League of Lezhe
+capital = 4750# The League of Lezhe
 1443.3.4 = { 
 	monarch = { 
 		name = "Gjergj Skanderbeg"

@@ -96,3 +96,52 @@ MTO = "countries/Maituo.txt"
  ## Hellenic
 ION = "countries/Ionia.txt"
 PHI = "countries/Philadelphia.txt"
+
+ # Nemecz/Germany
+ ## Linocy
+HCZ = "countries/Hacz.txt"
+RWN = "countries/Rawen.txt"
+MEB = "countries/Mebez.txt"
+LNN = "countries/Linony.txt"
+
+## Drevani
+DRV = "countries/Drevska.txt"
+
+ # Balkans
+ ## Hellenic
+NTP = "countries/Antipatrea.txt"
+MKD = "countries/Makedonia.txt"
+RTA = "countries/Arta.txt"
+HPT = "countries/Heptanesos.txt"
+THS = "countries/Thessalia.txt"
+LRS = "countries/Larissa.txt"
+AET = "countries/Aetolia.txt"
+CLK = "countries/Chalkis.txt"
+MSS = "countries/Messenia.txt"
+LKN = "countries/Lakonia.txt"
+TAS = "countries/Taras.txt"
+KLB = "countries/Kalabri.txt"
+TMS = "countries/Toms.txt"
+IST = "countries/Istra.txt"
+PLL = "countries/Pella.txt"
+
+ ## Hillurio
+DRQ = "countries/Duraq.txt"
+PST = "countries/Perusitan.txt"
+DRD = "countries/Dardan.txt"
+DST = "countries/Daisitan.txt"
+
+ ## Oduris
+PLP = "countries/Pulpudeva.txt"
+SRD = "countries/Sardica.txt"
+
+ ## Rhumae
+CLT = "countries/Calats.txt"
+ADR = "countries/Adreanoblis.txt"
+NNA = "countries/Nina.txt"
+MRD = "countries/Malgraden.txt"
+
+ ## Other
+RXL = "countries/Roxalonston.txt" # Roxolani
+CRL = "countries/Coralla.txt" # Celtic
+YNN = "countries/Yonanan.txt" # Punic

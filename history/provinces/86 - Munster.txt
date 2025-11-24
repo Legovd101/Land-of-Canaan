@@ -1,8 +1,8 @@
 # 86 - Munster
-owner = GER
-controller = GER
-culture = hannoverian
-religion = old_gothic
+owner = BOS
+controller = BOS
+culture = bosnian
+religion = vajrayana
 trade_goods = cloth
 capital = "Münster"
 base_tax = 4
@@ -13,5 +13,5 @@ discovered_by = eastern
 discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman
-add_core = GER
+add_core = BOS
 fort_15th = yes

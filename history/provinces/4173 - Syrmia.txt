@@ -1,7 +1,6 @@
 #4173 - Syrmia
 owner = HUN
 controller = HUN
-culture = serbian
 religion = mahayana
 capital = "Mitrovica"
 trade_goods = grain

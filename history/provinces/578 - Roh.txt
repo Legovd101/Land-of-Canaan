@@ -19,7 +19,7 @@ trade_goods = livestock
 extra_cost = 8
 
 culture = indoi
-religion = 
+religion = zoroastrian
 capital = "Peshawar"
 
 hre = yes

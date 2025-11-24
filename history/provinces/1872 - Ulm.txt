@@ -2,7 +2,7 @@
 owner = ULM
 controller = ULM
 add_core = ULM
-culture = swabian
+culture = croatian
 religion = old_gothic
 base_tax = 5
 base_production = 6

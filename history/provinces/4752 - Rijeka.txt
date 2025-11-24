@@ -1,7 +1,6 @@
 #4752 - Rijeka
-owner = MON
-controller = MON
-culture = croatian
+owner = DAL
+controller = DAL
 religion = mahayana
 capital = "Rijeka"
 trade_goods = cloth
@@ -21,4 +20,3 @@ discovered_by = ottoman
 extra_cost = 8
 center_of_trade = 1
 add_core = DAL
-add_core = MON

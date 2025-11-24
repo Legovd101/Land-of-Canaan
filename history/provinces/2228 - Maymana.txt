@@ -1,7 +1,7 @@
 #2228 - Maymana
 owner = BMC
 controller = BMC
-culture = sogdian
+culture = goths
 religion = zoroastrian
 capital = "Maymana"
 trade_goods = cotton

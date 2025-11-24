@@ -1,7 +1,7 @@
 # 4750 - Krujë, Tirana, central Albania
 owner = ALB
 controller = ALB
-culture = albanian
+culture = albanoi
 religion = vajrayana
 capital = "Krujë"
 trade_goods = wool

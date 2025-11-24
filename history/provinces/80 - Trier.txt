@@ -4,14 +4,13 @@
 ### Modified 10/14/2025 2:36:58 PM ###
 # Trier
 # 80 Trier - 10/14/2025 2:36:58 PM 
-add_core = GER
-owner = GER
-controller = GER
+owner = BRB
+controller = BRB
 base_tax = 5
 base_production = 5
 base_manpower = 2
 trade_goods = grain
-culture = hessian
+culture = flemish
 religion = old_gothic
 capital = "Trier"
 is_city = yes
@@ -19,3 +18,4 @@ discovered_by = eastern
 discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman
+add_core = BRB

@@ -16,7 +16,7 @@ base_manpower = 1
 trade_goods = livestock
 
 culture = indoi
-religion = 
+religion = hinduism
 capital = "Bannu"
 
 hre = yes

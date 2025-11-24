@@ -1,6 +1,6 @@
 #2348 - Chios
-owner = BYZ
-controller = BYZ
+owner = ION
+controller = ION
 culture = anatolian
 religion = buddhism
 capital = "Chio"
@@ -13,4 +13,4 @@ discovered_by = muslim
 discovered_by = ottoman
 discovered_by = eastern
 discovered_by = western
-add_core = BYZ
+add_core = ION

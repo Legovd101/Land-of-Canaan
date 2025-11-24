@@ -35,94 +35,90 @@ historical_units = {
 	ottoman_lancer
 }
 leader_names = { 
-	Þaureiks Þaurim?r Þe?dagild Þe?dan?x Þe?darand Þe?dareiks Þe?darik Þe?daskul Þe?dawald Þe?dulf
-	Þiudagund Þiudarex Þiudawald Þiudegais Þiudegund Þiudfrith Þiudhram Þiudhrand Þiudila Þiudim?r
-	Þiudimar Þiudogais Þiudogund Þiudomar Þiudorand Þiudulf Þrudir?x Alarex Amalar?x Amalarand
-	Amalawulf Amalfrid Amalir?x Ardar?x Ardarik Armanar?x Armanulf Walthar?x Waltharand Wandal?x
-	Widar?x Widarik Widufrid Widug?th Wulfam?r Wulfar?x Wulfiland Wulfilos Wulfrand Wulfsar?x
-	Gaisam?r Gaisamir Gaisar?x Gaisawulf Gautar?x Gundar?x Gundarik Gundulf Harjar?x Harjarand
-	Harjil?x Hermanar?x Hermar?x Hildamir Hildar?x Valamir Vidim?r Teodamir
-	Liubamir Liubar?x R?dar?x R?thar?x Ragnarik Fr?dar?x Fr?dulf Frethar?x 
-}
-army_names = { 
-}
-fleet_names = { 
+	Þaureiks Þaurimir Þedagild Þedandix Þedarand Þedareiks Þedarik Þedaskul Þedawald Þedulf
+	Þiudagund Þiudarex Þiudawald Þiudegais Þiudegund Þiudfrith Þiudhram Þiudhrand Þiudila Þiudimir
+	Þiudimar Þiudogais Þiudogund Þiudomar Þiudorand Þiudulf Þrudirix Alarex Amalarix Amalarand
+	Amalawulf Amalfrid Amalirix Ardarix Ardarik Armanarix Armanulf Waltharix Waltharand Wandalix
+	Widarix Widarik Widufrid Widugith Wulfamir Wulfarix Wulfiland Wulfilos Wulfrand Wulfsarix
+	Gaisamir Gaisamir Gaisarix Gaisawulf Gautarix Gundarix Gundarik Gundulf Harjarix Harjarand
+	Harjilix Hermanarix Hermarix Hildamir Hildarix Valamir Vidimir Teodamir
+	Liubamir Liubarix Ridarix Ritharix Ragnarik Fridarix Fridulf Fretharix 
 }
 ship_names = { 
-	Þaureiks Þaurim?r Þaurim?r? Þaurir?x Þe?d?rik? Þe?dagais Þe?dagild Þe?dagund? Þe?dan?x Þe?dan?x?
-	Þe?dar?x Þe?darand Þe?dareiks Þe?dareiks? Þe?darik Þe?darik? Þe?daskul Þe?daskul Þe?daskul? Þe?daskul?
-	Þe?dawald Þe?dawald? Þe?dawulf Þe?dawulfa Þe?dulf Þiudagund Þiudagund? Þiudam?r Þiudamir? Þiudar?x
-	Þiudareks? Þiudarex Þiudawald Þiudawald? Þiudegais Þiudegund Þiudfrith Þiudhram Þiudhrand Þiudhrand?
-	Þiudila Þiudim?r Þiudimar Þiudimar? Þiudogais Þiudogund Þiudomar Þiudorand Þiudulf Þrudir?x
-	Alarex Amalar?x Amalar?x? Amalarand Amalawulf Amalawulf? Amalawulf? Amalfr?d? Amalfr?d? Amalfrid
-	Amalfrid? Amalfrid? Amalfrith? Amalir?x Amalir?x Amalir?x? Amalr?x? Ardar?x Ardarik Armanar?x
-	Armanulf Walthar?x Walthar?x? Waltharand Wandal?x Widar?x Widarik Widufrid Widug?th Wulfam?r
-	Wulfar?x Wulfiland Wulfiland? Wulfild? Wulfilos Wulfrand Wulfsar?x Wulfsar?x? Gaisam?r Gaisamir
-	Gaisar?x Gaisar?x Gaisarand Gaisawulf Gautar?x Gundar?x Gundarik Gundulf Harjar?x Harjarand
-	Harjarand? Harjil?x Hermanar?x Hermar?x Hildamir Hildar?x Valamir Vidim?r Teodamir
-	Liubamir Liubar?x R?dar?x R?thar?x R?tharik Ragnarik Fr?dar?x Fr?dulf Frethar?x 
+	Þaureiks Þaurimir Þaurimir Þauririx Þedirik Þedagais Þedagild Þedagundi Þedandix Þedandixi
+	Þedarix Þedaran d Þedareiks Þedareiksi Þedarik Þedariki Þedaskul Þedaskul Þedaskuli Þedaskuli
+	Þedawald Þedawaldi Þedawulf Þedawulfa Þedulf Þiudagund Þiudagundi Þiudamir Þiudamiri Þiudarix
+	Þiudareksi Þiudarex Þiudawald Þiudawaldi Þiudegais Þiudegund Þiudfrith Þiudhram Þiudhrand Þiudhrandi
+	Þiudila Þiudimir Þiudimar Þiudimari Þiudogais Þiudogund Þiudomar Þiudorand Þiudulf Þrudirix
+	Alarex Amalarix Amalarixi Amalarand Amalawulf Amalawulfi Amalawulfi Amalfridi Amalfridi Amalfrid
+	Amalfridi Amalfridi Amalfrithi Amalirix Amalirix Amalirixi Amalrix Ardarix Ardarik Armanarix
+	Armanulf Waltharix Waltharixi Waltharand Wandalix Widarix Widarik Widufrid Widugith Wulfamir
+	Wulfarix Wulfiland Wulfilandi Wulfildi Wulfilos Wulfrand Wulfsarix Wulfsarixi Gaisamir Gaisamir
+	Gaisarix Gaisarix Gaisarand Gaisawulf Gautarix Gundarix Gundarik Gundulf Harjarix Harjarand
+	Harjarandi Harjilix Hermanarix Hermarix Hildamir Hildarix Valamir Vidimir Teodamir
+	Liubamir Liubarix Ridarix Ritharix Ritharik Ragnarik Fridarix Fridulf Fretharix 
 }
 monarch_names = { 
 	"Þiudarex #0" = 40
-	"Armanar?x #0" = 20
+	"Armanarix #0" = 20
 	"Wulfilos #0" = 20
 	"Alarex #0" = 15
 	"Þaureiks #0" = 10
-	"Gaisar?x #0" = 10
+	"Gaisarix #0" = 10
 	"Ragnila #0" = -10
-	"Sunhild? #0" = -5
-	"G?þila #0" = -5
-	"Þe?drika #0" = -1
-	"Amalafrid? #0" = -1
+	"Sunhildi #0" = -5
+	"Githila #0" = -5
+	"Þedrika #0" = -1
+	"Amalafridi #0" = -1
 	"Þaurila #0" = -1
-	"Wulfild? #0" = -1
-	"Fridigund? #0" = -1
-	"Arb?tha #0" = -1
-	"Liub?tha #0" = -1
-	"Hermanar?x #0" = 0
+	"Wulfildi #0" = -1
+	"Fridigundi #0" = -1
+	"Arbitha #0" = -1
+	"Liubitha #0" = -1
+	"Hermanarix #0" = 0
 	"Teodamir #0" = 0
-	"Þiudim?r #0" = 0
+	"Þiudimir #0" = 0
 	"Valamir #0" = 0
-	"Vidim?r #0" = 0
+	"Vidimir #0" = 0
 	"Þiudila #0" = 0
-	"Gautar?x #0" = 0
-	"Widug?th #0" = 0
-	"Ardar?x #0" = 0
-	"Harjar?x #0" = 0
-	"Widim?r #0" = 0
-	"Þrudir?x #0" = 0
+	"Gautarix #0" = 0
+	"Widugith #0" = 0
+	"Ardarix #0" = 0
+	"Harjarix #0" = 0
+	"Widimir #0" = 0
+	"Þrudirix #0" = 0
 	"Gaisaric #0" = 0
-	"Þe?dareiks #0" = 0
-	"Wandal?x #0" = 0
-	"Gundar?x #0" = 0
-	"Liubar?x #0" = 0
-	"R?dar?x #0" = 0
-	"Walthar?x #0" = 0
-	"Ermanfr?d #0" = 0
-	"Hildar?x #0" = 0
-	"Amalar?x #0" = 0
+	"Þedareiks #0" = 0
+	"Wandalix #0" = 0
+	"Gundarix #0" = 0
+	"Liubarix #0" = 0
+	"Ridarix #0" = 0
+	"Waltharix #0" = 0
+	"Ermanfrid #0" = 0
+	"Hildarix #0" = 0
+	"Amalarix #0" = 0
 	"Þiudomar #0" = 0
-	"Frethar?x #0" = 0
-	"Harjil?x #0" = 0
-	"Wulfar?x #0" = 0
-	"Fr?dar?x #0" = 0
+	"Fretharix #0" = 0
+	"Harjilix #0" = 0
+	"Wulfarix #0" = 0
+	"Fridarix #0" = 0
 	"Widarik #0" = 0
-	"Þe?darik #0" = 0
+	"Þedarik #0" = 0
 	"Þiudulf #0" = 0
-	"Widar?x #0" = 0
+	"Widarix #0" = 0
 	"Þiudfrith #0" = 0
 	"Gundulf #0" = 0
 	"Þiudhram #0" = 0
-	"Þe?dagild #0" = 0
-	"Wulfam?r #0" = 0
-	"Hermar?x #0" = 0
+	"Þedagild #0" = 0
+	"Wulfamir #0" = 0
+	"Hermarix #0" = 0
 	"Þiudegais #0" = 0
 	"Ragnarik #0" = 0
-	"Wulfsar?x #0" = 0
-	"Þaurim?r #0" = 0
+	"Wulfsarix #0" = 0
+	"Þaurimir #0" = 0
 	"Þiudhrand #0" = 0
 	"Harjarand #0" = 0
 	"Gaisamir #0" = 0
-	"Þe?daskul #0" = 0
+	"Þedaskul #0" = 0
 	"Armanulf #0" = 0
 }

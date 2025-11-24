@@ -1,6 +1,6 @@
 #4760 - Innbaiern
-owner = SAX
-controller = SAX
+owner = BAV
+controller = BAV
 culture = bavarian
 religion = old_gothic
 base_tax = 3
@@ -14,4 +14,4 @@ discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman
 #Last of the Landshuter Wittelsbachs dies, Bavaria reunited
-add_core = SAX
+add_core = BAV

@@ -1,0 +1,4 @@
+capital = 3142
+technology_group = eastern
+government = monarchy
+government_rank = 1

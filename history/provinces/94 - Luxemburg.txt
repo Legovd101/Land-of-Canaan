@@ -1,9 +1,9 @@
 # 94 Luxembourg - Principal cities: Luxembourg
-owner = GER
-controller = GER
+owner = BUR
+controller = BUR
 capital = "Luxemburg"
 is_city = yes
-culture = wallonian
+culture = flemish
 religion = old_gothic
 base_tax = 5
 base_production = 5
@@ -14,5 +14,5 @@ discovered_by = eastern
 discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman
-add_core = GER
+add_core = BUR
 fort_15th = yes

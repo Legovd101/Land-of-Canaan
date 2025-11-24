@@ -1,7 +1,7 @@
 #Riga Bight, incl. the city of Riga, and Dünamünde.
 owner = EST
 controller = EST
-culture = baltic_german
+culture = estonian
 religion = baltic_pagan_reformed
 base_tax = 5
 base_production = 5

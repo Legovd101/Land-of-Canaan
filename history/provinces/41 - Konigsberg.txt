@@ -2,7 +2,7 @@
 owner = PRU
 controller = PRU
 capital = "Königsberg"
-culture = prussian
+culture = pruthenian
 religion = buddhism
 trade_goods = gems#Amber
 base_tax = 5

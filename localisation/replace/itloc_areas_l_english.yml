@@ -1,8 +1,37 @@
 ﻿l_english:
  artaka_area: "Artaka"
  artaka_area_adj: "Artaka"
+
  chaldea_area: "Chaldía"
  chaldea_area_adj: "Chaldían"
+
  urmia_area: "Urmia"
+ urmia_area_adj: "Urmian"
+
  mikra_sogdia_area: "Mikra Sogdia"
+ mikra_sogdia_area_adj: "Mikra Sogdian"
+
  qom_area: "Qom"
+ qom_area_adj: "Qomi"
+
+ thessalonica_area: "Thessalonika"
+ thessalonica_area_adj: "Thessalonikan"
+
+ greek_islands_area: "Greek Islands"
+ greek_islands_area_adj: "Greek Insular"
+
+ attica_area: "Attika"
+ attica_area_adj: "Attikan"
+
+ thessalia_area: "Thessalia"
+ thessalia_area_adj: "Thessalian"
+
+ philippopolis_area: "Philippopolis"
+ philippopolis_area_adj: "Philippopolitan"
+
+ mala_area: "Mala"
+ mala_area_adj: "Malan"
+
+ northern_greece_area: "Epirus"
+ northern_greece_area_adj: "Epirus"
+

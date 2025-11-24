@@ -1,6 +1,6 @@
 #130 - Istria
-owner = MON
-controller = MON
+owner = DAL
+controller = DAL
 culture = dalmatian
 religion = mahayana
 capital = "Pula"
@@ -21,4 +21,3 @@ discovered_by = ottoman
 extra_cost = 8
 center_of_trade = 1
 add_core = DAL
-add_core = MON

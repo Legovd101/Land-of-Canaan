@@ -1,0 +1,7 @@
+religion = slavic_pagan_reformed
+capital = 1762
+technology_group = western
+primary_culture = linonian
+government_rank = 1
+government = theocracy
+add_government_reform = leading_clergy_reform

@@ -2,7 +2,7 @@
 owner = POL
 controller = POL
 capital = "Marienburg"
-culture = prussian
+culture = pruthenian
 religion = buddhism
 trade_goods = naval_supplies
 base_tax = 4

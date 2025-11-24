@@ -1,7 +1,6 @@
 #4239 - Belgrade
-owner = SER
-controller = SER
-culture = serbian
+owner = DST
+controller = DST
 religion = mahayana
 capital = "Belgrade"
 trade_goods = cloth
@@ -9,7 +8,6 @@ base_tax = 4
 base_production = 4
 base_manpower = 2
 is_city = yes
-add_core = SER
 discovered_by = KAZ
 discovered_by = CRI
 discovered_by = GOL
@@ -21,4 +19,5 @@ discovered_by = muslim
 discovered_by = ottoman
 extra_cost = 8
 center_of_trade = 1
+add_core = DST
 fort_15th = yes

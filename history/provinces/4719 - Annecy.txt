@@ -1,6 +1,6 @@
 owner = BUR
 controller = BUR
-culture = occitain
+culture = hessian
 religion = old_gothic
 base_tax = 3
 base_production = 2

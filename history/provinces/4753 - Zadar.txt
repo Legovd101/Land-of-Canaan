@@ -1,6 +1,6 @@
 # 4753 - Zadar
-owner = MON
-controller = MON
+owner = NNA
+controller = NNA
 culture = dalmatian
 religion = mahayana
 capital = "Zadar"
@@ -19,4 +19,4 @@ discovered_by = western
 discovered_by = eastern
 discovered_by = muslim
 discovered_by = ottoman
-add_core = MON
+add_core = NNA

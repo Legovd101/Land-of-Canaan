@@ -17,7 +17,7 @@ center_of_trade = 1
 trade_goods = spices
 extra_cost = 8
 
-culture = al_misr_arabic
+culture = old_egyptian
 religion = canaanite
 capital = "Al Iskandirya"
 

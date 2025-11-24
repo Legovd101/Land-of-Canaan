@@ -1,9 +1,8 @@
 # 4744 - Zwickau
-owner = SAX
-controller = SAX
-add_core = SAX
-culture = saxon
-religion = old_gothic
+owner = SOR
+controller = SOR
+culture = sorbian
+religion = mahayana
 base_tax = 2
 base_production = 3
 trade_goods = cloth
@@ -14,3 +13,4 @@ discovered_by = eastern
 discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman
+add_core = SOR

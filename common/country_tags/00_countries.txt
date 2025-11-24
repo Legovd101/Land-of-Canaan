@@ -44,6 +44,7 @@ TRA	= "countries/Transylvania.txt"
 WAL	= "countries/Wallachia.txt"
 HUN	= "countries/Hungary.txt"
 SLO = "countries/Slovakia.txt"
+RAG = "countries/Ragusa.txt"
 TUR	= "countries/Ottomans.txt"
 
 #British Isles 

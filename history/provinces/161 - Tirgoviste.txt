@@ -1,6 +1,6 @@
 #161 - Tîrgoviste
-owner = DAC
-controller = DAC
+owner = RXL
+controller = RXL
 culture = romanian
 religion = vajrayana
 capital = "Tîrgoviste"
@@ -9,7 +9,6 @@ base_tax = 5
 base_production = 5
 base_manpower = 3
 is_city = yes
-add_core = DAC
 discovered_by = KAZ
 discovered_by = CRI
 discovered_by = GOL
@@ -21,3 +20,4 @@ discovered_by = muslim
 discovered_by = ottoman
 extra_cost = 8
 center_of_trade = 1
+add_core = RXL

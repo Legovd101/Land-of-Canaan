@@ -1,7 +1,6 @@
 #138 - Zeta
-owner = ALB
-controller = ALB
-culture = serbian
+owner = PST
+controller = PST
 religion = vajrayana
 capital = "Zabljak"
 trade_goods = livestock
@@ -18,4 +17,4 @@ discovered_by = western
 discovered_by = eastern
 discovered_by = muslim
 discovered_by = ottoman
-add_core = ALB
+add_core = PST

@@ -1,6 +1,6 @@
 #136 - Split
-owner = MON
-controller = MON
+owner = RAG
+controller = RAG
 culture = dalmatian
 religion = mahayana
 capital = "Split"
@@ -19,5 +19,5 @@ discovered_by = western
 discovered_by = eastern
 discovered_by = muslim
 discovered_by = ottoman
-add_core = MON
+add_core = RAG
 fort_15th = yes

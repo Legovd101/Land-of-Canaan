@@ -1,9 +1,8 @@
 #53 - Lüneburg
-owner = LUN
-controller = LUN
-add_core = LUN
-culture = lower_saxon
-religion = norse_pagan
+owner = SER
+controller = SER
+culture = serbian
+religion = vajrayana
 capital = "Lüneburg"
 trade_goods = salt
 base_tax = 3
@@ -14,3 +13,4 @@ discovered_by = eastern
 discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman
+add_core = SER

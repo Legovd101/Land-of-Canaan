@@ -152,4 +152,4 @@ fixed_capital = 52 # Cannot move capital away from this province & no power cost
 	}
 }
 
-1650.1.1 = { primary_culture = prussian }
+1650.1.1 = { primary_culture = pruthenian }

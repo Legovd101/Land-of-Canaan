@@ -1,7 +1,7 @@
-owner = SAX
-controller = SAX
+owner = SIL
+controller = SIL
 culture = schlesian
-religion = old_gothic
+religion = buddhism
 base_tax = 3
 base_production = 3
 capital = "Opole"
@@ -17,4 +17,4 @@ discovered_by = western
 discovered_by = eastern
 discovered_by = muslim
 discovered_by = ottoman
-add_core = SAX
+add_core = SIL

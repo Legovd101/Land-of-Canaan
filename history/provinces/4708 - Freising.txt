@@ -1,9 +1,9 @@
-owner = SAX
-controller = SAX
+owner = MVA
+controller = MVA
 capital = "Freising"
 is_city = yes
-culture = bavarian
-religion = old_gothic
+culture = czech
+religion = slavic_pagan_reformed
 base_tax = 4
 base_production = 4
 base_manpower = 2
@@ -13,4 +13,4 @@ discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman
 #Last of the Landshuter Wittelsbachs dies, Bavaria reunited
-add_core = SAX
+add_core = MVA

@@ -1,7 +1,6 @@
 #140 - Core of Bosnian kingdom, Soli+Usora+Most of Vrhbosna
-owner = MON# Part of the Bosnian kingdom
-controller = MON
-culture = bosnian
+owner = DST# Part of the Bosnian kingdom
+controller = DST
 religion = vajrayana
 capital = "Doboj"#or Srebrenik
 trade_goods = salt
@@ -18,4 +17,4 @@ discovered_by = western
 discovered_by = eastern
 discovered_by = muslim
 discovered_by = ottoman
-add_core = MON
+add_core = DST

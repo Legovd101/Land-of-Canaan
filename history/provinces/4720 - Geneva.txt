@@ -1,6 +1,6 @@
 owner = BUR
 controller = BUR
-culture = swiss
+culture = hessian
 religion = old_gothic
 capital = "Geneva"
 trade_goods = cloth

@@ -1,7 +1,6 @@
 #1828 - Donji Kraji
-owner = MON# Part of the Bosnian kingdom
-controller = MON
-culture = bosnian
+owner = DAL# Part of the Bosnian kingdom
+controller = DAL
 religion = vajrayana
 capital = "Jajce"
 trade_goods = livestock
@@ -18,4 +17,4 @@ discovered_by = western
 discovered_by = eastern
 discovered_by = muslim
 discovered_by = ottoman
-add_core = MON
+add_core = DAL

@@ -1,9 +1,9 @@
 #266 - Bohemia
-owner = SAX
-controller = SAX
+owner = SIL
+controller = SIL
 capital = "Praha"
-culture = czech
-religion = old_gothic
+culture = schlesian
+religion = buddhism
 trade_goods = cloth
 base_tax = 8
 base_production = 8
@@ -21,5 +21,5 @@ discovered_by = ottoman
 extra_cost = 16
 center_of_trade = 2
 add_province_triggered_modifier = religious_center
-add_core = SAX
+add_core = SIL
 fort_15th = yes

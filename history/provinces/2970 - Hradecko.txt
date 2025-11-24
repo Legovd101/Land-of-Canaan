@@ -1,9 +1,9 @@
 # - Hradecko
-owner = SAX
-controller = SAX
+owner = SIL
+controller = SIL
 capital = "Hradec Králové"
-culture = czech
-religion = old_gothic
+culture = schlesian
+religion = slavic_pagan_reformed
 trade_goods = grain
 base_tax = 3
 base_production = 3
@@ -18,4 +18,4 @@ discovered_by = western
 discovered_by = eastern
 discovered_by = muslim
 discovered_by = ottoman
-add_core = SAX
+add_core = SIL

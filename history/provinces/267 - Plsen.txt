@@ -1,9 +1,9 @@
 #267 - Plsen
-owner = SAX
-controller = SAX
+owner = MVA
+controller = MVA
 capital = "Plzen"
 culture = czech
-religion = old_gothic
+religion = buddhism
 trade_goods = naval_supplies
 base_tax = 5
 base_production = 5
@@ -18,4 +18,4 @@ discovered_by = western
 discovered_by = eastern
 discovered_by = muslim
 discovered_by = ottoman
-add_core = SAX
+add_core = MVA

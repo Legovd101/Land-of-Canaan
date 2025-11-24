@@ -1,6 +1,6 @@
 #142 - Corfu
-owner = BYZ
-controller = BYZ
+owner = HPT
+controller = HPT
 culture = greek
 religion = buddhism
 capital = "Corfu"
@@ -14,5 +14,5 @@ discovered_by = western
 discovered_by = eastern
 discovered_by = muslim
 discovered_by = ottoman
-add_core = BYZ
+add_core = HPT
 fort_15th = yes

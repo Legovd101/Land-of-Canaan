@@ -1,7 +1,6 @@
 #141 - Serbia
-owner = SER
-controller = SER
-culture = serbian
+owner = DST
+controller = DST
 religion = vajrayana
 capital = "Smederevo"
 trade_goods = grain
@@ -9,7 +8,6 @@ base_tax = 3
 base_production = 3
 base_manpower = 2
 is_city = yes
-add_core = SER
 discovered_by = KAZ
 discovered_by = CRI
 discovered_by = GOL
@@ -19,4 +17,5 @@ discovered_by = western
 discovered_by = eastern
 discovered_by = muslim
 discovered_by = ottoman
+add_core = DST
 fort_15th = yes

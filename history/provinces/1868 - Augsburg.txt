@@ -1,7 +1,7 @@
 # 1868 - Augsburg
-owner = SAX
-controller = SAX
-culture = swabian
+owner = TIR
+controller = TIR
+culture = croatian
 religion = old_gothic
 base_tax = 7
 base_production = 6
@@ -13,4 +13,4 @@ discovered_by = eastern
 discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman
-add_core = SAX
+add_core = TIR

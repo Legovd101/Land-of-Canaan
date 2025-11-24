@@ -17,7 +17,7 @@ base_manpower = 3
 trade_goods = livestock
 
 culture = indoi
-religion = 
+religion = zoroastrian
 capital = "Jalalabad"
 
 hre = yes

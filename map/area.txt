@@ -920,7 +920,7 @@ inner_austria_area = {  #4
 carinthia_area = {  #4 # Carniola in-game
 
 	color = { 46 217 110 }
-	129 130 1769 4738 4751 
+	129 130 1769 4738 4751 3146
 }
 switzerland_area = {  #4
 
@@ -987,26 +987,40 @@ mecklenburg_area = {  #5
 ########################################
 macedonia_area = {  #5 (Macedonia)
 
-	148 1853 3001 4702 4780 
+	1853 3001 4780 3131 3134
+}
+thessalonica_area = {
+	4702 148 3128 3129
 }
 morea_area = {  #4 Central Greece & Crete
 
-	145 146 163 1773 4701 
+	145 1773 4701 3119 3118 3117 3116
 }
 northern_greece_area = {  #3 #Northern Greece
 
-	142 144 147 4699 4698 
+	144 4699 3126 3124
+}
+greek_islands_area = {
+	142 3120 163 4698
+}
+attica_area = {
+	3125 146 3122 3123
+}
+thessalia_area = {
+	147 3121 3127 3130
 }
 thrace_area = {  #5
-
-	149 151 1764 4779 4705 
+	149 151 1764 4779 4705 3151 3132
+}
+philippopolis_area = {
+	2750 4703 1765 3138 3136
 }
 bulgaria_area = {  #5
 
-	150 1765 2746 2750 4703 
+	150 2746 3135 3148
 }
 silistria_area = { 
-	4704 4706 159 
+	4704 4706 159 3137 3149
 }
 wallachia_area = {  #5
 
@@ -1030,32 +1044,35 @@ slovakia_area = {  #5
 }
 serbia_area = {  #5
 
-	141 3000 4176 4239 4757 
+	141 3000 4176 4239 4757 3140
 }
 rascia_area = {  #4
 
-	138 1766 1827 4754 
+	138 1766 1827 4754 3139
 }
 albania_area = {  #4
 
-	143 4174 4175 4750 
+	143 4174 4175 4750 3133
 }
 bosnia_area = {  #5
 
-	139 140 1831 3002 4755 
+	140 4755 3141 3147
+}
+mala_area = {
+	1831 3002 139 3150
 }
 croatia_area = {  #4
 
 	color = { 18 126 16 }
-	131 1826 1828 4752 
+	131 1826 1828 4752 3143 3144
 }
 slavonia_area = {  #4
 
-	152 4756 1767 4173 
+	152 4756 1767 4173 3145
 }
 east_adriatic_coast_area = {  #3
 
-	136 137 4753 
+	136 137 4753 3142
 }
 alfold_area = {  #4
 

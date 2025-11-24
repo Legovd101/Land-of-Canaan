@@ -1,8 +1,8 @@
 #1857 - Lauenburg
-owner = SHL
-controller = SHL
-culture = lower_saxon
-religion = norse_pagan
+owner = SER
+controller = SER
+culture = serbian
+religion = vajrayana
 capital = "Lauenburg"
 trade_goods = salt
 base_tax = 2
@@ -13,4 +13,4 @@ discovered_by = eastern
 discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman
-add_core = SHL
+add_core = SER

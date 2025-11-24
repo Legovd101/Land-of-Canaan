@@ -481,7 +481,7 @@ change_estate_land_share = {
 	}
 }
 
-1650.1.1 = { primary_culture = prussian }
+1650.1.1 = { primary_culture = pruthenian }
 
 1654.1.1 = { leader = {	name = "Georg von Derfflinger"	type = general	fire = 4	shock = 3	manuever = 3	siege = 2	death_date = 1695.2.14 } }
 

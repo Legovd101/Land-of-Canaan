@@ -1,7 +1,7 @@
 # 4769 - Jülich
-owner = GER
-controller = GER
-culture = hessian
+owner = BRB
+controller = BRB
+culture = flemish
 religion = old_gothic
 trade_goods = grain
 capital = "Jülich"
@@ -13,4 +13,4 @@ discovered_by = eastern
 discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman
-add_core = GER
+add_core = BRB
