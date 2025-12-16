@@ -1,0 +1,7 @@
+capital = 4789
+government_rank = 1
+religion = celtiberian_pagan
+technology_group = western
+primary_culture = celtiberian
+government = republic
+add_government_reform = oligarchy_reform

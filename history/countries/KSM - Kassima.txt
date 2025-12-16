@@ -1,7 +1,7 @@
 capital = 3047
 technology_group = ottoman
 government_rank = 1
-religion = zoroastrian
+religion = mithraism
 government = monarchy
 add_government_reform = feudalism_reform
 primary_culture = limenioi

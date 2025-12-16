@@ -44,7 +44,7 @@ monarch_names = {
 	"Masakuni #0" = 50
 	"Takamasa #0" = 50
 	"Masanao #0" = 50
-    "Haruteru #0" = 50
+	"Haruteru #0" = 50
 	"Masahisa #0" = 30	
 	"Akitaka #0" = 30	
 	"Tanenaga #0" = 30	
@@ -62,7 +62,7 @@ monarch_names = {
 }
 
 leader_names = {
-    # Daimyo names
+	# Daimyo names
 	Akamatsu Akechi Ashikaga Amago Kyogoku Rokkaku Asakura Asano Aso Chosokabe Date Hachisuka
 	Hatakeyama Hojo Hosokawa Ichijo Keda Imagawa Isshiki Ito Jinbo Kikuchi Kono Maeda
 	Matsunaga Mimura Miyoshi Mogami Mori Nabeshima Nagao Oda Ogasawara Otomo Ouchi
@@ -72,7 +72,7 @@ leader_names = {
 	Hatakeyama Hatakeyama Hatakeyama Hatakeyama Hatakeyama Hatakeyama Hatakeyama Hatakeyama Hatakeyama Hatakeyama
 	Hatakeyama Hatakeyama Hatakeyama Hatakeyama Hatakeyama Hatakeyama Hatakeyama Hatakeyama Hatakeyama Hatakeyama
 	# Vassals of Hatakeyama
-    Saito Saito Saito Saito Saito Hira Hira Hira Hira Hira
+	Saito Saito Saito Saito Saito Hira Hira Hira Hira Hira
 	Sahara Sahara Sahara Sahara Sahara Jinbo Jinbo Jinbo Jinbo Jinbo
 	Yusa Yusa Yusa Yusa Yusa Sho Sho Sho Sho Sho
 	Atagi Atagi Atagi Atagi Atagi Horiuchi Horiuchi Horiuchi Horiuchi Horiuchi

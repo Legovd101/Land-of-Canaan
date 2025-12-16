@@ -46,7 +46,7 @@ monarch_names = { # Most Monarchs were named with "tada" or "hisa"
 	"Yoshihiro #0" = 50
 	"Iehisa #0" = 50
 	"Mitsuhisa #0" = 50
-    "Tomohisa #0" = 50
+	"Tomohisa #0" = 50
 	"Tadayoshi #0" = 50
 	"Mochihisa #0" = 50
 	"Tadaharu #0" = 50	
@@ -68,7 +68,7 @@ monarch_names = { # Most Monarchs were named with "tada" or "hisa"
 }
 
 leader_names = {
-    # Daimyo names
+	# Daimyo names
 	Akamatsu Akechi Asakura Ashikaga Amago Aso Chosokabe Date Hatakeyama	
 	Ichijo Imagawa Isshiki Ito Jinbo Kikuchi Kono Matsunaga Miyoshi Mogami
 	Mori Nagao Oda Ogasawara Otomo Ouchi Ryuzoji Sagara Saito Satake Satomi
@@ -78,7 +78,7 @@ leader_names = {
 	Shimazu Shimazu Shimazu Shimazu Shimazu Shimazu Shimazu Shimazu Shimazu Shimazu
 	Shimazu Shimazu Shimazu Shimazu Shimazu Shimazu Shimazu Shimazu Shimazu Shimazu
 	# Retainers of Shimazu
-    Ijuin Ijuin Ijuin Ijuin Ijuin Irikiin Irikiin Irikiin Irikiin Irikiin
+	Ijuin Ijuin Ijuin Ijuin Ijuin Irikiin Irikiin Irikiin Irikiin Irikiin
 	Kawakami Kawakami Kawakami Kawakami Kawakami Kedoin Kedoin Kedoin Kedoin Kedoin
 	Sonoda Sonoda Sonoda Sonoda Sonoda Tanegashima Tanegashima Tanegashima Tanegashima Tanegashima
 	Gamo Gamo Gamo Gamo Gamo Ei Ei Ei Ei Ei Hishikari Hishikari Hishikari Hishikari Hishikari

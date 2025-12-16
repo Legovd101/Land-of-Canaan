@@ -1,0 +1,18 @@
+#3340 - Aranda
+owner = GDL#Juan II of Castille
+controller = GDL
+culture = hispanic
+religion = new_gothic
+base_tax = 2
+base_production = 3
+trade_goods = wine
+base_manpower = 2
+capital = "Aranda"
+is_city = yes
+discovered_by = western
+discovered_by = latin
+discovered_by = viking
+discovered_by = eastern
+discovered_by = muslim
+discovered_by = ottoman
+add_core = GDL

@@ -1,7 +1,7 @@
 #141 - Serbia
 owner = DST
 controller = DST
-religion = vajrayana
+religion = xadarosh
 capital = "Smederevo"
 trade_goods = grain
 base_tax = 3
@@ -14,8 +14,11 @@ discovered_by = GOL
 discovered_by = AST
 discovered_by = QAS
 discovered_by = western
+discovered_by = latin
+discovered_by = viking
 discovered_by = eastern
 discovered_by = muslim
 discovered_by = ottoman
 add_core = DST
 fort_15th = yes
+culture = daesitiates

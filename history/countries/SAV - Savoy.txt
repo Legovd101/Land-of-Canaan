@@ -292,7 +292,7 @@ add_government_reform = autocracy_reform }
 		adm = 2
 		dip = 3
 		mil = 3
-		leader = {	name = "Carlo Emanuele"      	type = general	fire = 2	shock = 4	manuever = 3	siege = 0}
+		leader = {	name = "Carlo Emanuele"	  	type = general	fire = 2	shock = 4	manuever = 3	siege = 0}
 	}
 }
 
@@ -307,7 +307,7 @@ add_government_reform = autocracy_reform }
 		adm = 2
 		dip = 3
 		mil = 3
-		leader = {	name = "Carlo Emanuele"      	type = general	fire = 2	shock = 4	manuever = 3	siege = 0}
+		leader = {	name = "Carlo Emanuele"	  	type = general	fire = 2	shock = 4	manuever = 3	siege = 0}
 	}
 }
 
@@ -322,7 +322,7 @@ add_government_reform = autocracy_reform }
 		adm = 4
 		dip = 4
 		mil = 2
-		leader = {	name = "Vittorio Amedeo I"        	type = general	fire = 3	shock = 3	manuever = 3	siege = 0}
+		leader = {	name = "Vittorio Amedeo I"			type = general	fire = 3	shock = 3	manuever = 3	siege = 0}
 	}
 }
 		
@@ -333,7 +333,7 @@ add_government_reform = autocracy_reform }
 		adm = 4
 		dip = 4
 		mil = 2
-		leader = {	name = "Vittorio Amedeo I"        	type = general	fire = 3	shock = 3	manuever = 3	siege = 0}
+		leader = {	name = "Vittorio Amedeo I"			type = general	fire = 3	shock = 3	manuever = 3	siege = 0}
 	}
 }
 
@@ -375,7 +375,7 @@ add_government_reform = autocracy_reform }
 	}
 }
 
-1638.1.1 = { leader = {	name = "Tommaso di Savoia"     	type = general	fire = 3	shock = 3	manuever = 3	siege = 0	death_date = 1656.1.1 } }
+1638.1.1 = { leader = {	name = "Tommaso di Savoia"	 	type = general	fire = 3	shock = 3	manuever = 3	siege = 0	death_date = 1656.1.1 } }
 
 1638.10.5 = {
 	monarch = {

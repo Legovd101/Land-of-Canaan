@@ -127,8 +127,8 @@ ship_names = {
 	Drake
 	Ljugarn
 	Slite
-    Västergarn
-    Visby
+	Västergarn
+	Visby
 	
 	Abboren Abraham Akilles Alexander "Alexander Magnus" Alfsborg Amarant Amphion Anclam
 	Andromeda Ankan "Anna Regina" Apollo Arendal Astrild Baccus Balder Bartolomeus Basiliskus Bauta Bellona Bernhardus Berserk

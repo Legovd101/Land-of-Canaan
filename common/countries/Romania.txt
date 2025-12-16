@@ -96,7 +96,7 @@ leader_names = {
 	Lupu
 	Moruzi Movila Musatin
 	Norocea 
-	Racovita Ruset                         
+	Racovita Ruset						 
 	Sturdza
 }
 

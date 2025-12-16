@@ -8,6 +8,6 @@ primary_culture = serican
 capital = 323
 # Specific Effects #
 religion = zoroastrian
-technology_group = chinese
+technology_group = ottoman
 government = monarchy
 add_government_reform = feudalism_reform

@@ -1,7 +1,7 @@
 capital = 4295
 technology_group = ottoman
 government_rank = 1
-religion = zoroastrian
+religion = mithraism
 government = tribal
 add_government_reform = steppe_horde
 primary_culture = kurdish

@@ -1,0 +1,7 @@
+capital = 1750
+technology_group = western
+government_rank = 1
+religion = new_gothic
+primary_culture = visigothic
+government = monarchy
+add_government_reform = feudalism_reform

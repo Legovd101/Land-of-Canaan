@@ -82,11 +82,11 @@ monarch_names = {
 	"Wilbur #0" = 0
 	"William #0" = 0
 	"Alexander #0" = 0
-    "Stephen #0" = 0
+	"Stephen #0" = 0
 	
-    "Deborah #0" = -1
-    "Sarah #0" = -1
-    "Anne #0" = -1
+	"Deborah #0" = -1
+	"Sarah #0" = -1
+	"Anne #0" = -1
 }
 
 leader_names = {

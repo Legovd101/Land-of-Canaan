@@ -44,12 +44,12 @@ monarch_names = { #Most Monarchs were named with "kage"
 	"Kaganori #0" = 10
 	"Kagatsune #0" = 10
 	"Kagetaka #0" = 10
-    "Kagemoto #0" = 10
+	"Kagemoto #0" = 10
 	"Kagetoyo #0" = 10
 	"Kageyoshi #0" = 10
 	"Kagemori #0" = 10	
 	"Kageyori #0" = 10
-    "Kagetomi #0" = 10	
+	"Kagetomi #0" = 10	
 	"Kageyasu #0" = 10	
 	"Kagemasa #0" = 10
 	"Toku #0" = -5
@@ -60,7 +60,7 @@ monarch_names = { #Most Monarchs were named with "kage"
 }
 
 leader_names = {
-    # Daimyo names
+	# Daimyo names
 	Akamatsu Akechi Ashikaga Amago Kyogoku Rokkaku Asakura Asano Aso Chosokabe Date Hachisuka
 	Hatakeyama Hojo Hosokawa Ichijo Keda Imagawa Isshiki Ito Jinbo Kikuchi Kono Maeda
 	Matsunaga Mimura Miyoshi Mogami Mori Nabeshima Nagao Oda Ogasawara Otomo Ouchi
@@ -69,11 +69,11 @@ leader_names = {
 	# Asakura Flavor
 	Asakura Asakura Asakura Asakura Asakura Asakura Asakura Asakura Asakura Asakura
 	Asakura Asakura Asakura Asakura Asakura Asakura Asakura Asakura Asakura Asakura
-    # Retainers of the Asakura clan
-    Uozumi Uozumi Uozumi Uozumi Uozumi Horie Horie Horie Horie Horie
+	# Retainers of the Asakura clan
+	Uozumi Uozumi Uozumi Uozumi Uozumi Horie Horie Horie Horie Horie
 	Yamazaki Yamazaki Yamazaki Yamazaki Yamazaki Magara Magara Magara Magara Magara
 	Kawai Kawai Kawai Kawai Kawai Maeba Maeba Maeba Maeba Maeba
-    # Regio Flavor: Koshinetsu-Hokuriku
+	# Regio Flavor: Koshinetsu-Hokuriku
 	Ogasawara Suwa Takato Murakami Takanashi Suda Unno Mochizuki Sanada Oi
 	Yashiro Hoshina Nishina Kiso Baba Takeda Anayama Oyamada Akiyama Tsuchiya Amari
 	Itagaki Naito Kosaka Obu Yamagata Hara Yamamoto Nagao Nakajo Irobe Honjo Kaji Shibata

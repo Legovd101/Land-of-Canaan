@@ -62,7 +62,7 @@ monarch_names = { # Most Monarchs ware named with "moto"
 }
 
 leader_names = {
-    # Daimyo names
+	# Daimyo names
 	Akamatsu Akechi Ashikaga Amago Kyogoku Rokkaku Asakura Asano Aso Chosokabe Date Hachisuka
 	Hatakeyama Hojo Hosokawa Ichijo Keda Imagawa Isshiki Ito Jinbo Kikuchi Kono Maeda
 	Matsunaga Mimura Miyoshi Mogami Mori Nabeshima Nagao Oda Ogasawara Otomo Ouchi
@@ -72,7 +72,7 @@ leader_names = {
 	Hosokawa Hosokawa Hosokawa Hosokawa Hosokawa Hosokawa Hosokawa Hosokawa Hosokawa Hosokawa
 	Hosokawa Hosokawa Hosokawa Hosokawa Hosokawa Hosokawa Hosokawa Hosokawa Hosokawa Hosokawa
 	# Retainers of the Hosokawa clan
-    Matsunaga Matsunaga Matsunaga Matsunaga Matsunaga Ueno Ueno Ueno Ueno Ueno
+	Matsunaga Matsunaga Matsunaga Matsunaga Matsunaga Ueno Ueno Ueno Ueno Ueno
 	Nagaoka Nagaoka Nagaoka Nagaoka Nagaoka Toichi Toichi Toichi Toichi Toichi
 	Miyoshi Miyoshi Miyoshi Miyoshi Miyoshi
 }

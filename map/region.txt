@@ -5,7 +5,7 @@ random_new_world_region = {
 	}
 }
 ########################################
-# EUROPE                               #
+# EUROPE							   #
 ########################################
 france_region = { 
 	areas = { 
@@ -57,7 +57,7 @@ ural_region = {
 iberia_region = { 
 	areas = { 
 		aragon_area catalonia_area valencia_area lower_andalucia_area upper_andalucia_area castille_area toledo_area asturias_area leon_area alentejo_area
-		beieras_area basque_country galicia_area baleares_area extremadura_area 
+		beieras_area basque_country galicia_area baleares_area extremadura_area north_castille_area mancha_area 
 	}
 }
 british_isles_region = { 
@@ -90,7 +90,7 @@ crimea_region = {
 balkan_region = { 
 	areas = { 
 		croatia_area east_adriatic_coast_area bosnia_area serbia_area rascia_area bulgaria_area macedonia_area northern_greece_area morea_area thrace_area
-		albania_area silistria_area slavonia_area mala_area thessalia_area thessalonica_area greek_islands_area attica_area philippopolis_area
+		albania_area silistria_area slavonia_area mala_area thessalia_area thessalonica_area greek_islands_area attica_area philippopolis_area 
 	}
 }
 carpathia_region = { 

@@ -1,7 +1,7 @@
 #2750 - Plovdiv / Upper Thrace
 owner = PLP
 controller = PLP
-religion = mahayana
+religion = xadarosh
 capital = "Plovdiv"
 trade_goods = grain
 base_tax = 3
@@ -9,8 +9,11 @@ base_production = 3
 base_manpower = 3
 is_city = yes
 discovered_by = western
+discovered_by = latin
+discovered_by = viking
 discovered_by = eastern
 discovered_by = muslim
 discovered_by = ottoman
 discovered_by = nomad_group
 add_core = PLP
+culture = bessi

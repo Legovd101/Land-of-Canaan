@@ -31,11 +31,9 @@ historical_units = {
 }
 leader_names = { 
 	Bona Bosdari Boshko Caboga Cerva Ghetaldi Giorgi Gondola Gozze Gradic
-	Gundulic Luccari
-	Pozza
+	Gundulic Luccari Pozza
 	Reesti
-	Saraca Sorgo Tudisi
-	Vucic
+	Saraca Sorgo Tudisi Vucic
 	Zamagna Zlataric 
 }
 monarch_names = { 

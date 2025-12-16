@@ -74,18 +74,10 @@ monarch_names = {
 	"Rinna #0" = -1
 }
 leader_names = { 
-	Bardylis Teutares Grabos
-	Pleuratus
-	Monounios Genthios Skerdilaidas
-	Daorsios
-	Verzaios
-	Ballaios Plator Maelo
-	Nerestus Dasius Desantillus
-	Andinus
+	Bardylis Teutares Grabos Pleuratus Monounios Genthios Skerdilaidas Daorsios Verzaios
+	Ballaios Plator Maelo Nerestus Dasius Desantillus Andinus 
 }
 ship_names = { 
-	"Bindus" Ardiaei Byllis
-	Drilon
-	Barbanna Taulantia Scodra Labeata Dassaretia Encheleus
-	Vardanos
+	"Bindus" Ardiaei Byllis Drilon Barbanna Taulantia Scodra Labeata Dassaretia Encheleus
+	Vardanos 
 }

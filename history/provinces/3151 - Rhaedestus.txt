@@ -1,7 +1,7 @@
 # 3487 - Rhaedestus
 owner = BZH
 controller = BZH
-culture = greek
+culture = thraco_greek
 religion = mahayana
 capital = "Rhaedestus"
 trade_goods = wine
@@ -11,6 +11,8 @@ base_manpower = 2
 is_city = yes
 add_core = BYZ
 discovered_by = western
+discovered_by = latin
+discovered_by = viking
 discovered_by = eastern
 discovered_by = muslim
 discovered_by = ottoman

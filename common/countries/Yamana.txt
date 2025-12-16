@@ -43,7 +43,7 @@ monarch_names = { #Most Monarchs were named with "toyo"
 	"Toyomasa #0" = 50
 	"Toyoyoshi #0" = 50
 	"Toyoharu #0" = 50
-    "Toyomori #0" = 50
+	"Toyomori #0" = 50
 	"Takatoyo #0" = 50
 	"Toyonari #0" = 50
 	"Mitsutoyo #0" = 50	
@@ -54,7 +54,7 @@ monarch_names = { #Most Monarchs were named with "toyo"
 	"Ujiyuki #0" = 20
 	"Yoshiyuki #0" = 20
 	"Michiyuki #0" = 20
-    "Masauji #0" = 10
+	"Masauji #0" = 10
 	"Tokiuji #0" = 10
 	"Shigekuni #0" = 5
 	"Shigemura #0" = 5	
@@ -68,7 +68,7 @@ monarch_names = { #Most Monarchs were named with "toyo"
 }
 
 leader_names = {
-    # Daimyo names
+	# Daimyo names
 	Akamatsu Akechi Ashikaga Amago Kyogoku Rokkaku Asakura Asano Aso Chosokabe Date Hachisuka
 	Hatakeyama Hojo Hosokawa Ichijo Keda Imagawa Isshiki Ito Jinbo Kikuchi Kono Maeda
 	Matsunaga Mimura Miyoshi Mogami Mori Nabeshima Nagao Oda Ogasawara Otomo Ouchi
@@ -78,7 +78,7 @@ leader_names = {
 	Yamana Yamana Yamana Yamana Yamana Yamana Yamana Yamana Yamana Yamana
 	Yamana Yamana Yamana Yamana Yamana Yamana Yamana Yamana Yamana Yamana
 	# Retainers of the Yamana clan
-    Kakiya Kakiya Kakiya Kakiya Kakiya Nakamura Nakamura Nakamura Nakamura Nakamura
+	Kakiya Kakiya Kakiya Kakiya Kakiya Nakamura Nakamura Nakamura Nakamura Nakamura
 	Yoshioka Yoshioka Yoshioka Yoshioka Yoshioka Morishita Morishita Morishita Morishita Morishita
 	Ootagaki Ootagaki Ootagaki Ootagaki Ootagaki Tainosho Tainosho Tainosho Tainosho Tainosho
 	Nanjo Nanjo Nanjo Nanjo Nanjo

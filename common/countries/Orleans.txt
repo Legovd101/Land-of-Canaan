@@ -116,7 +116,7 @@ leader_names = {
 
 army_names = { 
 	 "Armée de l'Orléanais"  "Armée du Blésois"   "Armée de la Beauce" 
-	 "Armée d'Orléans"       "Armée du Dunois"    "Armée du Gâtinais"
-	 "Armée de Sologne"      "Armée du Vendômois" "Armée de la Loire"
+	 "Armée d'Orléans"	   "Armée du Dunois"	"Armée du Gâtinais"
+	 "Armée de Sologne"	  "Armée du Vendômois" "Armée de la Loire"
 	 "Armée de $PROVINCE$" 
 }

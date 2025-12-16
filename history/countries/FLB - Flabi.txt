@@ -1,0 +1,7 @@
+religion = norse_pagan
+capital = 3166
+technology_group = viking
+primary_culture = normand
+government = republic
+add_government_reform = oligarchy_reform
+government_rank = 1

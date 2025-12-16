@@ -93,7 +93,7 @@
  caucasian_pagan_rebels_title: "Religious"
  caucasian_pagan_religion_desc: "Possibly connected to the nearby Anatolian religions, the pantheon of the Caucasian-Iberia region was ruled over by the god Armaz."
 
- celtiberian_pagan: "Celtiberian"
+ celtiberian_pagan: "Brigiac"
  celtiberian_pagan_rebels_army: "$RELIGION$ Army"
  celtiberian_pagan_rebels_demand: "Convert $COUNTRYNAME$"
  celtiberian_pagan_rebels_demand_desc: "The religious rebels fight for the $RELIGION$ religion. They demand that we recognize its supremacy or at the very least cease our efforts to convert them and let them worship in peace."
@@ -129,7 +129,7 @@
  finnish_pagan_reformed_rebels_title: "Religious"
  finnish_pagan_reformed_religion_desc: "Finnic paganism is diverse, varying a lot between tribes and regions. It reveres a multitude of gods, including Ukko/Perkele, Kuu and in the east, Mastor-Ava, goddess of the Earth."
 
- gaelic_pagan: "Gaelic"
+ gaelic_pagan: "Gaelach"
  gaelic_pagan_rebels_army: "$RELIGION$ Army"
  gaelic_pagan_rebels_demand: "Convert $COUNTRYNAME$"
  gaelic_pagan_rebels_demand_desc: "The religious rebels fight for the $RELIGION$ religion. They demand that we recognize its supremacy or at the very least cease our efforts to convert them and let them worship in peace."
@@ -138,7 +138,7 @@
  gaelic_pagan_rebels_title: "Religious"
  gaelic_pagan_religion_desc: "The Gaels followed a pantheon similar to that of their neighbors, the Celts, the Gaelic people worshipped all things in the natural world, Druids and Bards are held highly in Gaelic culture."
 
- gallic_pagan: "Gaulish"
+ gallic_pagan: "Galato"
  gallic_pagan_rebels_army: "$RELIGION$ Army"
  gallic_pagan_rebels_demand: "Convert $COUNTRYNAME$"
  gallic_pagan_rebels_demand_desc: "The religious rebels fight for the $RELIGION$ religion. They demand that we recognize its supremacy or at the very least cease our efforts to convert them and let them worship in peace."
@@ -200,7 +200,7 @@
  hurrian_pagan: "Hurrian"
  hurrian_pagan_religion_desc: "The Hurrians worshiped a great number of gods derived from various different cultures of the Near East. The main gods in the Hurrian pantheon were Teshub, the mighty weather god, and his wife Hebat, the mother goddess. A special class of figures venerated by the Hurrians were so-called Sarrena, deified kings and heroes."
 
- iberian_pagan: "Iberian"
+ iberian_pagan: "Lurra Zoragarri"
  iberian_pagan_rebels_army: "$RELIGION$ Army"
  iberian_pagan_rebels_demand: "Convert $COUNTRYNAME$"
  iberian_pagan_rebels_demand_desc: "The religious rebels fight for the $RELIGION$ religion. They demand that we recognize its supremacy or at the very least cease our efforts to convert them and let them worship in peace."
@@ -308,7 +308,7 @@
  meshefaresism_rebels_title: "Religious"
  meshefaresism_religion_desc: "Meshefaresists are followers of the Black Book, which describes how the Lord came down from Black Mountain and created the world."
 
- mithraism: "Mithraism"
+ mithraism: "Míthraïsmós"
  mithraism_rebels_army: "$RELIGION$ Army"
  mithraism_rebels_demand: "Convert $COUNTRYNAME$"
  mithraism_rebels_demand_desc: "The religious rebels fight for the $RELIGION$ religion. They demand that we recognize its supremacy or at the very least cease our efforts to convert them and let them worship in peace."
@@ -345,6 +345,15 @@
  pagan_religion_rebels_name: "$RELIGION$ Zealots"
  pagan_religion_rebels_title: "Religious"
  pagan_religion_religion_desc: "Since the dawn of history, both Europe and the Middle East have been home to countless Pagan religions and cults unrelated to the Abrahamic faiths."
+
+ pyrrhonism: "Púrrhoniva"
+ pyrrhonism_rebels_army: "$RELIGION$ Army"
+ pyrrhonism_rebels_demand: "Convert $COUNTRYNAME$"
+ pyrrhonism_rebels_demand_desc: "The religious rebels fight for the $RELIGION$ religion. They demand that we recognize its supremacy or at the very least cease our efforts to convert them and let them worship in peace."
+ pyrrhonism_rebels_desc: "Religious fanatics tend to rise up in provinces controlled by nations of a different faith. They seek to spread their faith and smite all unbelievers."
+ pyrrhonism_rebels_name: "$RELIGION$ Zealots"
+ pyrrhonism_rebels_title: "Religious"
+ pyrrhonism_desc: "Founded in the teachings of Pyrrho of Elis, a member of Alexander the Great's court, Pyrrhonism is a school of skepticist thought (often said to be the first) based on many of the early teachings of Buddhist philosophers. After the rise of the First Seleukid Kingdom, Pyrrho settled in Alexandreia Eschata and joined the local Buddhist monks, who adopted his teachings. The Second Seleukid Kingdom, which had many Pyrrhonists in its court, spread the school across the Hindu Kush and Sogdia, and then the Sogdians spread his teachings westwards when they fled from the Kushans."
 
  samaritan_faith: "Samaritan"
  samaritan_faith_rebels_army: "$RELIGION$ Army"
@@ -399,7 +408,7 @@
  vandalic_rebels_desc: "Religious fanatics tend to rise up in provinces controlled by nations of a different faith. They seek to spread their faith and smite all unbelievers."
  vandalic_rebels_name: "$RELIGION$ Zealots"
  vandalic_rebels_title: "Religious"
- vandalic_religion_desc: "After the Fall of Rome, the faith of the Gothic invaders became the dominant religion in Western Europe. However, when the Vikings came knocking, the first existential threat to their well-being came with it. Division over how to respond split the faith in twain, then in thrain. The Vandals, furthes from the troubles of the Vikings, chose to turn inwards and focus on fortification and prosperity. Today, the Vandals reside primarily in the former provinces of Africa, where they grow wealthy off of the lucrative trades with Rome and the East."
+ vandalic_religion_desc: "After the Fall of Rome, the faith of the Gothic invaders became the dominant religion in Western Europe. However, when the Vikings came knocking, the first existential threat to their well-being came with it. Division over how to respond split the faith in twain, then in thrain. The Vandals, furthest from the troubles of the Vikings, chose to turn inwards and focus on fortification and prosperity. Today, the Vandals reside primarily in the former provinces of Africa, where they grow wealthy off of the lucrative trades with Rome and the East."
 
  west_african_pagan: "African Pagan"
  west_african_pagan_rebels_army: "$RELIGION$ Army"
@@ -409,6 +418,15 @@
  west_african_pagan_rebels_name: "$RELIGION$ Zealots"
  west_african_pagan_rebels_title: "Religious"
  west_african_pagan_religion_desc: "The West African religion includes many of the diverse pagan beliefs of the tribes of Sub-Saharan Africa. Ancestor worship, animism and totemistic shamanism dominate, but there also various pantheons of gods."
+
+ xadarosh: "Xadarosh"
+ xadarosh_rebels_army: "$RELIGION$ Army"
+ xadarosh_rebels_demand: "Convert $COUNTRYNAME$"
+ xadarosh_rebels_demand_desc: "The religious rebels fight for the $RELIGION$ religion. They demand that we recognize its supremacy or at the very least cease our efforts to convert them and let them worship in peace."
+ xadarosh_rebels_desc: "Religious fanatics tend to rise up in provinces controlled by nations of a different faith. They seek to spread their faith and smite all unbelievers."
+ xadarosh_rebels_name: "$RELIGION$ Zealots"
+ xadarosh_rebels_title: "Religious"
+ xadarosh_religion_desc: "A form of Buddhism initially adopted by the Roxolani tribes, Xadarosh (lit. 'The path of light') seek to enlighten the world via cleansing it with fire, seeing the sun as an incarnation of the god Xotau."
 
  zamolxism: "Zamolxism"
  zamolxism_rebels_army: "$RELIGION$ Army"
@@ -447,6 +465,7 @@
  slavic_religions: "Slavic"
  iranic_religions: "Iranic"
  PIE_religions: "Pre-Indo-European"
+ greco_buddhist_religions: "Greco-Buddhic"
 
  # Holy Wars
  gret_flod: "Gret Flôd"

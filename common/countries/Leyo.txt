@@ -1,0 +1,303 @@
+#Country Name: Please see filename.
+graphical_culture = easterngfx
+color = { 165 0 26 }
+revolutionary_colors = { 5 1 8 }
+historical_idea_groups = { 
+	defensive_ideas
+	offensive_ideas
+	trade_ideas
+	spy_ideas
+	religious_ideas
+	maritime_ideas
+	diplomatic_ideas
+	economic_ideas
+}
+historical_units = { 
+	ottoman_yaya
+	ottoman_musellem
+	ottoman_azab
+	ottoman_timariot
+	ottoman_janissary
+	ottoman_spahi
+	ottoman_sekban
+	ottoman_reformed_spahi
+	ottoman_reformed_janissary
+	ottoman_toprakli_hit_and_run
+	ottoman_nizami_cedid
+	ottoman_toprakli_dragoon
+	eastern_skirmisher
+	eastern_uhlan
+	eastern_carabinier
+	ottoman_new_model
+	ottoman_lancer
+}
+army_names = { 
+	"Legi I Herkulia" "Legi II Rapax" "Legi III Liberatrix" "Legi IV Apollonaris" "Legi V Alaudae" "Legi VI Viktrix" "Legi VII Ferrata" "Legi VIII Augusta" "Legi IX Triumfalis" "Legi X Italika"
+	"Legi XI Makedonika" "Legi XII Minervia" "Legi XIII Fulminata" "Legi XIV Fretensis" "Legi XV Primigenia" "Legi XVI Klaudia" "Legi XX Skythika" 
+}
+fleet_names = { 
+	"Klassis Alexandrina" "Klassis Seleukena" "Klassis Karpathia" "Klassis Venetum" "Klassis Konstantinopolis" "Klassis Roma" "Klassis Adrianopolis" "Klassis Atlantikum" "Klassis Mediterraneus" "Klassis Euxeinos Pontos"
+}
+leader_names = { 
+	"Basileios" "Leon" "Bardas" "Marinos" "Anastasia" "Konstantinos" "Augustus" "Tiberius" "Kaligula" "Klaudius"
+	"Nero" "Galba" "Otho" "Vitellius" "Vespasian" "Titus" "Domitian" "Nerva" "Trajan" "Hadrian"
+	"Antoninus" "Lukius" "Markus" "Kommodus" "Pertinax" "Julian" "Septimius" "Geta" "Karakalla" "Makrinus"
+	"Heliogabalus" "Alexander" "Maximinus" "Gordian" "Pupienus" "Balbinus" "Philip" "Dekius" "Trebonianus" "Aemilian"
+	"Valerian" "Gallienus" "Quintillus" "Aurelian" "Severina" "Takitus" "Florian" "Probus" "Karus" "Numerian"
+	"Karinus" "Diokletian" "Konstantius" "Galerius" "Likinius" "Konstantine" "Konstans" "Jovian" "Valentinian" "Valens"
+	"Gratian" "Theodosius" "Arkadius" "Honorius" "Pulkeria" "Markian" "Zenon" "Basiliskos" "Anastasios" "Ioustinos"
+	"Ioustinianos" "Tiberios" "Maurikios" "Phokas" "Herakleios" "Herakleonas" "Konstas" "Leontios" "Philippikos" "Theodosios"
+	"Artavasdos" "Eirene" "Nikeforos" "Stavrakios" "Mikael" "Theofilos" "Adrianos" "Akakios" "Alexandros" "Alexios"
+	"Anatolios" "Andreas" "Andronikos" "Anthemios" "Anthimos" "Antiokos" "Antonios" "Apollonios" "Arsenios" "Artemios"
+	"Athanasios" "Bartholomaios" "Belisarios" "Boethios" "Bosporios" "Kristoforos" "Krysanthos" "Krysogonos" "Damianos" "Daniel"
+	"David" "Demetrios" "Diogenes" "Dionysios" "Dorotheos" "Eirenaios" "Eudoxios" "Eustratios" "Eugenios" "Eufemios"
+	"Eusebios" "Eustathios" "Evangelos" "Gabriel" "Gennadios" "Georgios" "Gerasimos" "Germanos" "Gregoras" "Gregorios"
+	"Hektorios" "Helias" "Hierotheos" "Himerios" "Hippolytos" "Hypatios" "Iakobos" "Ignatios" "Innokentios" "Ioannes"
+	"Ioannikios" "Iordanes" "Iosef" "Isaakios" "Isaias" "Isidoros" "Ioulianos" "Kaisarios" "Kallinikos" "Kallistos"
+	"Komitas" "Konstantios" "Kosmas" "Kyriakos" "Kyrillos" "Kyros" "Laurentios" "Lazaros" "Loukas" "Makarios"
+	"Manuel" "Markos" "Matthaios" "Maximos" "Megistos" "Meletios" "Methodios" "Narses" "Neofytos" "Niketas"
+	"Nikodemos" "Nikolaos" "Nifon" "Orestes" "Pamfilios" "Pankratios" "Pantoleon" "Paskalis" "Pavlos" "Pelagios"
+	"Petros" "Philaretos" "Philippos" "Philotheos" "Photios" "Polykarpos" "Porfyrios" "Prokopios" "Pyrros" "Rafail"
+	"Romanos" "Sabas" "Samuel" "Serapion" "Sebastianos" "Sergios" "Stefanos" "Staurakios" "Symeon" "Symmakos"
+	"Theokaristos" "Theodoros" "Theodotos" "Theodoulos" "Theoktistos" "Theofanes" "Theofylaktos" "Thomas" "Traianos" "Timotheos"
+	"Tryfon" "Valerios" "Zakarias" "Zenobios" 
+}
+monarch_names = { 
+	"Basileios #1" = 22
+	"Leon #5" = 22
+	"Bardas #0" = 22
+	"Marinos #0" = 22
+	"Anastasia #0" = -23
+	"Konstantinos #4" = 22
+	"Augustus #1" = 0
+	"Tiberius #1" = 0
+	"Kaligula #1" = 0
+	"Klaudius #2" = 0
+	"Nero #1" = 0
+	"Galba #1" = 0
+	"Otho #1" = 0
+	"Vitellius #1" = 0
+	"Vespasian #1" = 0
+	"Titus #1" = 0
+	"Domitian #1" = 0
+	"Nerva #1" = 0
+	"Trajan #1" = 0
+	"Hadrian #1" = 0
+	"Antoninus #1" = 0
+	"Lukius #1" = 0
+	"Markus #1" = 0
+	"Kommodus #1" = 0
+	"Pertinax #1" = 0
+	"Julian #2" = 0
+	"Septimius #1" = 0
+	"Geta #1" = 0
+	"Karakalla #1" = 0
+	"Makrinus #1" = 0
+	"Heliogabalus #1" = 0
+	"Alexander #1" = 0
+	"Maximinus #2" = 0
+	"Gordian #3" = 0
+	"Pupienus #1" = 0
+	"Balbinus #1" = 0
+	"Philip #1" = 0
+	"Dekius #1" = 0
+	"Trebonianus #1" = 0
+	"Aemilian #1" = 0
+	"Valerian #1" = 0
+	"Gallienus #1" = 0
+	"Quintillus #1" = 0
+	"Aurelian #1" = 0
+	"Severina #1" = -1
+	"Takitus #1" = 0
+	"Florian #1" = 0
+	"Probus #1" = 0
+	"Karus #1" = 0
+	"Numerian #1" = 0
+	"Karinus #1" = 0
+	"Diokletian #1" = 0
+	"Konstantius #3" = 0
+	"Galerius #1" = 0
+	"Likinius #1" = 0
+	"Konstantine #2" = 0
+	"Konstans #1" = 0
+	"Jovian #1" = 0
+	"Valentinian #1" = 0
+	"Valens #1" = 0
+	"Gratian #1" = 0
+	"Theodosius #2" = 0
+	"Arkadius #1" = 0
+	"Honorius #1" = 0
+	"Pulkeria #1" = -1
+	"Markian #1" = 0
+	"Zenon #1" = 0
+	"Basiliskos #1" = 0
+	"Anastasios #2" = 0
+	"Ioustinos #2" = 0
+	"Ioustinianos #2" = 0
+	"Tiberios #2" = 0
+	"Maurikios #1" = 0
+	"Phokas #1" = 0
+	"Herakleios #1" = 0
+	"Herakleonas #1" = 0
+	"Konstas #1" = 0
+	"Leontios #1" = 0
+	"Philippikos #1" = 0
+	"Theodosios #1" = 0
+	"Artavasdos #1" = 0
+	"Eirene #1" = -1
+	"Nikeforos #1" = 0
+	"Stavrakios #1" = 0
+	"Mikael #3" = 0
+	"Theofilos #1" = 0
+	"Adrianos #0" = 0
+	"Akakios #0" = 0
+	"Alexandros #0" = 0
+	"Alexios #0" = 0
+	"Anatolios #0" = 0
+	"Andreas #0" = 0
+	"Andronikos #0" = 0
+	"Anthemios #0" = 0
+	"Anthimos #0" = 0
+	"Antiokos #0" = 0
+	"Antonios #0" = 0
+	"Apollonios #0" = 0
+	"Arsenios #0" = 0
+	"Artemios #0" = 0
+	"Athanasios #0" = 0
+	"Bartholomaios #0" = 0
+	"Belisarios #0" = 0
+	"Boethios #0" = 0
+	"Bosporios #0" = 0
+	"Kristoforos #0" = 0
+	"Krysanthos #0" = 0
+	"Krysogonos #0" = 0
+	"Damianos #0" = 0
+	"Daniel #0" = 0
+	"David #0" = 0
+	"Demetrios #0" = 0
+	"Diogenes #0" = 0
+	"Dionysios #0" = 0
+	"Dorotheos #0" = 0
+	"Eirenaios #0" = 0
+	"Eudoxios #0" = 0
+	"Eustratios #0" = 0
+	"Eugenios #0" = 0
+	"Eufemios #0" = 0
+	"Eusebios #0" = 0
+	"Eustathios #0" = 0
+	"Evangelos #0" = 0
+	"Gabriel #0" = 0
+	"Gennadios #0" = 0
+	"Georgios #0" = 0
+	"Gerasimos #0" = 0
+	"Germanos #0" = 0
+	"Gregoras #0" = 0
+	"Gregorios #0" = 0
+	"Hektorios #0" = 0
+	"Helias #0" = 0
+	"Hierotheos #0" = 0
+	"Himerios #0" = 0
+	"Hippolytos #0" = 0
+	"Hypatios #0" = 0
+	"Iakobos #0" = 0
+	"Ignatios #0" = 0
+	"Innokentios #0" = 0
+	"Ioannes #0" = 0
+	"Ioannikios #0" = 0
+	"Iordanes #0" = 0
+	"Iosef #0" = 0
+	"Isaakios #0" = 0
+	"Isaias #0" = 0
+	"Isidoros #0" = 0
+	"Ioulianos #0" = 0
+	"Kaisarios #0" = 0
+	"Kallinikos #0" = 0
+	"Kallistos #0" = 0
+	"Komitas #0" = 0
+	"Konstantios #0" = 0
+	"Kosmas #0" = 0
+	"Kyriakos #0" = 0
+	"Kyrillos #0" = 0
+	"Kyros #0" = 0
+	"Laurentios #0" = 0
+	"Lazaros #0" = 0
+	"Loukas #0" = 0
+	"Makarios #0" = 0
+	"Manuel #0" = 0
+	"Markos #0" = 0
+	"Matthaios #0" = 0
+	"Maximos #0" = 0
+	"Megistos #0" = 0
+	"Meletios #0" = 0
+	"Methodios #0" = 0
+	"Narses #0" = 0
+	"Neofytos #0" = 0
+	"Niketas #0" = 0
+	"Nikodemos #0" = 0
+	"Nikolaos #0" = 0
+	"Nifon #0" = 0
+	"Orestes #0" = 0
+	"Pamfilios #0" = 0
+	"Pankratios #0" = 0
+	"Pantoleon #0" = 0
+	"Paskalis #0" = 0
+	"Pavlos #0" = 0
+	"Pelagios #0" = 0
+	"Petros #0" = 0
+	"Philaretos #0" = 0
+	"Philippos #0" = 0
+	"Philotheos #0" = 0
+	"Photios #0" = 0
+	"Polykarpos #0" = 0
+	"Porfyrios #0" = 0
+	"Prokopios #0" = 0
+	"Pyrros #0" = 0
+	"Rafail #0" = 0
+	"Romanos #0" = 0
+	"Sabas #0" = 0
+	"Samuel #0" = 0
+	"Serapion #0" = 0
+	"Sebastianos #0" = 0
+	"Sergios #0" = 0
+	"Stefanos #0" = 0
+	"Staurakios #0" = 0
+	"Symeon #0" = 0
+	"Symmakos #0" = 0
+	"Theokaristos #0" = 0
+	"Theodoros #0" = 0
+	"Theodotos #0" = 0
+	"Theodoulos #0" = 0
+	"Theoktistos #0" = 0
+	"Theofanes #0" = 0
+	"Theofylaktos #0" = 0
+	"Thomas #0" = 0
+	"Traianos #0" = 0
+	"Timotheos #0" = 0
+	"Tryfon #0" = 0
+	"Valerios #0" = 0
+	"Zakarias #0" = 0
+	"Zenobios #0" = 0
+}
+ship_names = { 
+	Abundantia "Akka Larentia" Akis Aerekura Aequitas Aeskulapius Aeternitas Aeon "Aius Lokutius" Alernus
+	Angerona Angitia "Anna Perenna" Annona Antevorta Apollo Arimanius Aura Aurora Averrunkus
+	Bakkus Bellona "Bona Dea" "Bonus Eventus" Bubona Kaka Kakus Kamenae Kardea Karmenta
+	Karmentes Karna Keres Klementia Kloakina Konkordia Konsus Kupid Kura Kybele
+	"Dea Dia" "Dea Takita" Dekima Devera Diana "Diana Nemorensis" "Dius Fidius" Diskiplina "Dis Pater" Egeria
+	Empanda Epona Falaker Fama Faskinus Fauna Faunus Faustitas Februus Febris
+	Fekunditas Felikitas Ferentina Feronia Fides Flora Fornax Fontus Fortuna Fulgora
+	Furrina Genius Gratiae Herkules Hermafroditus Hilaritas Honos Hora Indiges Interkidona
+	Inuus Invidia Isis Iris Janus Juno Jupiter Justitia Juturna Juventas
+	Lares Laverna Levana Letum Liber Libera Liberalitas Libertas Libitina Lua
+	Lukina Luna Luperkus Lymfa "Mana Genita" Manes Mania Mantus Mars "Mater Matuta"
+	Meditrina Mefitis Mellonia Merkury Minerva Mithras Molae Moneta Mors Morta
+	Murkia "Mutunus Tutunus" Naenia Naskio Nekessitas Nemesis Neptune Nerio Neverita Nixi
+	Nona Nox Opis Orkus Palatua Pales Parkae Pax Penates Pikumnus
+	Pikus Pietas Pilumnus Pluto Poena Pomona Porrima Portunes Postverta Priapus
+	Proserpina Providentia Pudikitia Querquetulanae Quirinus Quiritis Robigus Roma Rumina Salakia
+	Salus Sankus Saturn Sekuritas Silvanus "Sol Inviktus" Somnus Soranus Sors Spes
+	Stata Mater Sterquilinus Suadela Summanus "Sulis Minerva" Tellurus Tempestas "Terra Mater" Terminus
+	Tiberinus Tibertus Tranquillitas Trivia Ubertas Unxia Uranus Vakuna Vediovus Venilia
+	Venti Venus Veritas Verminus Vertumnus Vesta "Vika Pota" Viktoria Virbius Virtus
+	Volturnus Voluptas Vulkan 
+}

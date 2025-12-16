@@ -13,3 +13,5 @@ capital = "Sodankylä"#Uncertain if this existed at that point.
 is_city = yes
 discovered_by = eastern
 discovered_by = western
+discovered_by = latin
+discovered_by = viking

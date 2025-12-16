@@ -45,7 +45,7 @@ monarch_names = {
 	"Ujiteru #0" = 50
 	"Yoshimoto #0" = 50
 	"Ujizane #0" = 50
-    "Ujitaka #0" = 50
+	"Ujitaka #0" = 50
 	"Kuniuji #0" = 50
 	"Motouji #0" = 50
 	"Noritaka #0" = 50	
@@ -59,7 +59,7 @@ monarch_names = {
 }
 
 leader_names = {
-    # Daimyo names
+	# Daimyo names
 	Akamatsu Akechi Ashikaga Amago Kyogoku Rokkaku Asakura Asano Aso Chosokabe Date Hachisuka
 	Hatakeyama Hojo Hosokawa Ichijo Keda Imagawa Isshiki Ito Jinbo Kikuchi Kono Maeda
 	Matsunaga Mimura Miyoshi Mogami Mori Nabeshima Nagao Oda Ogasawara Otomo Ouchi
@@ -69,7 +69,7 @@ leader_names = {
 	Imagawa Imagawa Imagawa Imagawa Imagawa Imagawa Imagawa Imagawa Imagawa Imagawa
 	Imagawa Imagawa Imagawa Imagawa Imagawa Imagawa Imagawa Imagawa Imagawa Imagawa
 	# Retainers of the Imagawa clan
-    Asahina Asahina Asahina Asahina Asahina Udono Udono Udono Udono Udono
+	Asahina Asahina Asahina Asahina Asahina Udono Udono Udono Udono Udono
 	Okabe Okabe Okabe Okabe Okabe Miura Miura Miura Miura Miura
 	Katsurayama Katsurayama Katsurayama Katsurayama Katsurayama Sena Sena Sena Sena Sena
 	Sekiguchi Sekiguchi Sekiguchi Sekiguchi Sekiguchi Iio Iio Iio Iio Iio

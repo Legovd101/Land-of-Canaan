@@ -2,7 +2,7 @@
 owner = MZN
 controller = MZN
 culture = limenioi
-religion = zoroastrian
+religion = mithraism
 capital = "Al-Qatif"
 trade_goods = fish
 base_tax = 1
@@ -17,5 +17,5 @@ discovered_by = east_african
 extra_cost = 8
 center_of_trade = 1
 add_core = MZN
-fort_15th = yes
 hre = yes
+fort_15th = yes

@@ -43,13 +43,13 @@ monarch_names = {
 
 	"Sri Gitarja #1" = -10
 	"Suhita #0" = -10
-    "Cinta #0" = -1
-    "Wangi #0" = -1
-    "Prajnaparamitha #0" = -1
-    "Tribhuawana #0" = -10
-    "Gayatri #0" = -10
-    "Narendra Duhita #0" = -1
-    "Indreswari #0" = -1
+	"Cinta #0" = -1
+	"Wangi #0" = -1
+	"Prajnaparamitha #0" = -1
+	"Tribhuawana #0" = -10
+	"Gayatri #0" = -10
+	"Narendra Duhita #0" = -1
+	"Indreswari #0" = -1
 }
 
 leader_names = {

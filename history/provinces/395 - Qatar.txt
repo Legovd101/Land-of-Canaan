@@ -2,7 +2,7 @@
 owner = MZN
 controller = MZN
 culture = limenioi
-religion = zoroastrian
+religion = mithraism
 capital = "Qatar"
 trade_goods = gems
 base_tax = 2

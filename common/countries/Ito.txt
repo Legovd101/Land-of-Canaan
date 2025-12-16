@@ -63,7 +63,7 @@ monarch_names = {
 	}
 
 leader_names = {
-    # Daimyo names
+	# Daimyo names
 	Shimazu Otomo Ryuzoji Aso Ito Shoni Ouchi Kono Chosokabe Miyoshi 
 	Mori Amago Yamana Akamatsu Hatakeyama Hosokawa Shiba Asakura Oda Tokugawa
 	Togashi Uesugi Takeda Imagawa Tokugawa Hojo Nagao Satomi Satake Ustunomiya
@@ -74,7 +74,7 @@ leader_names = {
 	Ito Ito Ito Ito Ito Ito Ito Ito Ito Ito
 	Ito Ito Ito Ito Ito Ito Ito Ito Ito Ito
 	# Retainers of the Ito clan
-    Sadohara Sadohara Sadohara Sadohara Sadohara
+	Sadohara Sadohara Sadohara Sadohara Sadohara
 	Kiwaki Kiwaki Kiwaki Kiwaki Kiwaki
 	Nagakura Nagakura Nagakura Nagakura Nagakura
 	Aratake Aratake Aratake Inazu Inazu Inazu

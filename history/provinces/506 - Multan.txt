@@ -2,7 +2,7 @@
 owner = KUS
 controller = KUS
 culture = panjabi
-religion = hinduism
+religion = pyrrhonism
 capital = "Multan"
 trade_goods = cloth#Chintz
 base_tax = 5

@@ -82,11 +82,11 @@ monarch_names = {
 	"Wilbur #0" = 0
 	"William #0" = 0
 	"Alexander #0" = 0
-    "Stephen #0" = 0
+	"Stephen #0" = 0
 	
-    "Deborah #0" = -1
-    "Sarah #0" = -1
-    "Anne #0" = -1
+	"Deborah #0" = -1
+	"Sarah #0" = -1
+	"Anne #0" = -1
 }
 
 leader_names = {
@@ -111,37 +111,37 @@ leader_names = {
 }
 
 ship_names = {
-    "Green Mountains"
-    "New Connecticut"
-    Windsor
-    Castleton
-    Bennington
-    "Fourteenth Star"
-    "General Allen"
-    "General Stark"
-    "General Enos"
-    "Seth Warner"
-    "Chimney Point"
-    "Lake Champlain"
-    Ticonderoga
-    Hubbardton
-    Brattleboro
-    "Grand Isle"
-    "Thomas Chittenden"
-    "Isaac Tichenor"
-    "Moses Robinson"
-    "Vermontis Res Publica"
-    "Fort Dummer"
-    Westminster
-    "White River"
-    "Mount Independence"
-    Ranger
-    Mountaineer
-    "Green Whig"
-    Liberty
-    "Jonas Fay"
-    "Freeman's Oath"
-    "Old Molly"
+	"Green Mountains"
+	"New Connecticut"
+	Windsor
+	Castleton
+	Bennington
+	"Fourteenth Star"
+	"General Allen"
+	"General Stark"
+	"General Enos"
+	"Seth Warner"
+	"Chimney Point"
+	"Lake Champlain"
+	Ticonderoga
+	Hubbardton
+	Brattleboro
+	"Grand Isle"
+	"Thomas Chittenden"
+	"Isaac Tichenor"
+	"Moses Robinson"
+	"Vermontis Res Publica"
+	"Fort Dummer"
+	Westminster
+	"White River"
+	"Mount Independence"
+	Ranger
+	Mountaineer
+	"Green Whig"
+	Liberty
+	"Jonas Fay"
+	"Freeman's Oath"
+	"Old Molly"
 	"Royal Savage"
 	Revenge
 	Enterprise

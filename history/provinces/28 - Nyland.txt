@@ -11,4 +11,6 @@ base_manpower = 2
 capital = "Borgå"
 is_city = yes
 discovered_by = western
+discovered_by = latin
+discovered_by = viking
 discovered_by = eastern

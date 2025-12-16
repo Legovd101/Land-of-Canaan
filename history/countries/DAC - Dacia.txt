@@ -1,6 +1,7 @@
 government = monarchy
 add_government_reform = feudalism_reform
 primary_culture = romanian
-religion = vajrayana
+religion = xadarosh
 technology_group = eastern
-capital = 161	# Tîrgoviste
+capital = 161# Tîrgoviste
+government_rank = 1

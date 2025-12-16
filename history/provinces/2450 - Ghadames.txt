@@ -4,18 +4,20 @@
 ### Modified 10/14/2025 2:36:58 PM ###
 # Ghadames
 # 2450 Ghadames - 10/14/2025 2:36:58 PM 
-add_core = GHD
-owner = GHD
-controller = GHD
+owner = FZA
+controller = FZA
 base_tax = 1
 base_production = 1
 base_manpower = 1
 trade_goods = spices
-culture = tunisian
-religion = dionysian
+culture = garamantian
+religion = buddhism
 capital = "Ghadames"
 is_city = yes
 discovered_by = western
+discovered_by = latin
+discovered_by = viking
 discovered_by = eastern
 discovered_by = muslim
 discovered_by = ottoman
+add_core = FZA

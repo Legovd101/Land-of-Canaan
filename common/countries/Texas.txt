@@ -125,8 +125,8 @@ monarch_names = {
 	"Marciela #0" = -1
 	"Perla #0" = -1
 	"Deborah #0" = -1
-    "Sarah #0" = -1
-    "Anne #0" = -1
+	"Sarah #0" = -1
+	"Anne #0" = -1
 }
 
 leader_names = {

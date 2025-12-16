@@ -2,7 +2,7 @@
 owner = ARI
 controller = ARI
 culture = khorasani
-religion = zoroastrian
+religion = pyrrhonism
 capital = "Herat"
 trade_goods = paper
 base_tax = 5
@@ -17,5 +17,5 @@ discovered_by = nomad_group
 extra_cost = 16
 center_of_trade = 2
 add_core = ARI
-fort_15th = yes
 hre = yes
+fort_15th = yes

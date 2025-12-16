@@ -1,7 +1,7 @@
 capital = 427
 technology_group = ottoman
 government_rank = 1
-religion = zoroastrian
+religion = pyrrhonism
 government = monarchy
 add_government_reform = feudalism_reform
 primary_culture = sogdik

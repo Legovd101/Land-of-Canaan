@@ -30,7 +30,7 @@ historical_units = {
 }
 
 monarch_names = {
-    "Tomomune #0" = 30
+	"Tomomune #0" = 30
 	"Tomofusa #0" = 30
 	"Norisada #0" = 50
 	"Norishige #0" = 50
@@ -45,7 +45,7 @@ monarch_names = {
 	"Norizane #0" = 50
 	"Norifusa #0" = 50
 	"Norimasa #0" = 50
-    "Norihiro #0" = 50
+	"Norihiro #0" = 50
 	"Norifuji #0" = 50
 	"Norikuni #0" = 50
 	"Terutora #0" = 10	
@@ -59,7 +59,7 @@ monarch_names = {
 }
 
 leader_names = {
-    # Daimyo names
+	# Daimyo names
 	Akamatsu Akechi Ashikaga Amago Kyogoku Rokkaku Asakura Asano Aso Chosokabe Date Hachisuka
 	Hatakeyama Hojo Hosokawa Ichijo Keda Imagawa Isshiki Ito Jinbo Kikuchi Kono Maeda
 	Matsunaga Mimura Miyoshi Mogami Mori Nabeshima Nagao Oda Ogasawara Otomo Ouchi

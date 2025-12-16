@@ -1,0 +1,83 @@
+#Country Name: Please see filename.
+graphical_culture = westerngfx
+color = { 77 175 255 }
+revolutionary_colors = { 4 8 4 }
+historical_idea_groups = { 
+	maritime_ideas
+	religious_ideas
+	defensive_ideas
+	administrative_ideas
+	trade_ideas
+	quality_ideas
+	innovativeness_ideas
+	diplomatic_ideas
+}
+historical_units = { 
+	eastern_medieval_infantry
+	eastern_knights
+	slavic_stradioti
+	eastern_militia
+	ottoman_spahi
+	ottoman_sekban
+	ottoman_reformed_spahi
+	ottoman_reformed_janissary
+	ottoman_toprakli_hit_and_run
+	ottoman_nizami_cedid
+	ottoman_toprakli_dragoon
+	eastern_skirmisher
+	eastern_uhlan
+	eastern_carabinier
+	ottoman_new_model
+	ottoman_lancer
+}
+monarch_names = { 
+	"Bardylis #0" = 40
+	"Pleuratus #1" = 20
+	"Genthios #0" = 15
+	"Grabos #2" = 10
+	"Monounios #1" = 10
+	"Skerdilaidas #1" = 10
+	"Teutares #1" = 10
+	"Ballaios #0" = 0
+	"Plator #0" = 0
+	"Dazomenos #0" = 0
+	"Epicadus #0" = 0
+	"Certissa #0" = 0
+	"Carmos #0" = 0
+	"Cralos #0" = 0
+	"Carnos #0" = 0
+	"Desantillus #0" = 0
+	"Dautes #0" = 0
+	"Glavias #0" = 0
+	"Genthius #0" = 0
+	"Liccaios #0" = 0
+	"Laios #0" = 0
+	"Laedus #0" = 0
+	"Maelo #0" = 0
+	"Nerestus #0" = 0
+	"Navissos #0" = 0
+	"Olpia #0" = 0
+	"Scenobarbos #0" = 0
+	"Selemnos #0" = 0
+	"Segius #0" = 0
+	"Verzaios #0" = 0
+	"Verzo #0" = 0
+	"Bato #0" = 0
+	"Daesios #0" = 0
+	"Pinos #0" = 0
+	"Gentharos #0" = 0
+	"Brauros #0" = 0
+	"Verzois #0" = 0
+	"Pladomenos #0" = 0
+	"Teuta #0" = -10
+	"Etleva #0" = -1
+	"Rinna #0" = -1
+}
+leader_names = { 
+	Bardylis Teutares Grabos Pleuratus Monounios Genthios Skerdilaidas Daorsios Verzaios Ballaios
+	Plator Maelo Nerestus Dasius Desantillus Andinus 
+}
+ship_names = { 
+	"Bindus" Ardiaei Byllis Drilon Barbanna Taulantia Scodra Labeata Dassaretia Encheleus
+	Vardanos
+}

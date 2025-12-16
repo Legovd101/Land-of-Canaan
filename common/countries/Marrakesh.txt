@@ -1,6 +1,6 @@
 #Country Name: Please see filename.
 graphical_culture = muslimgfx
-color = { 84 242 223 }
+color = { 227 244 116 }
 revolutionary_colors = { 8 0 5 } #Alleged Tricolor of the Republic of Salé
 historical_score = 100
 historical_idea_groups = { 
@@ -22,70 +22,77 @@ historical_units = {
 	muslim_dragoon
 	ali_bey_reformed_infantry
 }
-monarch_names = { 
-	"Muhammad #0" = 200
-	"Ahmad #0" = 80
-	"'Abdallâh #0" = 60
-	"'Abd al-Malik #0" = 40
-	"'Alî #0" = 40
-	"'Uthmân #2" = 20
-	"'Abd al-Haqq #1" = 20
-	"Isma'îl #1" = 20
-	"Yahyâ #1" = 20
-	"'al-Walîd #0" = 20
-	"al-Mustadî #0" = 20
-	"al-Rashîd #0" = 20
-	"Hishâm #0" = 20
-	"Idrîsid #0" = 20
-	"Sulaymân #0" = 20
-	"Zaydân #0" = 20
-	"Zayn #0" = 20
-	"'Abd ar-Rahmân #0" = 15
-	"al-Yazîd #0" = 15
-	"Mansur #0" = 15
-	"Muhraz #0" = 15
-	"Nasir #0" = 15
-	"Abû Faris #0" = 10
-	"Abbas #0" = 10
-	"Abû Merwan #0" = 10
-	"al-Talib #0" = 10
-	"Hammada #0" = 10
-	"Hasam #0" = 10
-	"Hashim #0" = 10
-	"Ibrahim #0" = 10
-	"Ja'far #0" = 10
-	"Maimun #0" = 10
-	"Maslama #0" = 10
-	"Said #0" = 10
-	"Umar #0" = 10
-	"Yûsuf #0" = 10
-	"Ataullah #0" = 0
-	"Jabril #0" = 0
-	"Rasul #0" = 0
-	"Zulfiqar #0" = 0
-	"Thamina #0" = -1
-	"Widad #0" = -1
-	"Aisha #0" = -1
-	"Zaidana #0" = -5
-	"Khnata #0" = -5
-	"Bilqis #0" = -1
-	"Halima #0" = -1
-	"Alwa #0" = -1
+
+monarch_names = {
+	"Massinissa #3" = 20
+	"Micipsa #3" = 20
+	"Syphax #2" = 20
+	"Gala #0" = 20
+	"Vermina #1" = 15
+	"Adherbal #0" = 15
+	"Juba #3" = 10
+	"Gauda #1" = 10
+	"Bomilcar #1" = 10
+
+	"Zilalsen #0" = 0
+	"Zekyus #0" = 0
+	"Zanifer #0" = 0
+	"Zamog #0" = 0
+	"Yugurta #0" = 0
+	"Yarbas #0" = 0
+	"Tasfin #0" = 0
+	"Tabarken #0" = 0
+	"Massug #0" = 0
+	"Masgava #0" = 0
+	"Matun #0" = 0
+	"Marus #0" = 0
+	"Imedyas #0" = 0
+	"Ililten #0" = 0
+	"Gildun #0" = 0
+	"Fagu #0" = 0
+	"Esfan #0" = 0
+	"Esdegh #0" = 0
+	"Erripu #0" = 0
+	"Ekfanas #0" = 0
+	"Budaris #0" = 0
+	"Abizar #0" = 0
+	"Abizaran #0" = 0
+	"Akli #0" = 0
+	"Ameslay #0" = 0
+	"Tabalut #0" = 0
+	"Takfarinas #0" = 0
+	"Azir #0" = 0
+	"Baga #0" = 0
+	"Vaxan #0" = 0
+	"Vexillan #0" = 0
+
+	"Dihya #0" = -1
+	"Tinish #0" = -1
+	"Tabaken #0" = -1
 }
-leader_names = { 
-	Sahiri
-	Haida
-	Sellami
-	Arazi
-	Berui
-	Lahsini
-	Skah
-	Barek
-	Alami
-	Behar
+
+leader_names = {
+	Massinissa
+	Syphax
+	Adherbal
+	Mastanabal
+	Macan
+	Takfarinas
+	Bagay
+	Esfan
+	Gildun
+	Vexillan
 }
-ship_names = { 
-	Tawwab Muntaqim Afuww Fa'uf "Malik Mulk" "Jalal Ikram" Muqsit Jami Ghani Mughni
-	Mani Darr Nafi Nur Hadi Badi Baqi Warith Rashid Sabur
-	"Fazl Azim" 
+
+ship_names = {
+	"Ifran" "Numidia" "Gadir"
+	"Tingis"
+	"Amexlan"
+	"Zilil"
+	"Cartennae"
+	"Iol" "Icosia"
+	"Tamazga"
+	"Baga"
+	"Tabarka" "Masuna"
+	"Dihya" "Tin Hizri"
 }

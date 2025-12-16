@@ -4,18 +4,20 @@
 ### Modified 10/14/2025 2:36:58 PM ###
 # Urgell
 # 2987 Urgell - 10/14/2025 2:36:58 PM 
-add_core = CAT
-owner = CAT
-controller = CAT
+owner = TEU
+controller = TEU
 base_tax = 3
 base_production = 3
 base_manpower = 2
 trade_goods = wool
-culture = catalan
-religion = iberian_pagan
+culture = teutonic
+religion = new_gothic
 capital = "Tàrrega"
 is_city = yes
 discovered_by = western
+discovered_by = latin
+discovered_by = viking
 discovered_by = eastern
 discovered_by = muslim
 discovered_by = ottoman
+add_core = TEU

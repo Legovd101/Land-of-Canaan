@@ -1,8 +1,8 @@
 #504 - Thatta
 owner = KUS
 controller = KUS
-culture = sindhi
-religion = hinduism
+culture = kushan
+religion = pyrrhonism
 capital = "Thatta"
 trade_goods = cloth
 base_tax = 4

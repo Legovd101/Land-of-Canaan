@@ -75,18 +75,10 @@ monarch_names = {
 	"Maryam #0" = -1
 }
 leader_names = { 
-	Albeg Dudar Bagatar
-	Farnag
-	Arsalan Alkhaz Digitæ
-	Makhar
-	Nogka
-	Basar Dudar Ralkhan
-	Sagdat Sarmat Taimuraz
-	Zaurbek
+	Albeg Dudar Bagatar Farnag Arsalan Alkhaz Digitæ Makhar Nogka
+	Basar Dudar Ralkhan Sagdat Sarmat Taimuraz Zaurbek 
 }
 ship_names = { 
-	"Æxsær" Zelenchuk Alagir
-	Fiagdon
-	Arkhon Ardon Kurtat Koban Kist Skif
-	Ursdon
+	"Æxsær" Zelenchuk Alagir Fiagdon Arkhon Ardon Kurtat Koban Kist Skif
+	Ursdon 
 }

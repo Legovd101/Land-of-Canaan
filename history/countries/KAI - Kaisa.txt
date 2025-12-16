@@ -8,6 +8,6 @@ primary_culture = serican
 religion = zoroastrian
 capital = 2301
 government_rank = 1
-technology_group = chinese
+technology_group = ottoman
 government = monarchy
 add_government_reform = feudalism_reform

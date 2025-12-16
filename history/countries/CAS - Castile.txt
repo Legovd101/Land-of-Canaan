@@ -197,7 +197,7 @@ change_estate_land_share = {
 #1499.1.1 = { leader = {	name = "Vicente Yáñez Pinzón"	type = explorer	fire = 2	shock = 3	manuever = 6	siege = 0	death_date = 1516.1.23 } } # Removed /SWÖ
 1499.1.1 = { leader = { name = "Alonso de Ojeda" type = conquistador fire = 2 shock = 3 manuever = 3 siege = 0 death_date = 1515.1.1 } }
 1499.1.1 = { leader = { name = "Amerigo Vespucci" type = explorer fire = 2 shock = 2 manuever = 4 siege = 0 death_date = 1500.12.30 } }
-#1499.1.1 = { leader = {	name = "Juan de la Cosa"       	type = explorer	fire = 1	shock = 2	manuever = 4	siege = 0	death_date = 1510.2.28 } } # Removed /SWÖ
+#1499.1.1 = { leader = {	name = "Juan de la Cosa"	   	type = explorer	fire = 1	shock = 2	manuever = 4	siege = 0	death_date = 1510.2.28 } } # Removed /SWÖ
 #1503.1.1 = { decision = house_of_trade }
 1504.11.26 = { 
 	monarch = { 
@@ -246,7 +246,7 @@ change_estate_land_share = {
 	clear_scripted_personalities = yes
 	add_ruler_personality = loose_lips_personality
 }
-#1506.1.1 = { leader = {	name = "Juan Díaz de Solís"    	type = explorer	fire = 3	shock = 2	manuever = 5	siege = 0	death_date = 1516.1.23 } } # Removed /SWÖ
+#1506.1.1 = { leader = {	name = "Juan Díaz de Solís"		type = explorer	fire = 3	shock = 2	manuever = 5	siege = 0	death_date = 1516.1.23 } } # Removed /SWÖ
 1506.9.25 = { capital = 219 } # Toledo
 1506.9.25 = { 
 	monarch = { 

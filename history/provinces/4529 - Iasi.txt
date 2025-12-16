@@ -2,7 +2,7 @@
 owner = DAC
 controller = DAC
 culture = romanian
-religion = vajrayana
+religion = xadarosh
 capital = "Iasi"
 trade_goods = wine
 base_tax = 2
@@ -11,6 +11,8 @@ base_manpower = 2
 is_city = yes
 add_core = DAC
 discovered_by = western
+discovered_by = latin
+discovered_by = viking
 discovered_by = eastern
 discovered_by = muslim
 discovered_by = ottoman

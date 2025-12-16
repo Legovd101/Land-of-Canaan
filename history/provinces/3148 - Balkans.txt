@@ -1,7 +1,7 @@
 # 3484 - Balkans
 owner = PLP
 controller = PLP
-religion = mahayana
+religion = xadarosh
 capital = "Silven"
 trade_goods = iron
 base_tax = 1
@@ -9,8 +9,11 @@ base_production = 2
 base_manpower = 1
 is_city = yes
 discovered_by = western
+discovered_by = latin
+discovered_by = viking
 discovered_by = eastern
 discovered_by = muslim
 discovered_by = ottoman
 discovered_by = nomad_group
 add_core = PLP
+culture = bessi

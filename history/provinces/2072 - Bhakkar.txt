@@ -1,8 +1,8 @@
 #2072 - Bhakkar
 owner = KUS
 controller = KUS
-culture = sindhi
-religion = hinduism
+culture = kushan
+religion = pyrrhonism
 capital = "Bhakkar"
 trade_goods = cotton
 base_tax = 2

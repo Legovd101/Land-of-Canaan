@@ -1,3 +1,7 @@
 capital = 1765
-technology_group = 
 government_rank = 1
+religion = xadarosh
+technology_group = eastern
+primary_culture = triballi
+government = theocracy
+add_government_reform = leading_clergy_reform

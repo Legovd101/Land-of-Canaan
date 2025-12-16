@@ -45,12 +45,12 @@ monarch_names = {
 	"Kaneyoshi #0" = 50
 	"Kanetsuna #0" = 50
 	"Yoshishige #0" = 50
-    "Fumikane #0" = 50
+	"Fumikane #0" = 50
 	"Motokaddo #0" = 50
 	"Katsuchika #0" = 50
 	"Kanetsugu #0" = 50	
 	"Kunichika #0" = 50
-    "Motochika #0" = 50	
+	"Motochika #0" = 50	
 	"Morichika #0" = 50	
 	"Chikasada #0" = 50	
 	"Chikazane #0" = 50
@@ -59,7 +59,7 @@ monarch_names = {
 	"Chikakazu #0" = 50
 	"Chikatada #0" = 50
 	"Moritane #0" = 50
-    "Moritsugu #0" = 50
+	"Moritsugu #0" = 50
 	"Toku #0" = -5
 	"Sen #0" = -5
 	"Tama #0" = -5
@@ -68,7 +68,7 @@ monarch_names = {
 }
 
 leader_names = {
-    # Daimyo names
+	# Daimyo names
 	Akamatsu Akechi Ashikaga Amago Kyogoku Rokkaku Asakura Asano Aso Chosokabe Date Hachisuka
 	Hatakeyama Hojo Hosokawa Ichijo Keda Imagawa Isshiki Ito Jinbo Kikuchi Kono Maeda
 	Matsunaga Mimura Miyoshi Mogami Mori Nabeshima Nagao Oda Ogasawara Otomo Ouchi
@@ -83,7 +83,7 @@ leader_names = {
 	Fukudome Fukudome Fukudome Fukudome Fukudome Emura Emura Emura Emura Emura
 	Motoyama Motoyama Motoyama Motoyama Motoyama Aki Aki Aki Aki Aki
 	Ichijo Ichijo Ichijo Ichijo Ichijo Kira Kira Kira Kira Kira Tsuno Tsuno Tsuno Tsuno Tsuno
-    Kosokabe Kosokabe Kosokabe Kosokabe Kosokabe
+	Kosokabe Kosokabe Kosokabe Kosokabe Kosokabe
 	# Region Flavor:Shikoku
 	Hosokawa Miyoshi Onishi Niikai Kaifu Sogo Kagawa Kozai Hayuka Saionji Kono Doi Kurushima
 	Murakami Utsunomiya Kaneko Chosokabe Aki Motoyama Kosokabe 

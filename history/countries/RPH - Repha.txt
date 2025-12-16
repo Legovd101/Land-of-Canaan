@@ -1,7 +1,7 @@
 capital = 2234
 technology_group = ottoman
 government_rank = 1
-religion = zoroastrian
+religion = mithraism
 government = republic
 add_government_reform = peasants_republic
 primary_culture = roman

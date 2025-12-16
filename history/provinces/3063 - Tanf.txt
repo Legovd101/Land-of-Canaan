@@ -1,7 +1,7 @@
 owner = PLM
 controller = PLM
 culture = syriac
-religion = zoroastrian
+religion = mithraism
 capital = "Tanf"
 trade_goods = livestock#known for its pastures for Timurid armies
 base_tax = 1

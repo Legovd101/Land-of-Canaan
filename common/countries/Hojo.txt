@@ -44,7 +44,7 @@ monarch_names = { #Most Monarchs were named with "uji"
 	"Ujimitsu #0" = 50
 	"Ujifusa #0" = 50
 	"Ujitoki #0" = 50
-    "Ujitsugu #0" = 50
+	"Ujitsugu #0" = 50
 	"Ujimori #0" = 50
 	"Tsunashige #0" = 20
 	"Ujishige #0" = 50	
@@ -57,7 +57,7 @@ monarch_names = { #Most Monarchs were named with "uji"
 }
 
 leader_names = {
-    # Daimyo names
+	# Daimyo names
 	Akamatsu Akechi Ashikaga Amago Kyogoku Rokkaku Asakura Asano Aso Chosokabe Date Hachisuka
 	Hatakeyama Hojo Hosokawa Ichijo Keda Imagawa Isshiki Ito Jinbo Kikuchi Kono Maeda
 	Matsunaga Mimura Miyoshi Mogami Mori Nabeshima Nagao Oda Ogasawara Otomo Ouchi

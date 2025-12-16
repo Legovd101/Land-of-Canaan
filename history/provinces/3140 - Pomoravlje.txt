@@ -1,7 +1,7 @@
 # 3475 - Pomoravlje
 owner = DST
 controller = DST
-religion = mahayana
+religion = xadarosh
 capital = "Jagodina"
 trade_goods = naval_supplies
 base_tax = 2
@@ -14,7 +14,10 @@ discovered_by = GOL
 discovered_by = AST
 discovered_by = QAS
 discovered_by = western
+discovered_by = latin
+discovered_by = viking
 discovered_by = eastern
 discovered_by = muslim
 discovered_by = ottoman
 add_core = DST
+culture = daesitiates

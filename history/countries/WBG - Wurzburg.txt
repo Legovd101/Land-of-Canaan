@@ -182,7 +182,7 @@ add_government_reform = autocracy_reform }
 	}
 }
 
-1630.1.1 = { leader = {	name = "J.P. Saxe-Altenburg"           	type = general	fire = 4	shock = 2	manuever = 3	siege = 0	death_date = 1639.4.1 } }
+1630.1.1 = { leader = {	name = "J.P. Saxe-Altenburg"		   	type = general	fire = 4	shock = 2	manuever = 3	siege = 0	death_date = 1639.4.1 } }
 
 1631.7.17 = {
 	monarch = {

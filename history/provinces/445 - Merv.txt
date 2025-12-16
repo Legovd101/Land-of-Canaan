@@ -2,7 +2,7 @@
 owner = PMG
 controller = PMG
 culture = parthian
-religion = zoroastrian
+religion = mithraism
 capital = "Merv"
 trade_goods = cotton
 base_tax = 3
@@ -17,5 +17,5 @@ discovered_by = nomad_group
 extra_cost = 8
 center_of_trade = 1
 add_core = PMG
-fort_15th = yes
 hre = yes
+fort_15th = yes

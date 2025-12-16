@@ -8,6 +8,6 @@ primary_culture = serican
 capital = 3104
 # Specific Effects #
 religion = buddhism
-technology_group = chinese
+technology_group = ottoman
 government = republic
 add_government_reform = oligarchy_reform

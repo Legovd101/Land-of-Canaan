@@ -1,0 +1,7 @@
+capital = 2754
+government_rank = 1
+religion = new_gothic
+technology_group = western
+primary_culture = visigothic
+government = theocracy
+add_government_reform = leading_clergy_reform

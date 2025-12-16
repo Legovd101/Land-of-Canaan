@@ -45,7 +45,7 @@ monarch_names = {
 	"Hidekatsu #0" = 50
 	"Katsunaga #0" = 50
 	"Nobunari #0" = 50
-    "Nobuyuki #0" = 50
+	"Nobuyuki #0" = 50
 	"Nobuyasu #0" = 50
 	"Nobukiyo #0" = 50
 	"Nobukado #0" = 50	
@@ -59,7 +59,7 @@ monarch_names = {
 }
 
 leader_names = {
-    # Daimyo names
+	# Daimyo names
 	Shimazu Otomo Ryuzoji Aso Ito Shoni Ouchi Kono Chosokabe Miyoshi 
 	Mori Amago Yamana Akamatsu Hatakeyama Hosokawa Shiba Asakura Oda Tokugawa
 	Togashi Uesugi Takeda Imagawa Tokugawa Hojo Nagao Satomi Satake Ustunomiya

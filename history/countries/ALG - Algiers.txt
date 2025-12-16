@@ -606,7 +606,7 @@ religious_school = maliki_school
 		adm = 3
 		dip = 4
 		mil = 5
-		leader = {	name = "'Ali I"                	type = general	fire = 3	shock = 3	manuever = 3	siege = 0}
+		leader = {	name = "'Ali I"					type = general	fire = 3	shock = 3	manuever = 3	siege = 0}
 	}
 }
 

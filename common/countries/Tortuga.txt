@@ -53,11 +53,11 @@ monarch_names = {
 	"Israel #0" = 10
 	"John #0" = 10
 	
-    "Mary #0" = -5
-    "Elizabeth #0" = -1
-    "Anne #0" = -10
-    "Jacquotte #0" = -1
-    "Charlotte #0" = -1
+	"Mary #0" = -5
+	"Elizabeth #0" = -1
+	"Anne #0" = -10
+	"Jacquotte #0" = -1
+	"Charlotte #0" = -1
 }
 
 leader_names = {

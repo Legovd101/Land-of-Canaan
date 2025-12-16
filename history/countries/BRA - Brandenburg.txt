@@ -543,6 +543,6 @@ change_estate_land_share = {
 1688.5.10 = { government = monarchy
 add_government_reform = autocracy_reform }
 
-1690.1.1 = { leader = {	name = "von Dessau"            	type = general	fire = 4	shock = 4	manuever = 4	siege = 3	death_date = 1747.4.7 } }
+1690.1.1 = { leader = {	name = "von Dessau"				type = general	fire = 4	shock = 4	manuever = 4	siege = 3	death_date = 1747.4.7 } }
 
 1701.1.18 = { elector = no }

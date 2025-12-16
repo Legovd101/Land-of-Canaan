@@ -2,7 +2,7 @@
 owner = MZN
 controller = MZN
 culture = limenioi
-religion = zoroastrian
+religion = mithraism
 capital = "Manama"
 trade_goods = gems#Pearls
 base_tax = 1

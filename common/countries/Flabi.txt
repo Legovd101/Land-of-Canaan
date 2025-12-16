@@ -1,0 +1,100 @@
+#Country Name: Please see filename.
+graphical_culture = westerngfx
+color = { 130 157 255 }
+revolutionary_colors = { 5 8 5 }
+historical_idea_groups = { 
+	defensive_ideas
+	trade_ideas
+	religious_ideas
+	diplomatic_ideas
+	economic_ideas
+	innovativeness_ideas
+	maritime_ideas
+	spy_ideas
+}
+historical_units = { 
+	western_medieval_infantry
+	chevauchee
+	western_men_at_arms
+	swiss_landsknechten
+	dutch_maurician
+	french_caracolle
+	anglofrench_line
+	french_dragoon
+	french_bluecoat
+	french_cuirassier
+	french_impulse
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+monarch_names = { 
+	"Enrique #4" = 20
+	"Carlos #0" = 20
+	"Ricardo #4" = 5
+	"Eduardo #1" = 5
+	"Godofredo #1" = 5
+	"Juan #1" = 5
+	"Roberto #3" = 1
+	"Guillermo #2" = 1
+	"Esteban #1" = 1
+	"Adrián #0" = 0
+	"Alejandro #0" = 0
+	"Amadeo #0" = 0
+	"Andrés #0" = 0
+	"Arturo #0" = 0
+	"Bartolomé #0" = 0
+	"Blas #0" = 0
+	"Claudio #0" = 0
+	"Constante #0" = 0
+	"Daniel #0" = 0
+	"Desiderio #0" = 0
+	"Emerio #0" = 0
+	"Odo #0" = 0
+	"Francisco #0" = 0
+	"Gil #0" = 0
+	"Hércules #0" = 0
+	"Isenberto #0" = 0
+	"Juan Bautista #0" = 0
+	"Jerónimo #0" = 0
+	"Julián #0" = 0
+	"León #0" = 0
+	"Luis #0" = 0
+	"Marino #0" = 0
+	"Mateo #0" = 0
+	"Mauricio #0" = 0
+	"Pedro #0" = 0
+	"Quintín #0" = 0
+	"Raúl #0" = 0
+	"Román #0" = 0
+	"Vicente #0" = 0
+	"Zacarías #0" = 0
+	"Rosalía #0" = -1
+	"Sibila #0" = -1
+	"Modesta #0" = -1
+}
+leader_names = { 
+	"de Amfrevilla" "de Abancurto" "de Abovila" "de Bayol" "de Berquetó" "de Betancur" "de la Boca" "de Braquemonte" "de Briona" "de Croismar"
+	"de Crotay" "del Castillo" "de Dampierre" "Duquesne" "de Émondevilla" "de Estrimón" "Esquemelín" "de Frevilla" "de Fray" "de la Galisoniera"
+	"Goselín" "de Gravila" "Guillameri" "de Harcurto" "de Herbovilla" "de Udetot" "de la Hoz" "de Imbleval" "de Joña" "de Jurvilla"
+	"de la Motta" "Le Moín" "de Lenemón" "Lesperón" "de Lessar" "Le Tellier" "de Marigny" "de Monchenchi" "de Mornay" "del Moncel"
+	"de Noscey" "de Alenzón" "de Osenne" "de Parbay" "Parmentier" "de Prestaval" "de Quenonvilla" "de Quesdevilla" "del Quesnoy" "de Riancurto"
+	"Roncerolles" "de San-Pasí" "de San-Bosmer" "de Sebú" "de Talebot" "de Tasigny" "de Tibutot" "de Valiquervilla" "de Bauquelín" "de Ymonvilla"
+}
+ship_names = { 
+	"el Activo" "el Diestro" "la Garceta" "la Alondra" "la Amaranta" "la Angélica" "el Ardiente" "la Aretusa" "el Arrogante" "el Alción"
+	"la Atalanta" "la Aurora" "la Balanza" "la Blanca" "la Rubia" "el Bravo" "la Morena" "la Briolla" "la Ardiente" "la Carpa"
+	"la Charenta" "el Carro Real" "la Caza" "la Corneja" "la Corrediza" "la Cruel" "la Curiosa" "el Danae" "la Danubia" "la Delfina"
+	"la Diga" "la Diligente" "la Dríade" "la Exclusa" "el Escoyo" "la Emboscada" "la Esmeralda" "la Alegre" "la Entendida" "el Eolo"
+	"la Estrella" "la Favorita" "la Hada" "la Felicidad" "la Fiel" "la Fina" "la Halagadora" "la Flora" "el Francisco" "el Gallardo"
+	"la Galatea" "la Garona" "la Gacela" "la Gentil" "la Gironda" "la Gloria" "la Gracia" "la Graciosa" "el Gran Pontón" "la Griva"
+	"la Armonía" "la Hebe" "el Afortunado" "la Inconstante" "la Infiel" "el Jasón" "la Bonita" "la Alegre" "la Junona" "el Justo"
+	"el Ligero" "El Havre" "la Perra" "el León" "la María Francisca" "el Marino" "la Marcial" "la Amenazante" "la Náyade" "la Normanda"
+	"la Tormenta" "la Oriflama" "la Palmera" "la Paloma" "la Peregrina" "el Pontón Pequeño" "el Pequeño San Francisco" "la Pintada" "el Precioso" "el Pronto"
+	"el Resuelto" "la Rochelesa" "el Rubí" "el San Luis" "el San Miguel" "el Sin Igual" "la Suma" "la Sutil" "la Tramposa" "la Turquesa"
+}
+army_names = { 
+	"Ejército del Cotentin" "Ejército del Bessin" "Ejército del País de Auge" "Ejército de Alenzón" "Ejército de Caén" "Ejército de Argentan" "Ejército de Falesa" "Ejército del Virois" "Ejército de Neuburgo" "Ejército del Avranchín"
+	"Ejército del Perche" "Ejército del Mortainés" "Ejército del País de Caux" "Ejército de $PROVINCE$" 
+}

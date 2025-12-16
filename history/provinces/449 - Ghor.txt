@@ -2,7 +2,7 @@
 owner = ARI
 controller = ARI
 culture = sogdian
-religion = zoroastrian
+religion = pyrrhonism
 capital = "Ahangaran"
 trade_goods = wool
 base_tax = 2

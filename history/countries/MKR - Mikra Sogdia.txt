@@ -3,7 +3,7 @@
 ########################################
 ### Modified 10/16/2025 8:37:53 AM ###
 # MKR (MKR)
-religion = zoroastrian
+religion = pyrrhonism
 # Specific Effects #
 capital = 2310
 technology_group = ottoman

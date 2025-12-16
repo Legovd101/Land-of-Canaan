@@ -45,7 +45,7 @@ monarch_names = { # Most Monarchs were named with "Chika"
 	"Chikatsuna #0" = 50
 	"Chikataka #0" = 50
 	"Chikashige #0" = 50
-    "Masachika #0" = 50
+	"Masachika #0" = 50
 	"Yoshisuke #0" = 50
 	"Chikaharu #0" = 50
 	"Yoshinaga #0" = 50	
@@ -63,7 +63,7 @@ monarch_names = { # Most Monarchs were named with "Chika"
 }
 
 leader_names = {
-    # Daimyo names
+	# Daimyo names
 	Akamatsu Akechi Asakura Ashikaga Amago Aso Chosokabe Date Hatakeyama	
 	Ichijo Imagawa Isshiki Ito Jinbo Kikuchi Kono Matsunaga Miyoshi Mogami
 	Mori Nagao Oda Ogasawara Otomo Ouchi Ryuzoji Sagara Saito Satake Satomi
@@ -73,14 +73,14 @@ leader_names = {
 	Otomo Otomo Otomo Otomo Otomo Otomo Otomo Otomo Otomo Otomo
 	Otomo Otomo Otomo Otomo Otomo Otomo Otomo Otomo Otomo Otomo
 	# Retainers of the Otomo clan
-    Tabata Tabata Tabata Tabata Tabata Hetsugi Hetsugi Hetsugi Hetsugi Hetsugi
+	Tabata Tabata Tabata Tabata Tabata Hetsugi Hetsugi Hetsugi Hetsugi Hetsugi
 	Tsutsumi Tsutsumi Tsutsumi Tsutsumi Tsutsumi Siga Siga Siga Siga Siga
 	Takuma Takuma Takuma Takuma Takuma Irita Irita Irita Irita Irita
 	Usuki Usuki Usuki Usuki Usuki Yoshihiro Yoshihiro Yoshihiro Yoshihiro Yoshihiro
 	Kituke Kituke Kituke Kituke Kituke Ichimada Ichimada Ichimada Ichimada Ichimada
 	Tahoku Tahoku Tahoku Tahoku Tahoku Tachibana Tachibana Tachibana Tachibana Tachibana
 	Kiyota Kiyota Kiyota Kiyota Kiyota Saeki Saeki Saeki Saeki Saeki
-    Takahashi Takahashi Takahashi Takahashi Takahashi Kamachi Kamachi Kamachi Kamachi Kamachi
+	Takahashi Takahashi Takahashi Takahashi Takahashi Kamachi Kamachi Kamachi Kamachi Kamachi
 	# Region Flavor:Kyushu
 	Shoni Munakata Akizuki Harada Tachibana Shibukawa Kii Aso Moji Kamachi Takahashi
 	Kusano Monchujo Hoshino Ryuzoji Chiba Nabeshima Kamishiro Otomo Hetsugi Shiga Ichimada

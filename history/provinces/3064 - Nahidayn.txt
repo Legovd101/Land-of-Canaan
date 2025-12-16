@@ -1,7 +1,7 @@
 owner = NBT
 controller = NBT
 culture = aramean
-religion = zoroastrian
+religion = mithraism
 capital = "Nahidayn"
 trade_goods = livestock#known for its pastures for Timurid armies
 base_tax = 1

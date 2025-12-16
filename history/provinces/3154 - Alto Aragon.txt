@@ -1,0 +1,18 @@
+#3332 - Alto Aragon
+owner = TEU#Alfons V of Aragon
+controller = TEU
+culture = basque
+religion = new_gothic
+base_tax = 2
+base_production = 2
+trade_goods = iron
+base_manpower = 2
+capital = "Jaca"
+is_city = yes
+discovered_by = eastern
+discovered_by = western
+discovered_by = latin
+discovered_by = viking
+discovered_by = muslim
+discovered_by = ottoman
+add_core = TEU

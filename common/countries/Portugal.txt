@@ -1,6 +1,6 @@
 #Country Name: Please see filename.
 graphical_culture = westerngfx
-color = { 40 110 140 }
+color = { 225 157 100 }
 revolutionary_colors = { 9 8 5 }
 historical_score = 4700
 historical_idea_groups = { 
@@ -94,10 +94,9 @@ leader_names = {
 	"de Almeida" "de Andrade" "de Aveiro" "de Ataíde" "de Azevedo" "de Bragança" "de Braganza" "de Brito" "de Carvalho" "de Castelo-Branco"
 	"de Castro" "de Correia" "de Faria" "da Gama" "de Guimarães" "de Lemos" "de Magalhães" "de Marialva" "de Melo" "de Mendonça"
 	"de Meneses" "de Noronha" "de Oliveira" "de Paiva" "de Penamacor" "de Pimentel" "de Queiróz" "de Sá" "de Sampaio" "de Sequeira"
-	"de Sousa" "de Souto" "de Tavares" "de Távora" "de Vilhena" Dias Eanes
-	"Ferreira Martins" Gomes Gonçalves "Lemos de Brito" "Martins de Mascarenhas" "de Vasconcelos" "Mendonça Furtado" "Nunes Barreto" Pereira
-	Rebelo Rodrigues Sarmento
-	Teixeira "Teles de Meneses" 
+	"de Sousa" "de Souto" "de Tavares" "de Távora" "de Vilhena" Dias Eanes "Ferreira Martins" Gomes Gonçalves
+	"Lemos de Brito" "Martins de Mascarenhas" "de Vasconcelos" "Mendonça Furtado" "Nunes Barreto" Pereira Rebelo Rodrigues Sarmento Teixeira
+	"Teles de Meneses" 
 }
 ship_names = { 
 	Activo "Afonso de Albuquerque" Águia Albacora "Almas Santas" Amazona Andorinha António Arpão Bazana

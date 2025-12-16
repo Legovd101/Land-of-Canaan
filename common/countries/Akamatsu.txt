@@ -45,12 +45,12 @@ monarch_names = { #Most Monarchs were named with "nori"
 	"Murahide #0" = 50
 	"Masahide #0" = 50
 	"Suketaka #0" = 50
-    "Masahiro #0" = 50
+	"Masahiro #0" = 50
 	"Sadanori #0" = 50
 	"Michinori #0" = 50
 	"Yoshimasa #0" = 50	
 	"Mochinori #0" = 50
-    "Masanao #0" = 50	
+	"Masanao #0" = 50	
 	"Masashige #0" = 50	
 	"Masazumi #0" = 50	
 	"Yorikane #0" = 50
@@ -58,7 +58,7 @@ monarch_names = { #Most Monarchs were named with "nori"
 	"Yoshiuji #0" = 50
 	"Sadamura #0" = 50
 	"Shigenori #0" = 50
-    "Norihisa #0" = 50
+	"Norihisa #0" = 50
 	"Toku #0" = -5
 	"Sen #0" = -5
 	"Tama #0" = -5
@@ -67,7 +67,7 @@ monarch_names = { #Most Monarchs were named with "nori"
 	}
 
 leader_names = {
-    # Daimyo names
+	# Daimyo names
 	Akamatsu Akechi Ashikaga Amago Kyogoku Rokkaku Asakura Asano Aso Chosokabe Date Hachisuka
 	Hatakeyama Hojo Hosokawa Ichijo Keda Imagawa Isshiki Ito Jinbo Kikuchi Kono Maeda
 	Matsunaga Mimura Miyoshi Mogami Mori Nabeshima Nagao Oda Ogasawara Otomo Ouchi
@@ -76,7 +76,7 @@ leader_names = {
 	# Akamatsu Flavor
 	Akamatsu Akamatsu Akamatsu Akamatsu Akamatsu Akamatsu Akamatsu Akamatsu Akamatsu Akamatsu
 	Akamatsu Akamatsu Akamatsu Akamatsu Akamatsu Akamatsu Akamatsu Akamatsu Akamatsu Akamatsu
-    # Retainers of the Akamatsu clan
+	# Retainers of the Akamatsu clan
 	Kodera Kodera Kodera Kodera Kodera Bessho Bessho Bessho Bessho Bessho
 	Uragami Uragami Uragami Uragami Uragami Fukuhara Fukuhara Fukuhara Fukuhara Fukuhara
 	Hirano Hirano Hirano Hirano Hirano

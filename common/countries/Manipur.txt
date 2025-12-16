@@ -78,4 +78,4 @@ ship_names = {
 	"Rui Mach" Saraswoti "Sagorer Bahini"
 	Shakti "Shaktir Nauk" "Shasti Ma"
 	Surma Trishool "Uma Devi"
-}    
+}	

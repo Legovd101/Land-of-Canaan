@@ -1,3 +1,7 @@
 capital = 4754
-technology_group = 
 government_rank = 1
+religion = vajrayana
+technology_group = eastern
+primary_culture = pirustae
+government = monarchy
+add_government_reform = feudalism_reform

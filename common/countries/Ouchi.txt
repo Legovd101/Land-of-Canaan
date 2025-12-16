@@ -44,7 +44,7 @@ monarch_names = { #Most Monarchs were named with "hiro"
 	"Mochimori #0" = 50
 	"Masahiro #0" = 50
 	"Noriyuki #0" = 50
-    "Yoshioki #0" = 50
+	"Yoshioki #0" = 50
 	"Takahiro #0" = 50
 	"Teruhiro #0" = 50
 	"Yoshitaka #0" = 50	
@@ -58,7 +58,7 @@ monarch_names = { #Most Monarchs were named with "hiro"
 }
 
 leader_names = {
-    # Daimyo names
+	# Daimyo names
 	Akamatsu Akechi Ashikaga Amago Kyogoku Rokkaku Asakura Asano Aso Chosokabe Date Hachisuka
 	Hatakeyama Hojo Hosokawa Ichijo Keda Imagawa Isshiki Ito Jinbo Kikuchi Kono Maeda
 	Matsunaga Mimura Miyoshi Mogami Mori Nabeshima Nagao Oda Ogasawara Otomo Ouchi
@@ -68,7 +68,7 @@ leader_names = {
 	Ouchi Ouchi Ouchi Ouchi Ouchi Ouchi Ouchi Ouchi Ouchi Ouchi
 	Ouchi Ouchi Ouchi Ouchi Ouchi Ouchi Ouchi Ouchi Ouchi Ouchi
 	# Retainers of the Ouchi clan
-    Sue Sue Sue Sue Sue Naito Naito Naito Naito Naito
+	Sue Sue Sue Sue Sue Naito Naito Naito Naito Naito
 	Hironaka Hironaka Hironaka Hironaka Hironaka Era Era Era Era Era
 	Iida Iida Iida Iida Iida Sugi Sugi Sugi Sugi Sugi
 	Yoshimi Yoshimi Yoshimi Yoshimi Yoshimi Toida Toida Toida Toida Toida

@@ -1,0 +1,28 @@
+# 3354 - Carmona
+owner = CDU#Juan II of Castille
+controller = CDU
+add_core = GRA
+culture = visigothic
+religion = new_gothic
+base_tax = 3
+base_production = 3
+trade_goods = grain
+base_manpower = 2
+capital = "Carmona"
+is_city = yes
+discovered_by = western
+discovered_by = latin
+discovered_by = viking
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = eastern
+1516.1.23 = { 
+	controller = SPA
+	add_core = SPA
+}
+1610.1.12 = { culture = castillian }
+1808.6.6 = { controller = REB revolt = { type = pretender_rebels size = 0 } }
+1811.1.1 = { controller = SPA revolt = { size = 1 } }
+1812.10.1 = { controller = REB revolt = { type = pretender_rebels size = 0 } }
+1813.12.11 = { controller = SPA revolt = { size = 1 } }
+add_core = CDU

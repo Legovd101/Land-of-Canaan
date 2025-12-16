@@ -19,5 +19,7 @@ discovered_by = muslim
 discovered_by = ottoman
 discovered_by = eastern
 discovered_by = western
+discovered_by = latin
+discovered_by = viking
 add_core = TUR
 add_core = RTA

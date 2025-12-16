@@ -1,7 +1,7 @@
 #4176 - Branicevo
 owner = DST
 controller = DST
-religion = vajrayana
+religion = xadarosh
 capital = "Kruševac"
 trade_goods = livestock
 base_tax = 3
@@ -14,7 +14,10 @@ discovered_by = GOL
 discovered_by = AST
 discovered_by = QAS
 discovered_by = western
+discovered_by = latin
+discovered_by = viking
 discovered_by = eastern
 discovered_by = muslim
 discovered_by = ottoman
 add_core = DST
+culture = daesitiates

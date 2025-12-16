@@ -2,7 +2,7 @@
 owner = ARI
 controller = ARI
 culture = khorasani
-religion = zoroastrian
+religion = pyrrhonism
 capital = "Ghuriyan"
 trade_goods = livestock
 base_tax = 1

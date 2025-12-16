@@ -17,16 +17,16 @@ capital = 1831
 		mil = 4
 	}
 	queen = {
-        country_of_origin = BOS
-        name = "Jelena"
-        dynasty = "Balsic"
-        birth_date = 1407.1.1
-        death_date = 1453.1.1
-        female = yes
-        adm = 3
-        dip = 3
-        mil = 3
-    }
+		country_of_origin = BOS
+		name = "Jelena"
+		dynasty = "Balsic"
+		birth_date = 1407.1.1
+		death_date = 1453.1.1
+		female = yes
+		adm = 3
+		dip = 3
+		mil = 3
+	}
 	heir = {
 		name = "Vladislav"
 		monarch_name = "Vladislav I"

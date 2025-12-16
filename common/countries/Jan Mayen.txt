@@ -136,14 +136,14 @@ monarch_names = {
 leader_names = {
 	Beliy Medved Bjorn Rawrrorr Rrrrr Grrr Gyp Qoi Styrbjorn Blomstfjellet
 	
-    Andersson
+	Andersson
 	Andreasson
 	Anward
 	Aytoun
-    Backlund
+	Backlund
 	Ballantyne 
 	Beaumont
-    Bergqwist
+	Bergqwist
 	Berni
 	Bjarnehed
 	Björk

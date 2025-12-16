@@ -83,21 +83,21 @@ monarch_names = {
 }
 
 leader_names = {
-      Abat Aguilar Allard Astier Azeret
-      Ballard Barbarin Beauregard Beauvais Bellevue Bénard Bertonière Blanchard Bouligny Broussian
-      Chauvin Courcelli
-      D'Abbadie Dabeville Davezac "de La Houssaye" Delagnoue Delaire Delorme Dubreuil Duclos Dufour Duvergier
-      Fabre Ferrière Florance Fortier Foucher Fournier
-      Garnier Gasquet Girod Guesnard
-      "L'Hermite" Labadie Labarre Laborde Labranche Lachaise Lacoste Lacouture Lacroix Lafarge Lafaye 
-      Lafourche Lallande Lamothe Landreaux Lanusse Lapeyre Laporte Laroche Latour Laville Leblanc
-      "Le Moyne" Leprêtre Lesparre Levasseur Livaudais Lombard 
-      Mansoury Marigny Milhet Millaudon Montegut Musson
-      Paimboeuf Paturel Pecquet Pelletier Périer Perrault Pilie Plicque
-      Renault Rillieux Rivière Rochelle Roussel
-      "Saint-Martin" Salaignac Salvant Seignouret Simard "Saint-Blancard"
-      Terrasson Tourangier
-      Valette Vidal Vignie Villere Vinot
+	  Abat Aguilar Allard Astier Azeret
+	  Ballard Barbarin Beauregard Beauvais Bellevue Bénard Bertonière Blanchard Bouligny Broussian
+	  Chauvin Courcelli
+	  D'Abbadie Dabeville Davezac "de La Houssaye" Delagnoue Delaire Delorme Dubreuil Duclos Dufour Duvergier
+	  Fabre Ferrière Florance Fortier Foucher Fournier
+	  Garnier Gasquet Girod Guesnard
+	  "L'Hermite" Labadie Labarre Laborde Labranche Lachaise Lacoste Lacouture Lacroix Lafarge Lafaye 
+	  Lafourche Lallande Lamothe Landreaux Lanusse Lapeyre Laporte Laroche Latour Laville Leblanc
+	  "Le Moyne" Leprêtre Lesparre Levasseur Livaudais Lombard 
+	  Mansoury Marigny Milhet Millaudon Montegut Musson
+	  Paimboeuf Paturel Pecquet Pelletier Périer Perrault Pilie Plicque
+	  Renault Rillieux Rivière Rochelle Roussel
+	  "Saint-Martin" Salaignac Salvant Seignouret Simard "Saint-Blancard"
+	  Terrasson Tourangier
+	  Valette Vidal Vignie Villere Vinot
 }
 
 ship_names = {

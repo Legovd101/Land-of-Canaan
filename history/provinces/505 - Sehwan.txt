@@ -1,7 +1,7 @@
 #505 - Sehwan
 owner = KUS
 controller = KUS
-culture = sindhi
+culture = kushan
 religion = hinduism
 capital = "Sehwan"
 trade_goods = silk#Silk cloth, fine calicoes, painted cloth

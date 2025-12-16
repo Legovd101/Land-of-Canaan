@@ -2,7 +2,7 @@
 owner = RTK
 controller = RTK
 culture = persian
-religion = zoroastrian
+religion = pyrrhonism
 capital = "Abarquh"
 trade_goods = livestock#known for its pastures for Timurid armies
 base_tax = 1

@@ -1,6 +1,3 @@
-
-DAC = "countries/Dacia.txt"
-
  # OKS
  ## Iranic
 MZN = "countries/Mazun.txt"
@@ -59,7 +56,7 @@ KOS = "countries/Kosh.txt" # Sogdian
 WRN = "countries/Warnos.txt" # Sogdian
 
  ## Semitic
-CNN = "countries/Kana.txt"
+KNA = "countries/Kana.txt"
 NQR = "countries/Niqirah.txt"
 NBT = "countries/Nabath.txt"
 GNB = "countries/Ghanib Nahrain.txt"
@@ -74,7 +71,7 @@ PMG = "countries/Pompeia Margiana.txt" # Roman
 BMC = "countries/Bamice.txt" # Gothic
 
  # Anatolia
- ## Selikuó
+ ## Selikuó (Serico-Anatolian)
 XIN = "countries/Xin.txt"
 KAI = "countries/Kaisa.txt"
 MXI = "countries/Amaxiya.txt"
@@ -125,23 +122,81 @@ TMS = "countries/Toms.txt"
 IST = "countries/Istra.txt"
 PLL = "countries/Pella.txt"
 
- ## Hillurio
+ ## Hillurio (Illyrian)
 DRQ = "countries/Duraq.txt"
 PST = "countries/Perusitan.txt"
 DRD = "countries/Dardan.txt"
 DST = "countries/Daisitan.txt"
 
- ## Oduris
+ ## Oduris (Odrysian/Thracian)
 PLP = "countries/Pulpudeva.txt"
 SRD = "countries/Sardica.txt"
 
- ## Rhumae
+ ## Rhumae (Eastern Romance)
 CLT = "countries/Calats.txt"
 ADR = "countries/Adreanoblis.txt"
 NNA = "countries/Nina.txt"
 MRD = "countries/Malgraden.txt"
+DAC = "countries/Dacia.txt"
 
  ## Other
 RXL = "countries/Roxalonston.txt" # Roxolani
 CRL = "countries/Coralla.txt" # Celtic
 YNN = "countries/Yonanan.txt" # Punic
+
+ # Aifryka
+ ## Wanðalisk (Vandalic)
+AFR = "countries/Aifryka.txt"
+HVN = "countries/Haven.txt"
+GLD = "countries/Goldsboro.txt"
+SEP = "countries/Septen.txt"
+PRP = "countries/Purpela.txt"
+
+ ## Romanik (Southern Romance)
+DGD = "countries/Dengidana.txt"
+MUT = "countries/Maritanya.txt"
+LEY = "countries/Leyo.txt"
+
+ ## Maziken (Berber/Amazigh)
+GET = "countries/Igetuli.txt" # Gaetuli
+GAR = "countries/Garamantia.txt" # Garamantes
+AGD = "countries/Agadir.txt"
+MGL = "countries/Magdeul.txt"
+
+ ## Other
+TMD = "countries/Tamdat.txt" # Punic
+CYR = "countries/Cyrenaica.txt" # Hellenic
+
+ # Iberia
+ ## Ispanyol (Ibero-Romance)
+MAC = "countries/Malaca.txt"
+ILB = "countries/Illiberis.txt"
+URC = "countries/Urci.txt"
+ACC = "countries/Acci.txt"
+CRG = "countries/Carteno.txt"
+
+ ## Spanisc (Ibero-Germanic)
+
+ ### Visigodes (Visigothic)
+CDU = "countries/Korduba.txt"
+LUK = "countries/Ljukant.txt"
+KSB = "countries/Kaisarburgs.txt"
+
+ ### Eotisc (Jutish)
+CMB = "countries/Cimbralend.txt" # Cimbri
+CBN = "countries/Cubania.txt" # Cobandi
+HRS = "countries/Hersclen.txt" # Heruli
+
+ ### Suvo (Suebi)
+VTE = "countries/Vetera.txt"
+CON = "countries/Corun.txt"
+
+ ## Útlandr (Viking)
+MND = "countries/Mundaka.txt"
+FLB = "countries/Flabi.txt"
+
+ ## Other
+GDL = "countries/Gaedlighe.txt" # Gaelic
+EBR = "countries/Ebria.txt" # Celtiberian
+ALN = "countries/Alonesiara.txt" # Alan
+BSK = "countries/Baskoina.txt" # Basque

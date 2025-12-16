@@ -12,5 +12,7 @@ capital = "Reval"
 is_city = yes
 center_of_trade = 1
 discovered_by = western
+discovered_by = latin
+discovered_by = viking
 discovered_by = eastern
 fort_15th = yes

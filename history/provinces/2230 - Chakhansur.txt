@@ -2,7 +2,7 @@
 owner = DRN
 controller = DRN
 culture = khorasani
-religion = zoroastrian
+religion = pyrrhonism
 capital = "Chakansur"
 trade_goods = livestock
 base_tax = 1

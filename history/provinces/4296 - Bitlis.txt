@@ -2,7 +2,7 @@
 owner = ARM
 controller = ARM
 culture = kurdish
-religion = zoroastrian
+religion = mithraism
 capital = "Bitlis"
 trade_goods = wool
 base_tax = 2

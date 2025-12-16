@@ -46,7 +46,7 @@ monarch_names = {
 	"Yorizumi #0" = 20
 	"Yoritsugu #0" = 50
 	"Yorimoto #0" = 50
-    "Mochiyori #0" = 50
+	"Mochiyori #0" = 50
 	"Yasumasa #0" = 50
 	"Akinao #0" = 20	
 	"Yoriaki #0" = 50	
@@ -59,7 +59,7 @@ monarch_names = {
 	}
 
 leader_names = {
-    # Daimyo names
+	# Daimyo names
 	Shimazu Otomo Ryuzoji Aso Ito Shoni Ouchi Kono Chosokabe Miyoshi 
 	Mori Amago Yamana Akamatsu Hatakeyama Hosokawa Shiba Asakura Oda Tokugawa
 	Togashi Uesugi Takeda Imagawa Tokugawa Hojo Nagao Satomi Satake Ustunomiya
@@ -70,7 +70,7 @@ leader_names = {
 	Toki Toki Toki Toki Toki Toki Toki Toki Toki Toki
 	Toki Toki Toki Toki Toki Toki Toki Toki Toki Toki
 	# Retainers of the Toki clan
-    Saito Saito Saito Saito Saito Akechi Akechi Akechi Akechi Akechi
+	Saito Saito Saito Saito Saito Akechi Akechi Akechi Akechi Akechi
 	Hachiya Hachiya Hachiya Hachiya Hachiya Hara Hara Hara Hara Hara
 	Asano Asano Asano Asano Asano Kanamori Kanamori Kanamori Kanamori Kanamori
 	# Region Flavor:Tokai-Chubu

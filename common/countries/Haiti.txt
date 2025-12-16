@@ -85,31 +85,31 @@ monarch_names = {
 }
 
 leader_names = {
-        Biassou
-        François
-        d'Aulnay
-        "de Boissieu" "de Bonnefoy"
-        "de Chambronne" "de Champmartin"
-        "des Ecures"
-        "de Galard"
-        "des Herbiers"
-        "de Marguerye" "de Maurepas"
-        "d'Ornano"
-        "de Pellefort"
-        "de Siorac"
-        "de Tréville"
-        "de Vibien" "de Vigny"
-        "Le Tellier"
+		Biassou
+		François
+		d'Aulnay
+		"de Boissieu" "de Bonnefoy"
+		"de Chambronne" "de Champmartin"
+		"des Ecures"
+		"de Galard"
+		"des Herbiers"
+		"de Marguerye" "de Maurepas"
+		"d'Ornano"
+		"de Pellefort"
+		"de Siorac"
+		"de Tréville"
+		"de Vibien" "de Vigny"
+		"Le Tellier"
 }
 
 ship_names = {
-        "la Belle Poule"
-        "le Magnifique"
-        "le Neptune"
-        l'Océan
-        "la Provence" 
-        "le Robuste"
-        "le Sceptre" "la Superbe"
-        "la Trombe" "le Triton" 
-        "la Victoire" 
+		"la Belle Poule"
+		"le Magnifique"
+		"le Neptune"
+		l'Océan
+		"la Provence" 
+		"le Robuste"
+		"le Sceptre" "la Superbe"
+		"la Trombe" "le Triton" 
+		"la Victoire" 
 }

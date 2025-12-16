@@ -44,12 +44,12 @@ monarch_names = {
 	"Naokane #0" = 20
 	"Naotomo #0" = 20
 	"Ujihisa #0" = 20
-    "Ujikane #0" = 20
+	"Ujikane #0" = 20
 	"Naoyori #0" = 20
 	"Michinao #0" = 20
 	"Norikatsu #0" = 20	
 	"Norimi #0" = 20
-    "Fujinaga #0" = 20	
+	"Fujinaga #0" = 20	
 	"Norichika #0" = 20	
 	"Norimitsu #0" = 30	
 	"Toku #0" = -5
@@ -60,7 +60,7 @@ monarch_names = {
 }
 
 leader_names = {
-    # Daimyo names
+	# Daimyo names
 	Akamatsu Akechi Ashikaga Amago Kyogoku Rokkaku Asakura Asano Aso Chosokabe Date Hachisuka
 	Hatakeyama Hojo Hosokawa Ichijo Keda Imagawa Isshiki Ito Jinbo Kikuchi Kono Maeda
 	Matsunaga Mimura Miyoshi Mogami Mori Nabeshima Nagao Oda Ogasawara Otomo Ouchi
@@ -70,7 +70,7 @@ leader_names = {
 	Isshiki Isshiki Isshiki Isshiki Isshiki Isshiki Isshiki Isshiki Isshiki Isshiki
 	Isshiki Isshiki Isshiki Isshiki Isshiki Isshiki Isshiki Isshiki Isshiki Isshiki
 	# Retainers of the Isshiki clan
-    Akiyama Akiyama Akiyama Akiyama Akiyama Mikata Mikata Mikata Mikata Mikata
+	Akiyama Akiyama Akiyama Akiyama Akiyama Mikata Mikata Mikata Mikata Mikata
 	Ogasawara Ogasawara Ogasawara Ogasawara Ogasawara Inatomi Inatomi Inatomi Inatomi Inatomi
 	# Region Flavor: Chugoku
 	Uragami Matsuda Ukita Togawa Hanabusa Akashi Hosokawa Sho Mimura Ishikawa

@@ -2,7 +2,7 @@
 owner = SRF
 controller = SRF
 culture = persian
-religion = zoroastrian
+religion = mithraism
 capital = "Bandar Langeh"
 trade_goods = spices
 base_tax = 2

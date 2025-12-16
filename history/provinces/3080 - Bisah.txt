@@ -1,7 +1,7 @@
 owner = GNB
 controller = GNB
 culture = aramean
-religion = zoroastrian
+religion = mithraism
 capital = "Bisah"
 trade_goods = livestock#known for its pastures for Timurid armies
 base_tax = 1

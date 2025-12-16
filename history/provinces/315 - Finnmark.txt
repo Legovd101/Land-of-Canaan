@@ -13,3 +13,5 @@ is_city = yes
 add_local_autonomy = 70
 discovered_by = eastern
 discovered_by = western
+discovered_by = latin
+discovered_by = viking

@@ -44,7 +44,7 @@ monarch_names = { # Most Monarchs were named with "Nobu"
 	"Nobushige #0" = 20
 	"Nobumori #0" = 50
 	"Nobunawa #0" = 50
-    "Nobutora #0" = 50
+	"Nobutora #0" = 50
 	"Harunobu #0" = 50
 	"Nobukado #0" = 50
 	"Katsuyori #0" = 20	
@@ -59,7 +59,7 @@ monarch_names = { # Most Monarchs were named with "Nobu"
 }
 
 leader_names = {
-    # Daimyo names
+	# Daimyo names
 	Akamatsu Akechi Ashikaga Amago Kyogoku Rokkaku Asakura Asano Aso Chosokabe Date Hachisuka
 	Hatakeyama Hojo Hosokawa Ichijo Keda Imagawa Isshiki Ito Jinbo Kikuchi Kono Maeda
 	Matsunaga Mimura Miyoshi Mogami Mori Nabeshima Nagao Oda Ogasawara Otomo Ouchi
@@ -69,7 +69,7 @@ leader_names = {
 	Takeda Takeda Takeda Takeda Takeda Takeda Takeda Takeda Takeda Takeda
 	Takeda Takeda Takeda Takeda Takeda Takeda Takeda Takeda Takeda Takeda
 	# Retainers of the Takeda clan
-    Unno Unno Unno Unno Unno Unno Katsurayama Katsurayama Katsurayama Katsurayama Katsurayama
+	Unno Unno Unno Unno Unno Unno Katsurayama Katsurayama Katsurayama Katsurayama Katsurayama
 	Nishina Nishina Nishina Nishina Nishina Nishina Anayama Anayama Anayama Anayama Anayama
 	Itagaki Itagaki Itagaki Itagaki Itagaki Amari Amari Amari Amari Amari
 	Obu Obu Obu Obu Obu Baba Baba Baba Baba Baba Kosaka Kosaka Kosaka Kosaka Kosaka
@@ -80,7 +80,7 @@ leader_names = {
 	Sone Sone Sone Sone Sone Sanada Sanada Sanada Sanada Sanada
 	Obata Obata Obata Obata Obata Yokota Yokota Yokota Yokota Yokota
 	Hara Hara Hara Hara Hara Tada Tada Tada Tada Tada Kiso Kiso Kiso Kiso Kiso
-    # Region Flavor: Koshinetsu-Hokuriku
+	# Region Flavor: Koshinetsu-Hokuriku
 	Ogasawara Suwa Takato Murakami Takanashi Suda Unno Mochizuki Sanada Oi
 	Yashiro Hoshina Nishina Kiso Baba Takeda Anayama Oyamada Akiyama Tsuchiya Amari
 	Itagaki Naito Kosaka Obu Yamagata Hara Yamamoto Nagao Nakajo Irobe Honjo Kaji Shibata

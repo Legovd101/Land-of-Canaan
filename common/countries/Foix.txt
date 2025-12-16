@@ -122,6 +122,6 @@ ship_names = {
 army_names = {
 	 "Armée du Couserans"  "Armée de Bigorre" "Armée de Comminges"
 	 "Armée de Foix-Béarn" "Armée de Foix-Castelbon" "Armée du Donnezan"
-	 "Armée d'Andorre"     "Armée du Nébouzan"
+	 "Armée d'Andorre"	 "Armée du Nébouzan"
 	 "Armée de $PROVINCE$" 
 }

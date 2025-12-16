@@ -2,7 +2,7 @@
 owner = PMG
 controller = PMG
 culture = bactrian
-religion = zoroastrian
+religion = mithraism
 capital = "Charjuy"
 trade_goods = livestock
 base_tax = 2

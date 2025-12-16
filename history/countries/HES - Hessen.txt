@@ -161,7 +161,7 @@ capital = 1762	# Kassel
 	}
 }
 
-1510.1.1 = { leader = {	name = "Philipp"               	type = general	fire = 3	shock = 4	manuever = 4	siege = 0	death_date = 1560.1.1 } }
+1510.1.1 = { leader = {	name = "Philipp"			   	type = general	fire = 3	shock = 4	manuever = 4	siege = 0	death_date = 1560.1.1 } }
 
 1527.1.1 = { religion = protestant }
 
@@ -235,7 +235,7 @@ capital = 1762	# Kassel
 	join_league = protestant
 }
 
-1621.1.1 = { leader = {	name = "Eberstein"             	type = general	fire = 3	shock = 2	manuever = 3	siege = 0	death_date = 1651.1.1 } }
+1621.1.1 = { leader = {	name = "Eberstein"			 	type = general	fire = 3	shock = 2	manuever = 3	siege = 0	death_date = 1651.1.1 } }
 
 1627.3.18 = {
 	monarch = {
@@ -342,11 +342,11 @@ capital = 1762	# Kassel
 }
 
 
-1690.1.1 = { leader = {	name = "von Darmstadt"         	type = general	fire = 3	shock = 2	manuever = 3	siege = 2	death_date = 1730.1.1 } }
+1690.1.1 = { leader = {	name = "von Darmstadt"		 	type = general	fire = 3	shock = 2	manuever = 3	siege = 2	death_date = 1730.1.1 } }
 
 # Fredrik I of Sweden, personal union from 1730 under German_alliances
 
-1740.1.1 = { leader = {	name = "Hesse"                 	type = general	fire = 3	shock = 3	manuever = 3	siege = 0	death_date = 1755.1.1 } }
+1740.1.1 = { leader = {	name = "Hesse"				 	type = general	fire = 3	shock = 3	manuever = 3	siege = 0	death_date = 1755.1.1 } }
 
 1751.3.26 = {
 	monarch = {
@@ -373,7 +373,7 @@ capital = 1762	# Kassel
 	}
 }
 
-1760.1.1 = { leader = {	name = "W. von Knyphausen"        	type = general	fire = 3	shock = 3	manuever = 3	siege = 0	death_date = 1800.1.1 } }
+1760.1.1 = { leader = {	name = "W. von Knyphausen"			type = general	fire = 3	shock = 3	manuever = 3	siege = 0	death_date = 1800.1.1 } }
 
 1760.2.1 = {
 	monarch = {

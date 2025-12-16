@@ -1,3 +1,7 @@
 capital = 4702
-technology_group = 
 government_rank = 1
+religion = buddhism
+technology_group = muslim
+primary_culture = phoenician
+government = monarchy
+add_government_reform = feudalism_reform

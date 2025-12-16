@@ -109,7 +109,7 @@ capital = 99	# Coevorde
 		adm = 3
 		dip = 4
 		mil = 2
-        female = yes
+		female = yes
 	}
 }
 

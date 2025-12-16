@@ -2,7 +2,7 @@
 owner = KRD
 controller = KRD
 culture = kurdish
-religion = zoroastrian
+religion = mithraism
 capital = "Al Mawsil"
 trade_goods = cloth
 base_tax = 4

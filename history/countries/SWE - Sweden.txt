@@ -351,7 +351,7 @@ change_estate_land_share = {
 	add_accepted_culture = estonian
 }
 1551.1.1 = { leader = { name = "Klas Horn" type = admiral fire = 5 shock = 5 manuever = 4 siege = 0 death_date = 1566.9.9 } }
-#1555.1.1 = { leader = {	name = "Clas E. Fleming"       	type = general	fire = 3	shock = 3	manuever = 3	siege = 1	death_date = 1597.4.13 } }
+#1555.1.1 = { leader = {	name = "Clas E. Fleming"	   	type = general	fire = 3	shock = 3	manuever = 3	siege = 1	death_date = 1597.4.13 } }
 1560.1.1 = { leader = { name = "Hans Boije af Gennäs" type = general fire = 2 shock = 2 manuever = 3 siege = 0 death_date = 1573.1.1 } }
 1560.9.30 = { 
 	monarch = { 
@@ -445,7 +445,7 @@ change_estate_land_share = {
 		mil = 3
 	}
 }
-#1570.1.1 = { leader = {	name = "Hertig Karl"           	type = general	fire = 2	shock = 2	manuever = 2	siege = 0	death_date = 1607.3.15 } } # Removed /SWÖ
+#1570.1.1 = { leader = {	name = "Hertig Karl"		   	type = general	fire = 2	shock = 2	manuever = 2	siege = 0	death_date = 1607.3.15 } } # Removed /SWÖ
 1575.1.1 = { leader = { name = "Karl Horn" type = general fire = 4 shock = 3 manuever = 3 siege = 1 death_date = 1601.5.16 } }
 1585.2.21 = { 
 	queen = { 
@@ -710,7 +710,7 @@ change_estate_land_share = {
 }
 #1699.1.1 = { leader = {	name = "Carl G. Rehnskiöld"	type = general	fire = 2	shock = 2	manuever = 1	siege = 1	death_date = 1722.1.29 } } # Removed /SWÖ
 1700.1.1 = { leader = { name = "Arvid Bernhard Horn" type = general fire = 4 shock = 2 manuever = 3 siege = 1 death_date = 1742.4.17 } }
-#1700.1.1 = { leader = {	name = "Magnus Stenbock"       	type = general	fire = 3	shock = 4	manuever = 3	siege = 0	death_date = 1713.5.6 } } # Removed /SWÖ
+#1700.1.1 = { leader = {	name = "Magnus Stenbock"	   	type = general	fire = 3	shock = 4	manuever = 3	siege = 0	death_date = 1713.5.6 } } # Removed /SWÖ
 1700.1.1 = { leader = { name = "Wachtmeister" type = admiral fire = 3 shock = 3 manuever = 4 siege = 0 death_date = 1717.1.1 } }
 1701.1.1 = { leader = { name = "Adam Lewenhaupt" type = general fire = 4 shock = 4 manuever = 2 siege = 1 death_date = 1719.2.12 } }
 1707.1.1 = { leader = { name = "Lars Gathenhielm" type = admiral fire = 0 shock = 4 manuever = 5 siege = 0 death_date = 1718.4.25 } }

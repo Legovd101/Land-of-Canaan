@@ -2,7 +2,7 @@
 owner = RPH
 controller = RPH
 culture = persian
-religion = zoroastrian
+religion = mithraism
 capital = "Rafsanjan"
 trade_goods = copper
 base_tax = 2

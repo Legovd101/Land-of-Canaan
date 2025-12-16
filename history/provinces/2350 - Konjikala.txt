@@ -2,7 +2,7 @@
 owner = PMG
 controller = PMG
 culture = parthian
-religion = zoroastrian
+religion = mithraism
 capital = "Konjikala"
 trade_goods = copper
 base_tax = 1

@@ -23,6 +23,8 @@ capital = "Dublin"
 is_city = yes
 
 discovered_by = western
+discovered_by = latin
+discovered_by = viking
 discovered_by = muslim
 discovered_by = ottoman
 discovered_by = eastern

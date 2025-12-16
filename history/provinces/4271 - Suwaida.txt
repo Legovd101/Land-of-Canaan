@@ -4,9 +4,9 @@
 ### Modified 10/16/2025 8:37:53 AM ###
 # Suwayda
 # 4271 Suwayda - 10/16/2025 8:37:53 AM 
-add_core = CNN
-owner = CNN
-controller = CNN
+add_core = KNA
+owner = KNA
+controller = KNA
 base_tax = 1
 base_production = 1
 base_manpower = 1

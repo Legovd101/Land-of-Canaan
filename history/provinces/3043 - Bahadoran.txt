@@ -1,7 +1,7 @@
 owner = SVS
 controller = SVS
 culture = persian
-religion = zoroastrian
+religion = pyrrhonism
 capital = "Bahadoran"
 trade_goods = livestock#known for its pastures for Timurid armies
 base_tax = 1

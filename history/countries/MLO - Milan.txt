@@ -116,7 +116,7 @@ change_estate_land_share = {
 	}
 }
 
-1418.1.1 = { leader = {	 name = "Carmagnola"     	type = general	fire = 4	shock = 5	manuever = 5	siege = 1	death_date = 1432.5.5 } }
+1418.1.1 = { leader = {	 name = "Carmagnola"	 	type = general	fire = 4	shock = 5	manuever = 5	siege = 1	death_date = 1432.5.5 } }
 
 1427.12.2 = {
 	queen = {
@@ -214,7 +214,7 @@ change_estate_land_share = {
 		adm = 5
 		dip = 5
 		mil = 4
-		leader = { name = "Ludovico Sforza"       	type = general	fire = 3	shock = 2	manuever = 3	siege = 1}
+		leader = { name = "Ludovico Sforza"	   	type = general	fire = 3	shock = 2	manuever = 3	siege = 1}
 	}
 }
 		
@@ -226,7 +226,7 @@ change_estate_land_share = {
 		adm = 5
 		dip = 5
 		mil = 4
-		leader = { name = "Ludovico Sforza"       	type = general	fire = 3	shock = 2	manuever = 3	siege = 1}
+		leader = { name = "Ludovico Sforza"	   	type = general	fire = 3	shock = 2	manuever = 3	siege = 1}
 	}
 }
 
@@ -241,7 +241,7 @@ change_estate_land_share = {
 		adm = 2
 		dip = 4
 		mil = 1
-		leader = { name = "Massimiliano Sforza"       	type = general	fire = 1	shock = 1	manuever = 2	siege = 0 }
+		leader = { name = "Massimiliano Sforza"	   	type = general	fire = 1	shock = 1	manuever = 2	siege = 0 }
 	}	
 }
 	
@@ -253,7 +253,7 @@ change_estate_land_share = {
 		adm = 2
 		dip = 4
 		mil = 1
-		leader = { name = "Massimiliano Sforza"       	type = general	fire = 1	shock = 1	manuever = 2	siege = 0 }
+		leader = { name = "Massimiliano Sforza"	   	type = general	fire = 1	shock = 1	manuever = 2	siege = 0 }
 	}
 }
 
@@ -265,11 +265,11 @@ change_estate_land_share = {
 		adm = 4
 		dip = 2
 		mil = 1
-		leader = { name = "Francesco Sforza"       	type = general	fire = 1	shock = 1	manuever = 2	siege = 0 }
+		leader = { name = "Francesco Sforza"	   	type = general	fire = 1	shock = 1	manuever = 2	siege = 0 }
 	}
 }
 
-1535.1.1 = { leader = {	 name = "Marquis del Vasto"     	type = general	fire = 2	shock = 2	manuever = 3	siege = 0	death_date = 1546.3.31 } }
+1535.1.1 = { leader = {	 name = "Marquis del Vasto"	 	type = general	fire = 2	shock = 2	manuever = 3	siege = 0	death_date = 1546.3.31 } }
 
 1796.11.15 = { set_legacy_government = constitutional_republic }
 

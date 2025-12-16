@@ -1,7 +1,7 @@
 owner = ALH
 controller = ALH
 culture = gulf_arabic
-religion = zoroastrian
+religion = mithraism
 capital = "Jurayban"
 trade_goods = spices#Dates
 base_tax = 1

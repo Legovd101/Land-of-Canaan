@@ -80,7 +80,7 @@ if = {
 		adm = 4
 		dip = 3
 		mil = 5
-		leader = {	name = "Moctezuma I"           	type = general	fire = 3	shock = 4	manuever = 4	siege = 0}
+		leader = {	name = "Moctezuma I"		   	type = general	fire = 3	shock = 4	manuever = 4	siege = 0}
 	}
 }
 
@@ -156,7 +156,7 @@ if = {
 		adm = 5
 		dip = 3
 		mil = 6
-		leader = {	name = "Ahuitzotl"             	type = general	fire = 3	shock = 5	manuever = 3	siege = 0}
+		leader = {	name = "Ahuitzotl"			 	type = general	fire = 3	shock = 5	manuever = 3	siege = 0}
 	}
 }
 		
@@ -167,7 +167,7 @@ if = {
 		adm = 5
 		dip = 3
 		mil = 6
-		leader = {	name = "Ahuitzotl"             	type = general	fire = 3	shock = 5	manuever = 3	siege = 0}
+		leader = {	name = "Ahuitzotl"			 	type = general	fire = 3	shock = 5	manuever = 3	siege = 0}
 	}
 }
 
@@ -182,7 +182,7 @@ if = {
 		adm = 2
 		dip = 0
 		mil = 0
-		leader = {	name = "Moctezuma II"          	type = general	fire = 2	shock = 3	manuever = 2	siege = 0}
+		leader = {	name = "Moctezuma II"		  	type = general	fire = 2	shock = 3	manuever = 2	siege = 0}
 	}
 }
 		
@@ -193,7 +193,7 @@ if = {
 		adm = 2
 		dip = 0
 		mil = 0
-		leader = {	name = "Moctezuma II"          	type = general	fire = 2	shock = 3	manuever = 2	siege = 0}
+		leader = {	name = "Moctezuma II"		  	type = general	fire = 2	shock = 3	manuever = 2	siege = 0}
 	}
 }
 

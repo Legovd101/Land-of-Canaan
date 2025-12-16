@@ -260,7 +260,7 @@ fixed_capital = 190 # Cannot move capital away from this province & no power cos
 		adm = 5
 		dip = 5
 		mil = 5
-		leader = {	name = "Henri I"              	type = general	fire = 4	shock = 4	manuever = 2	siege = 0 }
+		leader = {	name = "Henri I"			  	type = general	fire = 4	shock = 4	manuever = 2	siege = 0 }
 	}
 }
 
