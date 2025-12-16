@@ -33,7 +33,7 @@ TRM = "countries/Thermae.txt"
 NDA = "countries/India.txt"
 RCH = "countries/Arachoisa.txt"
 
- ## Eraník
+ ## EranÃ­k
 HMZ = "countries/Homerizad.txt"
 ELY = "countries/Elymais.txt"
 MKR = "countries/Mikra Sogdia.txt" ## Sogdian
@@ -71,7 +71,7 @@ PMG = "countries/Pompeia Margiana.txt" # Roman
 BMC = "countries/Bamice.txt" # Gothic
 
  # Anatolia
- ## Selikuó (Serico-Anatolian)
+ ## SelikuÃ³ (Serico-Anatolian)
 XIN = "countries/Xin.txt"
 KAI = "countries/Kaisa.txt"
 MXI = "countries/Amaxiya.txt"
@@ -145,7 +145,7 @@ CRL = "countries/Coralla.txt" # Celtic
 YNN = "countries/Yonanan.txt" # Punic
 
  # Aifryka
- ## Wanðalisk (Vandalic)
+ ## WanÃ°alisk (Vandalic)
 AFR = "countries/Aifryka.txt"
 HVN = "countries/Haven.txt"
 GLD = "countries/Goldsboro.txt"
@@ -189,9 +189,9 @@ HRS = "countries/Hersclen.txt" # Heruli
 
  ### Suvo (Suebi)
 VTE = "countries/Vetera.txt"
-CON = "countries/Corun.txt"
+CRU = "countries/Corun.txt"
 
- ## Útlandr (Viking)
+ ## Ãštlandr (Viking)
 MND = "countries/Mundaka.txt"
 FLB = "countries/Flabi.txt"
 
