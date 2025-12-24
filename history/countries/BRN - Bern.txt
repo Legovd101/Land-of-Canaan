@@ -1,0 +1,7 @@
+religion = old_gothic
+capital = 165
+technology_group = western
+primary_culture = swiss
+government = republic
+add_government_reform = oligarchy_reform
+government_rank = 1

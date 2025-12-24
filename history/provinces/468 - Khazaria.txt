@@ -2,7 +2,7 @@
 owner = GLH
 controller = GLH
 culture = astrakhani
-religion = zoroastrian
+religion = xadarosh
 capital = "Cherny Yar"
 trade_goods = livestock
 base_tax = 2

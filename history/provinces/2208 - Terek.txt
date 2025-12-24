@@ -2,7 +2,7 @@
 owner = GAZ
 controller = GAZ
 culture = dagestani
-religion = mahayana
+religion = barjiana
 capital = "Mozdok"
 trade_goods = livestock
 base_tax = 3

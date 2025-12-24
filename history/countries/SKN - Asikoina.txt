@@ -1,0 +1,7 @@
+religion = iberian_pagan
+capital = 176
+technology_group = western
+primary_culture = asikonian
+government = tribal
+add_government_reform = steppe_horde
+government_rank = 1

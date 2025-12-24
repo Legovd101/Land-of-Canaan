@@ -1,7 +1,7 @@
 owner = YNN
 controller = YNN
 culture = thraco_greek
-religion = buddhism
+religion = pyrrhonism
 capital = "Gumulcine"
 trade_goods = livestock
 base_tax = 2

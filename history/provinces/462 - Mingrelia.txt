@@ -2,7 +2,7 @@
 owner = ARM
 controller = ARM
 culture = georgian
-religion = buddhism
+religion = barjiana
 capital = "Zugdidi"
 trade_goods = wine
 base_tax = 2

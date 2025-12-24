@@ -2,7 +2,7 @@
 owner = BYZ
 controller = BYZ
 culture = greek
-religion = buddhism
+religion = pyrrhonism
 capital = "Naxos"
 trade_goods = wine
 base_tax = 2

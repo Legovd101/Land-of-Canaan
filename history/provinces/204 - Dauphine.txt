@@ -5,9 +5,8 @@
 # Dauphiné
 # 204 Dauphiné - 10/14/2025 2:36:58 PM 
 add_core = DAU
-add_core = PRO
-owner = PRO
-controller = PRO
+owner = DAU
+controller = DAU
 base_tax = 4
 base_production = 3
 base_manpower = 3

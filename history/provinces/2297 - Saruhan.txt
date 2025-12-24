@@ -2,7 +2,7 @@
 owner = YUN
 controller = YUN
 culture = serican
-religion = buddhism
+religion = vajrayana
 capital = "Manisa"
 trade_goods = cotton
 base_tax = 3

@@ -1,6 +1,6 @@
 #1871 - Wallis
-owner = BUR
-controller = BUR
+owner = GNV
+controller = GNV
 culture = swiss
 religion = old_gothic
 capital = "Sion"
@@ -15,4 +15,4 @@ discovered_by = viking
 discovered_by = eastern
 discovered_by = muslim
 discovered_by = ottoman
-add_core = BUR
+add_core = GNV

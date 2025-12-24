@@ -2,13 +2,11 @@ government = monarchy
 add_government_reform = feudalism_reform
 government_rank = 1
 primary_culture = burgundian
-religion = catholic
+religion = new_gothic
 technology_group = western
-capital = 187	# Verdun
-
-
-1352.1.1 = {
-	monarch = {
+capital = 187# Verdun
+1352.1.1 = { 
+	monarch = { 
 		name = "Robert I"
 		dynasty = "de Montbéliard"
 		adm = 1
@@ -16,9 +14,8 @@ capital = 187	# Verdun
 		mil = 3
 	}
 }
-
-1377.6.25 = {
-	heir = {
+1377.6.25 = { 
+	heir = { 
 		name = "Edward"
 		monarch_name = "Edward III"
 		dynasty = "de Montbéliard"
@@ -30,9 +27,8 @@ capital = 187	# Verdun
 		mil = 2
 	}
 }
-
-1411.4.12 = {
-	monarch = {
+1411.4.12 = { 
+	monarch = { 
 		name = "Edward III"
 		dynasty = "de Montbéliard"
 		adm = 2
@@ -40,9 +36,8 @@ capital = 187	# Verdun
 		mil = 2
 	}
 }
-
-1411.4.12 = {
-	heir = {
+1411.4.12 = { 
+	heir = { 
 		name = "Louis"
 		monarch_name = "Louis I"
 		dynasty = "de Montbéliard"
@@ -54,9 +49,8 @@ capital = 187	# Verdun
 		mil = 2
 	}
 }
-
-1415.10.25 = {
-	monarch = {
+1415.10.25 = { 
+	monarch = { 
 		name = "Louis I"
 		dynasty = "de Montbéliard"
 		adm = 1
@@ -64,11 +58,9 @@ capital = 187	# Verdun
 		mil = 2
 	}
 }
-
 # 1430.6.26: Inherited by René of Anjou
-
-1480.7.10 = {
-	monarch = {
+1480.7.10 = { 
+	monarch = { 
 		name = "Yolande"
 		dynasty = "de Vaudémont"
 		adm = 2
@@ -77,5 +69,4 @@ capital = 187	# Verdun
 		female = yes
 	}
 }
-
 # 1483.3.23: Inherited by René II of Lorraine

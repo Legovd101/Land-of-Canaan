@@ -2,7 +2,7 @@
 owner = MTO
 controller = MTO
 culture = serican
-religion = buddhism
+religion = vajrayana
 capital = "Ermenek"
 trade_goods = naval_supplies
 base_tax = 2

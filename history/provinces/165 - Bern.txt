@@ -1,6 +1,6 @@
 #165 - Bern
-owner = BUR
-controller = BUR
+owner = BRN
+controller = BRN
 culture = swiss
 religion = old_gothic
 capital = "Bern"
@@ -17,5 +17,5 @@ discovered_by = viking
 discovered_by = eastern
 discovered_by = muslim
 discovered_by = ottoman
-add_core = BUR
+add_core = BRN
 fort_15th = yes

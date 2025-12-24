@@ -2,7 +2,7 @@
 owner = BEL
 controller = BEL
 culture = serican
-religion = buddhism
+religion = vajrayana
 capital = "Mistheia"
 trade_goods = cotton
 base_tax = 1

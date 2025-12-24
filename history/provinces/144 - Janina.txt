@@ -2,7 +2,7 @@
 owner = NTP
 controller = NTP
 culture = greek
-religion = buddhism
+religion = pyrrhonism
 capital = "Ioannina"
 trade_goods = wool
 base_tax = 2

@@ -1,7 +1,7 @@
 # 3469 - Vardar
 owner = PLL
 controller = PLL
-religion = buddhism
+religion = pyrrhonism
 capital = "Stip"
 trade_goods = copper
 base_tax = 1

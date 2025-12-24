@@ -2,7 +2,7 @@
 owner = CLK
 controller = CLK
 culture = greek
-religion = buddhism
+religion = pyrrhonism
 capital = "Negroponte"
 trade_goods = fish
 base_tax = 3

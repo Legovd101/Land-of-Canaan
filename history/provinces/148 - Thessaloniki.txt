@@ -2,7 +2,7 @@
 owner = MKD
 controller = MKD
 culture = greek
-religion = buddhism
+religion = pyrrhonism
 capital = "Thessaloniki"
 trade_goods = cloth
 base_tax = 4

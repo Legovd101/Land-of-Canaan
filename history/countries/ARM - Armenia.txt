@@ -1,7 +1,7 @@
 government = monarchy
 add_government_reform = autocracy_reform
 primary_culture = armenian
-religion = buddhism
+religion = barjiana
 technology_group = eastern
 capital = 419# Yerevan
 1390.1.1 = { 

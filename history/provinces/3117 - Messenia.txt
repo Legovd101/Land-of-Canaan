@@ -2,7 +2,7 @@
 owner = MSS
 controller = MSS
 culture = greek
-religion = buddhism
+religion = pyrrhonism
 capital = "Kalamata"
 trade_goods = fish
 base_tax = 2

@@ -2,7 +2,7 @@
 owner = ION
 controller = ION
 culture = anatolian
-religion = buddhism
+religion = pyrrhonism
 capital = "Chio"
 trade_goods = wine
 base_tax = 2

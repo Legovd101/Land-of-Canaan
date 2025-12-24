@@ -2,7 +2,7 @@
 owner = DAC
 controller = DAC
 culture = romanian
-religion = vajrayana
+religion = xadarosh
 capital = "Bender"
 trade_goods = wine
 base_tax = 3

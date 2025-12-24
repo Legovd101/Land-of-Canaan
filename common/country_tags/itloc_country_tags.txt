@@ -12,9 +12,9 @@ ABR = "countries/Abarshahr.txt"
 BCT = "countries/Baktra.txt"
 BLS = "countries/Balashxa.txt"
 VKS = "countries/Vaxshabad.txt" # Parthian
-CRD = "countries/Corduene.txt" ## Kurdish
-KRD = "countries/Kurdistan.txt" ## Kurdish
-KUS = "countries/Kushansha.txt" ## Kushan
+CRD = "countries/Corduene.txt"  ## Kurdish
+KRD = "countries/Kurdistan.txt"  ## Kurdish
+KUS = "countries/Kushansha.txt"  ## Kushan
 
  ## Hellenic
 NTI = "countries/Antiocheia.txt"
@@ -25,7 +25,7 @@ ORO = "countries/Orodesia.txt"
 KSR = "countries/Kassar.txt"
 DND = "countries/Dindella.txt"
 BMA = "countries/Bama.txt"
-DRN = "countries/Drangiana.txt" ## Indo-Greek
+DRN = "countries/Drangiana.txt"  ## Indo-Greek
 ADB = "countries/Adoborsa.txt"
 ARI = "countries/Aria.txt"
 LXE = "countries/Alexandreia Eschata.txt"
@@ -36,7 +36,7 @@ RCH = "countries/Arachoisa.txt"
  ## Eraník
 HMZ = "countries/Homerizad.txt"
 ELY = "countries/Elymais.txt"
-MKR = "countries/Mikra Sogdia.txt" ## Sogdian
+MKR = "countries/Mikra Sogdia.txt"  ## Sogdian
 KRB = "countries/Karbelaton.txt"
 TSP = "countries/Tespho.txt"
 AKB = "countries/Akbatan.txt"
@@ -101,7 +101,7 @@ RWN = "countries/Rawen.txt"
 MEB = "countries/Mebez.txt"
 LNN = "countries/Linony.txt"
 
-## Drevani
+ ## Drevani
 DRV = "countries/Drevska.txt"
 
  # Balkans
@@ -131,7 +131,6 @@ DST = "countries/Daisitan.txt"
  ## Oduris (Odrysian/Thracian)
 PLP = "countries/Pulpudeva.txt"
 SRD = "countries/Sardica.txt"
-
  ## Rhumae (Eastern Romance)
 CLT = "countries/Calats.txt"
 ADR = "countries/Adreanoblis.txt"
@@ -176,7 +175,6 @@ ACC = "countries/Acci.txt"
 CRG = "countries/Carteno.txt"
 
  ## Spanisc (Ibero-Germanic)
-
  ### Visigodes (Visigothic)
 CDU = "countries/Korduba.txt"
 LUK = "countries/Ljukant.txt"
@@ -200,3 +198,17 @@ GDL = "countries/Gaedlighe.txt" # Gaelic
 EBR = "countries/Ebria.txt" # Celtiberian
 ALN = "countries/Alonesiara.txt" # Alan
 BSK = "countries/Baskoina.txt" # Basque
+
+ # Galle/France
+ ## Celtad (Celtic)
+BDG = "countries/Bordegalla.txt"
+PAS = "countries/Pariisis.txt"
+
+ ## Gallesche (Gallo-Germanic)
+URD = "countries/Urdon.txt"
+BRN = "countries/Bern.txt"
+ILN = "countries/Ilanz.txt"
+
+ ## Other
+SKN = "countries/Asikoina.txt" # Aquitani
+ILS = "countries/Ilas.txt" # Hellenic

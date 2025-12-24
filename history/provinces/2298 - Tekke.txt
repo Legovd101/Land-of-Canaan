@@ -2,7 +2,7 @@
 owner = MTO
 controller = MTO
 culture = anatolian
-religion = buddhism
+religion = vajrayana
 capital = "Adalia"
 trade_goods = cotton
 base_tax = 3

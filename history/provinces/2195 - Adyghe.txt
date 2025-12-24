@@ -2,7 +2,7 @@
 owner = CIR
 controller = CIR
 culture = circassian
-religion = mahayana
+religion = xadarosh
 capital = "Sochi"
 trade_goods = livestock
 base_tax = 2

@@ -4,18 +4,16 @@
 ### Modified 10/14/2025 2:36:58 PM ###
 # Bordeaux
 # 174 Bordeaux - 10/14/2025 2:36:58 PM 
-add_core = FRA
-add_core = GUY
-owner = GUY
-controller = GUY
+owner = BDG
+controller = BDG
 base_tax = 8
 base_production = 8
 base_manpower = 5
 center_of_trade = 1
 trade_goods = wine
 extra_cost = 18
-culture = gasconian
-religion = norse_pagan
+culture = biturigian
+religion = gallic_pagan
 capital = "Bordeaux"
 is_city = yes
 discovered_by = eastern
@@ -24,3 +22,4 @@ discovered_by = latin
 discovered_by = viking
 discovered_by = muslim
 discovered_by = ottoman
+add_core = BDG

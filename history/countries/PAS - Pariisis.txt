@@ -1,0 +1,7 @@
+religion = old_gothic
+capital = 182
+technology_group = western
+primary_culture = parisian
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1

@@ -1,0 +1,7 @@
+religion = new_gothic
+capital = 201
+technology_group = latin
+primary_culture = massalian
+government = republic
+add_government_reform = merchants_reform
+government_rank = 1

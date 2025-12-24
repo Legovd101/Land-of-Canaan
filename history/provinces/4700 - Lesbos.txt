@@ -2,7 +2,7 @@
 owner = BYZ
 controller = BYZ
 culture = thraco_greek
-religion = buddhism
+religion = pyrrhonism
 capital = "Mytilene"
 trade_goods = fish
 base_tax = 2

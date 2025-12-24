@@ -2,7 +2,7 @@
 owner = ACH
 controller = ACH
 culture = greek
-religion = buddhism
+religion = pyrrhonism
 capital = "Drobolitsa"
 trade_goods = iron
 base_tax = 1

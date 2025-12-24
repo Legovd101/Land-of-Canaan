@@ -1,7 +1,6 @@
 # 91 Hainaut - Principal cities: Mons & Tournai
-owner = BUR
-controller = BUR
-add_core = BUR
+owner = FLA
+controller = FLA
 capital = "Mons"
 is_city = yes
 culture = flemish
@@ -20,3 +19,4 @@ discovered_by = ottoman
 latent_trade_goods = { 
 	coal 
 }
+add_core = FLA

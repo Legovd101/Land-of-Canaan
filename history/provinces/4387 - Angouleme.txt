@@ -4,15 +4,14 @@
 ### Modified 10/14/2025 2:36:58 PM ###
 # Angoumois
 # 4387 Angoumois - 10/14/2025 2:36:58 PM 
-add_core = BER
-owner = BER
-controller = BER
+owner = BDG
+controller = BDG
 base_tax = 3
 base_production = 3
 base_manpower = 2
 trade_goods = livestock
-culture = west_frankish
-religion = norse_pagan
+culture = santonian
+religion = gallic_pagan
 capital = "Angoulême"
 is_city = yes
 discovered_by = eastern
@@ -21,3 +20,4 @@ discovered_by = latin
 discovered_by = viking
 discovered_by = muslim
 discovered_by = ottoman
+add_core = BDG

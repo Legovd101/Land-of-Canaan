@@ -4,9 +4,8 @@
 ### Modified 10/14/2025 2:36:58 PM ###
 # Forcalquier
 # 2991 Forcalquier - 10/14/2025 2:36:58 PM 
-add_core = PRO
-owner = PRO
-controller = PRO
+owner = DAU
+controller = DAU
 base_tax = 3
 base_production = 3
 base_manpower = 2
@@ -21,3 +20,4 @@ discovered_by = latin
 discovered_by = viking
 discovered_by = muslim
 discovered_by = ottoman
+add_core = DAU

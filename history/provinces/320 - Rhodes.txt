@@ -2,7 +2,7 @@
 owner = BYZ# Knights of St. John Hospitaler of Jerusalem
 controller = BYZ
 culture = anatolian
-religion = buddhism
+religion = pyrrhonism
 capital = "Rhodes"
 trade_goods = fish
 base_tax = 4

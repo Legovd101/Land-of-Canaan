@@ -2,7 +2,7 @@
 owner = MXI
 controller = MXI
 culture = serican
-religion = mahayana
+religion = vajrayana
 capital = "Amasya"
 trade_goods = paper#and iron
 base_tax = 4

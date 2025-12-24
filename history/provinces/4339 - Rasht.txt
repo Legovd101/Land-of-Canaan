@@ -2,7 +2,7 @@
 owner = ARM
 controller = ARM
 culture = mazandarani
-religion = zoroastrian
+religion = barjiana
 capital = "Rasht"
 trade_goods = silk
 base_tax = 4

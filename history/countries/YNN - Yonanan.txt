@@ -1,6 +1,6 @@
 capital = 4702
 government_rank = 1
-religion = buddhism
+religion = pyrrhonism
 technology_group = muslim
 primary_culture = phoenician
 government = monarchy

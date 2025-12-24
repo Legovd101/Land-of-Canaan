@@ -57,6 +57,15 @@
  baltic_pagan_reformed_rebels_title: "Religious"
  baltic_pagan_reformed_religion_desc: "Baltic paganism is polytheistic, with a pantheon of gods led by Dievs, god of the sky. Other main gods include Perkunas, god of thunder and lightning, Saule, goddess of the Sun and fertility, Daugava and Meness."
 
+ barjiana: "Barjiana"
+ barjiana_rebels_army: "$RELIGION$ Army"
+ barjiana_rebels_demand: "Convert $COUNTRYNAME$"
+ barjiana_rebels_demand_desc: "The religious rebels fight for the $RELIGION$ religion. They demand that we recognize its supremacy or at the very least cease our efforts to convert them and let them worship in peace."
+ barjiana_rebels_desc: "Religious fanatics tend to rise up in provinces controlled by nations of a different faith. They seek to spread their faith and smite all unbelievers."
+ barjiana_rebels_name: "$RELIGION$ Zealots"
+ barjiana_rebels_title: "Religious"
+ barjiana_desc: "Originating from the halls of high Artashat, Barjiana represents the Armenian sect of Buddhism."
+
  bon: "Khyarwé Bön"
  bon_rebels_army: "$RELIGION$ Army"
  bon_rebels_demand: "Convert $COUNTRYNAME$"

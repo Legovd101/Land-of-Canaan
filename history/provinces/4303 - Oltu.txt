@@ -2,7 +2,7 @@
 owner = ARM
 controller = ARM
 culture = georgian
-religion = buddhism
+religion = barjiana
 capital = "Oltu"
 trade_goods = livestock
 base_tax = 3

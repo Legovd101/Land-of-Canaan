@@ -1,9 +1,9 @@
 # 190 Bourbon - Principal cities: Moulins
-owner = BUR
-controller = BUR
+owner = AUV
+controller = AUV
 capital = "Moulins"
 is_city = yes
-culture = west_frankish
+culture = hessian
 religion = old_gothic
 base_tax = 4
 base_production = 4
@@ -17,4 +17,4 @@ discovered_by = latin
 discovered_by = viking
 discovered_by = muslim
 discovered_by = ottoman
-add_core = BUR
+add_core = AUV

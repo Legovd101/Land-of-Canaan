@@ -2,7 +2,7 @@
 owner = ARM
 controller = ARM
 culture = armenian
-religion = zoroastrian
+religion = barjiana
 capital = "Erzurum"
 trade_goods = livestock
 base_tax = 4

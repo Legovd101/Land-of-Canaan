@@ -2,7 +2,7 @@
 owner = GAZ
 controller = GAZ
 culture = dagestani
-religion = mahayana
+religion = barjiana
 capital = "Kumukh"
 trade_goods = iron
 base_tax = 3

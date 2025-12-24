@@ -2,7 +2,7 @@
 owner = ARM
 controller = ARM
 culture = azerbaijani
-religion = zoroastrian
+religion = barjiana
 capital = "Ardabil"
 trade_goods = dyes
 base_tax = 3

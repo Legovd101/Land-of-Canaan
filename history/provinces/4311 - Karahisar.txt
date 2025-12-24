@@ -2,7 +2,7 @@
 owner = BEL
 controller = BEL
 culture = serican
-religion = buddhism
+religion = vajrayana
 capital = "Karahisar"
 trade_goods = livestock
 base_tax = 2

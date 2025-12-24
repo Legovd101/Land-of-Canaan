@@ -2,7 +2,7 @@
 owner = ATL
 controller = ATL
 culture = serican
-religion = mahayana
+religion = vajrayana
 capital = "Denizli"
 trade_goods = cloth
 base_tax = 2

@@ -1,6 +1,6 @@
 #1875 - Cuneo (can't change filename)
-owner = BUR
-controller = BUR
+owner = SAV
+controller = SAV
 culture = piedmontese
 religion = old_gothic
 base_tax = 4
@@ -15,5 +15,5 @@ discovered_by = viking
 discovered_by = eastern
 discovered_by = muslim
 discovered_by = ottoman
-add_core = BUR
+add_core = SAV
 fort_15th = yes

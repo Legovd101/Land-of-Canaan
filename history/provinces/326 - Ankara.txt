@@ -2,7 +2,7 @@
 owner = NKL
 controller = NKL
 culture = serican
-religion = buddhism
+religion = vajrayana
 capital = "Ankara"
 trade_goods = cloth
 base_tax = 3

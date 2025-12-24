@@ -5,14 +5,14 @@
 # Valois
 # 182 Valois - 10/14/2025 2:36:58 PM 
 add_core = CHP
-owner = SAX
-controller = SAX
+owner = PAS
+controller = PAS
 base_tax = 5
 base_production = 5
 base_manpower = 4
 trade_goods = livestock
-culture = saxon
-religion = new_gothic
+culture = parisian
+religion = old_gothic
 capital = "Soissons"
 is_city = yes
 discovered_by = eastern
@@ -21,4 +21,4 @@ discovered_by = latin
 discovered_by = viking
 discovered_by = muslim
 discovered_by = ottoman
-add_core = SAX
+add_core = PAS

@@ -1,7 +1,7 @@
 owner = HPT
 controller = HPT
 culture = greek
-religion = buddhism
+religion = pyrrhonism
 capital = "Agios Georgios"
 trade_goods = wine
 base_tax = 2

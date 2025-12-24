@@ -2,7 +2,7 @@
 owner = BZH
 controller = BZH
 culture = thraco_greek
-religion = buddhism
+religion = pyrrhonism
 capital = "Constantinople"
 trade_goods = glass
 base_tax = 8

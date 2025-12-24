@@ -1,7 +1,7 @@
 owner = BZH
 controller = BZH
 culture = serican
-religion = buddhism
+religion = pyrrhonism
 capital = "Gallipoli"
 trade_goods = livestock
 base_tax = 2

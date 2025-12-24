@@ -1,7 +1,7 @@
 owner = RTA
 controller = RTA
 culture = greek
-religion = buddhism
+religion = pyrrhonism
 capital = "Arta"
 trade_goods = livestock
 base_tax = 3

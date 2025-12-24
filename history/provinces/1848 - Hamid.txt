@@ -2,7 +2,7 @@
 owner = BEL
 controller = BEL
 culture = serican
-religion = buddhism
+religion = vajrayana
 capital = "Burdur"
 trade_goods = grain
 base_tax = 3

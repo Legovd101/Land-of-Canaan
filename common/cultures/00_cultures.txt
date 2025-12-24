@@ -954,28 +954,187 @@ west_celtic = {
 		}
 	}
 	pictavian = {
-		primary = BER
+		
 		dynasty_names = { 
-			Aberffraw Dinefwr Mathrafal Gwynedd Tudor Kernew "of Cornwall" Glyndwr "Ternyllwg" 
-			#CK2
-			"Morgannwg" "Caradoc" "Mostyn" "Gorfynydd" Denbigh "Gwynn" "Gwarthaf" "Môn" "Penfro"
-			"Aberteifi" "Gethin" "Gruffudd" "Carmarthen" "Mynyw" "Anwyl of Tywyn" "Fane"
-			"of Bristol" "Evans" "Owen" "Lloyd" 
+			Aedui Arverni Bituriges Carnutes Senones Remi Lingones Parisii
+			Treveri Sequani Helvetii Allobroges Volcae Ruteni Pictones
+			Lemovices Petrocorii Cadurci Nitiobroges Santones
+			Nervii Atrebates Morini Bellovaci Suessiones
 		}
 		male_names = {
-			Arthek Arthyen Austol Benesek Branok Branek Bryok Breok Brioc Cadan Cador Carantok Casek Casworon Clemo
-			Clesek Corentyn Costentyn De Day Edern Enyon Gerens Gerren Goron Gryffyn Gwalather Hedrek Hedrok
-			Jago Jory Jowan Kenal Keneder Kenver Kitto Locryn Lowen Madern Massen Meryasek Peran Perran Piran
-			Pasco Pascow Rewan Ruan Ruman Santo Treeve Treave Cadwur Casworan
+			Ambiorix Bituitus Vercingetorix Vercassivellaunos Dumnorix Diviciacus
+			Orgetorix Cingetorix Eporedorix Indutiomarus Camulogenos
+			Segomaros Bellovesus Catugnatus Critognatos Lucterius
+			Acco Drappes Sedullos Viridomarus Togodumnos
+			Rianorix Albiorix Ueromarus Uercorix Uxellodunos
+			Vellocatus Senocatus Catuvolcus Adcantuannus Litaviccus
 		}
 		female_names = {
-			Cryda Creeda Endellion Endelienta Eia Keyne Keyna
-			Mabena Newlyn Newlyna Wenn Gwenn Gwenyth Beaten Bennath Berlewen Bersaba
-			Beryan Bryluen Caja Chesten Conwenna Delen Demelza Derowen Derwa Doryty Ebrel Elestren Elowen
-			Emblyn Endelyn Eseld Ewella Glanna Gwennol Hedra Ia Jenifry Jenifer Jowanet Kelynen Kensa Kerensa
-			Keresen Kerezen Kerra Lamorna Loveday Lowdy Lowena Lowenna Mabyn Melder Melwyn Melyonen Melyor Meliora
-			Meraud Merouda Merryn Metheven Morgelyn Morvoren Morwen Morwenna Nessa Pasca Pascatte Peswera Rosen 
-			Rosenwyn Senara Sowena Sowenna Splanna Steren Talwyn Tamsyn Tegen Tregereth Tressa Trueth Wenna Ysella
+			Cartimandua Litavica Adgennia Bricta Epona Rosmerta
+			Nantosuelta Sirona Atepomara Belisama Rigantona
+			Andarta Segeta Damona Icovellauna
+			Camula Uerica Albiona Uindilla
+		}
+	}
+	andecavian = {
+		
+		dynasty_names = { 
+			Aedui Arverni Bituriges Carnutes Senones Remi Lingones Parisii
+			Treveri Sequani Helvetii Allobroges Volcae Ruteni Pictones
+			Lemovices Petrocorii Cadurci Nitiobroges Santones
+			Nervii Atrebates Morini Bellovaci Suessiones
+		}
+		male_names = {
+			Ambiorix Bituitus Vercingetorix Vercassivellaunos Dumnorix Diviciacus
+			Orgetorix Cingetorix Eporedorix Indutiomarus Camulogenos
+			Segomaros Bellovesus Catugnatus Critognatos Lucterius
+			Acco Drappes Sedullos Viridomarus Togodumnos
+			Rianorix Albiorix Ueromarus Uercorix Uxellodunos
+			Vellocatus Senocatus Catuvolcus Adcantuannus Litaviccus
+		}
+		female_names = {
+			Cartimandua Litavica Adgennia Bricta Epona Rosmerta
+			Nantosuelta Sirona Atepomara Belisama Rigantona
+			Andarta Segeta Damona Icovellauna
+			Camula Uerica Albiona Uindilla
+		}
+	}
+	santonian = {
+		
+		dynasty_names = { 
+			Aedui Arverni Bituriges Carnutes Senones Remi Lingones Parisii
+			Treveri Sequani Helvetii Allobroges Volcae Ruteni Pictones
+			Lemovices Petrocorii Cadurci Nitiobroges Santones
+			Nervii Atrebates Morini Bellovaci Suessiones
+		}
+		male_names = {
+			Ambiorix Bituitus Vercingetorix Vercassivellaunos Dumnorix Diviciacus
+			Orgetorix Cingetorix Eporedorix Indutiomarus Camulogenos
+			Segomaros Bellovesus Catugnatus Critognatos Lucterius
+			Acco Drappes Sedullos Viridomarus Togodumnos
+			Rianorix Albiorix Ueromarus Uercorix Uxellodunos
+			Vellocatus Senocatus Catuvolcus Adcantuannus Litaviccus
+		}
+		female_names = {
+			Cartimandua Litavica Adgennia Bricta Epona Rosmerta
+			Nantosuelta Sirona Atepomara Belisama Rigantona
+			Andarta Segeta Damona Icovellauna
+			Camula Uerica Albiona Uindilla
+		}
+	}
+	lemovican = {
+		
+		dynasty_names = { 
+			Aedui Arverni Bituriges Carnutes Senones Remi Lingones Parisii
+			Treveri Sequani Helvetii Allobroges Volcae Ruteni Pictones
+			Lemovices Petrocorii Cadurci Nitiobroges Santones
+			Nervii Atrebates Morini Bellovaci Suessiones
+		}
+		male_names = {
+			Ambiorix Bituitus Vercingetorix Vercassivellaunos Dumnorix Diviciacus
+			Orgetorix Cingetorix Eporedorix Indutiomarus Camulogenos
+			Segomaros Bellovesus Catugnatus Critognatos Lucterius
+			Acco Drappes Sedullos Viridomarus Togodumnos
+			Rianorix Albiorix Ueromarus Uercorix Uxellodunos
+			Vellocatus Senocatus Catuvolcus Adcantuannus Litaviccus
+		}
+		female_names = {
+			Cartimandua Litavica Adgennia Bricta Epona Rosmerta
+			Nantosuelta Sirona Atepomara Belisama Rigantona
+			Andarta Segeta Damona Icovellauna
+			Camula Uerica Albiona Uindilla
+		}
+	}
+	petrocori = {
+		
+		dynasty_names = { 
+			Aedui Arverni Bituriges Carnutes Senones Remi Lingones Parisii
+			Treveri Sequani Helvetii Allobroges Volcae Ruteni Pictones
+			Lemovices Petrocorii Cadurci Nitiobroges Santones
+			Nervii Atrebates Morini Bellovaci Suessiones
+		}
+		male_names = {
+			Ambiorix Bituitus Vercingetorix Vercassivellaunos Dumnorix Diviciacus
+			Orgetorix Cingetorix Eporedorix Indutiomarus Camulogenos
+			Segomaros Bellovesus Catugnatus Critognatos Lucterius
+			Acco Drappes Sedullos Viridomarus Togodumnos
+			Rianorix Albiorix Ueromarus Uercorix Uxellodunos
+			Vellocatus Senocatus Catuvolcus Adcantuannus Litaviccus
+		}
+		female_names = {
+			Cartimandua Litavica Adgennia Bricta Epona Rosmerta
+			Nantosuelta Sirona Atepomara Belisama Rigantona
+			Andarta Segeta Damona Icovellauna
+			Camula Uerica Albiona Uindilla
+		}
+	}
+	biturigian = {
+		
+		dynasty_names = { 
+			Aedui Arverni Bituriges Carnutes Senones Remi Lingones Parisii
+			Treveri Sequani Helvetii Allobroges Volcae Ruteni Pictones
+			Lemovices Petrocorii Cadurci Nitiobroges Santones
+			Nervii Atrebates Morini Bellovaci Suessiones
+		}
+		male_names = {
+			Ambiorix Bituitus Vercingetorix Vercassivellaunos Dumnorix Diviciacus
+			Orgetorix Cingetorix Eporedorix Indutiomarus Camulogenos
+			Segomaros Bellovesus Catugnatus Critognatos Lucterius
+			Acco Drappes Sedullos Viridomarus Togodumnos
+			Rianorix Albiorix Ueromarus Uercorix Uxellodunos
+			Vellocatus Senocatus Catuvolcus Adcantuannus Litaviccus
+		}
+		female_names = {
+			Cartimandua Litavica Adgennia Bricta Epona Rosmerta
+			Nantosuelta Sirona Atepomara Belisama Rigantona
+			Andarta Segeta Damona Icovellauna
+			Camula Uerica Albiona Uindilla
+		}
+	}
+	carnutian = {
+		
+		dynasty_names = { 
+			Aedui Arverni Bituriges Carnutes Senones Remi Lingones Parisii
+			Treveri Sequani Helvetii Allobroges Volcae Ruteni Pictones
+			Lemovices Petrocorii Cadurci Nitiobroges Santones
+			Nervii Atrebates Morini Bellovaci Suessiones
+		}
+		male_names = {
+			Ambiorix Bituitus Vercingetorix Vercassivellaunos Dumnorix Diviciacus
+			Orgetorix Cingetorix Eporedorix Indutiomarus Camulogenos
+			Segomaros Bellovesus Catugnatus Critognatos Lucterius
+			Acco Drappes Sedullos Viridomarus Togodumnos
+			Rianorix Albiorix Ueromarus Uercorix Uxellodunos
+			Vellocatus Senocatus Catuvolcus Adcantuannus Litaviccus
+		}
+		female_names = {
+			Cartimandua Litavica Adgennia Bricta Epona Rosmerta
+			Nantosuelta Sirona Atepomara Belisama Rigantona
+			Andarta Segeta Damona Icovellauna
+			Camula Uerica Albiona Uindilla
+		}
+	}
+	parisian = {
+		
+		dynasty_names = { 
+			Aedui Arverni Bituriges Carnutes Senones Remi Lingones Parisii
+			Treveri Sequani Helvetii Allobroges Volcae Ruteni Pictones
+			Lemovices Petrocorii Cadurci Nitiobroges Santones
+			Nervii Atrebates Morini Bellovaci Suessiones
+		}
+		male_names = {
+			Ambiorix Bituitus Vercingetorix Vercassivellaunos Dumnorix Diviciacus
+			Orgetorix Cingetorix Eporedorix Indutiomarus Camulogenos
+			Segomaros Bellovesus Catugnatus Critognatos Lucterius
+			Acco Drappes Sedullos Viridomarus Togodumnos
+			Rianorix Albiorix Ueromarus Uercorix Uxellodunos
+			Vellocatus Senocatus Catuvolcus Adcantuannus Litaviccus
+		}
+		female_names = {
+			Cartimandua Litavica Adgennia Bricta Epona Rosmerta
+			Nantosuelta Sirona Atepomara Belisama Rigantona
+			Andarta Segeta Damona Icovellauna
+			Camula Uerica Albiona Uindilla
 		}
 	}
 	celtiberian = {
@@ -1467,6 +1626,34 @@ iberian	= {
 		}
 	}
 	basque = {
+		country = { } 
+		province = { local_has_caravel = yes local_has_galleon = yes }
+		primary = NAV
+		dynasty_names = {
+			"de Navarra" "de Beaumont" "de Lerín" "de Monteagudo" Escors 
+			# CKII
+			"de Haro"
+		}
+		male_names = {
+			Enrique Carlos Francisco Juan Luis Gastón Pedro Buenaventura Francisco Godofredo Jaime Lanzarote 
+			Martín Sancho García Felipe Teobaldo Alfonso Agustín Alejandro Álvaro Andrés Antonio Bernardo César 
+			Cristóbal Diego Esteban Fernando Gaspar José Melchor Nicolás Simón Leonel
+			Alfontso Alphonse Alvar Oliver Antso Sancho Aznar Aznar Belasko Vasco Bermudo Vermudo 
+			Bernard Diego Diaco Donato Donatus Egidio Egidius Eneko Inigo Erramun Raymond Fernando 
+			Fortun Galindo Galindo Gartzia Garcia Gilen William Gontzal Gonzalo Herramel Joanes John 
+			Lope Lupo Luis Louis Manrike Amalric Martín Martin Munio Munio Nuño Nuno Obeko Obeko Ordoño 
+			Ordono Pelaio Pelagius Piarres Peter Ramiro Ramiro Rodrigo Roderick Vela Vela Ximeno Simon 
+			Zentulo Centule Ladron Ferdinand Bernart
+		}
+		female_names = {
+			Juana Catalina Leonor Blanca
+			Aines Agnes Aldontza Aldonza Andregoto Antsa Sancha Belaskita Berengaria Berengaria Blanka 
+			Blanche Elbira Elvira Eliza Emili Emily Estefania Stephania Joana Joan Konstantzia Constance 
+			Maior Mayor Maria Maria Mentzia Mencia Munia Munia Nuña Oneka Oneka Oria Plazentzia 
+			Teresa Teresa Toda Toda Urraka Urraca Ximena Ximena Plaisance
+		}
+	}
+	asikonian = {
 		country = { } 
 		province = { local_has_caravel = yes local_has_galleon = yes }
 		primary = NAV
@@ -9279,38 +9466,6 @@ lost_cultures_group = {
 			Alfredsson Andersson Assarsson Batra Billgren Broman Ekberg Glans Gjedde Glenmark Hansson Jansson Ibrahimovic Järegård Kulle Larsson Lohmander Lundberg Malmkvist Malmsjö Melander Möller Nordqvist Nordström Ohlmarks Persson Poppe Ranelid Sundström Troell Wester Olsson
 		}
 	}
-	anglosaxon = { #CK2
-		dynasty_names = {
-			Godhelming Beorming Eorling Æbbing Hæsting Ælling Eadricing Eadwulfing Leodwalding
-			Æthelfrithing Yffing Ingving Offing Oswalding Cerdicing Wiglafing Coenwalhing
-			Beorning Iceling Wuffing Wihtgilsing Ross Ciesla Rowe Borthwick
-		}
-		male_names = {
-			Arncytel Balthere Beorhtfrith Beorhthelm Beorhtmær Beorhtnoth Beorhtric Beorhtsige Beorhtwine_Beorhtwine Beorn_Beorn Beornræd Beornwulf
-			Burgheard Byrhtnoth Cearl Cenfus Cenræd Cenwulf Ceolwulf Cerdic Copsige
-			Cuthberht Cuthræd Cynehelm Cynewulf Cytelbearn Eadberht Eadfrith Eadgar Eadmund Eadmær Eadric
-			Eadræd Eadsige Eadulf Eadweald Eadweard Eadwig Eadwine Eadwulf Ealdhun Ealdmund Ealdræd Ealdwine
-			Ealdwulf Eanberht Eanfrith Eanhere Eardwulf Eastmund Ecgberht Ecgfrith Gamall Godwine Gospatric Guthfrith Guthmund
-			Gyrth Hacon Harold Heahberht Hereberht Hereweald Hereweard Hlothere Hrodberht Inwær Leofheah Leofhelm
-			Leofric Leofweald Leofwine Maccus Morcar Mærleswegn Offa Onlaf Ordgar
-			Oscytel Oshere Osmund Osric Osræd Osulf Osweald Oswine Oswulf Peter Rædwulf_Ralph Rægenweald Scule
-			Sigeberht Sigehelm Sigeric Sigeræd Sighere Siweard Stigand Swegn Swithelm Swithræd Swæfræd Sæbert Sælræd Sæweald
-			Sæxbald Sæxræd Thoræd Thurcytel Thurfrith Tostig Uhtræd Ulfcytel Waltheof Werestan Wiglaf Wihtræd
-			Wistan Wulf Wulfgar Wulfgeat Wulfhelm Wulfhere Wulfmær Wulfnoth Wulfstan Ælfgar Ælfmær Ælfnoth Ælfric Ælfræd_Alfred Ælfsige
-			Ælfstan Ælfwald Ælfweard Ælfwig Ælfwine Ælle Æthelbald Æthelberht Æthelfrith Æthelhere Æthelmær
-			Æthelric Æthelræd_Ailred Æthelsige Æthelstan Æthelweald Æthelweard Æthelwine Æthelwold Æthelwulf
-			Eormenred Eorcenberht Eormenric Eadbald Rædwald
-		}
-		female_names = {
-			Agatha Balthild Beorhtflæd Beorhtgifu Beorhtgyth Beorhtwaru Beorhtwynn Beornflæd Beorngyth Blæja Burgflæd Ceolflæd Cristina
-			Cuthburg Cwenburg Cyneburg Cynegyth Cynehild Cyneswith Cynethryth Eadburg Eadflæd Eadgifu Eadgyth Eadhburh Eadhild Ealdgyth
-			Ealhflæd Ealhswith Eanswith Ecgfrida Ecgwyn Godgifu Gunhilda Gytha Helga Heregyth Hereswith Hextilda Hungifu Judith
-			Leofflæd Leofgifu Leofrun Leofwaru Leofwynn Margaret_Margaret Maud Matilda Mildrith Octreda Sifflæd Sigrid Sæthryth Wulfflæd Wulfgifu
-			Wulfgyth Wulfhild Wulfrun Wulfthryth Wulfwaru Wulfwynn Wynnflæd Wærburg Æbba Ælfflæd Ælfgifu Ælfgyth Ælflæda_Ælflæda Ælfrida
-			Ælfswith Ælfthryth Ælfwynn Æthelburg Æthelflæd Æthelgifu Æthelhild Æthelræda_Æthelreda Æthelswith Æthelthryth
-			Æthelburh Seaxburh Wihtburh
-		}
-	}
 	parthian = { #EU Rome
 		dynasty_names = {
 			Aramid Arid Arkhid Asinid Arsacid Deiocid Menid Pacorid Savacid Vardanid
@@ -9381,6 +9536,9 @@ hellenic = {
 	}
 	cappadocian_greek = {
 		primary = TRE
+	}
+	massalian = {
+		primary = ILS
 	}
 	goths = {
 		primary = FEO
@@ -10128,53 +10286,7 @@ gallic = {
 	hessian = {
 		primary = HES
 	}
-	saxon = {
-		primary = SAX
-		male_names = {
-			Friedrich Albrecht Christian Heinrich Rudolf August Ernst Georg Moritz Alexander Anton Hektor 
-			Johann Karl Clemens Wenzel Franz Xaver Joachim Joseph Magnus Maximilian Severinus Wolfgang 
-			Andreas Bruno Burkhard Günther HermannLukas Micharl Reimund Ulrich Wilfried Wolfram Konrad Edwin Marcus Osmund Peter Ralph Reginald Sigehelm Wulfhelm Wulfhere Alfred
-			Alwin Adémar Alwin Adolf Albert Albrecht Arnold Baltasar
-			Benedict Bernd Bernard Bernhard Bertold Bertram Bertrand Burchard 
-			Claus Nicholas Cobbo Cord Dietmar Diederik Ekkehard Ekbert Engelbert Engelhard 
-			Erik Albert Ewald Frederick Gerard Gebhard Giselmar Gottschalk Günther Hans 
-			Heideke Herbert Hermann Hinrik Jacob Jaspar Caspar Jochim Joakim Johann Kersten 
-			Christian Laurentz Lambert Liawizo Liemar Liudger Otto Ludolf Ludwig
-			Louis Mathias Matthew Meinwerk Merten Martin Michael Norbert Ordulf 
-			Peter Philip Renard Reinmar Roger Rudolf Ralph Sigbert Sigisbert
-			Sigfrid Siegfried Sigward Sigurd Simon Steffen Thomas Waldemar
-			Werner Victor Werneke Weybrecht Wichbert Wichmann Wigebert Wolter Walter Wulff Ulf
-		}
-		female_names = { 
-			Amalia Bianka Eleonora
-			Agatha Balthild
-			Christina Cuthburg 
-			Cynehild Cyneswith Cynethryth Eadburg Edith 
-			Gunhilda Gunhild Helga Judith
-			Maud Matilda Sigri 
-			Wulfhild
-			Addila Adela Adelheid Alof Agnes Anna Athela Beatrix Beatrice Bertha Bertha 
-			Bertrada Bia Beatrice Bisina Bithild Brigida Brigid Elisabeth 
-			Elisabeth Enda Gertrud Gisela
-			Hedwig Heilwig Helene Hildegard Ida Emma Irmgard 
-			Judith Katharina
-			Margarete Mathilde Matilda Mechthild Reginlint 
-			Richardis Ricarda Rodelinda Sophia Sophia Suanhilde Swanahild Wienke 
-			Wiltrud Wulfhild Ulfhild
-		}
-		dynasty_names = {
-			"von Schwarzburg" "von Schönburg" "von Schlotheim" "von Salza" "von Kospoth"
-			"von Knuth" "von Wettin" "Askanier" "von Hohenzollern" "von Erffa" "von Bodungen" "von Eckersberg" "von Brandenstein" "von Pappenheim" "von Wiehe"
-			"von Westernhagen" "von Jena" "von Trützschler" "von Plessen" "von Haugwitz" "von Kanitz" "von Falkenhayn" "von Thüna"
-			"von Thüringen" "von Nostitz" "von Bieberstein" "von Meerheimb" "von Freiberg" "von Neitschütz" "von Minckwitz" "von Arnswaldt" "von Auerswald" "aus dem Winckel"
-			"von Beichlingen" "von Bendeleben" "von Beneckendorff" "von Berbisdorf" "von Bissingen" "von Bock" "von Bomsdorff" "von Bose" "von Breitenbach"
-			"von Breitenbuch" "von Brühl" "von Bünau" "von Hoym" "Holtzendorff" "von Hohenthal" "von Heynitz" "von Hessler" "von Helldorff" "von Harling" "von Görschen" "von Glaubitz"
-			"von Gfug" "von Gersdorff" "von Germar" "von Fritsch" "von Friesen" "von Flanss" "von Etzdorff" "von Erdmannsdorff" "von Einsiedel" "von Dyhrn" "von Dieskau" "von Creytzen" "von Carlowitz" "von Maltitz" "von Mansfeld" "von Miltitz" "von Mücheln" "von Pflugk" "von Pölnitz" "von Ponickau" "von Rackel"
-			"von Raumer" "von Rechenberg" "von Rex" "Sack" "von Scheidingen" "von Schleinitzstrasse" "von Schönberg" "Senfft von Pilsach" "von Stolberg" "von Kannewurf" "Karras" "von Keller" "von Kirchbach" "von Sternberg" "von Leisnig"
-			"von Liebenau" "von Loeben" "von Logau" "von Lüttichau" "von Taube" "von Tettau" Vitzthum "von Wolffersdorff" Wöhrmann "von Werthern" "von Wackerbarth" "von Bredow" "von Brandt"
-		}
-	}
-	gasconian = {
+	taifal = {
 		primary = GUY
 	}
 	west_frankish = {
@@ -10373,6 +10485,85 @@ outlander = {
 
 	balearic = {
 		primary = MJO
+	}
+	anglosaxon = { #CK2
+		primary = ENG
+		dynasty_names = {
+			Godhelming Beorming Eorling Æbbing Hæsting Ælling Eadricing Eadwulfing Leodwalding
+			Æthelfrithing Yffing Ingving Offing Oswalding Cerdicing Wiglafing Coenwalhing
+			Beorning Iceling Wuffing Wihtgilsing Ross Ciesla Rowe Borthwick
+		}
+		male_names = {
+			Arncytel Balthere Beorhtfrith Beorhthelm Beorhtmær Beorhtnoth Beorhtric Beorhtsige Beorhtwine_Beorhtwine Beorn_Beorn Beornræd Beornwulf
+			Burgheard Byrhtnoth Cearl Cenfus Cenræd Cenwulf Ceolwulf Cerdic Copsige
+			Cuthberht Cuthræd Cynehelm Cynewulf Cytelbearn Eadberht Eadfrith Eadgar Eadmund Eadmær Eadric
+			Eadræd Eadsige Eadulf Eadweald Eadweard Eadwig Eadwine Eadwulf Ealdhun Ealdmund Ealdræd Ealdwine
+			Ealdwulf Eanberht Eanfrith Eanhere Eardwulf Eastmund Ecgberht Ecgfrith Gamall Godwine Gospatric Guthfrith Guthmund
+			Gyrth Hacon Harold Heahberht Hereberht Hereweald Hereweard Hlothere Hrodberht Inwær Leofheah Leofhelm
+			Leofric Leofweald Leofwine Maccus Morcar Mærleswegn Offa Onlaf Ordgar
+			Oscytel Oshere Osmund Osric Osræd Osulf Osweald Oswine Oswulf Peter Rædwulf_Ralph Rægenweald Scule
+			Sigeberht Sigehelm Sigeric Sigeræd Sighere Siweard Stigand Swegn Swithelm Swithræd Swæfræd Sæbert Sælræd Sæweald
+			Sæxbald Sæxræd Thoræd Thurcytel Thurfrith Tostig Uhtræd Ulfcytel Waltheof Werestan Wiglaf Wihtræd
+			Wistan Wulf Wulfgar Wulfgeat Wulfhelm Wulfhere Wulfmær Wulfnoth Wulfstan Ælfgar Ælfmær Ælfnoth Ælfric Ælfræd_Alfred Ælfsige
+			Ælfstan Ælfwald Ælfweard Ælfwig Ælfwine Ælle Æthelbald Æthelberht Æthelfrith Æthelhere Æthelmær
+			Æthelric Æthelræd_Ailred Æthelsige Æthelstan Æthelweald Æthelweard Æthelwine Æthelwold Æthelwulf
+			Eormenred Eorcenberht Eormenric Eadbald Rædwald
+		}
+		female_names = {
+			Agatha Balthild Beorhtflæd Beorhtgifu Beorhtgyth Beorhtwaru Beorhtwynn Beornflæd Beorngyth Blæja Burgflæd Ceolflæd Cristina
+			Cuthburg Cwenburg Cyneburg Cynegyth Cynehild Cyneswith Cynethryth Eadburg Eadflæd Eadgifu Eadgyth Eadhburh Eadhild Ealdgyth
+			Ealhflæd Ealhswith Eanswith Ecgfrida Ecgwyn Godgifu Gunhilda Gytha Helga Heregyth Hereswith Hextilda Hungifu Judith
+			Leofflæd Leofgifu Leofrun Leofwaru Leofwynn Margaret_Margaret Maud Matilda Mildrith Octreda Sifflæd Sigrid Sæthryth Wulfflæd Wulfgifu
+			Wulfgyth Wulfhild Wulfrun Wulfthryth Wulfwaru Wulfwynn Wynnflæd Wærburg Æbba Ælfflæd Ælfgifu Ælfgyth Ælflæda_Ælflæda Ælfrida
+			Ælfswith Ælfthryth Ælfwynn Æthelburg Æthelflæd Æthelgifu Æthelhild Æthelræda_Æthelreda Æthelswith Æthelthryth
+			Æthelburh Seaxburh Wihtburh
+		}
+	}
+	saxon = {
+		primary = SAX
+		male_names = {
+			Friedrich Albrecht Christian Heinrich Rudolf August Ernst Georg Moritz Alexander Anton Hektor 
+			Johann Karl Clemens Wenzel Franz Xaver Joachim Joseph Magnus Maximilian Severinus Wolfgang 
+			Andreas Bruno Burkhard Günther HermannLukas Micharl Reimund Ulrich Wilfried Wolfram Konrad Edwin Marcus Osmund Peter Ralph Reginald Sigehelm Wulfhelm Wulfhere Alfred
+			Alwin Adémar Alwin Adolf Albert Albrecht Arnold Baltasar
+			Benedict Bernd Bernard Bernhard Bertold Bertram Bertrand Burchard 
+			Claus Nicholas Cobbo Cord Dietmar Diederik Ekkehard Ekbert Engelbert Engelhard 
+			Erik Albert Ewald Frederick Gerard Gebhard Giselmar Gottschalk Günther Hans 
+			Heideke Herbert Hermann Hinrik Jacob Jaspar Caspar Jochim Joakim Johann Kersten 
+			Christian Laurentz Lambert Liawizo Liemar Liudger Otto Ludolf Ludwig
+			Louis Mathias Matthew Meinwerk Merten Martin Michael Norbert Ordulf 
+			Peter Philip Renard Reinmar Roger Rudolf Ralph Sigbert Sigisbert
+			Sigfrid Siegfried Sigward Sigurd Simon Steffen Thomas Waldemar
+			Werner Victor Werneke Weybrecht Wichbert Wichmann Wigebert Wolter Walter Wulff Ulf
+		}
+		female_names = { 
+			Amalia Bianka Eleonora
+			Agatha Balthild
+			Christina Cuthburg 
+			Cynehild Cyneswith Cynethryth Eadburg Edith 
+			Gunhilda Gunhild Helga Judith
+			Maud Matilda Sigri 
+			Wulfhild
+			Addila Adela Adelheid Alof Agnes Anna Athela Beatrix Beatrice Bertha Bertha 
+			Bertrada Bia Beatrice Bisina Bithild Brigida Brigid Elisabeth 
+			Elisabeth Enda Gertrud Gisela
+			Hedwig Heilwig Helene Hildegard Ida Emma Irmgard 
+			Judith Katharina
+			Margarete Mathilde Matilda Mechthild Reginlint 
+			Richardis Ricarda Rodelinda Sophia Sophia Suanhilde Swanahild Wienke 
+			Wiltrud Wulfhild Ulfhild
+		}
+		dynasty_names = {
+			"von Schwarzburg" "von Schönburg" "von Schlotheim" "von Salza" "von Kospoth"
+			"von Knuth" "von Wettin" "Askanier" "von Hohenzollern" "von Erffa" "von Bodungen" "von Eckersberg" "von Brandenstein" "von Pappenheim" "von Wiehe"
+			"von Westernhagen" "von Jena" "von Trützschler" "von Plessen" "von Haugwitz" "von Kanitz" "von Falkenhayn" "von Thüna"
+			"von Thüringen" "von Nostitz" "von Bieberstein" "von Meerheimb" "von Freiberg" "von Neitschütz" "von Minckwitz" "von Arnswaldt" "von Auerswald" "aus dem Winckel"
+			"von Beichlingen" "von Bendeleben" "von Beneckendorff" "von Berbisdorf" "von Bissingen" "von Bock" "von Bomsdorff" "von Bose" "von Breitenbach"
+			"von Breitenbuch" "von Brühl" "von Bünau" "von Hoym" "Holtzendorff" "von Hohenthal" "von Heynitz" "von Hessler" "von Helldorff" "von Harling" "von Görschen" "von Glaubitz"
+			"von Gfug" "von Gersdorff" "von Germar" "von Fritsch" "von Friesen" "von Flanss" "von Etzdorff" "von Erdmannsdorff" "von Einsiedel" "von Dyhrn" "von Dieskau" "von Creytzen" "von Carlowitz" "von Maltitz" "von Mansfeld" "von Miltitz" "von Mücheln" "von Pflugk" "von Pölnitz" "von Ponickau" "von Rackel"
+			"von Raumer" "von Rechenberg" "von Rex" "Sack" "von Scheidingen" "von Schleinitzstrasse" "von Schönberg" "Senfft von Pilsach" "von Stolberg" "von Kannewurf" "Karras" "von Keller" "von Kirchbach" "von Sternberg" "von Leisnig"
+			"von Liebenau" "von Loeben" "von Logau" "von Lüttichau" "von Taube" "von Tettau" Vitzthum "von Wolffersdorff" Wöhrmann "von Werthern" "von Wackerbarth" "von Bredow" "von Brandt"
+		}
 	}
 	male_names = {
 		Aðalsteinn Aghi Agmundr Agnarr Áki Áleifr Alfarr Alfvin Algautr Ari Arnfinnr Árni Arnórr Arnþórr Arnviðr Ásbjörn Ásgeirr Ásketill Ásmundr Ásvaldr Auðr Baggi Bárðr Birgir Bjarni Bjartr Björn Brandr Bróðir # La Pléiade

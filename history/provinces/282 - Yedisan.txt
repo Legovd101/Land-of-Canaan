@@ -2,7 +2,7 @@
 owner = KIE
 controller = KIE
 culture = crimean
-religion = buddhism
+religion = xadarosh
 base_tax = 2
 base_production = 2
 trade_goods = livestock

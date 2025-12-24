@@ -2,7 +2,7 @@
 owner = XNP
 controller = XNP
 culture = serican
-religion = buddhism
+religion = vajrayana
 capital = "Sinop"
 trade_goods = naval_supplies
 base_tax = 3

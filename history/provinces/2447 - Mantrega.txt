@@ -2,7 +2,7 @@
 owner = CIR
 controller = CIR
 culture = pontic_greek
-religion = mahayana
+religion = xadarosh
 base_tax = 2
 base_production = 2
 trade_goods = livestock

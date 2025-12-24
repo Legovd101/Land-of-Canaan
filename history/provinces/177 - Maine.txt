@@ -6,13 +6,13 @@
 # 177 Maine - 10/14/2025 2:36:58 PM 
 add_core = PRO
 add_core = FRA
-owner = SAX
-controller = SAX
+owner = ENG
+controller = ENG
 base_tax = 6
 base_production = 6
 base_manpower = 4
 trade_goods = cloth
-culture = saxon
+culture = anglosaxon
 religion = norse_pagan
 capital = "Le Mans"
 is_city = yes
@@ -23,4 +23,4 @@ discovered_by = latin
 discovered_by = viking
 discovered_by = muslim
 discovered_by = ottoman
-add_core = SAX
+add_core = ENG

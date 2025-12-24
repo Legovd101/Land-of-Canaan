@@ -2,7 +2,7 @@
 owner = ACH
 controller = ACH
 culture = greek
-religion = buddhism
+religion = pyrrhonism
 capital = "Patras"
 trade_goods = wine
 base_tax = 2

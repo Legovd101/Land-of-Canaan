@@ -81,12 +81,9 @@ leader_names = {
 	Orbeli Pogosyan Sadian Simjian Sevanian Meymarian Shahinian 
 }
 ship_names = { 
-	Aramu Argishtis Ararat Ani Artsakh Dvin
-	Erimena
-	Haik Haldi Ishpuinis
-	Kars
+	Aramu Argishtis Ararat Ani Artsakh Dvin Erimena
+	Haik Haldi Ishpuinis Kars
 	Lutipri
-	Musasir Menuas Manzikert Parisos
-	"Rusas II" Siwini Selardi "Sarduri I" "Sarduris II" Vaspurakan
+	Musasir Menuas Manzikert Parisos "Rusas II" Siwini Selardi "Sarduri I" "Sarduris II" Vaspurakan
 	Yerevan
 }

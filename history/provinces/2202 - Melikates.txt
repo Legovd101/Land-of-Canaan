@@ -2,7 +2,7 @@
 owner = ARM
 controller = ARM
 culture = armenian
-religion = buddhism
+religion = barjiana
 capital = "Khankendi"
 trade_goods = livestock
 base_tax = 3

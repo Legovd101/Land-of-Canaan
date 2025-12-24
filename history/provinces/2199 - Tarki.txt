@@ -2,7 +2,7 @@
 owner = GAZ
 controller = GAZ
 culture = dagestani
-religion = mahayana
+religion = barjiana
 capital = "Tarku"
 trade_goods = fish
 base_tax = 2

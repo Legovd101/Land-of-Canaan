@@ -1,4 +1,4 @@
-religion = buddhism
+religion = pyrrhonism
 capital = 4699
 technology_group = eastern
 primary_culture = greek

@@ -1,6 +1,6 @@
 owner = IST
 controller = IST
-religion = mahayana
+religion = xadarosh
 capital = "Tolcu"
 trade_goods = wool
 base_tax = 2

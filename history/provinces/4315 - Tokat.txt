@@ -2,7 +2,7 @@
 owner = MXI
 controller = MXI
 culture = serican
-religion = mahayana
+religion = vajrayana
 capital = "Tokat"
 trade_goods = cloth
 base_tax = 3
