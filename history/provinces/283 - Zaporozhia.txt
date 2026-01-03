@@ -2,7 +2,7 @@
 owner = KIE
 controller = KIE
 culture = crimean
-religion = slavic_pagan_reformed
+religion = slavic_pagan
 base_tax = 1
 base_production = 1
 trade_goods = livestock

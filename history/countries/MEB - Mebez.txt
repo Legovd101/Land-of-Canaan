@@ -1,5 +1,5 @@
-religion = slavic_pagan_reformed
-capital = 1762
+religion = slavic_pagan
+capital = 2973
 technology_group = western
 primary_culture = linonian
 government_rank = 1

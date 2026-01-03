@@ -1,0 +1,7 @@
+capital = 2317
+technology_group = ottoman
+government_rank = 1
+religion = dionysian
+primary_culture = aegyptian
+government = monarchy
+add_government_reform = feudalism_reform

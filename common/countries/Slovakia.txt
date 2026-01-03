@@ -1,11 +1,8 @@
 #Country Name: Please see filename.
-
 graphical_culture = easterngfx
-
 color = { 34 131 193 }
 revolutionary_colors = { 0 15 16 }
-
-historical_idea_groups = {
+historical_idea_groups = { 
 	economic_ideas
 	defensive_ideas
 	diplomatic_ideas
@@ -13,10 +10,9 @@ historical_idea_groups = {
 	trade_ideas
 	innovativeness_ideas
 	religious_ideas
-	spy_ideas	
+	spy_ideas
 }
-
-historical_units = {
+historical_units = { 
 	bardiche_infantry
 	eastern_knights
 	slavic_stradioti
@@ -31,8 +27,7 @@ historical_units = {
 	eastern_uhlan
 	eastern_carabinier
 }
-
-monarch_names = {
+monarch_names = { 
 	"Matej #0" = 30
 	"Jan #0" = 30
 	"Lukas #0" = 30
@@ -97,8 +92,7 @@ monarch_names = {
 	"Levoslav #0" = 0
 	"Stanislav #0" = 0
 }
-
-leader_names = {
+leader_names = { 
 	Stibor
 	Bel
 	Kollar
@@ -115,8 +109,7 @@ leader_names = {
 	Elefánthy
 	Balaša
 }
-
 ship_names = { 
-	Bodrog Bebrava Belá Blava Bodva Dunajec "Cierna voda" Hornád Ipel
-	Latorica Morava Ondava Poprad Rimava Slaná Žitava Torysa
+	Bodrog Bebrava Belá Blava Bodva Dunajec "Cierna voda" Hornád Ipel Latorica
+	Morava Ondava Poprad Rimava Slaná Žitava Torysa 
 }

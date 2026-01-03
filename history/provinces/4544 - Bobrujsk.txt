@@ -2,7 +2,7 @@
 owner = LIT
 controller = LIT
 culture = byelorussian
-religion = slavic_pagan_reformed
+religion = slavic_pagan
 base_tax = 1
 base_production = 1
 trade_goods = grain

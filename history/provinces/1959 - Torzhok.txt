@@ -2,7 +2,7 @@
 owner = NOV
 controller = NOV
 culture = novgorodian
-religion = slavic_pagan_reformed
+religion = slavic_pagan
 base_tax = 3
 base_production = 3
 trade_goods = naval_supplies

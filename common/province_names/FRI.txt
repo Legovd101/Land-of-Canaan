@@ -1,0 +1,33 @@
+# RULES
+# All names here will be my attempt at reconstructing Old English names from West Frisian
+# Format: ID = { "Province" "Capital" } # Origin
+
+## Britain 
+
+# East Anglia/East Frisia
+1860 = { "Noarfolk" "Noarwyk" } # "North folk", "North village"
+238 = { "Eastlân" "Kelmsfurde" }  # "East land", "Celmes' ford"
+4370 = { "Bedfurdeskier" "Krantebrêge" } # "Beda's ford", "Granta bridge"
+
+# London
+236 = { "Londenwyk" "Londenwyk" } # "London village"
+235 = { "Kent" "Kenterboarg" }
+4371 = { "Súdlân" "Hesting" } # "South land"
+237 = { "Oksenfurdeskier" "Oksenfurde" } # "Oxen ford"
+
+# East Midlands
+243 = { "Lendskier" "Lend" }
+4376 = { "Lygreskierw" "Lygre" } # "Ligore castle"
+1861 = { "Hartwyk" "Hartwyk" } # "Deer village"
+
+# Wessex/Cerneu
+234 = { "Hiemtúnskier" "Sârboarg" } # "Home town"
+4374 = { "Doarnsitte" "Wémûle" } # "Durnovaria people", "Wey's mouth"
+4130 = { "Seemarsitte" "Bad" } # "Sea lake people", "Bath"
+4373 = { "Devon" "Prûmûle" } # "Plum's mouth"
+233 = { "Koarnwâl" "Penyrn" } # "Cornovi wall"
+
+# West Midlands
+4372 = { "Covoom" "Coveam" } # "Cofa's tree"
+239 = { "Greglo" "Brêgesto" } # "Bright fort", "Bridge place"
+240 = { "Skrobboarg" "Skrobboarg" } # "Scrobb's fort"

@@ -1,0 +1,25 @@
+# RULES
+# As of 2026, there exists no attestation of any paleo-european languages in the British isles.
+# All sound changes are from Etruscan.
+# f/v -> p
+# c -> k
+# r -> rr
+# h -> _
+# Format: ID = { "Province" "Capital" } # Origin
+
+## BRITAIN 
+
+# Ulster
+4121 = { "Luplesi" "Luplesi" } # Etruscan "Lup clesne" (great/grand crossing)
+
+# The Isles
+4365 = { "Kell" "Kell" } # Etruscan "cele" (tall (island))
+
+# Lowlands
+249 = { "Gapa" "Gapa" } # Etruscan "gava" (watercourse)
+4362 = { "Parruspik" "Parruspik" } # Etruscan "fal haruspic" (priestly hill)
+
+# Northern England/Cumbria
+247 = { "Keplakom" "Keplakom" } # Etruscan "cep laucme" (king's head)
+244 = { "Porgi" "Porgi" } # Etruscan "pyrgi" (tower)
+4375 = { "Kasirr" "Kasirr" } # Etruscan "castur" (castle)

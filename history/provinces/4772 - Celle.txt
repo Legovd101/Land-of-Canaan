@@ -2,7 +2,7 @@
 owner = HCZ
 controller = HCZ
 culture = linonian
-religion = slavic_pagan_reformed
+religion = slavic_pagan
 capital = "Celle"
 trade_goods = livestock
 base_tax = 2

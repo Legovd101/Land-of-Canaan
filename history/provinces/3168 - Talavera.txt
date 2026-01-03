@@ -2,6 +2,7 @@
 owner = KSB#Juan II of Castille
 controller = KSB
 culture = celtiberian
+add_core = EBR
 religion = celtiberian_pagan
 base_tax = 3
 base_production = 2

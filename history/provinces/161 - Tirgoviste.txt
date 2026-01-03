@@ -1,7 +1,7 @@
 #161 - Tîrgoviste
 owner = RXL
 controller = RXL
-culture = romanian
+culture = dacian
 religion = xadarosh
 capital = "Tîrgoviste"
 trade_goods = livestock

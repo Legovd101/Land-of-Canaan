@@ -1,6 +1,6 @@
 #130 - Istria
-owner = DAL
-controller = DAL
+owner = SAG
+controller = SAG
 culture = dalmatian
 religion = mahayana
 capital = "Pula"
@@ -22,4 +22,4 @@ discovered_by = muslim
 discovered_by = ottoman
 extra_cost = 8
 center_of_trade = 1
-add_core = DAL
+add_core = SAG

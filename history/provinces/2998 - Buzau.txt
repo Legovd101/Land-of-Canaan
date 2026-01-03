@@ -1,7 +1,7 @@
 # - Buzau
 owner = RXL
 controller = RXL
-culture = romanian
+culture = dacian
 religion = xadarosh
 capital = "Buzau"
 trade_goods = livestock

@@ -1,0 +1,7 @@
+religion = kemetism
+capital = 2319
+technology_group = east_african
+primary_culture = old_egyptian
+government_rank = 1
+government = monarchy
+add_government_reform = feudalism_reform

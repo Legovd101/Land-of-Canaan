@@ -2,7 +2,7 @@
 owner = POL
 controller = POL
 culture = polish
-religion = slavic_pagan_reformed
+religion = slavic_pagan
 capital = "Kalisz"
 trade_goods = cloth
 base_tax = 3

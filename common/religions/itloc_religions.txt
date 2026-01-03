@@ -319,7 +319,7 @@ semitic_religions = {
 		heretic = { KUSHITE SPHYNX }
 	}
 	
-	kushitism_pagan_reformed = {
+	kushite_pagan = {
 		color = { 0 255 255 }
 		icon = 46
 		country = {
@@ -394,8 +394,26 @@ finno_ugric_religions = {
 		}
 		heretic = { GOAT_SKULL SNAKE_CLAN }
 	}
-	
-	finnish_pagan_reformed = {
+
+	sami_pagan = { #Noaidevuohta
+		icon = 66
+		color = { 205 127 50 } #153 178.5 38.25
+		country = {
+			defensiveness = 0.15
+			num_accepted_cultures = 1
+		}
+		province = {
+			local_missionary_strength = -0.02
+			supply_limit = 0.05
+		}
+		country_as_secondary = {
+			num_accepted_cultures = 1
+			defensiveness = 0.1
+		}
+		heretic = { NOAIDO }
+	}
+
+	finnish_pagan = {
 		icon = 50
 		color = { 0.65 0.65 0.1 }
 		country = {
@@ -446,7 +464,7 @@ finno_ugric_religions = {
 
 baltic_religions = {
 	crusade_name = kava
-	baltic_pagan_reformed = {
+	baltic_pagan = {
 		icon = 52
 		color = { 0.75 0.5 0.35 }
 		country = {
@@ -468,7 +486,7 @@ baltic_religions = {
 
 slavic_religions = {
 	crusade_name = napadenije
-	slavic_pagan_reformed = {
+	slavic_pagan = {
 		icon = 53
 		color = { 216 186 102 }
 		country = {
@@ -629,6 +647,23 @@ PIE_religions = {
 	iberian_pagan = {
 		color = { 0.91 0.71 0.82 }
 		icon = 61
+		country = {
+			tolerance_heathen = 2
+			diplomatic_reputation = 1
+		}
+		province = {
+			local_missionary_strength = 0.02
+		}
+		country_as_secondary = {
+			tolerance_own = 2
+			loot_amount = 0.25
+		}
+		heretic = { SERAPIS }
+	}
+	
+	fomorian_pagan = {
+		color = { 255 230 30 }
+		icon = 62
 		country = {
 			tolerance_heathen = 2
 			diplomatic_reputation = 1

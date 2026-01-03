@@ -1,0 +1,7 @@
+government = tribal
+religion = tengri_pagan
+capital = 131
+technology_group = eastern
+primary_culture = saragur
+add_government_reform = steppe_horde
+government_rank = 3

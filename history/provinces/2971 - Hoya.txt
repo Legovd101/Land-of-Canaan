@@ -2,7 +2,7 @@
 owner = MEB
 controller = MEB
 culture = linonian
-religion = slavic_pagan_reformed
+religion = slavic_pagan
 capital = "Hoya"
 trade_goods = livestock
 base_tax = 2

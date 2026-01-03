@@ -104,7 +104,7 @@ LNN = "countries/Linony.txt"
  ## Drevani
 DRV = "countries/Drevska.txt"
 
- # Balkans
+ # Balkans + Carpathia
  ## Hellenic
 NTP = "countries/Antipatrea.txt"
 MKD = "countries/Makedonia.txt"
@@ -116,8 +116,6 @@ AET = "countries/Aetolia.txt"
 CLK = "countries/Chalkis.txt"
 MSS = "countries/Messenia.txt"
 LKN = "countries/Lakonia.txt"
-TAS = "countries/Taras.txt"
-KLB = "countries/Kalabri.txt"
 TMS = "countries/Toms.txt"
 IST = "countries/Istra.txt"
 PLL = "countries/Pella.txt"
@@ -140,8 +138,12 @@ DAC = "countries/Dacia.txt"
 
  ## Other
 RXL = "countries/Roxalonston.txt" # Roxolani
+YZG = "countries/Yazigpat.txt" # Iazygi
 CRL = "countries/Coralla.txt" # Celtic
+PNN = "countries/Pannonia.txt" # Celtic
 YNN = "countries/Yonanan.txt" # Punic
+SAG = "countries/Saraghur.txt" # Turkic
+GEP = "countries/Gepids.txt" # Gepid/Germanic
 
  # Aifryka
  ## Wanðalisk (Vandalic)
@@ -212,3 +214,56 @@ ILN = "countries/Ilanz.txt"
  ## Other
 SKN = "countries/Asikoina.txt" # Aquitani
 ILS = "countries/Ilas.txt" # Hellenic
+
+ # Eparrik/Britain
+ ## Celtad (Celtic)
+PRI = "countries/Pridin.txt" # Gaulish
+STR = "countries/Alt Clud.txt" # Cumbrian
+UER = "countries/Uerteru.txt" # Pictish
+
+ ## Útlandr (Viking)
+WTF = "countries/Vedrafjordr.txt"
+JRK = "countries/Jorvik.txt"
+
+ ## Other
+PMR = "countries/Pomorrik.txt" # Pre-Indo-European/Paleo-European
+XNS = "countries/Xonsa.txt" # Hunnic
+
+ # Kemet
+ ## Kemetush (Egyptian)
+TMT = "countries/Tamiati.txt"
+EPM = "countries/Epiom.txt"
+PTP = "countries/Petpeh.txt"
+IPU = "countries/Ipu.txt"
+TNI = "countries/Tanitad.txt"
+TYK = "countries/Tiyakhu.txt"
+KNM = "countries/Kenmet.txt"
+TST = "countries/Tast.txt"
+AMK = "countries/AmKhent.txt"
+
+ ## Other
+MNP = "countries/Menpi.txt" # Mi'kmaq :3
+HRM = "countries/Hermopolis.txt" # Hellenic
+QES = "countries/Qes.txt" # Meroitic
+MSR = "countries/Misiranadu.txt" # Tamil
+
+ # Italia
+ ## Itulus (Italic)
+UMB = "countries/Ombre.txt" # Umbri
+SAF = "countries/Safinim.txt" # Samnite
+OPC = "countries/Opicem.txt" # Opici/Oscan
+RSN = "countries/Rasna.txt" # Etruscan/Etrurian
+
+ ## Other
+TAS = "countries/Taras.txt" # Hellenic
+KLB = "countries/Kalabri.txt" # Hellenic
+
+ # Sápmi/Lowlands
+ ## Sámi (Sámi)
+DLK = "countries/Dallkagge.txt" # Pite
+TJA = "countries/Tjarra.txt" # Lule
+JKK = "countries/Jokka.txt" # Northern
+MDD = "countries/Merriddo.txt" # Inari
+
+ ## Other
+BOG = "countries/Bolgis.txt" # Belgae

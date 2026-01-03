@@ -2,7 +2,7 @@
 owner = SIL
 controller = SIL
 culture = schlesian
-religion = slavic_pagan_reformed
+religion = slavic_pagan
 capital = "Breslau"
 trade_goods = cloth
 base_tax = 5

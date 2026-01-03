@@ -2,7 +2,7 @@
 owner = HCZ
 controller = HCZ
 culture = linonian
-religion = slavic_pagan_reformed
+religion = slavic_pagan
 capital = "Braunschweig"
 trade_goods = iron
 base_tax = 3

@@ -1,15 +1,14 @@
 #1953 - Szabolcs
-owner = HUN
-controller = HUN
-culture = hungarian
-religion = magyar_pagan
+owner = YZG
+controller = YZG
+culture = iazygi
+religion = xadarosh
 capital = "Szolnok"
 trade_goods = livestock
 base_tax = 3
 base_production = 3
 base_manpower = 2
 is_city = yes
-add_core = HUN
 discovered_by = western
 discovered_by = latin
 discovered_by = viking
@@ -21,3 +20,4 @@ discovered_by = CRI
 discovered_by = GOL
 discovered_by = AST
 discovered_by = QAS
+add_core = YZG

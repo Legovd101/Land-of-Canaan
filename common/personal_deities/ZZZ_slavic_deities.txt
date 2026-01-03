@@ -3,7 +3,7 @@ perun =
 	hostile_attrition = 1.0
 	defensiveness = 0.2
 
-	potential = { OR = { religion = slavic_pagan religion = slavic_pagan_reformed } }
+	potential = { OR = { religion = slavic_pagan religion = slavic_pagan } }
 	sprite = 37
 	trigger = {}
 	effect = {}
@@ -27,7 +27,7 @@ jarilo =
 	land_morale = 0.1
 	discipline = 0.05
 
-	potential = { OR = { religion = slavic_pagan religion = slavic_pagan_reformed } }
+	potential = { OR = { religion = slavic_pagan religion = slavic_pagan } }
 	sprite = 38
 	trigger = {}
 	effect = {}
@@ -51,7 +51,7 @@ lada =
 	naval_morale = 0.15
 	navy_tradition = 1
 
-	potential = { OR = { religion = slavic_pagan religion = slavic_pagan_reformed } }
+	potential = { OR = { religion = slavic_pagan religion = slavic_pagan } }
 	sprite = 39
 	trigger = {}
 	effect = {}
@@ -75,7 +75,7 @@ veles =
 	leader_land_fire = 1
 	global_trade_goods_size_modifier = 0.1
 
-	potential = { OR = { religion = slavic_pagan religion = slavic_pagan_reformed } }
+	potential = { OR = { religion = slavic_pagan religion = slavic_pagan } }
 	sprite = 40
 	trigger = {}
 	effect = {}
@@ -99,7 +99,7 @@ svarog =
 	production_efficiency = 0.1
 	manpower_recovery_speed = 0.20
 
-	potential = { OR = { religion = slavic_pagan religion = slavic_pagan_reformed } }
+	potential = { OR = { religion = slavic_pagan religion = slavic_pagan } }
 	sprite = 41
 	trigger = {}
 	effect = {}
@@ -123,7 +123,7 @@ svetovid =
 	global_unrest = -1
 	global_tax_modifier = 0.1
 
-	potential = { OR = { religion = slavic_pagan religion = slavic_pagan_reformed } }
+	potential = { OR = { religion = slavic_pagan religion = slavic_pagan } }
 	sprite = 42
 	trigger = {}
 	effect = {}

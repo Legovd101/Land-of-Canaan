@@ -1,0 +1,7 @@
+capital = 4365
+government_rank = 1
+religion = fomorian_pagan
+technology_group = western
+primary_culture = fomorian
+government = monarchy
+add_government_reform = feudalism_reform

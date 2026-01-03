@@ -1,0 +1,91 @@
+#Country Name: Please see filename.
+graphical_culture = westerngfx
+color = { 230 24 80 }
+revolutionary_colors = { 1 0 1 }
+historical_score = 25
+historical_idea_groups = { 
+	naval_ideas
+	trade_ideas
+	religious_ideas
+	exploration_ideas
+	diplomatic_ideas
+	economic_ideas
+	innovativeness_ideas
+	offensive_ideas
+}
+historical_units = { 
+	western_medieval_infantry
+	chevauchee
+	western_men_at_arms
+	swiss_landsknechten
+	dutch_maurician
+	french_caracolle
+	anglofrench_line
+	french_dragoon
+	french_bluecoat
+	french_cuirassier
+	french_impulse
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+monarch_names = { 
+	"Urien #0" = 60
+	"Owain #4" = 40
+	"Rhydderch #2" = 20
+	"Gwallog #2" = 20
+	"Morcant #0" = 10
+	"Peredur #1" = 5
+	"Elidir #0" = 5
+	"Ceneu #0" = 5
+	"Cynfarch #0" = 0
+	"Dyfnwal #0" = 0
+	"Garbonian #0" = 0
+	"Neithon #0" = 0
+	"Ceidio #0" = 0
+	"Gwenddoleu #0" = 0
+	"Morfael #0" = 0
+	"Llywarch #0" = 0
+	"Madog #0" = 0
+	"Ceredig #0" = 0
+	"Taliesin #0" = 0
+	"Gwrgi #0" = 0
+	"Bleiddud #0" = 0
+	"Rhun #0" = 0
+	"Elydir #0" = 0
+	"Cadwallon #0" = 0
+	"Bran #0" = 0
+	"Caradog #0" = 0
+	"Meirchion #0" = 0
+	"Pabo #0" = 0
+	"Iddon #0" = 0
+	"Dyfrig #0" = 0
+	"Custennin #0" = 0
+	"Geraint #0" = 0
+	"Aeron #0" = 0
+	"Rhiwallon #0" = 0
+	"Eliffer #0" = 0
+	"Gwenwynwyn #0" = 0
+	"Branwen #0" = -10
+	"Rhiannon #0" = -10
+	"Eurgain #0" = -1
+	"Ceinwen #0" = -1
+	"Dwynwen #0" = -1
+	"Creiddylad #0" = -1
+	"Arianrhod #0" = -1
+}
+leader_names = { 
+	"mab Urien" "mab Owain" "mab Rhydderch" "mab Gwallog" "mab Morcant" "mab Peredur" "mab Elidir" "mab Ceneu" "mab Cynfarch" "mab Gwenddoleu"
+	"mab Llywarch" "Urien mab" "Owain mab" "Rhydderch mab" "Gwallog mab" "Gododdin" "Rheged" "Alt Clut" "Elmet" "Strathclyde"
+	"Manaw Gododdin" "Bryneich" "Aeroned" 
+}
+ship_names = { 
+	"Rhiannon" "Bran" "Arawn" "Manawydan" "Llyr" "Nudd" "Gofannon" "Mabon" "Beli" "Lugus"
+	"Creiddylad" "Dôn" "Arianrhod" "Blodeuwedd" "Taliesin" "Urien" "Owain" "Rhydderch" "Gwallog" "Peredur"
+	"Llywarch" "Cernunnos" "Rigisamus" "Albion" "Teulu" "Anwnn" "Dyfnwal" "Nemeton" "Caer Ligualid" 
+}
+army_names = { 
+	"Llu Gododdin" "Llu Rheged" "Llu Alt Clut" "Llu Elmet" "Llu Bryneich" "Llu Aeron" "Llu Manaw" "Llu Strathclyde" "Llu Deifr" "Llu Rhegin"
+	"Llu Nemeton" "Llu $PROVINCE$" 
+}

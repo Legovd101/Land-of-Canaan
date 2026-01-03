@@ -2,7 +2,7 @@
 owner = LIT
 controller = LIT
 culture = lithuanian
-religion = baltic_pagan_reformed
+religion = baltic_pagan
 capital = "Upyte"
 trade_goods = livestock
 base_tax = 2

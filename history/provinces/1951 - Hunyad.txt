@@ -2,9 +2,9 @@
 latent_trade_goods = { 
 	coal 
 }
-owner = TRA
-controller = TRA
-culture = transylvanian
+owner = YZG
+controller = YZG
+culture = getae
 religion = vajrayana
 capital = "Alba Iulia"
 trade_goods = iron
@@ -12,7 +12,6 @@ base_tax = 3
 base_production = 3
 base_manpower = 2
 is_city = yes
-add_core = TRA
 discovered_by = KAZ
 discovered_by = CRI
 discovered_by = GOL
@@ -24,3 +23,4 @@ discovered_by = viking
 discovered_by = eastern
 discovered_by = muslim
 discovered_by = ottoman
+add_core = YZG

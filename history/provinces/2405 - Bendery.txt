@@ -1,7 +1,7 @@
 #2405 - Bender
 owner = DAC
 controller = DAC
-culture = romanian
+culture = dacian
 religion = xadarosh
 capital = "Bender"
 trade_goods = wine

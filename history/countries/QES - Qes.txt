@@ -1,0 +1,7 @@
+capital = 2797
+technology_group = east_african
+government_rank = 1
+religion = dionysian
+primary_culture = nubian
+government = monarchy
+add_government_reform = feudalism_reform

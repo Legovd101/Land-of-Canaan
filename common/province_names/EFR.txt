@@ -1,0 +1,33 @@
+# RULES
+# All names here will be my attempt at reconstructing Old English names from Saterland Frisian
+# Format: ID = { "Province" "Capital" } # Origin
+
+## Britain 
+
+# East Anglia/East Frisia
+1860 = { "Noufoulk" "Nouweg" } # "North folk", "North village"
+238 = { "Aastlound" "Kälmsfuurt" }  # "East land", "Celmes' ford"
+4370 = { "Bädfuurtskier" "Gantebrääch" } # "Beda's ford", "Granta bridge"
+
+# London
+236 = { "Löndunweg" "Löndunweg" } # "London village"
+235 = { "Känt" "Käntebuurich" }
+4371 = { "Suudlound" "Hästink" } # "South land"
+237 = { "Oksenfuurtskier" "Oksenfuurt" } # "Oxen ford"
+
+# East Midlands
+243 = { "Lindouskier" "Lindou" }
+4376 = { "Likärskier" "Likär" } # "Ligore castle"
+1861 = { "Harteweg" "Harteweg" } # "Deer village"
+
+# Wessex/Cerneu
+234 = { "Heemtuunskier" "Saarbuurich" } # "Home town"
+4374 = { "Doarnsäät" "Woamuule" } # "Durnovaria people", "Wey's mouth"
+4130 = { "Säimeersäät" "Bat" } # "Sea lake people", "Bath"
+4373 = { "Dävon" "Pluumuule" } # "Plum's mouth"
+233 = { "Koarnwaal" "Pänörn" } # "Cornovi wall"
+
+# West Midlands
+4372 = { "Covoom" "Covoom" } # "Cofa's tree"
+239 = { "Kärglou" "Bräächstoa" } # "Bright fort", "Bridge place"
+240 = { "Skrobuurich" "Skrobuurich" } # "Scrobb's fort"

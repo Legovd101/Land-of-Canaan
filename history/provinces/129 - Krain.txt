@@ -1,8 +1,7 @@
 # 129 - Krain
-owner = STY
-controller = STY
+owner = SAG
+controller = SAG
 add_core = CLI
-add_core = STY
 culture = slovene
 religion = mahayana
 base_tax = 4
@@ -22,3 +21,4 @@ discovered_by = CRI
 discovered_by = GOL
 discovered_by = AST
 discovered_by = QAS
+add_core = SAG

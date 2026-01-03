@@ -1,6 +1,6 @@
 #1828 - Donji Kraji
-owner = DAL# Part of the Bosnian kingdom
-controller = DAL
+owner = SAG# Part of the Bosnian kingdom
+controller = SAG
 religion = vajrayana
 capital = "Jajce"
 trade_goods = livestock
@@ -19,4 +19,5 @@ discovered_by = viking
 discovered_by = eastern
 discovered_by = muslim
 discovered_by = ottoman
-add_core = DAL
+add_core = SAG
+culture = sabir

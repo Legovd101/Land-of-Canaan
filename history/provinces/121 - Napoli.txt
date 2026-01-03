@@ -4,16 +4,15 @@
 ### Modified 10/14/2025 2:36:58 PM ###
 # Napoli
 # 121 Napoli - 10/14/2025 2:36:58 PM 
-add_core = SIC
-owner = SIC
-controller = SIC
+owner = OPC
+controller = OPC
 base_tax = 8
 base_production = 8
 base_manpower = 6
 center_of_trade = 2
 trade_goods = grain
 extra_cost = 16
-culture = neapolitan
+culture = oscan
 religion = pyrrhonism
 capital = "Napoli"
 is_city = yes
@@ -23,4 +22,5 @@ discovered_by = viking
 discovered_by = eastern
 discovered_by = muslim
 discovered_by = ottoman
+add_core = OPC
 fort_15th = yes

@@ -2,7 +2,7 @@
 owner = LIT
 controller = LIT
 culture = latvian
-religion = baltic_pagan_reformed
+religion = baltic_pagan
 capital = "Fellin"
 trade_goods = livestock
 base_tax = 3

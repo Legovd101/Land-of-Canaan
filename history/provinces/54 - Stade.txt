@@ -1,8 +1,8 @@
 #54 - Stade
-owner = LUN
-controller = LUN
-culture = lower_saxon
-religion = norse_pagan
+owner = DLK
+controller = DLK
+culture = pite
+religion = sami_pagan
 capital = "Stade"
 trade_goods = fish
 base_tax = 2
@@ -15,4 +15,4 @@ discovered_by = latin
 discovered_by = viking
 discovered_by = muslim
 discovered_by = ottoman
-add_core = LUN
+add_core = DLK

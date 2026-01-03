@@ -4,13 +4,13 @@
 ### Modified 10/14/2025 2:36:58 PM ###
 # Aachen
 # 1878 Aachen - 10/14/2025 2:36:58 PM 
-owner = BRB
-controller = BRB
+owner = NED
+controller = NED
 base_tax = 6
 base_production = 6
 base_manpower = 2
 trade_goods = grain
-culture = flemish
+culture = dutch
 religion = new_gothic
 capital = "Aachen"
 is_city = yes
@@ -20,4 +20,4 @@ discovered_by = latin
 discovered_by = viking
 discovered_by = muslim
 discovered_by = ottoman
-add_core = BRB
+add_core = NED

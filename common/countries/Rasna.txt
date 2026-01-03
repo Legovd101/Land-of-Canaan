@@ -1,0 +1,86 @@
+#Country Name: Please see filename.
+graphical_culture = westerngfx
+color = { 124 85 155 }
+revolutionary_colors = { 1 0 9 }
+historical_idea_groups = { 
+	trade_ideas
+	religious_ideas
+	defensive_ideas
+	economic_ideas
+	diplomatic_ideas
+	spy_ideas
+	offensive_ideas
+	administrative_ideas
+}
+historical_units = { 
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+	italian_condotta
+	spanish_tercio
+	austrian_tercio
+	austrian_grenzer
+	french_dragoon
+	french_bluecoat
+	french_impulse
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+monarch_names = { 
+	"Larth #0" = 60
+	"Velthur #4" = 40
+	"Aule #2" = 20
+	"Arnth #2" = 20
+	"Thana #0" = 10
+	"Avle #1" = 5
+	"Spurinna #0" = 5
+	"Caile #0" = 5
+	"Larce #0" = 0
+	"Velimnas #0" = 0
+	"Thanchvil #0" = 0
+	"Rasce #0" = 0
+	"Velsnas #0" = 0
+	"Arruns #0" = 0
+	"Tite #0" = 0
+	"Vipi #0" = 0
+	"Fasti #0" = 0
+	"Ruma #0" = 0
+	"Semni #0" = 0
+	"Aitor #0" = 0
+	"Antso #0" = 0
+	"Eneko #0" = 0
+	"Ortzi #0" = 0
+	"Garai #0" = 0
+	"Urdin #0" = 0
+	"Belex #0" = 0
+	"Ilun #0" = 0
+	"Zuri #0" = 0
+	"Gartze #0" = 0
+	"Velchas #0" = 0
+	"Thalna #0" = 0
+	"Turms #0" = 0
+	"Napar #0" = 0
+	"Lats #0" = 0
+	"Uni #0" = -10
+	"Amalur #0" = -10
+	"Thanchvilna #0" = -1
+	"Larthia #0" = -1
+	"Velia #0" = -1
+	"Ederne #0" = -1
+	"Itsaso #0" = -1
+}
+leader_names = { 
+	"Larce" "Arruns" "Velimnas" "Velsnas" "Thana" "Aule" "Larth" "Velthur" "Arnth" "Spurinna"
+	"Etrusci" "Rasna" "Veii" "Tarchna" "Clevsin" 
+}
+ship_names = { 
+	"Tinia" "Uni" "Menrva" "Turms" "Fufluns" "Selvans" "Voltumna" "Laran" "Catha" "Aita"
+	"Amalur" "Mari" "Ortzi" "Sugaar" "Ilargi" "Larth" "Velthur" "Arnth" "Aule" "Spurinna"
+	"Arruns" "Rasna" "Tarchna" "Clevsin" "Napar" "Euskal" "Iruña" "Itsaso" "Mendia" 
+}
+army_names = { 
+	"Her Rasna" "Her Veii" "Her Tarchna" "Her Clevsin" "Her Velzna" "Her Volaterrae" "Her Caere" "Her Tarquinia" "Her Perusia" "Her Arretium"
+	"Her Nemeton" "Her $PROVINCE$" 
+}

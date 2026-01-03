@@ -1,0 +1,7 @@
+religion = buddhism
+capital = 2321
+technology_group = indian
+primary_culture = tamil
+government_rank = 1
+government = republic
+add_government_reform = merchants_reform

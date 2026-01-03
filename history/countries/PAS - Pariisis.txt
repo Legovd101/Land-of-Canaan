@@ -1,5 +1,5 @@
 religion = old_gothic
-capital = 182
+capital = 183
 technology_group = western
 primary_culture = parisian
 government = monarchy

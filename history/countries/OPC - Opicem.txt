@@ -1,0 +1,7 @@
+religion = jupiterian
+capital = 121
+technology_group = latin
+primary_culture = oscan
+government = republic
+add_government_reform = oligarchy_reform
+government_rank = 1

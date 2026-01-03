@@ -1,0 +1,87 @@
+#Country Name: Please see filename.
+graphical_culture = easterngfx
+color = { 9 155 165 }
+revolutionary_colors = { 14 0 14 }
+historical_idea_groups = { 
+	religious_ideas
+	defensive_ideas
+	spy_ideas
+	trade_ideas
+	offensive_ideas
+	economic_ideas
+	diplomatic_ideas
+	innovativeness_ideas
+}
+historical_units = { 
+	eastern_medieval_infantry
+	eastern_knights
+	slavic_stradioti
+	eastern_militia
+	ottoman_spahi
+	ottoman_sekban
+	ottoman_reformed_spahi
+	ottoman_reformed_janissary
+	ottoman_toprakli_hit_and_run
+	ottoman_nizami_cedid
+	ottoman_toprakli_dragoon
+	eastern_skirmisher
+	eastern_uhlan
+	eastern_carabinier
+	ottoman_new_model
+	ottoman_lancer
+}
+monarch_names = { 
+	"Attila #0" = 60
+	"Bleda #4" = 40
+	"Dengizich #2" = 20
+	"Ellac #2" = 20
+	"Ruga #0" = 10
+	"Mundzuk #1" = 5
+	"Octar #0" = 5
+	"Balamir #0" = 5
+	"Uldin #0" = 0
+	"Charaton #0" = 0
+	"Basich #0" = 0
+	"Kursich #0" = 0
+	"Arshak #0" = 0
+	"Mithra #0" = 0
+	"Spitamenes #0" = 0
+	"Rostam #0" = 0
+	"Bahram #0" = 0
+	"Peroz #0" = 0
+	"Yazdegerd #0" = 0
+	"Shapur #0" = 0
+	"Ardashir #0" = 0
+	"Vishtaspa #0" = 0
+	"Artavazd #0" = 0
+	"Tirdad #0" = 0
+	"Surena #0" = 0
+	"Spargapises #0" = 0
+	"Ariaramnes #0" = 0
+	"Oxyartes #0" = 0
+	"Phraates #0" = 0
+	"Mardonius #0" = 0
+	"Vahram #0" = 0
+	"Khosrow #0" = 0
+	"Zarir #0" = 0
+	"Anahita #0" = -10
+	"Arta #0" = -10
+	"Roxana #0" = -1
+	"Yasna #0" = -1
+	"Fravarti #0" = -1
+	"Atossa #0" = -1
+	"Mithrida #0" = -1
+}
+leader_names = { 
+	"Attila" "Bleda" "Dengizich" "Ellac" "Ruga" "Mundzuk" "Octar" "Balamir" "Uldin" "Arshak"
+	"Bahram" "Attila" "Bleda" "Dengizich" "Ellac" "Huns" "Alans" "Sarmatians" "Saka" "Massagetae"
+	"Yazata" "Avestans" "Iranic Host" 
+}
+ship_names = { 
+	"Attila" "Bleda" "Ellac" "Dengizich" "Ruga" "Mundzuk" "Balamir" "Uldin" "Charaton" "Basich"
+	"Mithra" "Anahita" "Verethragna" "Ahura" "Asha" "Rostam" "Spitamenes" "Bahram" "Ardashir" "Shapur"
+	"Yazdegerd" "Khosrow" "Surena" "Saka" "Alan" "Turan" "Airyanem" "Avesta" "Fravashi" 
+}
+army_names = { 
+	"Xona Orda" "Alana Orda" "Sarmata Orda" "Saka Orda" "Massageta Orda" "Tura Orda" "Airya Orda" "$PROVINCE$ Orda" 
+}

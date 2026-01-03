@@ -1,7 +1,7 @@
 # 3478 - Modrus
-owner = DAL
-controller = DAL
-religion = buddhism
+owner = SAG
+controller = SAG
+religion = vajrayana
 capital = "Modrus"
 trade_goods = wool
 base_tax = 2
@@ -19,4 +19,5 @@ discovered_by = viking
 discovered_by = eastern
 discovered_by = muslim
 discovered_by = ottoman
-add_core = DAL
+add_core = SAG
+culture = sabir

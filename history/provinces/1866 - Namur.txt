@@ -2,8 +2,8 @@
 latent_trade_goods = { 
 	coal 
 }
-owner = FLA
-controller = FLA
+owner = NED
+controller = NED
 capital = "Namur"
 is_city = yes
 culture = flemish
@@ -19,5 +19,5 @@ discovered_by = latin
 discovered_by = viking
 discovered_by = muslim
 discovered_by = ottoman
-add_core = FLA
+add_core = NED
 fort_15th = yes

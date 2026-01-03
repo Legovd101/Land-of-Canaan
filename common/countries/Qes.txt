@@ -1,0 +1,76 @@
+graphical_culture = muslimgfx
+color = { 19 103 141 }
+revolutionary_colors = { 5 0 1 }
+historical_idea_groups = { 
+	maritime_ideas
+	defensive_ideas
+	religious_ideas
+	trade_ideas
+	offensive_ideas
+	administrative_ideas
+	economic_ideas
+	expansion_ideas
+}
+historical_units = { 
+	mamluk_archer
+	mamluk_cavalry_charge
+	mamluk_duel
+	mamluk_musket_charge
+	muslim_mass_infantry
+	muslim_dragoon
+	ali_bey_reformed_infantry
+}
+monarch_names = { 
+	"Piye #0" = 60
+	"Shabaka #4" = 40
+	"Shebitku #2" = 20
+	"Taharqa #2" = 20
+	"Tantamani #0" = 10
+	"Anlamani #1" = 5
+	"Aspelta #0" = 5
+	"Atlanersa #0" = 5
+	"Senkamanisken #0" = 0
+	"Aramatleqo #0" = 0
+	"Malewiebamani #0" = 0
+	"Amaniastabarqa #0" = 0
+	"Arkamani #0" = 0
+	"Natakamani #0" = 0
+	"Tanyidamani #0" = 0
+	"Yesbokheamani #0" = 0
+	"Amanikhareqerem #0" = 0
+	"Amanislo #0" = 0
+	"Kharamadoye #0" = 0
+	"Teqorideamani #0" = 0
+	"Aritenyesbokhe #0" = 0
+	"Teriteqas #0" = 0
+	"Khaliset #0" = 0
+	"Takideamani #0" = 0
+	"Teqorideamani #0" = 0
+	"Arneqamani #0" = 0
+	"Amanitaraqide #0" = 0
+	"Amanibakhi #0" = 0
+	"Amanitenmemide #0" = 0
+	"Amanitashakheto #0" = 0
+	"Teriteqas #0" = 0
+	"Amanirenas #0" = -10
+	"Amanishakheto #0" = -10
+	"Amanitore #0" = -1
+	"Aritenyesbokhe #0" = -1
+	"Khaliset #0" = -1
+	"Qalhata #0" = -1
+	"Nalote #0" = -1
+}
+leader_names = { 
+	"Piye" "Shabaka" "Taharqa" "Tantamani" "Aspelta" "Anlamani" "Atlanersa" "Senkamanisken" "Natakamani" "Tanyidamani"
+	"Amanirenas" "Amanishakheto" "Amanitore" "Kandake" "Qore" "Peseto" "Kush" "Napata" "Meroe" "Nuri"
+	"Jebel Barkal" "Musawwarat" "Naqa" 
+}
+ship_names = { 
+	"Amun" "Apedemak" "Sebiumeker" "Arensnuphis" "Isis" "Horus" "Ma'at" "Mut" "Khonsu" "Montu"
+	"Piye" "Taharqa" "Aspelta" "Natakamani" "Amanirenas" "Amanitore" "Napata" "Meroe" "Nuri" "Naqa"
+	"Musawwarat" "Barkal" "Iteru" "Deshret" "Kemet" "Ta-Seti" "Wawat" "Kush" 
+}
+army_names = { 
+	"Kush Army" "Napata Army" "Meroe Army" "Ta-Seti Army" "Wawat Army" "Medjay Army" "Barkal Army" "Nuri Army" "Naqa Army" "Musawwarat Army"
+	"Royal Army" "Army of $PROVINCE$" 
+}

@@ -1,0 +1,7 @@
+religion = old_gothic
+capital = 158
+technology_group = eastern
+primary_culture = gepid
+government = theocracy
+add_government_reform = leading_clergy_reform
+government_rank = 1

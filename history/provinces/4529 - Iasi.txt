@@ -1,7 +1,7 @@
 #4529 - Iasi
 owner = DAC
 controller = DAC
-culture = romanian
+culture = dacian
 religion = xadarosh
 capital = "Iasi"
 trade_goods = wine

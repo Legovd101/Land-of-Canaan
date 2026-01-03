@@ -12,3 +12,6 @@ base_production = 1
 discovered_by = ALO
 discovered_by = MAK
 is_city = no
+add_core = QES
+owner = QES
+controller = QES

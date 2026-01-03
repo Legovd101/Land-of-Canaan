@@ -135,7 +135,7 @@ ship_names = {
 	Speranza Stabia Staffetta Stromboli Suprema Tancredi Taranto Temperanza Terana Tigre
 	Tirsi Torre Toscana Totusmundus Trionfo Tritone Tronco Turca Urania Valor
 	Veloce Vendicatore Venere Venetia Vesuvio Vigilante Vigilanza Vittoria Volpe Vulcano
-	Zeffiro 
+	Zeffiro
 }
 army_names = { 
 	"Armata di $PROVINCE$" 

@@ -1,0 +1,7 @@
+religion = norse_pagan
+capital = 374
+technology_group = viking
+government_rank = 1
+primary_culture = irelander
+government = monarchy
+add_government_reform = feudalism_reform

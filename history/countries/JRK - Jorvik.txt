@@ -1,0 +1,7 @@
+religion = norse_pagan
+capital = 245
+technology_group = viking
+government_rank = 1
+primary_culture = yorkish
+government = monarchy
+add_government_reform = feudalism_reform

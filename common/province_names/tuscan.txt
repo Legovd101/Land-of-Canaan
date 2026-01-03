@@ -1,0 +1,24 @@
+# RULES
+# All names here will attempt to be historical, or derived from known Etruscan terms
+# Format: ID = { "Province" "Capital" } # Origin
+
+## ITALY 
+
+# Tuscany/Rasna
+115 = { "Piso" "Piso" } # Etruscan-derived name
+116 = { "Vipsul" "Vipsul" } # Historical
+117 = { "Saina" "Saina" } # Historical
+2978 = { "Aritim" "Aritim" } # Historical
+2980 = { "Luk" "Luk" } # Historical
+
+# Romagna/Bononia
+105 = { "Palmal" "Palmal" } # Etruscan "Palma" (shield)
+106 = { "Mutna" "Mutna" } # Historical
+113 = { "Spina" "Spina" } # Historical
+114 = { "Ravna" "Ravna" } # Historical
+4730 = { "Felsina" "Felsina" } # Historical
+
+# Liguria/Ligurem
+101 = { "Kainua" "Kainua" } # Etruscan "Kainua" ("New City")
+2992 = { "Alfinganim" "Alfinganim" } # Etruscan "alfa" (white) + "Ingauni"
+102 = { "Nesa" "Nesa" } # Non-Etruscan City of Nicaea

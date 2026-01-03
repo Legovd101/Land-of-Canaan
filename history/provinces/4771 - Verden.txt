@@ -1,6 +1,6 @@
 #4771 - Verden
-owner = BRE
-controller = BRE
+owner = DLK
+controller = DLK
 culture = lower_saxon
 religion = norse_pagan
 capital = "Verden"
@@ -15,4 +15,4 @@ discovered_by = latin
 discovered_by = viking
 discovered_by = muslim
 discovered_by = ottoman
-add_core = BRE
+add_core = DLK

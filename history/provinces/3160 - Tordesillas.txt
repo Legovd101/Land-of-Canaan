@@ -1,7 +1,8 @@
 # 3341 - Tordesillas
 owner = GDL#Juan II of Castille
 controller = GDL
-culture = hispanic
+culture = celtiberian
+add_core = EBR
 religion = celtiberian_pagan
 base_tax = 2
 base_production = 2

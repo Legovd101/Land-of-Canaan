@@ -1,7 +1,7 @@
 #4530 - Birlad
 owner = DAC
 controller = DAC
-culture = romanian
+culture = dacian
 religion = xadarosh
 capital = "Birlad"
 trade_goods = wine

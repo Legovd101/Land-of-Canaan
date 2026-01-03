@@ -1,7 +1,9 @@
 ﻿l_english:
- low_countries_region: "Nemecz"
+ low_countries_region: "Sápmi"
  north_german_region: "Nishersk"
  # Sorbian "Niski" for "Low"
  south_german_region: "Werzh"
  # Polish "Wierch" for "mountaintop"
  france_region: "Galle"
+ british_isles_region: "Eparrik"
+ # Etrurian "Per-" for "house/home" + "-rrik" for "Fomorian"

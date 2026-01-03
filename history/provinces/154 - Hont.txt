@@ -1,8 +1,8 @@
 #154 - Hont (Hont + Bars + Ersekujvar)
-owner = HUN
-controller = HUN
+owner = SLO
+controller = SLO
 culture = slovak
-religion = magyar_pagan
+religion = slavic_pagan
 capital = "Hont"
 trade_goods = gold#Schemnitz / Banská Štiavnica
 base_tax = 3
@@ -10,7 +10,6 @@ base_production = 3
 base_manpower = 2
 is_city = yes
 #fort_15th = yes #Eger Castle, Orava
-add_core = HUN
 add_core = SLO
 discovered_by = western
 discovered_by = latin

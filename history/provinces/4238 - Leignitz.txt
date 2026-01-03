@@ -3,7 +3,7 @@
 owner = SIL
 controller = SIL
 culture = schlesian
-religion = slavic_pagan_reformed
+religion = slavic_pagan
 capital = "Liegnitz"
 trade_goods = glass
 base_tax = 4

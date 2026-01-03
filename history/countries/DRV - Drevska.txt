@@ -1,4 +1,4 @@
-religion = slavic_pagan_reformed
+religion = slavic_pagan
 capital = 66
 technology_group = western
 primary_culture = drevani

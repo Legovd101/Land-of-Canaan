@@ -1,0 +1,7 @@
+capital = 363
+technology_group = east_african
+government_rank = 1
+religion = kemetism
+primary_culture = old_egyptian
+government = republic
+add_government_reform = merchants_reform

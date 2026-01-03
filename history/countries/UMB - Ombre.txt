@@ -1,0 +1,7 @@
+religion = jupiterian
+capital = 116
+technology_group = latin
+primary_culture = umbrian
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1

@@ -2,7 +2,7 @@
 owner = DRV
 controller = DRV
 culture = drevani
-religion = slavic_pagan_reformed
+religion = slavic_pagan
 trade_goods = salt
 capital = "Ansbach"
 is_city = yes

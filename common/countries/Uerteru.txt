@@ -1,0 +1,91 @@
+#Country Name: Please see filename.
+graphical_culture = westerngfx
+color = { 128 6 0 }
+revolutionary_colors = { 1 0 1 }
+historical_score = 25
+historical_idea_groups = { 
+	naval_ideas
+	trade_ideas
+	religious_ideas
+	exploration_ideas
+	diplomatic_ideas
+	economic_ideas
+	innovativeness_ideas
+	offensive_ideas
+}
+historical_units = { 
+	western_medieval_infantry
+	chevauchee
+	western_men_at_arms
+	swiss_landsknechten
+	dutch_maurician
+	french_caracolle
+	anglofrench_line
+	french_dragoon
+	french_bluecoat
+	french_cuirassier
+	french_impulse
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+monarch_names = { 
+	"Drust #0" = 60
+	"Talorc #4" = 40
+	"Nechtan #2" = 20
+	"Uurad #2" = 20
+	"Gartnait #0" = 10
+	"Drest #1" = 5
+	"Onuist #0" = 5
+	"Talorgan #0" = 5
+	"Bridei #0" = 0
+	"Canutulachama #0" = 0
+	"Cinioch #0" = 0
+	"Uipoig #0" = 0
+	"Alpín #0" = 0
+	"Castantin #0" = 0
+	"Feredach #0" = 0
+	"Talorcan #0" = 0
+	"Wradech #0" = 0
+	"Bargoit #0" = 0
+	"Uven #0" = 0
+	"Elpin #0" = 0
+	"Unuist #0" = 0
+	"Bruide #0" = 0
+	"Drustan #0" = 0
+	"Talorgen #0" = 0
+	"Neithon #0" = 0
+	"Uurguist #0" = 0
+	"Finguine #0" = 0
+	"Talorg #0" = 0
+	"Uoret #0" = 0
+	"Galan #0" = 0
+	"Brude #0" = 0
+	"Uipoid #0" = 0
+	"Talorcen #0" = 0
+	"Uuen #0" = 0
+	"Dergart #0" = 0
+	"Talorgan #0" = 0
+	"Branwen #0" = -10
+	"Uurgust #0" = -10
+	"Drustina #0" = -1
+	"Talorca #0" = -1
+	"Nechtana #0" = -1
+	"Uurga #0" = -1
+	"Bridena #0" = -1
+}
+leader_names = { 
+	"map Drust" "map Talorc" "map Nechtan" "map Gartnait" "map Bridei" "map Drest" "map Onuist" "map Talorgan" "map Uurad" "map Castantin"
+	"map Bruide" "Drust map" "Talorc map" "Nechtan map" "Bridei map" "Fortriu" "Fib" "Circinn" "Ce" "Fotla"
+	"Cait" "Atholl" "Fidach" 
+}
+ship_names = { 
+	"Drust" "Talorc" "Nechtan" "Bridei" "Gartnait" "Drest" "Onuist" "Talorgan" "Uurad" "Castantin"
+	"Bruide" "Uurguist" "Talorcan" "Drustan" "Neithon" "Fortriu" "Circinn" "Fib" "Cait" "Fotla"
+	"Ce" "Atholl" "Fidach" "Nemeton" "Aberlemno" "Rhynie" "Burghead" "Maelchon" "Tarbat" 
+}
+army_names = { 
+	"Llu Fortriu" "Llu Fib" "Llu Circinn" "Llu Ce" "Llu Fotla" "Llu Cait" "Llu Atholl" "Llu Fidach" "Llu Rhynie" "Llu Burghead"
+	"Llu Nemeton" "Llu $PROVINCE$" 
+}

@@ -1,6 +1,6 @@
 #110 - Trent
-owner = ITA
-controller = ITA
+owner = TIR
+controller = TIR
 culture = venetian
 religion = old_gothic
 base_tax = 4
@@ -15,4 +15,4 @@ discovered_by = viking
 discovered_by = eastern
 discovered_by = muslim
 discovered_by = ottoman
-add_core = ITA
+add_core = TIR

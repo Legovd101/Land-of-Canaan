@@ -2,7 +2,7 @@
 owner = DRV
 controller = DRV
 culture = drevani
-religion = slavic_pagan_reformed
+religion = slavic_pagan
 base_tax = 8
 base_production = 8
 trade_goods = paper

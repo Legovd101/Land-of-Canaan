@@ -2,7 +2,8 @@
 owner = GDL#Juan II of Castille
 controller = GDL
 add_core = LON
-culture = hispanic
+culture = celtiberian
+add_core = EBR
 religion = new_gothic
 base_tax = 2
 base_production = 2

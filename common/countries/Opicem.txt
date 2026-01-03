@@ -1,0 +1,85 @@
+#Country Name: Please see filename.
+graphical_culture = westerngfx
+color = { 225 199 35 }
+revolutionary_colors = { 1 0 9 }
+historical_idea_groups = { 
+	trade_ideas
+	religious_ideas
+	defensive_ideas
+	economic_ideas
+	diplomatic_ideas
+	spy_ideas
+	offensive_ideas
+	administrative_ideas
+}
+historical_units = { 
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+	italian_condotta
+	spanish_tercio
+	austrian_tercio
+	austrian_grenzer
+	french_dragoon
+	french_bluecoat
+	french_impulse
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+monarch_names = { 
+	"Latinus #0" = 60
+	"Tatius #4" = 40
+	"Faunus #2" = 20
+	"Picus #2" = 20
+	"Ausus #0" = 10
+	"Volturnus #1" = 5
+	"Sancus #0" = 5
+	"Medullus #0" = 5
+	"Ferter #0" = 0
+	"Opiter #0" = 0
+	"Veles #0" = 0
+	"Mettius #0" = 0
+	"Statius #0" = 0
+	"Numitor #0" = 0
+	"Amulius #0" = 0
+	"Caeculus #0" = 0
+	"Seppius #0" = 0
+	"Vibius #0" = 0
+	"Decius #0" = 0
+	"Pompo #0" = 0
+	"Herennus #0" = 0
+	"Staius #0" = 0
+	"Ofilius #0" = 0
+	"Papus #0" = 0
+	"Pacius #0" = 0
+	"Minius #0" = 0
+	"Vesulus #0" = 0
+	"Trebatius #0" = 0
+	"Alfidus #0" = 0
+	"Volesus #0" = 0
+	"Salvius #0" = 0
+	"Maesius #0" = 0
+	"Opiterna #0" = -10
+	"Numitoria #0" = -10
+	"Faustula #0" = -1
+	"Tatia #0" = -1
+	"Vibia #0" = -1
+	"Seppia #0" = -1
+	"Paculla #0" = -1
+}
+leader_names = { 
+	"Latinus" "Tatius" "Faunus" "Picus" "Numitor" "Amulius" "Caeculus" "Sancus" "Medullus" "Volturnus"
+	"Statius" "Mettius" "Pompo" "Volesus" "Herennus" "Seppius" "Vibius" "Decius" "Pacius" "Staius"
+	"Latini" "Sabini" "Samnites" "Umbri" "Picentes" "Volsci" "Aequi" 
+}
+ship_names = { 
+	"Faunus" "Picus" "Sancus" "Volturnus" "Feronia" "Angitia" "Vacuna" "Mefitis" "Ops" "Pales"
+	"Latinus" "Tatius" "Numitor" "Caeculus" "Volesus" "Herennus" "Pompo" "Seppius" "Pacius" "Statius"
+	"Latium" "Sabina" "Samnium" "Umbria" "Picenum" "Ager Romanus" "Tiberis" "Anio" 
+}
+army_names = { 
+	"Latini Hostis" "Sabini Hostis" "Samnites Hostis" "Umbri Hostis" "Picentes Hostis" "Volsci Hostis" "Aequorum Hostis" "Latium Hostis" "Samnium Hostis" "Sabina Hostis"
+	"Hostis Populi" "Hostis $PROVINCE$" 
+}

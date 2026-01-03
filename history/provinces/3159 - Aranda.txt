@@ -1,7 +1,8 @@
 #3340 - Aranda
 owner = GDL#Juan II of Castille
 controller = GDL
-culture = hispanic
+culture = celtiberian
+add_core = EBR
 religion = new_gothic
 base_tax = 2
 base_production = 3

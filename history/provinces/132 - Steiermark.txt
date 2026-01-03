@@ -1,7 +1,6 @@
 #132 - Steiermark
-owner = STY
-controller = STY
-add_core = STY
+owner = BUL
+controller = BUL
 culture = austrian
 religion = mahayana
 base_tax = 4
@@ -21,3 +20,4 @@ discovered_by = viking
 discovered_by = eastern
 discovered_by = muslim
 discovered_by = ottoman
+add_core = BUL

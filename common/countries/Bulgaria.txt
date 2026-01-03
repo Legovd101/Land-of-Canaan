@@ -30,61 +30,49 @@ historical_units = {
 	ottoman_lancer
 }
 monarch_names = { 
-	"Iwan Asen #3" = 20
-	"Koloman #2" = 20
-	"Petar #2" = 20
-	"Todor #1" = 20
-	"Michael #3" = 15
-	"Aleksandar #1" = 15
-	"Iwan #1" = 15
-	"Kalojan #1" = 15
-	"Georgi #2" = 10
-	"Konstantin #1" = 10
-	"Stepan #1" = 10
-	"Stracimir #1" = 10
-	"Boris #2" = 5
-	"Simeon #1" = 5
-	"Andon #0" = 0
-	"Andrei #0" = 0
-	"Angel #0" = 0
-	"Atanas #0" = 0
-	"Bogdan #0" = 0
-	"Bogomil #0" = 0
-	"Branimir #0" = 0
-	"Damyan #0" = 0
-	"Dimitar #0" = 0
-	"Emil #0" = 0
-	"Gavril #0" = 0
-	"Hristo #0" = 0
-	"Iordan #0" = 0
-	"Kliment #0" = 0
-	"Krasimir #0" = 0
-	"Lazar #0" = 0
-	"Marko #0" = 0
-	"Mikhail #0" = 0
-	"Miroslav #0" = 0
-	"Nikola #0" = 0
-	"Pavel #0" = 0
-	"Radomir #0" = 0
-	"Samuil #0" = 0
-	"Vasil #0" = 0
-	"Vladimir #0" = 0
-	"Zhivko #0" = 0
-	"Bogomilia #0" = -1
-	"Sofija #0" = -1
-	"Krasimira #0" = -1
+	"Amazat #0" = 1
+	"Amerhan #0" = 1
+	"Ansar #0" = 1
+	"Anvar #0" = 1
+	"Ahmat #0" = 1
+	"Aydar #0" = 1
+	"Ayrat #0" = 1
+	"Azgar #0" = 1
+	"Cingi #0" = 1
+	"Farit #0" = 1
+	"Ildus #0" = 1
+	"Ilgiz #0" = 1
+	"Ilsat #0" = 1
+	"Irek #0" = 1
+	"Nariman #0" = 1
+	"Ramil #0" = 1
+	"Rusan #0" = 1
+	"Timer #0" = 1
+	"Toktamish #0" = 1
+	"Yasher #0" = 1
+	"Zagip #0" = 1
+	"Zamanbyek #0" = 1
+	"Zaribzyan #0" = 1
+	"Zofar #0" = 1
+	"Aibanoo #0" = -1
+	"Aininoor #0" = -1
+	"Alfia #0" = -1
+	"Janan #0" = -1
+	"Alfira #0" = -1
+	"Alfiya #0" = -1
+	"Alia #0" = -1
+	"Amenya #0" = -1
+	"Asia #0" = -1
+	"Assel #0" = -1
+	"Dinara #0" = -1
 }
 leader_names = { 
-	Balina
-	Djordjic Dobrovski Frujin
-	Karposh Konstantin Marinov
-	Peyachevich
-	Radic Rali Shishman Sorkochovich Strahil Stratimirovich 
+	Cälil
+	Göbäydullina
+	Nasiri Näcmetdin Nigmät Nurgäli Isxaqi Märcani Qamay "Qol-Gäli" Qursawi Tuqay
+	Yusupow
 }
 ship_names = { 
-	Alhtpolo
-	Kiten Kraymorie Lozenets
-	Promorsko
-	Rezovo
-	Sarafovo Sinemorets Sozopol Varara
+	Qazgan Qazan Söyembikä Qazansu Ghiasetdin "Tas Ayaq" Alat Arca Gärec Cöri
+	Nugay Säyet Säyex Qazi 
 }
