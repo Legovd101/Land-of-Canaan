@@ -2,7 +2,7 @@
 owner = LRS
 controller = LRS
 culture = greek
-religion = mahayana
+religion = pyrrhonism
 capital = "Larissa"
 trade_goods = wine
 base_tax = 3

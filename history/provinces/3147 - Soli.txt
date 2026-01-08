@@ -1,7 +1,7 @@
 # 3483 - Soli+Usora
 owner = DST# Part of the Bosnian kingdom
 controller = DST
-religion = mahayana
+religion = pyrrhonism
 capital = "Srebrenik"
 trade_goods = naval_supplies
 base_tax = 2

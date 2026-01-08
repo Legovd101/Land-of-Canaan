@@ -1,7 +1,6 @@
 #Tröndelag, incl. Trondheim, Frosta, Röros, Steinviksholm
-owner = NOR
-controller = NOR
-add_core = NOR
+owner = BRI
+controller = BRI
 culture = norwegian
 religion = norse_pagan
 base_tax = 3
@@ -16,4 +15,5 @@ discovered_by = latin
 discovered_by = viking
 extra_cost = 8
 center_of_trade = 1
+add_core = BRI
 fort_15th = yes

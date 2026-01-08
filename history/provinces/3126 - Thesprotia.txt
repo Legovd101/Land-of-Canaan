@@ -2,7 +2,7 @@
 owner = RTA
 controller = RTA
 culture = greek
-religion = mahayana
+religion = pyrrhonism
 capital = "Igoumenitza"
 trade_goods = wool
 base_tax = 2

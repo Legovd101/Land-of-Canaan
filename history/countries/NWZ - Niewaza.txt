@@ -1,0 +1,7 @@
+religion = vajrayana
+capital = 277
+technology_group = eastern
+primary_culture = polish
+government_rank = 1
+government = monarchy
+add_government_reform = feudalism_reform

@@ -1,0 +1,84 @@
+#Country Name: Please see filename.
+graphical_culture = easterngfx
+color = { 123 132 160 }
+revolutionary_colors = { 4 8 4 }
+historical_idea_groups = { 
+	maritime_ideas
+	religious_ideas
+	defensive_ideas
+	administrative_ideas
+	trade_ideas
+	quality_ideas
+	innovativeness_ideas
+	diplomatic_ideas
+}
+historical_units = { 
+	eastern_medieval_infantry
+	eastern_knights
+	slavic_stradioti
+	eastern_militia
+	ottoman_spahi
+	ottoman_sekban
+	ottoman_reformed_spahi
+	ottoman_reformed_janissary
+	ottoman_toprakli_hit_and_run
+	ottoman_nizami_cedid
+	ottoman_toprakli_dragoon
+	eastern_skirmisher
+	eastern_uhlan
+	eastern_carabinier
+	ottoman_new_model
+	ottoman_lancer
+}
+monarch_names = { 
+	"Bagatar #0" = 40
+	"Digor #1" = 20
+	"Uruzmag #0" = 15
+	"Arsalan #2" = 10
+	"Badri #1" = 10
+	"Batraz #1" = 10
+	"Duday #1" = 10
+	"Alan #0" = 0
+	"Alkhaz #0" = 0
+	"Arsuk #0" = 0
+	"Farnag #0" = 0
+	"Barag #0" = 0
+	"Chilmar #0" = 0
+	"Donbettyr #0" = 0
+	"Dzorakh #0" = 0
+	"Ertsag #0" = 0
+	"Elmas #0" = 0
+	"Greg #0" = 0
+	"Khazar #0" = 0
+	"Khorlan #0" = 0
+	"Kurdalægon #0" = 0
+	"Iron #0" = 0
+	"Yosar #0" = 0
+	"Khostay #0" = 0
+	"Kera #0" = 0
+	"Matir #0" = 0
+	"Nartag #0" = 0
+	"Nikol #0" = 0
+	"Nokhas #0" = 0
+	"Ostsar #0" = 0
+	"Pakhar #0" = 0
+	"Pavlaeg #0" = 0
+	"Fælag #0" = 0
+	"Betros #0" = 0
+	"Philæg #0" = 0
+	"Fylip #0" = 0
+	"Prokop #0" = 0
+	"Stepan #0" = 0
+	"Taimuraz #0" = 0
+	"Madina #0" = -10
+	"Alana #0" = -1
+	"Maryam #0" = -1
+}
+leader_names = { 
+	Albeg Dudar Bagatar Farnag Arsalan Alkhaz Digitæ Makhar Nogka Basar
+	Dudar Ralkhan Sagdat Sarmat Taimuraz Zaurbek 
+}
+ship_names = { 
+	"Æxsær" Zelenchuk Alagir Fiagdon Arkhon Ardon Kurtat Koban Kist Skif
+	Ursdon
+}

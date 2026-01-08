@@ -2,7 +2,7 @@
 owner = RAG
 controller = RAG
 culture = dalmatian
-religion = mahayana
+religion = jupiterian
 capital = "Split"
 trade_goods = wool
 base_tax = 4

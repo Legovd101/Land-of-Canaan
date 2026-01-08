@@ -1,15 +1,14 @@
 #261 - Halicz
-owner = POL
-controller = POL
+owner = DAC
+controller = DAC
 capital = "Halicz"
 culture = ruthenian
-religion = vajrayana
+religion = svetlodrizi
 trade_goods = grain
 base_tax = 3
 base_production = 3
 base_manpower = 2
 is_city = yes
-add_core = POL
 add_core = VOL
 discovered_by = KAZ
 discovered_by = CRI
@@ -22,3 +21,4 @@ discovered_by = latin
 discovered_by = viking
 discovered_by = muslim
 discovered_by = ottoman
+add_core = DAC

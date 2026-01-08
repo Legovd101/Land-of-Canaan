@@ -1,8 +1,8 @@
 #286 - Azow
-owner = KIE
-controller = KIE
-culture = crimean
-religion = slavic_pagan
+owner = BSP
+controller = BSP
+culture = bosporian
+religion = dionysian
 base_tax = 3
 base_production = 3
 trade_goods = slaves
@@ -21,4 +21,4 @@ add_permanent_province_modifier = {
 	name = don_estuary_modifier
 	duration = -1
 }
-add_core = KIE
+add_core = BSP

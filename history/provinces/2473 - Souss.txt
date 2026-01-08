@@ -4,9 +4,8 @@
 ### Modified 10/14/2025 2:36:58 PM ###
 # Sousse
 # 2473 Sousse - 10/14/2025 2:36:58 PM 
-add_core = MJO
-owner = MJO
-controller = MJO
+owner = CTH
+controller = CTH
 base_tax = 5
 base_production = 5
 base_manpower = 2

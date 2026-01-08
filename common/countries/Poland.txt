@@ -1,6 +1,6 @@
 #Poland
 graphical_culture = easterngfx
-color = { 197 92 106 }
+color = { 180 63 209 }
 revolutionary_colors = { 5 0 5 }
 historical_idea_groups = { 
 	diplomatic_ideas
@@ -96,18 +96,16 @@ leader_names = {
 	Paniewski Poniatowski Pulaski Przyjemski Piaseczynski Potocki Pilecki Pociej Poninski Prazmowski
 	Przebendowski Rytwianski Rzewuski Raczynski Radziejowski Rej Sobieski Siemienowicz Sulkowski Stadnicki
 	Sieniawski Sierakowski Skarbek Soltyk Szafraniec Szembek Szydlowiecki Scibor Tarnowski Tarlo
-	Teczynski Tomicki Tyzenhaus Uchanski
-	Wyhowski Wielopolski Walewski Weyher Wierzbowski Wolski Wodzicki Zamoyski Zebrzydowski Zacwilchowski
-	Zborowski Zaluski 
+	Teczynski Tomicki Tyzenhaus Uchanski Wyhowski Wielopolski Walewski Weyher Wierzbowski Wolski
+	Wodzicki Zamoyski Zebrzydowski Zacwilchowski Zborowski Zaluski 
 }
 ship_names = { 
 	"Arka Noego" "Bialy Orzel" Burza "Bialy Lew" "Brzesko-Kujawskie" Belzkie Braclawskie Charitas "Czarny Orzel" "Czarny Kruk"
-	Chelminskie Czernichowskie Fortuna
-	Gryf Gwiazda Gnieznienskie Inowroclawskie
-	"Król Dawid" Kaliskie Krakowskie Kijowskie Kraków Lublin "Latajacy Jelen" Lwów Leczyckie Lubelskie
-	"Maly Bialy Orzel" Malborskie Mazowieckie Niewrazliwy "Nowy Czarny Orzel" "Prorok Samuel" "Panna Wodna" Plomien Poznanskie Plockie
-	Podlaskie Podolskie "Rycerz Swiety Jerzy" Rawskie Ruskie Strzelec Suwerenny "Swiety Piotr" Sieradzkie Sandomierskie
-	"Swiety Kazimierz" "Wielkie Slonce" Wodnik Warminskie Wolynskie Warszawa Zwyciestwo "Zólty Lew" 
+	Chelminskie Czernichowskie Fortuna Gryf Gwiazda Gnieznienskie Inowroclawskie "Król Dawid" Kaliskie Krakowskie
+	Kijowskie Kraków Lublin "Latajacy Jelen" Lwów Leczyckie Lubelskie "Maly Bialy Orzel" Malborskie Mazowieckie
+	Niewrazliwy "Nowy Czarny Orzel" "Prorok Samuel" "Panna Wodna" Plomien Poznanskie Plockie Podlaskie Podolskie "Rycerz Swiety Jerzy"
+	Rawskie Ruskie Strzelec Suwerenny "Swiety Piotr" Sieradzkie Sandomierskie "Swiety Kazimierz" "Wielkie Slonce" Wodnik
+	Warminskie Wolynskie Warszawa Zwyciestwo "Zólty Lew" 
 }
 army_names = { 
 	"Armia z $PROVINCE$" 

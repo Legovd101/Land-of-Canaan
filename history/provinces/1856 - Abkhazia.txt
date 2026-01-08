@@ -1,8 +1,8 @@
 #1856 - Abkhazia
 owner = ARM
 controller = ARM
-culture = georgian
-religion = barjiana
+culture = circassian
+religion = caucasian_pagan
 capital = "Sukhumi"
 trade_goods = wine
 base_tax = 2

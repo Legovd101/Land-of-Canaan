@@ -1,8 +1,7 @@
 #315 - Finnmark
-owner = SMI
-controller = SMI
-add_core = SMI
-culture = sapmi
+owner = KVN
+controller = KVN
+culture = kven
 religion = finnish_pagan
 base_tax = 1
 base_production = 1
@@ -15,3 +14,4 @@ discovered_by = eastern
 discovered_by = western
 discovered_by = latin
 discovered_by = viking
+add_core = KVN

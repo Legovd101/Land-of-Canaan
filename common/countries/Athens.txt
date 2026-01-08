@@ -79,17 +79,14 @@ monarch_names = {
 }
 leader_names = { 
 	Acciajuoli
-	Contarini Crispo Doria
-	Fadrigue
+	Contarini Crispo Doria Fadrigue
 	Melissinos
-	Palaeologus Plethon Rendis
-	Saraceno
+	Palaeologus Plethon Rendis Saraceno
 	Tocco
 	Zorzi
 }
 ship_names = { 
-	"Agios Thomas" Athena Felves
-	Laouses
+	"Agios Thomas" Athena Felves Laouses
 	Makronisi
-	Patroklou Petalioi Salamina Styra Ypsili
+	Patroklou Petalioi Salamina Styra Ypsili 
 }

@@ -1,0 +1,151 @@
+
+dependency = {
+	subject_type = league_member
+	first = MKD
+	second = LRS
+	start_date = 1444.1.1
+	end_date = 1579.1.23
+}
+
+dependency = {
+	subject_type = league_member
+	first = MKD
+	second = THS
+	start_date = 1444.1.1
+	end_date = 1579.1.23
+}
+
+dependency = {
+	subject_type = league_member
+	first = MKD
+	second = AET
+	start_date = 1444.1.1
+	end_date = 1579.1.23
+}
+
+dependency = {
+	subject_type = league_member
+	first = MKD
+	second = ATH
+	start_date = 1444.1.1
+	end_date = 1579.1.23
+}
+
+dependency = {
+	subject_type = league_member
+	first = MKD
+	second = CLK
+	start_date = 1444.1.1
+	end_date = 1579.1.23
+}
+
+dependency = {
+	subject_type = league_member
+	first = MKD
+	second = LKN
+	start_date = 1444.1.1
+	end_date = 1579.1.23
+}
+
+dependency = {
+	subject_type = league_member
+	first = MKD
+	second = MSS
+	start_date = 1444.1.1
+	end_date = 1579.1.23
+}
+
+dependency = {
+	subject_type = league_member
+	first = MKD
+	second = ACH
+	start_date = 1444.1.1
+	end_date = 1579.1.23
+}
+
+dependency = {
+	subject_type = league_member
+	first = MKD
+	second = HPT
+	start_date = 1444.1.1
+	end_date = 1579.1.23
+}
+
+dependency = {
+	subject_type = league_member
+	first = MKD
+	second = RTA
+	start_date = 1444.1.1
+	end_date = 1579.1.23
+}
+
+dependency = {
+	subject_type = league_member
+	first = MKD
+	second = NTP
+	start_date = 1444.1.1
+	end_date = 1579.1.23
+}
+
+dependency = {
+	subject_type = league_member
+	first = MKD
+	second = DRQ
+	start_date = 1444.1.1
+	end_date = 1579.1.23
+}
+
+dependency = {
+	subject_type = league_member
+	first = MKD
+	second = ALB
+	start_date = 1444.1.1
+	end_date = 1579.1.23
+}
+
+dependency = {
+	subject_type = tributary_state
+	first = RXL
+	second = SRD
+	start_date = 1444.1.1
+	end_date = 1579.1.23
+}
+
+dependency = {
+	subject_type = tributary_state
+	first = RXL
+	second = PLP
+	start_date = 1444.1.1
+	end_date = 1579.1.23
+}
+
+dependency = {
+	subject_type = tributary_state
+	first = RXL
+	second = CLT
+	start_date = 1444.1.1
+	end_date = 1579.1.23
+}
+
+dependency = {
+	subject_type = tributary_state
+	first = RXL
+	second = TMS
+	start_date = 1444.1.1
+	end_date = 1579.1.23
+}
+
+dependency = {
+	subject_type = tributary_state
+	first = RXL
+	second = IST
+	start_date = 1444.1.1
+	end_date = 1579.1.23
+}
+
+vassal = {
+	first = ADR
+	second = CRL
+	start_date = 1444.1.1
+	end_date = 1579.1.23
+}

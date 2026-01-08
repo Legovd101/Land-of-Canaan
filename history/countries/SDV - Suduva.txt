@@ -1,0 +1,7 @@
+religion = baltic_pagan
+capital = 1936
+technology_group = eastern
+primary_culture = lithuanian
+government_rank = 1
+government = monarchy
+add_government_reform = feudalism_reform

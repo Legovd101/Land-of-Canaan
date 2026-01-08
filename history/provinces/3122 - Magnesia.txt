@@ -2,7 +2,7 @@
 owner = ATH
 controller = ATH
 culture = greek
-religion = mahayana
+religion = pyrrhonism
 capital = "Velestino"
 trade_goods = wine
 base_tax = 2

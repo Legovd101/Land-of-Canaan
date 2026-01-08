@@ -6,11 +6,21 @@
 # PHI (Philadelphia)
 government = monarchy
 add_government_reform = feudalism_reform
-government_rank = 1
+government_rank = 3
 primary_culture = anatolian
 religion = dionysian
 technology_group = ottoman
 capital = 3086
 # Specific Effects #
+
+1440.1.1 = {
+	monarch = {
+		name = "Hémlikon"
+		dynasty = "Barkí"
+		adm = 3
+		dip = 4
+		mil = 4		
+	}
+}
 
 

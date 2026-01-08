@@ -1,8 +1,8 @@
 #1971 - Tsaritsyn
-owner = GLH
-controller = GLH
-culture = mishary
-religion = xadarosh
+owner = AUR
+controller = AUR
+culture = aorsi
+religion = scythian_pagan
 base_tax = 3
 base_production = 3
 trade_goods = livestock
@@ -16,4 +16,4 @@ discovered_by = viking
 discovered_by = nomad_group
 discovered_by = ottoman
 discovered_by = muslim
-add_core = GLH
+add_core = AUR

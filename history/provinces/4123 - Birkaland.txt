@@ -2,7 +2,7 @@
 owner = FIN
 controller = FIN
 add_core = FIN
-culture = finnish
+culture = tavastian
 religion = finnish_pagan
 base_tax = 1
 base_production = 1

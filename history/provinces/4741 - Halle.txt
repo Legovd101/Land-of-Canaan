@@ -2,7 +2,7 @@
 owner = SOR
 controller = SOR
 culture = sorbian
-religion = mahayana
+religion = svetlodrizi
 base_tax = 3
 base_production = 3
 trade_goods = salt#the name "Halle" apparently might even derive from the Indo-Germanic word for salt

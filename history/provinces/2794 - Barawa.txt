@@ -1,9 +1,8 @@
 #2794 - Barawa
-owner = AJU
-controller = AJU
-add_core = AJU
+owner = MCB
+controller = MCB
 culture = somali
-religion = shamanism
+religion = waaqeffanna
 capital = "Barawa"
 trade_goods = livestock
 is_city = yes
@@ -15,3 +14,4 @@ discovered_by = east_african
 discovered_by = indian
 discovered_by = muslim
 discovered_by = ottoman
+add_core = MCB

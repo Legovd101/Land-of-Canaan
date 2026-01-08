@@ -21,7 +21,7 @@
  arab_pagan_religion_desc: "Religion in Arabia was a polytheistic mixture of deities, aspects and demons, practiced in localities and enclaves around the region. Allah, the Creator-God, may have been worshiped as the head of the pantheon during this period, in some locations."
 
 
- armenian_pagan: "Hetanism"
+ armenian_pagan: "Khaldosutiwn"
  armenian_pagan_rebels_army: "$RELIGION$ Army"
  armenian_pagan_rebels_demand: "Convert $COUNTRYNAME$"
  armenian_pagan_rebels_demand_desc: "The religious rebels fight for the $RELIGION$ religion. They demand that we recognize its supremacy or at the very least cease our efforts to convert them and let them worship in peace."
@@ -272,6 +272,15 @@
  khurramism_rebels_title: "Religious"
  khurramism_religion_desc: "In a world of Light and Darkness, unjust rulers must be overthrown in support of what is good. Through prophets such as Mazdak, Muhammad and Abu Muslim, Khurramites believe that the divine is born into humanity, and will one day return to lead them as the Messiah."
 
+ kikuyu_pagan: "Mwene Nyaga"
+ kikuyu_pagan_religion_desc: ""
+ kikuyu_pagan_rebels_demand: "Convert $COUNTRYNAME$"
+ kikuyu_pagan_rebels_demand_desc: "The religious rebels fight for the $RELIGION$ religion. They demand that we recognize its supremacy or at the very least cease our efforts to convert them and let them worship in peace."
+ kikuyu_pagan_rebels_title: "Religious"
+ kikuyu_pagan_rebels_name: "$RELIGION$ Zealots"
+ kikuyu_pagan_rebels_desc: "Religious fanatics tend to rise up in provinces controlled by nations of a different faith. They seek to spread their faith and smite all unbelievers."
+ kikuyu_pagan_rebels_army: "$RELIGION$ Army"
+
  kitebacilweism: "Kitêbacilweism"
  kitebacilweism_rebels_army: "$RELIGION$ Army"
  kitebacilweism_rebels_demand: "Convert $COUNTRYNAME$"
@@ -392,7 +401,7 @@
  sami_pagan_rebels_desc: "Religious fanatics tend to rise up in provinces controlled by nations of a different faith. They seek to spread their faith and smite all unbelievers."
  sami_pagan_rebels_army: "$RELIGION$ Army"
 
- scythian_pagan: "Scythian"
+ scythian_pagan: "Skudara"
  scythian_pagan_rebels_army: "$RELIGION$ Army"
  scythian_pagan_rebels_demand: "Convert $COUNTRYNAME$"
  scythian_pagan_rebels_demand_desc: "The religious rebels fight for the $RELIGION$ religion. They demand that we recognize its supremacy or at the very least cease our efforts to convert them and let them worship in peace."
@@ -419,6 +428,15 @@
  slavic_pagan_rebels_title: "Religious"
  slavic_pagan_religion_desc: "Slavic paganism is polytheistic, the chief god being Perun, god of thunder and lightning. Other important deities include Veles, god of the underworld, Svarog, Jarilo and Svantevit."
 
+ svetlodrizi: "Svetlodriži"
+ svetlodrizi_rebels_army: "$RELIGION$ Army"
+ svetlodrizi_rebels_demand: "Convert $COUNTRYNAME$"
+ svetlodrizi_rebels_demand_desc: "The religious rebels fight for the $RELIGION$ religion. They demand that we recognize its supremacy or at the very least cease our efforts to convert them and let them worship in peace."
+ svetlodrizi_rebels_desc: "Religious fanatics tend to rise up in provinces controlled by nations of a different faith. They seek to spread their faith and smite all unbelievers."
+ svetlodrizi_rebels_name: "$RELIGION$ Zealots"
+ svetlodrizi_rebels_title: "Religious"
+ svetlodrizi_religion_desc: "Svetlodriži represents the various local syncretisms of Buddhism with the Slavic pantheon."
+
  tengri_pagan: "Tengri"
  tengri_pagan_rebels_army: "$RELIGION$ Army"
  tengri_pagan_rebels_demand: "Convert $COUNTRYNAME$"
@@ -437,6 +455,17 @@
  vandalic_rebels_name: "$RELIGION$ Zealots"
  vandalic_rebels_title: "Religious"
  vandalic_religion_desc: "After the Fall of Rome, the faith of the Gothic invaders became the dominant religion in Western Europe. However, when the Vikings came knocking, the first existential threat to their well-being came with it. Division over how to respond split the faith in twain, then in thrain. The Vandals, furthest from the troubles of the Vikings, chose to turn inwards and focus on fortification and prosperity. Today, the Vandals reside primarily in the former provinces of Africa, where they grow wealthy off of the lucrative trades with Rome and the East."
+
+ waaqeffanna: "Waaqeffanna"
+ waaqeffanna_religion_desc: "Waaqeffanna is the religion of the Oromo people from the Horn of Africa, centered on belief in Waaqa Tokkicha, the one supreme God. Waaqa is omniscient, omnipotent, and benevolent. Manifestations of Waaqa, called Ayyaana, act as intermediaries and are believed to guide and protect all living beings. Those possessed by Ayyaana become Qaalluu (male) or Qaallitti (female), spiritual leaders, serving as priests and guardians of Safuu, the religion's moral code. The Qaalluu institution is key to preserving their traditions and staying politically neutral while supporting the Gadaa system. The highest Qaalluu is called the Abbaa Muudaa, a prophet figure whom followers visit on pilgrimages for blessings. Waaqeffanna has no scripture, followers rely on intuition, observation of nature's order, and oral tradition."
+ caabudiloda: "Caabudiloda"
+ uumami: "Uumami"
+ waaqeffanna_rebels_demand: "Convert $COUNTRYNAME$"
+ waaqeffanna_rebels_demand_desc: "The religious rebels fight for the $RELIGION$ religion. They demand that we recognize its supremacy or at the very least cease our efforts to convert them and let them worship in peace."
+ waaqeffanna_rebels_title: "Religious"
+ waaqeffanna_rebels_name: "$RELIGION$ Zealots"
+ waaqeffanna_rebels_desc: "Religious fanatics tend to rise up in provinces controlled by nations of a different faith. They seek to spread their faith and smite all unbelievers."
+ waaqeffanna_rebels_army: "$RELIGION$ Army"
 
  west_african_pagan: "African Pagan"
  west_african_pagan_rebels_army: "$RELIGION$ Army"
@@ -486,6 +515,7 @@
  # Groups
  germanic_religions: "Germanic"
  hellenic_religions: "Hellenic"
+ caucasian_religions: "Caucasian"
  celtic_religions: "Celtic"
  semitic_religions: "Semitic"
  finno_ugric_religions: "Finno-Ugric"
@@ -493,7 +523,9 @@
  slavic_religions: "Slavic"
  iranic_religions: "Iranic"
  PIE_religions: "Pre-Indo-European"
- greco_buddhist_religions: "Greco-Buddhic"
+ western_buddhist_religions: "Western Buddhic"
+ bantu_religions: "Bantu"
+ cusihitic_religions: "Cushitic"
 
  # Holy Wars
  gret_flod: "Gret Flôd"

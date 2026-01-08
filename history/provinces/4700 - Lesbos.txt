@@ -1,8 +1,8 @@
 #2348 - Chios
-owner = BYZ
-controller = BYZ
-culture = thraco_greek
-religion = pyrrhonism
+owner = LMN
+controller = LMN
+culture = lemnian
+religion = dionysian
 capital = "Mytilene"
 trade_goods = fish
 base_tax = 2
@@ -15,4 +15,4 @@ discovered_by = eastern
 discovered_by = western
 discovered_by = latin
 discovered_by = viking
-add_core = BYZ
+add_core = LMN

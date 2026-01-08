@@ -2,7 +2,7 @@
 owner = BZH
 controller = BZH
 culture = thraco_greek
-religion = mahayana
+religion = pyrrhonism
 capital = "Bizye"
 trade_goods = livestock
 base_tax = 2

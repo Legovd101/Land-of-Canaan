@@ -1,6 +1,6 @@
 #Jämtland+Härjedalen
-owner = NOR
-controller = NOR
+owner = BRI
+controller = BRI
 culture = norwegian# They were actually Jämts - the unique blend of Swedish, Norwegian and local tendencies
 religion = norse_pagan
 base_tax = 1
@@ -10,8 +10,8 @@ base_manpower = 1
 capital = "Frösön"
 add_local_autonomy = 25
 is_city = yes
-add_core = NOR
 discovered_by = eastern
 discovered_by = western
 discovered_by = latin
 discovered_by = viking
+add_core = BRI

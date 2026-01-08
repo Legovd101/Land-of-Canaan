@@ -1,7 +1,7 @@
 #268 - Moldavia
 owner = DAC
 controller = DAC
-culture = romanian
+culture = dacian
 religion = xadarosh
 base_tax = 5
 base_production = 4

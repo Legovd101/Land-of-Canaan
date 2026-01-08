@@ -1,7 +1,6 @@
 #Dalaskogen, northwesten part of Dalarna, including Mora and entire Siljan area.
-add_core = SWE
-owner = SWE
-controller = SWE
+owner = FIN
+controller = FIN
 culture = swedish
 religion = norse_pagan
 base_tax = 1
@@ -16,3 +15,4 @@ discovered_by = latin
 discovered_by = viking
 extra_cost = 10
 add_province_triggered_modifier = stora_kopparberget_modifier
+add_core = FIN

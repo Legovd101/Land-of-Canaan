@@ -1,6 +1,6 @@
 #273 - Latgalia / Inflanty Duchy
-owner = LIT
-controller = LIT
+owner = LTG
+controller = LTG
 add_core = LTG
 culture = latvian
 religion = baltic_pagan
@@ -19,5 +19,4 @@ discovered_by = western
 discovered_by = latin
 discovered_by = viking
 discovered_by = eastern
-add_core = LIT
 fort_15th = yes

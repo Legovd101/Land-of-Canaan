@@ -2,7 +2,7 @@
 owner = SOR
 controller = SOR
 culture = sorbian
-religion = mahayana
+religion = svetlodrizi
 capital = "Meissen"
 trade_goods = iron
 base_tax = 6

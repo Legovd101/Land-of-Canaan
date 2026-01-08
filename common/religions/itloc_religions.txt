@@ -73,8 +73,9 @@ germanic_religions = {
 		heretic = { OLD_GERMANIC }
 	}
 }
-greco_buddhist_religions = {
+western_buddhist_religions = {
 	crusade_name = CRUSADE
+	can_form_personal_unions = yes
 	mithraism = {
 		color = { 210 0 0 }
 		icon = 35
@@ -113,7 +114,25 @@ greco_buddhist_religions = {
 
 	barjiana = { # From Armenian "barjr" or "high/tall"
 		color = { 54 121 197 }
-		icon = 48
+		icon = 68
+		province = {
+			local_missionary_strength = 0.02
+		}
+		country = {
+			tolerance_own = 1
+			global_tax_modifier = 0.05
+		}
+		country_as_secondary = {
+			advisor_pool = 1
+			global_tax_modifier = 0.05
+		}
+		heretic = { SERAPIS }
+		declare_war_in_regency = yes
+	}
+
+	svetlodrizi = { # From Old Church Slavonic "Svetlodriži" or "bright path"
+		color = { 162 106 234 }
+		icon = 67
 		province = {
 			local_missionary_strength = 0.02
 		}
@@ -464,6 +483,7 @@ finno_ugric_religions = {
 
 baltic_religions = {
 	crusade_name = kava
+	can_form_personal_unions = yes
 	baltic_pagan = {
 		icon = 52
 		color = { 0.75 0.5 0.35 }
@@ -486,6 +506,7 @@ baltic_religions = {
 
 slavic_religions = {
 	crusade_name = napadenije
+	can_form_personal_unions = yes
 	slavic_pagan = {
 		icon = 53
 		color = { 216 186 102 }
@@ -625,6 +646,60 @@ iranic_religions = {
 	}
 }
 
+caucasian_religions = {
+	crusade_name = CRUSADE
+	armenian_pagan = {
+		color = { 0.33 0.42 0.18 }
+		icon = 72
+		province = {
+			local_missionary_strength = 0.02
+		}
+		country = {
+			tolerance_heathen = 2
+			tolerance_heretic = 2
+		}
+		country_as_secondary = {
+			prestige = 1
+			land_attrition = -0.10
+		}
+		heretic = { SPHYNX }
+	}
+	caucasian_pagan = {
+		color = { 0.8 0.2 0.2 }
+		icon = 73
+		province = {
+			local_missionary_strength = 0.01
+		}
+		country = {
+			tolerance_heathen = 1
+			defensiveness = 0.1
+		}
+		country_as_secondary = {
+			global_regiment_recruit_speed = -0.10
+			defensiveness = 0.1
+		}
+		heretic = { SPHYNX }
+	}
+	scythian_pagan = {
+		color = { 0.5 0.19 0.2 }
+		icon = 71
+		
+		province = {
+			local_missionary_strength = 0.02
+		}
+		country = {
+			tolerance_heretic = 1
+			tolerance_heathen = 1
+		}
+		country_as_secondary = {
+			build_cost = -0.1
+			defensiveness = 0.1
+		}
+		heretic = { GOAT_SKULL FINNIC }
+	}
+
+}
+
 PIE_religions = {
 	crusade_name = anabasa
 	nuragic_pagan = {
@@ -734,7 +809,55 @@ dharmic = {
 	}
 }
 
+bantu_religions = {
+	crusade_name = CRUSADE
+	
+	kikuyu_pagan = { #Mwene Nyaga
+		color = { 250 229 64}
+		icon = 69
+		country = {
+			tolerance_heathen = 2
+			diplomatic_reputation = 1
+		}
+		province = {
+			local_missionary_strength = 0.02
+		}
+		country_as_secondary = {
+			tolerance_own = 2
+			diplomatic_reputation = 1
+		}
 
+		heretic = { GOAT_SKULL }
+	}
+
+}
+
+cusihitic_religions = {
+	crusade_name = CRUSADE
+
+	
+	waaqeffanna = {
+		icon = 70
+		color = { 254 217 128 }
+		country = {
+			discipline = 0.05
+			may_recruit_female_generals = yes
+			female_advisor_chance = 0.25
+			
+		}
+		country_as_secondary = {
+			global_unrest = -2
+		}
+
+		province = {
+		}
+		
+		# personal_deity = yes
+		
+		heretic = { CAABUDILODA UUMAMI }
+	}
+
+}
 
 eastern = {
 	confucianism = { #Done to add harmonization modifier

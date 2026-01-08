@@ -2,7 +2,7 @@
 owner = DRQ
 controller = DRQ
 culture = taluanti
-religion = vajrayana
+religion = pyrrhonism
 capital = "Vlorë"
 trade_goods = wool#or salt
 base_tax = 2

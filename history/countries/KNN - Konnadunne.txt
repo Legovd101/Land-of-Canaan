@@ -1,0 +1,7 @@
+religion = vajrayana
+capital = 4264
+technology_group = nomad_group
+primary_culture = evenk
+government = tribal
+add_government_reform = steppe_horde
+government_rank = 2

@@ -1,6 +1,6 @@
 #1082 - Kazan
-owner = KAZ
-controller = KAZ
+owner = KNN
+controller = KNN
 capital = "Kazan"
 culture = kazani
 religion = zoroastrian
@@ -9,7 +9,6 @@ base_tax = 6
 base_production = 6
 base_manpower = 3
 is_city = yes
-add_core = KAZ
 discovered_by = eastern
 discovered_by = western
 discovered_by = latin
@@ -19,4 +18,5 @@ discovered_by = muslim
 discovered_by = ottoman
 extra_cost = 16
 center_of_trade = 2
+add_core = KNN
 fort_15th = yes

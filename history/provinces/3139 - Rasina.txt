@@ -1,7 +1,7 @@
 # 3474 - Rasina
 owner = DRD
 controller = DRD
-religion = buddhism
+religion = pyrrhonism
 capital = "Krusevac"
 trade_goods = livestock
 base_tax = 2

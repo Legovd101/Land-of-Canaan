@@ -4,9 +4,8 @@
 ### Modified 10/14/2025 2:36:58 PM ###
 # Bizerte
 # 2455 Bizerte - 10/14/2025 2:36:58 PM 
-add_core = MJO
-owner = MJO
-controller = MJO
+owner = CTH
+controller = CTH
 base_tax = 4
 base_production = 4
 base_manpower = 1

@@ -2,7 +2,7 @@
 owner = SOR
 controller = SOR
 culture = sorbian
-religion = mahayana
+religion = svetlodrizi
 capital = "Erfurt"
 trade_goods = dyes#Woad, also a center for glassmaking
 base_tax = 5

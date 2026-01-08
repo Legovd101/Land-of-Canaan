@@ -44,10 +44,6 @@ leader_names = {
 	Yakha
 	Zarmihr
 }
-army_names = { 
-}
-fleet_names = { 
-}
 ship_names = { 
 	Azka
 	Buniyad

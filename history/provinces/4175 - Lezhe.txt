@@ -2,7 +2,7 @@
 owner = PST
 controller = PST
 culture = albanoi
-religion = vajrayana
+religion = pyrrhonism
 capital = "Lezhë"
 trade_goods = wool
 base_tax = 2

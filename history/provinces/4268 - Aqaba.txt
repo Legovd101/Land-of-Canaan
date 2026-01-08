@@ -1,7 +1,7 @@
 #365 - Aqaba
 owner = ANZ
 controller = ANZ
-culture = edomite
+culture = nabathu
 religion = zoroastrian
 capital = "Aqaba"
 trade_goods = fish

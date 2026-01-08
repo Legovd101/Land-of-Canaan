@@ -1,8 +1,8 @@
 #287 - Kouban
-owner = GLH
-controller = GLH
-culture = crimean
-religion = xadarosh
+owner = BSP
+controller = BSP
+culture = bosporian
+religion = dionysian
 base_tax = 3
 base_production = 3
 trade_goods = livestock
@@ -16,4 +16,4 @@ discovered_by = western
 discovered_by = latin
 discovered_by = viking
 discovered_by = nomad_group
-add_core = GLH
+add_core = BSP

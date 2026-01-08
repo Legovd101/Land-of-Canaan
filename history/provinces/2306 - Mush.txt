@@ -2,7 +2,7 @@
 owner = ARM
 controller = ARM
 culture = armenian
-religion = mithraism
+religion = armenian_pagan
 capital = "Mus"
 trade_goods = wool
 base_tax = 3

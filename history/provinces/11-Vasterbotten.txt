@@ -1,9 +1,8 @@
 #Västerbotten-Ångermanland, from Sundsvall/Härnösand over Umeå to Torneå
-owner = SWE
-controller = SWE
-add_core = SWE
-culture = swedish
-religion = norse_pagan
+owner = FIN
+controller = FIN
+culture = finnish
+religion = finnish_pagan
 base_tax = 1
 base_production = 1
 trade_goods = fur
@@ -14,3 +13,4 @@ discovered_by = eastern
 discovered_by = western
 discovered_by = latin
 discovered_by = viking
+add_core = FIN

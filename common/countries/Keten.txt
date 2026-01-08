@@ -1,0 +1,72 @@
+#Country Name: Please see filename.
+graphical_culture = muslimgfx
+color = { 115 154 30 }
+revolutionary_colors = { 5 8 5 }
+historical_idea_groups = { 
+	defensive_ideas
+	trade_ideas
+	religious_ideas
+	diplomatic_ideas
+	economic_ideas
+	innovativeness_ideas
+	maritime_ideas
+	spy_ideas
+}
+historical_units = { 
+	western_medieval_infantry
+	chevauchee
+	western_men_at_arms
+	swiss_landsknechten
+	dutch_maurician
+	french_caracolle
+	anglofrench_line
+	french_dragoon
+	french_bluecoat
+	french_cuirassier
+	french_impulse
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+monarch_names = { 
+	"Alña #0" = 60
+	"Bañqat #4" = 40
+	"Kida #2" = 20
+	"Kidan #2" = 20
+	"Saña #0" = 10
+	"Eqti #1" = 5
+	"Qoñsina #0" = 5
+	"Käs #0" = 5
+	"Alñaki #0" = 0
+	"Bañqas #0" = 0
+	"Toqpil #0" = 0
+	"Soli #0" = 0
+	"Qañse #0" = 0
+	"Bañkes #0" = 0
+	"Talña #0" = 0
+	"Tosum #0" = 0
+	"Naqal #0" = 0
+	"Las #0" = 0
+	"Uni #0" = -10
+	"Amañoli #0" = -10
+	"Toqpela #0" = -1
+	"Alñtia #0" = -1
+	"Bañia #0" = -1
+	"Edelñe #0" = -1
+	"Isaqo #0" = -1
+}
+leader_names = { 
+	"duñ Alña" "duñ Bañqat" "duñ Kida" "duñ Qoñsin" "duñ Käs" "duñ Talsa" "duñ Bañkes" "duñ Bañqas" "duñ Saña" "duñ Eqti"
+	"ket Alña" "ket Bañqat" "ket Kida" "ket Qoñsin" "Yen?s" "Qus" "Peñ" "Toqar" "Kleñ" "Naqar"
+	"Esaq" "Iroña" 
+}
+ship_names = { 
+	"Alña" "Uni" "Meñra" "Torqom" "Poqol" "Selñas" "Poltoña" "Lañar" "Qata" "Aqta"
+	"Amañor" "Mariñ" "Ortqa" "Soqar" "Ilañqi" "Kida" "Bañqat" "Qoñsin" "Eqti" "Käs"
+	"Talsa" "Qus" "Toqar" "Kleñ" "Naqar" "Esaq" "Iroña" "Isaqo" "Meñdi" 
+}
+army_names = { 
+	"Sañ Alña" "Sañ Peñ" "Sañ Toqar" "Sañ Kleñ" "Sañ Bañkes" "Sañ Polta" "Sañ Qera" "Sañ Torqonia" "Sañ Peros" "Sañ Areti"
+	"Sañ Nemet" "Sañ $PROPINCE$" 
+}

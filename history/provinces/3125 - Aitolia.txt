@@ -2,7 +2,7 @@
 owner = AET
 controller = AET
 culture = greek
-religion = mahayana
+religion = pyrrhonism
 capital = "Naupaktos"
 trade_goods = wool
 base_tax = 2

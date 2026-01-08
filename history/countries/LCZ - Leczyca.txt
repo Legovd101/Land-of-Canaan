@@ -1,0 +1,7 @@
+religion = slavic_pagan
+capital = 1939
+technology_group = eastern
+primary_culture = polish
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1

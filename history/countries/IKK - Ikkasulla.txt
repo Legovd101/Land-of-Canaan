@@ -1,0 +1,6 @@
+government = monarchy
+religion = finnish_pagan
+capital = 35
+technology_group = western
+primary_culture = oselian
+government_rank = 1

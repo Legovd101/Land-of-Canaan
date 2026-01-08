@@ -1,10 +1,7 @@
 #Country Name: Please see filename.
-
 graphical_culture = muslimgfx
-
-color = { 98  206  253 }
+color = { 98 206 253 }
 revolutionary_colors = { 14 16 10 }
-
 historical_idea_groups = { 
 	defensive_ideas
 	quantity_ideas
@@ -15,8 +12,7 @@ historical_idea_groups = {
 	aristocracy_ideas
 	diplomatic_ideas
 }
-
-historical_units = {
+historical_units = { 
 	persian_footsoldier
 	persian_cavalry_charge
 	persian_shamshir
@@ -29,8 +25,7 @@ historical_units = {
 	muslim_dragoon
 	persian_rifle
 }
-
-monarch_names = {
+monarch_names = { 
 	"Ibrahim #0 Muhammad" = 20
 	"Ibrahim #0" = 20
 	"Farrukhsiyar Khalil #0" = 60
@@ -40,9 +35,7 @@ monarch_names = {
 	"Tahmasp #0" = 10
 	"Junayd #0" = 10
 	"Farrukh #0" = 10
- 	"Khalilullah #0" = 10
-	
-
+	"Khalilullah #0" = 10
 	"Adila #0" = -3
 	"Malahat #0" = -3
 	"Ummugulsum #0" = -1
@@ -63,13 +56,8 @@ monarch_names = {
 	"Gowhar #0" = -1
 	"Zainab #0" = -1
 	"Fatemeh #0" = -1
-
-	
-
-	 
 }
-
-leader_names = {
+leader_names = { 
 	Sabiri
 	Jalili
 	Azizi
@@ -82,26 +70,17 @@ leader_names = {
 	Sabet
 	Ansari
 }
-
-ship_names = {
-	Baku Abathur "Adamn Kasia" "Aesma Daeva" Agas
-	Ahriman Ahura "Ahura Mazda" Ahurani Airyaman
-	"Aka Manah" Aladdin Allatum Amashaspan Ameratat
-	"Amesha Spentas" Anahita "Angra Mainyu" Anjuman
-	"Apam-natat" Apaosa Aredvi Arishtat Armaiti Arsaces
-	"Asha vahista" Asman "Asto Vidatu" "Astvat-Ereta"
-	Atar "Azi Dahaka" Baga Bahram Burijas Bushyasta Buyasta
-	Camros Daena Daevas Ahaka Dahhak Dena Dev Diwe Drug
-	Drvaspa Frashegird Fravashis Gandarewa "Gao-kerena"
-	Gayomard Gayomart "Geus-Tasan" "Geus-Urvan" Haoma
-	Haurvatat Humay Hvar Hvarekhshaeta Indar Indra Izha
-	Jamshid Jeh Karshipta Kavi Khara "Khshathra vairya"
-	Kundrav Mah Mahre Mahrianag Manu Manuchihir Mao 
-	Mashyane Mashye Menog Mithra Nairyosangha Nanghaithya
-	Neriosang Ormazd Peris Peshdadians Rapithwin Rashnu
-	Rustam Saurva Simurgh "Spenta Mainyu" Sraosa Srosh
-	Tawrich Thunaupa Tistrya Tushnamatay Vanant Vata
-	Verethragna "Vohu Manah" Vouruskasha Yam Yasht Yazata
-	Yezidi Yima Zal Zam "Zam-Armatay" Zarathustra Zarich
-	"Zend-Avesta" Zurvan
+ship_names = { 
+	Baku Abathur "Adamn Kasia" "Aesma Daeva" Agas Ahriman Ahura "Ahura Mazda" Ahurani Airyaman
+	"Aka Manah" Aladdin Allatum Amashaspan Ameratat "Amesha Spentas" Anahita "Angra Mainyu" Anjuman "Apam-natat"
+	Apaosa Aredvi Arishtat Armaiti Arsaces "Asha vahista" Asman "Asto Vidatu" "Astvat-Ereta" Atar
+	"Azi Dahaka" Baga Bahram Burijas Bushyasta Buyasta Camros Daena Daevas Ahaka
+	Dahhak Dena Dev Diwe Drug Drvaspa Frashegird Fravashis Gandarewa "Gao-kerena"
+	Gayomard Gayomart "Geus-Tasan" "Geus-Urvan" Haoma Haurvatat Humay Hvar Hvarekhshaeta Indar
+	Indra Izha Jamshid Jeh Karshipta Kavi Khara "Khshathra vairya" Kundrav Mah
+	Mahre Mahrianag Manu Manuchihir Mao Mashyane Mashye Menog Mithra Nairyosangha
+	Nanghaithya Neriosang Ormazd Peris Peshdadians Rapithwin Rashnu Rustam Saurva Simurgh
+	"Spenta Mainyu" Sraosa Srosh Tawrich Thunaupa Tistrya Tushnamatay Vanant Vata Verethragna
+	"Vohu Manah" Vouruskasha Yam Yasht Yazata Yezidi Yima Zal Zam "Zam-Armatay"
+	Zarathustra Zarich "Zend-Avesta" Zurvan 
 }

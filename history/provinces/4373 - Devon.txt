@@ -2,7 +2,7 @@
 owner = PRI
 controller = PRI
 culture = cornish
-religion = druidism
+religion = briton_pagan
 base_tax = 2
 base_production = 2
 trade_goods = wool

@@ -92,13 +92,10 @@ monarch_names = {
 }
 leader_names = { 
 	Arianit
-	Badera Balsha Bua Cervota Comneniates Dukagjini Faqemiri
-	Gojcin Golemi Kastrioti Losha
-	Musaki
-	Sguros Shpata Spani Thopia Toptani
-	Vishanj
-	Zenevisi Zogu Hoxha Çarçani
-	Chani
+	Badera Balsha Bua Cervota Comneniates Dukagjini Faqemiri Gojcin Golemi Kastrioti
+	Losha Musaki
+	Sguros Shpata Spani Thopia Toptani Vishanj
+	Zenevisi Zogu Hoxha Çarçani Chani
 	Dosti
 	Elezi
 	Duka

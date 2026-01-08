@@ -2,7 +2,7 @@
 owner = NTP
 controller = NTP
 culture = greek
-religion = mahayana
+religion = pyrrhonism
 capital = "Berat"
 trade_goods = wool
 base_tax = 2

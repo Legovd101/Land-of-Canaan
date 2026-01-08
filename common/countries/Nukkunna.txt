@@ -1,0 +1,72 @@
+#Country Name: Please see filename.
+graphical_culture = easterngfx
+color = { 202 209 63 }
+revolutionary_colors = { 5 8 5 }
+historical_idea_groups = { 
+	defensive_ideas
+	trade_ideas
+	religious_ideas
+	diplomatic_ideas
+	economic_ideas
+	innovativeness_ideas
+	maritime_ideas
+	spy_ideas
+}
+historical_units = { 
+	western_medieval_infantry
+	chevauchee
+	western_men_at_arms
+	swiss_landsknechten
+	dutch_maurician
+	french_caracolle
+	anglofrench_line
+	french_dragoon
+	french_bluecoat
+	french_cuirassier
+	french_impulse
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+monarch_names = { 
+	"Lallat #0" = 60
+	"Pellatoll #4" = 40
+	"Alli #2" = 20
+	"Allant #2" = 20
+	"Tana #0" = 10
+	"Aplli #1" = 5
+	"Spollina #0" = 5
+	"Kalle #0" = 5
+	"Lallaki #0" = 0
+	"Pellinnas #0" = 0
+	"Tankepill #0" = 0
+	"Zolli #0" = 0
+	"Galltze #0" = 0
+	"Pellkas #0" = 0
+	"Thallna #0" = 0
+	"Tollms #0" = 0
+	"Napall #0" = 0
+	"Lats #0" = 0
+	"Oni #0" = -10
+	"Amallolli #0" = -10
+	"Tankeplla #0" = -1
+	"Lallthia #0" = -1
+	"Pellia #0" = -1
+	"Edellne #0" = -1
+	"Itsaso #0" = -1
+}
+leader_names = { 
+	"clan Larth" "clan Pelthor" "clan Arnth" "clan Sporinna" "clan Larce" "clan Arrons" "clan Pelimnas" "clan Pelsnas" "clan Thana" "clan Aole"
+	"hoose Larth" "hoose Pelthor" "hoose Arnth" "hoose Sporinna" "Etrosci" "Rasna" "Peii" "Tarkna" "Clepsin" "Naparroa"
+	"Eoskal" "Iroña" 
+}
+ship_names = { 
+	"Tinia" "Oni" "Menorrpa" "Torom" "Poplon" "Selpans" "Poltomna" "Laran" "Catha" "Aita"
+	"Amalor" "Mari" "Ortzi" "Sogaar" "Ilargi" "Larth" "Pelthor" "Arnth" "Aole" "Sporinna"
+	"Arrons" "Rasna" "Tarkna" "Clepsin" "Napar" "Eoskal" "Irronna" "Itsaso" "Mendia" 
+}
+army_names = { 
+	"Kasirr Rrasin" "Kasirr Peii" "Kasirr Tarrak" "Kasirr Clepsin" "Kasirr Pelzna" "Kasirr Polaterrae" "Kasirr Caere" "Kasirr Tarqoinia" "Kasirr Perosia" "Kasirr Arretiom"
+	"Kasirr Nemeton" "Kasirr $PROPINCE$" 
+}

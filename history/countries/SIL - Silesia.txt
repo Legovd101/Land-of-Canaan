@@ -3,9 +3,8 @@ add_government_reform = steppe_horde
 government_rank = 1
 technology_group = western
 primary_culture = schlesian
-religion = buddhism
-capital = 263# Ratibor
-# Dukes of Olawa/Lubin
+religion = svetlodrizi
+capital = 263# Dukes of Olawa/Lubin
 1399.7.12 = { 
 	monarch = { 
 		name = "Henryk IX"

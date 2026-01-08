@@ -1,12 +1,11 @@
 government = monarchy
-add_government_reform = iqta
+add_government_reform = feudalism_reform
 primary_culture = azerbaijani
-technology_group = muslim
-religion = sunni
+technology_group = ottoman
+religion = barjiana
 capital = 421
-
-1378.1.1 = {
-	monarch = {
+1378.1.1 = { 
+	monarch = { 
 		name = "Ibrahim I Muhammad"
 		dynasty = "Derbendi"
 		adm = 2
@@ -14,9 +13,8 @@ capital = 421
 		mil = 3
 	}
 }
-
-1378.1.1 = {
-	heir = {
+1378.1.1 = { 
+	heir = { 
 		name = "Ibrahim"
 		monarch_name = "Ibrahim I"
 		dynasty = "Derbendi"
@@ -28,10 +26,8 @@ capital = 421
 		mil = 0
 	}
 }
-
-
-1418.1.1 = {
-	monarch = {
+1418.1.1 = { 
+	monarch = { 
 		name = "Ibrahim I"
 		dynasty = "Derbendi"
 		adm = 2
@@ -39,9 +35,8 @@ capital = 421
 		mil = 0
 	}
 }
-
-1418.1.1 = {
-	heir = {
+1418.1.1 = { 
+	heir = { 
 		name = "Farrukhsiyar Khalil"
 		monarch_name = "Farrukhsiyar Khalil I"
 		dynasty = "Derbendi"
@@ -53,9 +48,8 @@ capital = 421
 		mil = 1
 	}
 }
-
-1463.1.1 = {
-	monarch = {
+1463.1.1 = { 
+	monarch = { 
 		name = "Farrukhsiyar Khalil I"
 		dynasty = "Derbendi"
 		adm = 2
@@ -63,9 +57,8 @@ capital = 421
 		mil = 1
 	}
 }
-
-1463.1.1 = {
-	heir = {
+1463.1.1 = { 
+	heir = { 
 		name = "Bahram Farrukhsiyar"
 		monarch_name = "Bahram Farrukhsiyar"
 		dynasty = "Derbendi"
@@ -77,9 +70,8 @@ capital = 421
 		mil = 4
 	}
 }
-
-1500.1.1 = {
-	monarch = {
+1500.1.1 = { 
+	monarch = { 
 		name = "Bahram Farrukhsiyar"
 		dynasty = "Derbendi"
 		adm = 3
@@ -87,9 +79,8 @@ capital = 421
 		mil = 4
 	}
 }
-
-1500.1.1 = {
-	heir = {
+1500.1.1 = { 
+	heir = { 
 		name = "Ghazi Farrukhsiyar"
 		monarch_name = "Ghazi Farrukhsiyar"
 		dynasty = "Derbendi"
@@ -101,9 +92,8 @@ capital = 421
 		mil = 3
 	}
 }
-
-1502.1.1 = {
-	monarch = {
+1502.1.1 = { 
+	monarch = { 
 		name = "Ghazi Farrukhsiyar"
 		dynasty = "Derbendi"
 		adm = 2
@@ -111,9 +101,8 @@ capital = 421
 		mil = 3
 	}
 }
-
-1502.1.1 = {
-	heir = {
+1502.1.1 = { 
+	heir = { 
 		name = "Mahmud Ghazi"
 		monarch_name = "Mahmud Ghazi"
 		dynasty = "Derbendi"
@@ -125,9 +114,8 @@ capital = 421
 		mil = 2
 	}
 }
-
-1503.1.1 = {
-	monarch = {
+1503.1.1 = { 
+	monarch = { 
 		name = "Mahmud Ghazi"
 		dynasty = "Derbendi"
 		adm = 2
@@ -135,9 +123,8 @@ capital = 421
 		mil = 2
 	}
 }
-
-1505.1.1 = {
-	heir = {
+1505.1.1 = { 
+	heir = { 
 		name = "Ibrahim"
 		monarch_name = "Ibrahim II"
 		dynasty = "Derbendi"
@@ -149,9 +136,8 @@ capital = 421
 		mil = 3
 	}
 }
-
-1524.1.1 = {
-	monarch = {
+1524.1.1 = { 
+	monarch = { 
 		name = "Ibrahim II"
 		dynasty = "Derbendi"
 		adm = 2
@@ -159,9 +145,8 @@ capital = 421
 		mil = 3
 	}
 }
-
-1524.1.1 = {
-	heir = {
+1524.1.1 = { 
+	heir = { 
 		name = "Ibrahim"
 		monarch_name = "Ibrahim III"
 		dynasty = "Derbendi"
@@ -173,9 +158,8 @@ capital = 421
 		mil = 2
 	}
 }
-
-1535.1.1 = {
-	monarch = {
+1535.1.1 = { 
+	monarch = { 
 		name = "Ibrahim III"
 		dynasty = "Derbendi"
 		adm = 1
@@ -183,11 +167,9 @@ capital = 421
 		mil = 2
 	}
 }
-
 #Shirvan Khanate
-
-1747.1.1 = {
-	monarch = {
+1747.1.1 = { 
+	monarch = { 
 		name = "Hajji Muhammad Ali"
 		dynasty = "Sarkar"
 		adm = 4
@@ -195,9 +177,8 @@ capital = 421
 		mil = 2
 	}
 }
-
-1763.1.1 = {
-	monarch = {
+1763.1.1 = { 
+	monarch = { 
 		name = "Aghasi"
 		dynasty = "Sarkar"
 		adm = 3
@@ -205,9 +186,8 @@ capital = 421
 		mil = 2
 	}
 }
-
-1778.1.1 = {
-	monarch = {
+1778.1.1 = { 
+	monarch = { 
 		name = "Aghasi"
 		dynasty = "Sarkar"
 		adm = 2
@@ -215,9 +195,8 @@ capital = 421
 		mil = 4
 	}
 }
-
-1789.1.1 = {
-	monarch = {
+1789.1.1 = { 
+	monarch = { 
 		name = "Askar"
 		dynasty = "Sarkar"
 		adm = 1
@@ -225,9 +204,8 @@ capital = 421
 		mil = 2
 	}
 }
-
-1796.1.1 = {
-	monarch = {
+1796.1.1 = { 
+	monarch = { 
 		name = "Qasim"
 		dynasty = "Sarkar"
 		adm = 3
@@ -235,3 +213,4 @@ capital = 421
 		mil = 2
 	}
 }
+government_rank = 1

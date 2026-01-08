@@ -1,7 +1,7 @@
 owner = SIL
 controller = SIL
 culture = schlesian
-religion = buddhism
+religion = svetlodrizi
 base_tax = 3
 base_production = 3
 capital = "Opole"

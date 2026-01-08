@@ -1,6 +1,6 @@
 #4266 - Izhkar
-owner = KAZ
-controller = KAZ
+owner = KNN
+controller = KNN
 capital = "Izhkar"
 culture = uralic
 religion = tengri_pagan_reformed#Sami Shamanism
@@ -9,7 +9,6 @@ base_tax = 2
 base_production = 1
 base_manpower = 2
 is_city = yes
-add_core = KAZ
 discovered_by = SIB
 discovered_by = NOG
 discovered_by = GOL
@@ -19,3 +18,4 @@ discovered_by = latin
 discovered_by = viking
 discovered_by = nomad_group
 discovered_by = ottoman
+add_core = KNN

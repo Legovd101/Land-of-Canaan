@@ -2,7 +2,7 @@
 owner = SER
 controller = SER
 culture = serbian
-religion = vajrayana
+religion = svetlodrizi
 base_tax = 2
 base_production = 3
 trade_goods = grain

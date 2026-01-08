@@ -1,0 +1,7 @@
+religion = totemism
+capital = 21
+technology_group = high_american
+primary_culture = inuit
+government = tribal
+add_government_reform = steppe_horde
+government_rank = 1

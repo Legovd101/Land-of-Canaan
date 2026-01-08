@@ -1,9 +1,8 @@
 #Romsdal
-owner = NOR
-controller = NOR
-add_core = NOR
-culture = norwegian
-religion = norse_pagan
+owner = BRI
+controller = BRI
+culture = breton
+religion = briton_pagan
 base_tax = 1
 base_production = 1
 trade_goods = fish
@@ -14,3 +13,4 @@ discovered_by = western
 discovered_by = latin
 discovered_by = viking
 discovered_by = eastern
+add_core = BRI

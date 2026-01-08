@@ -1,0 +1,7 @@
+religion = hinduism
+capital = 2342
+technology_group = indian
+primary_culture = mahri_culture
+government_rank = 1
+government = monarchy
+add_government_reform = feudalism_reform

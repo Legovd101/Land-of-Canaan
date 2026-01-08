@@ -94,6 +94,9 @@ MTO = "countries/Maituo.txt"
 ION = "countries/Ionia.txt"
 PHI = "countries/Philadelphia.txt"
 
+ ## Other
+LMN = "countries/Liman.txt" # Lemnian
+
  # Nemecz/Germany
  ## Linocy
 HCZ = "countries/Hacz.txt"
@@ -167,6 +170,7 @@ MGL = "countries/Magdeul.txt"
  ## Other
 TMD = "countries/Tamdat.txt" # Punic
 CYR = "countries/Cyrenaica.txt" # Hellenic
+CTH = "countries/Carthage.txt" # Nordic
 
  # Iberia
  ## Ispanyol (Ibero-Romance)
@@ -267,3 +271,85 @@ MDD = "countries/Merriddo.txt" # Inari
 
  ## Other
 BOG = "countries/Bolgis.txt" # Belgae
+
+ # Scandinavia
+ ## Suomi (Finnic)
+VOR = "countries/Voromaa.txt" # Võrõ-Seto
+IZH = "countries/Izhora.txt" # Izhorian
+HME = "countries/Hame.txt" # Tavastian
+KVN = "countries/Kvaana.txt" # Kven
+
+ ## Other
+SKU = "countries/Aasakku.txt" # Kalaalit/Greenlandic
+GAU = "countries/Gautarike.txt" # Geatish
+IKK = "countries/Ikkasulla.txt" # Paleo-European
+
+ # Sikkallu/Poland
+ ## Polacy (Polish)
+LCZ = "countries/Leczyca.txt"
+NWZ = "countries/Niewaza.txt"
+
+ ## Allusikka (Lusatian Paleo-European)
+BLL = "countries/Bisalli.txt"
+NKN = "countries/Nukkunna.txt"
+
+ # Kurta/Russia
+ ## Òstikanna Qa (Ket/Ostyak)
+BNA = "countries/Benda.txt"
+KTN = "countries/Keten.txt"
+IRI = "countries/Irina.txt"
+DLA = "countries/Dola.txt"
+TJU = "countries/Tjulka.txt"
+
+ ## Other
+PDM = "countries/Pad Manub.txt" # Tibetan
+ALD = "countries/Altadunne.txt" # Evenk
+
+ # Baltu/Baltic
+ ## Baltijas (Baltic)
+ZMG = "countries/Zimgola.txt"
+KRZ = "countries/Kurzeme.txt"
+SDV = "countries/Suduva.txt"
+
+ # Soruston/Pontic Steppe
+ ## Baltijas (Baltic)
+SRT = "countries/Sorumata.txt"
+IRN = "countries/Ironston.txt"
+AUR = "countries/Auriston.txt"
+
+ ## Other
+BSP = "countries/Bosporos.txt" # Hellenic
+
+ # Arabia
+ ## 'Arabi (Arabic)
+YTB = "countries/Yathrib.txt"
+MKK = "countries/Makkah.txt"
+JDD = "countries/Jaddah.txt"
+MNE = "countries/Main.txt"
+
+ ## Other
+BNH = "countries/Banu Hind.txt" # Hindi
+
+ # Nchibena (Horn of Africa)
+ ## Hanali Bantu (North Bantu)
+IMF = "countries/Imfumenshi.txt"
+MDN = "countries/Medindwa.txt"
+MTN = "countries/Motomuni.txt"
+GIK = "countries/Agikuyu.txt"
+
+ ## Other
+PNT = "countries/Punt.txt" # Egyptian
+MCB = "countries/Macroobii.txt" # Somalian
+
+ # Kovkasis (Caucasia)
+ ## Gamiriya (Cimmerian)
+TRZ = "countries/Taurez.txt"
+SAN = "countries/Sianda.txt"
+
+ # Urals
+ ## Ewenki (Evenk)
+IMD = "countries/Imannadunne.txt"
+KNN = "countries/Konnadunne.txt"
+
+ ## Other
+MZA = "countries/Hamazan.txt" # Amazon/Persian :3

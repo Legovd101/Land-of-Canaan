@@ -1,8 +1,8 @@
 #302 - Tambow
-owner = GLH
-controller = GLH
+owner = KNN
+controller = KNN
 culture = mishary
-religion = mahayana
+religion = vajrayana
 base_tax = 3
 base_production = 3
 trade_goods = iron
@@ -16,4 +16,4 @@ discovered_by = western
 discovered_by = latin
 discovered_by = viking
 discovered_by = nomad_group
-add_core = GLH
+add_core = KNN

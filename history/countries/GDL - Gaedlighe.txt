@@ -1,7 +1,17 @@
 capital = 207
 government = monarchy
 add_government_reform = feudalism_reform
-government_rank = 1
+government_rank = 2
 religion = gaelic_pagan
 technology_group = western
 primary_culture = gaelawer
+
+1430.1.1 = {
+	monarch = {
+		name = "Seraigh"
+		dynasty = "Goídel"
+		adm = 2
+		dip = 4
+		mil = 6	
+	}
+}

@@ -1,11 +1,11 @@
 government = monarchy
 add_government_reform = polish_great_sejm
 primary_culture = polish
-religion = buddhism
+religion = svetlodrizi
 technology_group = eastern
 historical_friend = LIT
 historical_rival = TEU
-capital = 262# Krakow
+capital = 260# Krakow
 add_accepted_culture = ruthenian
 add_truce_with = HUN
 1444.10.1 = { 

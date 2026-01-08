@@ -1,0 +1,7 @@
+religion = kemetism
+capital = 2786
+technology_group = ottoman
+primary_culture = old_egyptian
+government_rank = 1
+government = republic
+add_government_reform = oligarchy_reform

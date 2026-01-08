@@ -2,7 +2,7 @@
 owner = BOS
 controller = BOS
 culture = bosnian
-religion = vajrayana
+religion = svetlodrizi
 trade_goods = cloth
 capital = "Münster"
 base_tax = 4

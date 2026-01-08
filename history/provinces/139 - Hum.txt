@@ -1,7 +1,7 @@
 #139 - Hum
 owner = MRD
 controller = MRD
-religion = vajrayana
+religion = jupiterian
 capital = "Mostar"# Unofficial capital of Herzegovina
 trade_goods = wool
 base_tax = 3

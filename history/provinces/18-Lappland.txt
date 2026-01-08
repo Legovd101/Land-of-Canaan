@@ -1,7 +1,6 @@
 #Ume, Åsele, Piteå Lappmarks
 capital = "Arvidsjaur"
-add_core = SMI
-culture = sapmi
+culture = finnish
 religion = finnish_pagan
 base_tax = 1
 base_production = 1
@@ -15,5 +14,6 @@ discovered_by = western
 discovered_by = latin
 discovered_by = viking
 is_city = no
-owner = SMI
-controller = SMI
+owner = FIN
+controller = FIN
+add_core = FIN

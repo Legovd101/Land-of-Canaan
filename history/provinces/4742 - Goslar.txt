@@ -2,7 +2,7 @@
 owner = SOR
 controller = SOR
 culture = sorbian
-religion = mahayana
+religion = svetlodrizi
 base_tax = 5
 base_production = 5
 trade_goods = iron#Rammelsberg

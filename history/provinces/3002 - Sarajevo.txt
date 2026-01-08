@@ -1,7 +1,7 @@
 #3002 - Southern part of Vrhbosna + some lands in modern Serbia
 owner = PST# Part of the Bosnian kingdom
 controller = PST
-religion = vajrayana
+religion = pyrrhonism
 capital = "Visoki"
 trade_goods = grain
 base_tax = 2

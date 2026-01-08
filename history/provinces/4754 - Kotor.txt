@@ -1,7 +1,7 @@
 # 4754 - Kotor
 owner = PST
 controller = PST
-religion = vajrayana
+religion = pyrrhonism
 capital = "Kotor"
 trade_goods = naval_supplies
 base_tax = 3

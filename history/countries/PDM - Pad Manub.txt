@@ -1,0 +1,7 @@
+religion = vajrayana
+capital = 4246
+technology_group = chinese
+primary_culture = tibetan
+government = theocracy
+add_government_reform = holy_state_reform
+government_rank = 1

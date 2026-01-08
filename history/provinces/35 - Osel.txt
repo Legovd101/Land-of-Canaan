@@ -1,9 +1,8 @@
 #Ösel and Dagö, incl. Sonnenburg and Arensburg.
-owner = EST
-controller = EST
-add_core = EST
-culture = estonian
-religion = baltic_pagan
+owner = IKK
+controller = IKK
+culture = oselian
+religion = finnish_pagan
 base_tax = 1
 base_production = 1
 trade_goods = grain
@@ -14,3 +13,4 @@ discovered_by = western
 discovered_by = latin
 discovered_by = viking
 discovered_by = eastern
+add_core = IKK

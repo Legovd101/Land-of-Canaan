@@ -1,8 +1,8 @@
 #296 - Kaluga
-owner = GLH
-controller = GLH
-culture = russian
-religion = mahayana
+owner = ALD
+controller = ALD
+culture = evenk
+religion = tengri_pagan
 base_tax = 3
 base_production = 3
 trade_goods = grain
@@ -16,4 +16,4 @@ discovered_by = viking
 discovered_by = GOL
 discovered_by = KAZ
 discovered_by = nomad_group
-add_core = GLH
+add_core = ALD

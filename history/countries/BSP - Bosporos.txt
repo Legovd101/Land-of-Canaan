@@ -1,0 +1,7 @@
+religion = dionysian
+capital = 2410
+technology_group = ottoman
+primary_culture = bosporian
+government_rank = 1
+government = monarchy
+add_government_reform = feudalism_reform

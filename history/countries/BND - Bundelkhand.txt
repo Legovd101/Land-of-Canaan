@@ -5,16 +5,15 @@ technology_group = indian
 religion = hinduism
 primary_culture = vindhyan
 capital = 4466
-
 #Bundela Rajas of Orchha & Mahoba
-1437.1.1 = {
-	if = {
-		limit = {
+1437.1.1 = { 
+	if = { 
+		limit = { 
 			NOT = { has_dlc = "Dharma" }
 		}
 		add_government_reform = feudalism_reform
 	}
-	monarch = {
+	monarch = { 
 		name = "Arjun Dev"
 		dynasty = "Bundela"
 		ADM = 2
@@ -22,9 +21,8 @@ capital = 4466
 		MIL = 2
 	}
 }
-
-1468.1.1 = {
-	monarch = {
+1468.1.1 = { 
+	monarch = { 
 		name = "Malkhan Singh"
 		dynasty = "Bundela"
 		ADM = 3
@@ -34,9 +32,8 @@ capital = 4466
 	clear_scripted_personalities = yes
 	add_ruler_personality = fertile_personality
 }
-
-1479.1.1 = {
-	heir = {
+1479.1.1 = { 
+	heir = { 
 		name = "Rudra-pratap Singh"
 		monarch_name = "Rudra-pratap Singh"
 		dynasty = "Bundela"
@@ -48,20 +45,18 @@ capital = 4466
 		MIL = 3
 	}
 }
-
-1501.1.1 = {
-	monarch = {
+1501.1.1 = { 
+	monarch = { 
 		name = "Rudra-pratap Singh"
 		dynasty = "Bundela"
 		ADM = 5
 		DIP = 3
 		MIL = 3
 	}
-	capital = 559	# Bundelkhand
+	capital = 559# Bundelkhand
 }
-
-1501.1.1 = {
-	heir = {
+1501.1.1 = { 
+	heir = { 
 		name = "Bharti-candra"
 		monarch_name = "Bharti-candra I"
 		dynasty = "Bundela"
@@ -73,20 +68,17 @@ capital = 4466
 		MIL = 2
 	}
 }
-
-1531.1.1 = {
-	monarch = {
+1531.1.1 = { 
+	monarch = { 
 		name = "Bharti-candra I"
 		dynasty = "Bundela"
 		ADM = 2
 		DIP = 2
 		MIL = 2
 	}
-
 }
-
-1531.1.1 = {
-	heir = {
+1531.1.1 = { 
+	heir = { 
 		name = "Madukar"
 		monarch_name = "Madukar Shah"
 		dynasty = "Bundela"
@@ -98,20 +90,17 @@ capital = 4466
 		MIL = 2
 	}
 }
-
-1554.1.1 = {
-	monarch = {
+1554.1.1 = { 
+	monarch = { 
 		name = "Madukar Shah"
 		dynasty = "Bundela"
 		ADM = 2
 		DIP = 2
 		MIL = 2
 	}
-
 }
-
-1554.1.1 = {
-	heir = {
+1554.1.1 = { 
+	heir = { 
 		name = "Ram Shah"
 		monarch_name = "Ram Shah"
 		dynasty = "Bundela"
@@ -123,20 +112,17 @@ capital = 4466
 		MIL = 2
 	}
 }
-
-1592.1.1 = {
-	monarch = {
+1592.1.1 = { 
+	monarch = { 
 		name = "Ram Shah"
 		dynasty = "Bundela"
 		ADM = 2
 		DIP = 2
 		MIL = 2
 	}
-
 }
-
-1592.1.1 = {
-	heir = {
+1592.1.1 = { 
+	heir = { 
 		name = "Bir Singh Deo"
 		monarch_name = "Bir Singh Deo I"
 		dynasty = "Bundela"
@@ -148,9 +134,8 @@ capital = 4466
 		MIL = 2
 	}
 }
-
-1604.1.1 = {
-	monarch = {
+1604.1.1 = { 
+	monarch = { 
 		name = "Bir Singh Deo I"
 		dynasty = "Bundela"
 		ADM = 2
@@ -158,9 +143,8 @@ capital = 4466
 		MIL = 2
 	}
 }
-
-1604.1.1 = {
-	heir = {
+1604.1.1 = { 
+	heir = { 
 		name = "Jujhar Singh"
 		monarch_name = "Jujhar Singh"
 		dynasty = "Bundela"
@@ -172,9 +156,8 @@ capital = 4466
 		MIL = 2
 	}
 }
-
-1626.1.1 = {
-	monarch = {
+1626.1.1 = { 
+	monarch = { 
 		name = "Jujhar Singh"
 		dynasty = "Bundela"
 		ADM = 2
@@ -182,9 +165,8 @@ capital = 4466
 		MIL = 2
 	}
 }
-
-1626.1.1 = {
-	heir = {
+1626.1.1 = { 
+	heir = { 
 		name = "Devi Singh"
 		monarch_name = "Devi Singh"
 		dynasty = "Bundela"
@@ -196,9 +178,8 @@ capital = 4466
 		MIL = 2
 	}
 }
-
-1635.1.1 = {
-	monarch = {
+1635.1.1 = { 
+	monarch = { 
 		name = "Devi Singh"
 		dynasty = "Bundela"
 		ADM = 2
@@ -206,9 +187,8 @@ capital = 4466
 		MIL = 2
 	}
 }
-
-1635.1.1 = {
-	heir = {
+1635.1.1 = { 
+	heir = { 
 		name = "Pahar Singh"
 		monarch_name = "Pahar Singh"
 		dynasty = "Bundela"
@@ -220,9 +200,8 @@ capital = 4466
 		MIL = 2
 	}
 }
-
-1641.1.1 = {
-	monarch = {
+1641.1.1 = { 
+	monarch = { 
 		name = "Pahar Singh"
 		dynasty = "Bundela"
 		ADM = 2
@@ -230,9 +209,8 @@ capital = 4466
 		MIL = 2
 	}
 }
-
-1641.1.1 = {
-	heir = {
+1641.1.1 = { 
+	heir = { 
 		name = "Sujan Singh"
 		monarch_name = "Sujan Singh I"
 		dynasty = "Bundela"
@@ -244,9 +222,8 @@ capital = 4466
 		MIL = 2
 	}
 }
-
-1653.1.1 = {
-	monarch = {
+1653.1.1 = { 
+	monarch = { 
 		name = "Sujan Singh I"
 		dynasty = "Bundela"
 		ADM = 2
@@ -254,9 +231,8 @@ capital = 4466
 		MIL = 2
 	}
 }
-
-1653.1.1 = {
-	heir = {
+1653.1.1 = { 
+	heir = { 
 		name = "Indramani Singh"
 		monarch_name = "Indramani Singh"
 		dynasty = "Bundela"
@@ -268,9 +244,8 @@ capital = 4466
 		MIL = 2
 	}
 }
-
-1672.1.1 = {
-	monarch = {
+1672.1.1 = { 
+	monarch = { 
 		name = "Indramani Singh"
 		dynasty = "Bundela"
 		ADM = 2
@@ -278,9 +253,8 @@ capital = 4466
 		MIL = 2
 	}
 }
-
-1672.1.1 = {
-	heir = {
+1672.1.1 = { 
+	heir = { 
 		name = "Jaswant Singh"
 		monarch_name = "Jaswant Singh"
 		dynasty = "Bundela"
@@ -292,9 +266,8 @@ capital = 4466
 		MIL = 2
 	}
 }
-
-1675.1.1 = {
-	monarch = {
+1675.1.1 = { 
+	monarch = { 
 		name = "Jaswant Singh"
 		dynasty = "Bundela"
 		ADM = 2
@@ -302,9 +275,8 @@ capital = 4466
 		MIL = 2
 	}
 }
-
-1675.1.1 = {
-	heir = {
+1675.1.1 = { 
+	heir = { 
 		name = "Baghwat Singh"
 		monarch_name = "Baghwat Singh"
 		dynasty = "Bundela"
@@ -316,20 +288,17 @@ capital = 4466
 		MIL = 2
 	}
 }
-
-1684.1.1 = {
-	monarch = {
+1684.1.1 = { 
+	monarch = { 
 		name = "Baghwat Singh"
 		dynasty = "Bundela"
 		ADM = 2
 		DIP = 2
 		MIL = 2
 	}
-
 }
-
-1684.1.1 = {
-	heir = {
+1684.1.1 = { 
+	heir = { 
 		name = "Udwat Singh"
 		monarch_name = "Udwat Singh"
 		dynasty = "Bundela"
@@ -341,20 +310,17 @@ capital = 4466
 		MIL = 2
 	}
 }
-
-1689.1.1 = {
-	monarch = {
+1689.1.1 = { 
+	monarch = { 
 		name = "Udwat Singh"
 		dynasty = "Bundela"
 		ADM = 2
 		DIP = 2
 		MIL = 2
 	}
-
 }
-
-1689.1.1 = {
-	heir = {
+1689.1.1 = { 
+	heir = { 
 		name = "Prithvi Singh"
 		monarch_name = "Prithvi Singh"
 		dynasty = "Bundela"
@@ -366,9 +332,8 @@ capital = 4466
 		MIL = 2
 	}
 }
-
-1735.1.1 = {
-	monarch = {
+1735.1.1 = { 
+	monarch = { 
 		name = "Prithvi Singh"
 		dynasty = "Bundela"
 		ADM = 2
@@ -376,9 +341,8 @@ capital = 4466
 		MIL = 2
 	}
 }
-
-1735.1.1 = {
-	heir = {
+1735.1.1 = { 
+	heir = { 
 		name = "Sawant Singh Mahendra"
 		monarch_name = "Sawant Singh Mahendra"
 		dynasty = "Bundela"
@@ -390,9 +354,8 @@ capital = 4466
 		MIL = 2
 	}
 }
-
-1752.1.1 = {
-	monarch = {
+1752.1.1 = { 
+	monarch = { 
 		name = "Sawant Singh Mahendra"
 		dynasty = "Bundela"
 		ADM = 2
@@ -400,9 +363,8 @@ capital = 4466
 		MIL = 2
 	}
 }
-
-1752.1.1 = {
-	heir = {
+1752.1.1 = { 
+	heir = { 
 		name = "HatiSingh Mahendra"
 		monarch_name = "HatiSingh Mahendra"
 		dynasty = "Bundela"
@@ -414,9 +376,8 @@ capital = 4466
 		MIL = 2
 	}
 }
-
-1765.1.1 = {
-	monarch = {
+1765.1.1 = { 
+	monarch = { 
 		name = "HatiSingh Mahendra"
 		dynasty = "Bundela"
 		ADM = 2
@@ -424,9 +385,8 @@ capital = 4466
 		MIL = 2
 	}
 }
-
-1765.1.1 = {
-	heir = {
+1765.1.1 = { 
+	heir = { 
 		name = "Man Singh Mahendra"
 		monarch_name = "Man Singh Mahendra"
 		dynasty = "Bundela"
@@ -438,9 +398,8 @@ capital = 4466
 		MIL = 2
 	}
 }
-
-1768.1.1 = {
-	monarch = {
+1768.1.1 = { 
+	monarch = { 
 		name = "Man Singh Mahendra"
 		dynasty = "Bundela"
 		ADM = 2
@@ -448,9 +407,8 @@ capital = 4466
 		MIL = 2
 	}
 }
-
-1768.1.1 = {
-	heir = {
+1768.1.1 = { 
+	heir = { 
 		name = "Bharti-candra Mahndra"
 		monarch_name = "Bharti-candra II Mahndra"
 		dynasty = "Bundela"
@@ -462,10 +420,8 @@ capital = 4466
 		MIL = 2
 	}
 }
-
-
-1775.1.1 = {
-	monarch = {
+1775.1.1 = { 
+	monarch = { 
 		name = "Bharti-candra II Mahndra"
 		dynasty = "Bundela"
 		ADM = 2
@@ -473,9 +429,8 @@ capital = 4466
 		MIL = 2
 	}
 }
-
-1775.1.1 = {
-	heir = {
+1775.1.1 = { 
+	heir = { 
 		name = "Vikramajit Mahendra"
 		monarch_name = "Vikramajit Mahendra"
 		dynasty = "Bundela"
@@ -487,14 +442,12 @@ capital = 4466
 		MIL = 2
 	}
 }
-
-1776.1.1 = {
-	monarch = {
+1776.1.1 = { 
+	monarch = { 
 		name = "Vikramajit Mahendra"
 		dynasty = "Bundela"
 		ADM = 2
 		DIP = 2
 		MIL = 2
 	}
-
 }

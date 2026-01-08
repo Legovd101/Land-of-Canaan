@@ -1,0 +1,60 @@
+
+dependency = {
+	subject_type = tributary_state
+	first = GDL
+	second = POR
+	start_date = 1444.1.1
+	end_date = 1579.1.23
+}
+
+dependency = {
+	subject_type = tributary_state
+	first = GDL
+	second = VTE
+	start_date = 1444.1.1
+	end_date = 1579.1.23
+}
+
+dependency = {
+	subject_type = tributary_state
+	first = GDL
+	second = FLB
+	start_date = 1444.1.1
+	end_date = 1579.1.23
+}
+
+dependency = {
+	subject_type = tributary_state
+	first = GDL
+	second = CRU
+	start_date = 1444.1.1
+	end_date = 1579.1.23
+}
+
+vassal = {
+	first = GDL
+	second = EBR
+	start_date = 1444.1.1
+	end_date = 1579.1.23
+}
+
+vassal = {
+	first = MJO
+	second = CTH
+	start_date = 1444.1.1
+	end_date = 1579.1.23
+}
+
+vassal = {
+	first = MJO
+	second = GEN
+	start_date = 1444.1.1
+	end_date = 1579.1.23
+}
+
+vassal = {
+	first = MJO
+	second = SIC
+	start_date = 1444.1.1
+	end_date = 1579.1.23
+}

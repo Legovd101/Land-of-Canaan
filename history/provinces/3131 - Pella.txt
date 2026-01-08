@@ -2,7 +2,7 @@
 owner = PLL
 controller = PLL
 culture = greek
-religion = mahayana
+religion = pyrrhonism
 capital = "Edessa"
 trade_goods = wool
 base_tax = 2

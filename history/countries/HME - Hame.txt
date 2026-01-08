@@ -1,0 +1,6 @@
+religion = finnish_pagan
+capital = 31
+government_rank = 1
+technology_group = eastern
+government = tribal
+add_government_reform = steppe_horde

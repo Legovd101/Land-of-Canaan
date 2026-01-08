@@ -3,5 +3,5 @@ add_government_reform = feudalism_reform
 primary_culture = dacian
 religion = xadarosh
 technology_group = eastern
-capital = 161# Tîrgoviste
+capital = 1756# Tîrgoviste
 government_rank = 1

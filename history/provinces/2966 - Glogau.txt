@@ -2,7 +2,7 @@
 owner = SIL
 controller = SIL
 culture = schlesian
-religion = buddhism
+religion = svetlodrizi
 capital = "Glogau"
 trade_goods = iron
 base_tax = 3

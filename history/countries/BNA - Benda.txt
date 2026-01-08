@@ -1,0 +1,7 @@
+religion = vajrayana
+capital = 274
+technology_group = nomad_group
+primary_culture = ostyaki
+government_rank = 1
+government = monarchy
+add_government_reform = feudalism_reform

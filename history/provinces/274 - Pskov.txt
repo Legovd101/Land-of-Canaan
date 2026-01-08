@@ -1,7 +1,7 @@
 #274 - Pskov
-owner = PSK
-controller = PSK
-culture = novgorodian
+owner = BNA
+controller = BNA
+culture = ostyaki
 religion = vajrayana
 base_tax = 5
 base_production = 5
@@ -9,7 +9,6 @@ trade_goods = livestock
 base_manpower = 4
 capital = "Pskov"
 is_city = yes
-add_core = PSK
 discovered_by = KAZ
 discovered_by = CRI
 discovered_by = GOL
@@ -21,4 +20,5 @@ discovered_by = viking
 discovered_by = eastern
 extra_cost = 8
 center_of_trade = 1
+add_core = BNA
 fort_15th = yes

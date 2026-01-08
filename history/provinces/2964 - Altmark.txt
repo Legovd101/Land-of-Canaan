@@ -2,7 +2,7 @@
 owner = SOR
 controller = SOR
 culture = sorbian
-religion = mahayana
+religion = svetlodrizi
 base_tax = 4
 base_production = 4
 trade_goods = cloth

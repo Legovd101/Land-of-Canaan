@@ -2,7 +2,7 @@
 owner = KAZ
 controller = KAZ
 culture = bashkir
-religion = mahayana
+religion = vajrayana
 capital = "Bashkort"
 trade_goods = wool
 base_tax = 3

@@ -1,7 +1,7 @@
 #1827 - Raska
 owner = PST
 controller = PST
-religion = vajrayana
+religion = pyrrhonism
 capital = "Trgoviste"
 trade_goods = livestock
 base_tax = 3

@@ -2,7 +2,7 @@
 owner = ALB
 controller = ALB
 culture = albanoi
-religion = vajrayana
+religion = pyrrhonism
 capital = "Krujë"
 trade_goods = wool
 base_tax = 2

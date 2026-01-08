@@ -2,7 +2,7 @@
 owner = NNA
 controller = NNA
 culture = dalmatian
-religion = buddhism
+religion = pyrrhonism
 capital = "Sibenico"
 trade_goods = wool
 base_tax = 2

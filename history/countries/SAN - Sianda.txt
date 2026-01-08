@@ -1,0 +1,7 @@
+religion = scythian_pagan
+capital = 3008
+technology_group = ottoman
+primary_culture = cimmerian
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1

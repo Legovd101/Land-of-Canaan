@@ -1,9 +1,8 @@
 #2782 - Warsheikh
-owner = MDI
-controller = MDI
-add_core = MDI
+owner = MCB
+controller = MCB
 culture = somali
-religion = shamanism
+religion = waaqeffanna
 capital = "Warsheikh"
 is_city = yes
 base_manpower = 1
@@ -14,3 +13,4 @@ discovered_by = east_african
 discovered_by = indian
 discovered_by = muslim
 discovered_by = ottoman
+add_core = MCB

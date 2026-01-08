@@ -1,10 +1,9 @@
 #2778 - Werder
-owner = MRE
-controller = MRE
-add_core = MRE
+owner = MTN
+controller = MTN
 add_core = OGD
-culture = somali
-religion = shamanism
+culture = makonde
+religion = kikuyu_pagan
 capital = "Wardheer"
 trade_goods = slaves
 is_city = yes
@@ -15,3 +14,4 @@ discovered_by = east_african
 discovered_by = indian
 discovered_by = muslim
 discovered_by = ottoman
+add_core = MTN

@@ -1,6 +1,6 @@
 capital = 4754
 government_rank = 1
-religion = vajrayana
+religion = pyrrhonism
 technology_group = eastern
 primary_culture = pirustae
 government = monarchy

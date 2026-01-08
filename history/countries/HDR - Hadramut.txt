@@ -1,9 +1,9 @@
-government = monarchy
-add_government_reform = iqta
+government = native
+add_government_reform = native_chiefdom_reform
 primary_culture = yemeni_culture
 religion = arab_pagan
 technology_group = muslim
-capital = 4283# Shihr
+capital = 2343# Shihr
 religious_school = shafii_school
 #Sultans of Al-Kathiri
 1435.1.1 = { 

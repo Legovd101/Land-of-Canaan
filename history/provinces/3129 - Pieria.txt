@@ -2,7 +2,7 @@
 owner = MKD
 controller = MKD
 culture = greek
-religion = mahayana
+religion = pyrrhonism
 capital = "Berea"
 trade_goods = livestock
 base_tax = 2

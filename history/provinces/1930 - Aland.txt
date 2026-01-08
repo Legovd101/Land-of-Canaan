@@ -4,15 +4,14 @@
 ### Modified 10/14/2025 9:48:03 AM ###
 # Aland
 # 1930 Aland - 10/14/2025 9:48:03 AM 
-add_core = SWE
-owner = SWE
-controller = SWE
+owner = FIN
+controller = FIN
 base_tax = 1
 base_production = 1
 base_manpower = 1
 trade_goods = fish
-culture = swedish
-religion = norse_pagan
+culture = finnish
+religion = finnish_pagan
 capital = "Mariehamn"
 is_city = yes
 discovered_by = eastern
@@ -22,7 +21,7 @@ discovered_by = viking
 discovered_by = muslim
 discovered_by = ottoman
 1527.6.1 = { 
-	religion = Protestant
+	religion = protestant
 }
 1563.6.7 = { 
 	controller = REB
@@ -48,3 +47,4 @@ discovered_by = ottoman
 1809.9.17 = { 
 	add_core = RUS
 }
+add_core = FIN

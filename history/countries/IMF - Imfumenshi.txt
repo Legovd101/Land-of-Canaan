@@ -1,0 +1,7 @@
+religion = kikuyu_pagan
+capital = 387
+technology_group = east_african
+primary_culture = kibena
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1

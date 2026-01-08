@@ -1,8 +1,7 @@
 #Savolaks, incl. Nyslott(Olofsborg).
-owner = FIN
-controller = FIN
-add_core = FIN
-culture = finnish
+owner = HME
+controller = HME
+culture = tavastian
 religion = finnish_pagan
 base_tax = 1
 base_production = 1
@@ -15,3 +14,4 @@ discovered_by = western
 discovered_by = latin
 discovered_by = viking
 discovered_by = eastern
+add_core = HME

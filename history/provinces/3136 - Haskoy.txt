@@ -1,7 +1,7 @@
 # 3471 - Haskoy
 owner = PLP
 controller = PLP
-religion = mahayana
+religion = pyrrhonism
 capital = "Haskoy"
 trade_goods = livestock
 base_tax = 2

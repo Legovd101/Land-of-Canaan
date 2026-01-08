@@ -1,8 +1,8 @@
 #462 - Mingrelia
 owner = ARM
 controller = ARM
-culture = georgian
-religion = barjiana
+culture = circassian
+religion = caucasian_pagan
 capital = "Zugdidi"
 trade_goods = wine
 base_tax = 2

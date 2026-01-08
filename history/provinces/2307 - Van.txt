@@ -2,7 +2,7 @@
 owner = ARM#Zahids
 controller = ARM
 culture = armenian
-religion = zoroastrian
+religion = armenian_pagan
 capital = "Van"
 trade_goods = wool
 base_tax = 3

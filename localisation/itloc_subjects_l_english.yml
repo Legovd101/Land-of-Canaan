@@ -1,0 +1,8 @@
+﻿l_english:
+ league_member: "League Member"
+ league_member_long_desc: "Member of the League of Thessalonica. They take up no diplomatic slots."
+ league_member_is_our: "$NAME|Y$ is an League Member of us"
+ league_member_title: "League Member"
+ league_member_title_plural: "League Members"
+ is_league_member: "Is League Member"
+

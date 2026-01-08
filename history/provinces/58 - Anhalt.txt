@@ -2,7 +2,7 @@
 owner = SOR
 controller = SOR
 culture = sorbian
-religion = mahayana
+religion = svetlodrizi
 capital = "Dessau"
 trade_goods = wool
 base_tax = 2

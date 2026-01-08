@@ -2,7 +2,7 @@
 owner = WTF
 controller = WTF
 culture = welsh
-religion = druidism
+religion = briton_pagan
 base_tax = 1
 base_production = 1
 trade_goods = livestock

@@ -2,7 +2,7 @@
 owner = MKD
 controller = MKD
 culture = greek
-religion = mahayana
+religion = pyrrhonism
 capital = "Polygyros"
 trade_goods = gold
 base_tax = 2

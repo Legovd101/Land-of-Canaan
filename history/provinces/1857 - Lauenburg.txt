@@ -2,7 +2,7 @@
 owner = SER
 controller = SER
 culture = serbian
-religion = vajrayana
+religion = svetlodrizi
 capital = "Lauenburg"
 trade_goods = salt
 base_tax = 2

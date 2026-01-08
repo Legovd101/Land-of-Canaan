@@ -1,0 +1,68 @@
+dependency = {
+	subject_type = appanage
+	first = BUR
+	second = AUV
+	start_date = 1444.1.1
+	end_date = 1532.8.3
+}
+
+dependency = {
+	subject_type = appanage
+	first = BUR
+	second = URD
+	start_date = 1444.1.1
+	end_date = 1532.8.3
+}
+
+dependency = {
+	subject_type = appanage
+	first = BUR
+	second = NEV
+	start_date = 1444.1.1
+	end_date = 1532.8.3
+}
+
+dependency = {
+	subject_type = appanage
+	first = BUR
+	second = DAU
+	start_date = 1444.1.1
+	end_date = 1532.8.3
+}
+
+dependency = {
+	subject_type = appanage
+	first = BUR
+	second = BAR
+	start_date = 1444.1.1
+	end_date = 1532.8.3
+}
+
+vassal = {
+	first = BUR
+	second = PAS
+	start_date = 1444.1.1
+	end_date = 1579.1.23
+}
+
+vassal = {
+	first = BUR
+	second = GNV
+	start_date = 1444.1.1
+	end_date = 1579.1.23
+}
+
+vassal = {
+	first = BUR
+	second = BRN
+	start_date = 1444.1.1
+	end_date = 1579.1.23
+}
+
+vassal = {
+	first = BUR
+	second = ILN
+	start_date = 1444.1.1
+	end_date = 1579.1.23
+}
+

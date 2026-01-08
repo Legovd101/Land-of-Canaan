@@ -1,9 +1,8 @@
 #Hålogaland, incl. Steig, Vågan, Trondenes, Andenes, Alstahaug
-owner = NOR
-controller = NOR
-add_core = NOR
-culture = norwegian
-religion = norse_pagan
+owner = SKU
+controller = SKU
+culture = kven
+religion = finnish_pagan
 base_tax = 2
 base_production = 2
 trade_goods = fish
@@ -15,3 +14,4 @@ discovered_by = western
 discovered_by = latin
 discovered_by = viking
 discovered_by = eastern
+add_core = SKU

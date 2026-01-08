@@ -2,9 +2,9 @@ government = monarchy
 add_government_reform = feudalism_reform
 government_rank = 1
 technology_group = western
-religion = baltic_pagan
+religion = finnish_pagan
 primary_culture = estonian
-capital = 36
+capital = 30
 1542.1.1 = { 
 	religion = protestant
 }

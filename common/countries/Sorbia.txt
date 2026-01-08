@@ -79,5 +79,5 @@ leader_names = {
 ship_names = { 
 	Teschen Falkenberg "Cosel-Beuthen" Oppeln Ratibor Breslau Sagan Oels Steinau "Liegnitz-Brieg"
 	Glogau Münsterberg "Neisse-Ottmachau" "Schweidnitz-Jauer" Zossen Guben Cottbus Luckau Spremberg Bautzen
-	Görlitz 
+	Görlitz
 }

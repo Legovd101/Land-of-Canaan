@@ -4,15 +4,12 @@
 ### Modified 10/14/2025 2:36:58 PM ###
 # Dawaro
 # 1210 Dawaro - 10/14/2025 2:36:58 PM 
-add_core = ETH
-owner = ETH
-controller = ETH
 base_tax = 1
 base_production = 1
 base_manpower = 1
 trade_goods = grain
 culture = harari
-religion = dionysian
+religion = waaqeffanna
 capital = "Gende Belo"
 is_city = yes
 add_local_autonomy = 25

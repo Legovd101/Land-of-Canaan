@@ -1,7 +1,7 @@
 # 3486 - Humska Zemilja
 owner = MRD
 controller = MRD
-religion = buddhism
+religion = jupiterian
 capital = "Mostar"
 trade_goods = iron
 base_tax = 1

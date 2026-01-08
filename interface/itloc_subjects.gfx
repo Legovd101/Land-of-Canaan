@@ -1,0 +1,16 @@
+spriteTypes = {	
+
+	spriteType = {
+		name = "GFX_diplomacy_lead_league_member"
+		texturefile = "gfx//interface//subject_types//lead_league_member.dds"
+	}
+	spriteType = {
+		name = "GFX_subject_league_member"
+		texturefile = "gfx//interface//subject_types//league_member.dds"
+	}
+	spriteType = {
+		name = "GFX_diplomacy_am_league_member"
+		texturefile = "gfx//interface//subject_types//am_league_member.dds"
+	}
+
+}

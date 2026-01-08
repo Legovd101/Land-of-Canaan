@@ -1,7 +1,7 @@
 #3473 - Rodopi
 owner = PLP
 controller = PLP
-religion = mahayana
+religion = pyrrhonism
 capital = "Smolyan"
 trade_goods = iron
 base_tax = 1

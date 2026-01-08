@@ -1,7 +1,7 @@
 #131 - Zagorje
 owner = SAG
 controller = SAG
-religion = vajrayana
+religion = pyrrhonism
 capital = "Zagreb"
 trade_goods = cloth
 base_tax = 3
@@ -20,5 +20,5 @@ discovered_by = eastern
 discovered_by = muslim
 discovered_by = ottoman
 add_core = SAG
-fort_15th = yes
 culture = sabir
+fort_15th = yes

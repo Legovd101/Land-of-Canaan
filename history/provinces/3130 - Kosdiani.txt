@@ -2,7 +2,7 @@
 owner = MKD
 controller = MKD
 culture = greek
-religion = mahayana
+religion = pyrrhonism
 capital = "Kosdiani"
 trade_goods = wool
 base_tax = 2

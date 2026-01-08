@@ -1,18 +1,18 @@
 #Galich
-owner = MOS
-controller = MOS
+owner = TJU
+controller = TJU
 capital = "Galich"
-culture = russian
-religion = mahayana
+culture = ostyaki
+religion = vajrayana
 trade_goods = salt
 base_tax = 4
 base_production = 5#Huge Salt Mine
 base_manpower = 2
 is_city = yes
-add_core = MOS
 discovered_by = eastern
 discovered_by = western
 discovered_by = latin
 discovered_by = viking
 discovered_by = GOL
 discovered_by = nomad_group
+add_core = TJU

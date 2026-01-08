@@ -1,7 +1,7 @@
 # 4757 - Kolubara
 owner = DST
 controller = DST
-religion = vajrayana
+religion = pyrrhonism
 capital = "Valjevo"
 trade_goods = grain
 base_tax = 2
