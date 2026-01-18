@@ -2558,6 +2558,7 @@ jewish_group = {
 zoroastrian_group = {
 	flag_emblem_index_range = { 110 110 }
 	defender_of_faith = yes
+
 	zoroastrian = {
 		icon = 26
 		color = { 127 178 51 }

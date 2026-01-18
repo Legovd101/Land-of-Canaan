@@ -5,3 +5,13 @@ primary_culture = parisian
 government = monarchy
 add_government_reform = feudalism_reform
 government_rank = 1
+
+1430.1.1 = {
+	monarch = {
+		name = "Lukotoris"
+		dynasty = "Trexo"
+		adm = 5
+		dip = 4
+		mil = 2
+	}
+}

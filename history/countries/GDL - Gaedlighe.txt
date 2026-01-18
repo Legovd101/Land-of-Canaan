@@ -8,7 +8,7 @@ primary_culture = gaelawer
 
 1430.1.1 = {
 	monarch = {
-		name = "Seraigh"
+		name = "Saoirghin"
 		dynasty = "Goídel"
 		adm = 2
 		dip = 4

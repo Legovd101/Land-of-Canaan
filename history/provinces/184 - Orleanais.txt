@@ -4,7 +4,7 @@
 ### Modified 10/14/2025 2:36:58 PM ###
 # Orleanais
 # 184 Orleanais - 10/14/2025 2:36:58 PM 
-add_core = ORL
+add_core = FRA
 owner = BUR
 controller = BUR
 base_tax = 6

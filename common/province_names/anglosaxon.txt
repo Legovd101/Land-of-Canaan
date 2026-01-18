@@ -1,0 +1,29 @@
+# RULES
+# All names here will be my attempt at reconstructing Modern French and Breton names from Old English
+# Format: ID = { "Province" "Capital" } # Origin
+
+## Galle 
+
+# Brittany/Westangly
+169 = { "Foransæ" "Cynigsburh" } # "(Be)fore the sea", "King's city"
+170 = { "Landsende" "Breg" } # "Land's End"
+171 = { "Weneðscir" "Weneð" } # Veneti
+172 = { "Eamentscir" "Eament" } # Amneti
+4384 = { "Riegonscir" "Riegon" } # Regnica
+
+# Loire Valley/Eastangly
+177 = { "Cemæn" "Cemænesburh" } # "Cemani's city"
+178 = { "Angec" "Angecsburh" } # "Andecavi's city"
+4389 = { "Teorona" "Teorona" } # Turones
+
+# Normandy/Suþsasse
+4385 = { "Cœtansc" "Œnellaburh" } # Coutances, "Unelles' city"
+1879 = { "Seolforwic" "Seolforwic" } # "Silver village"
+168 = { "Wælstowic" "Wælstowic" } # "Battlefield village"
+167 = { "Limewic" "Limewic" } # "Lime village"
+
+# Picardy/Norþsasse
+87 = { "Calete" "Caletesburh" } # Caletes
+88 = { "Aceoscir" "Aceoburh" } # "Atrebates' City"
+89 = { "Piccere" "Piccere" } # "Picker"
+1743 = { "Camericke" "Camericke" } # "Picker"

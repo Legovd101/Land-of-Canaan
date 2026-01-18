@@ -1,3 +1,6 @@
 on_startup = {
 	hre_inheritable = yes
+	events = {
+		marcin_events.103
+	}
 }

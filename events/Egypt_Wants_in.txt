@@ -1,0 +1,316 @@
+# namespace = egypt
+
+
+# # Joined the HRE not through the mission tree - Emperor gets asked if they want to keep TO
+# country_event = {
+# 	id = egypt.1
+# 	title = flavor_teu.27.t
+# 	desc = flavor_teu.27.desc
+# 	picture = KNIGHTS_eventPicture
+# 	major = yes
+# 	is_triggered_only = yes
+	
+# 	option = {	# Accept the order as part of the HRE
+# 		name = flavor_teu.28.a
+# 		custom_tooltip = flavor_teu.28.a.tt
+# 		FROM = {
+# 			add_opinion = {
+# 				who = ROOT
+# 				modifier = teu_allowed_us_to_join
+# 			}
+# 		}
+# 		hidden_effect = {
+# 			FROM = {
+# 				country_event = {
+# 					id = egypt.3
+# 				}
+# 				every_neighbor_country = {
+# 					limit = {
+# 						is_part_of_hre = yes
+# 					}
+# 					add_opinion = {
+# 						who = ROOT
+# 						modifier = teu_allowed_the_teutons_into_the_hre
+# 					}
+# 				}
+# 			}
+# 		}
+# 		ai_chance = {
+# 			factor = 0
+# 			modifier = {
+# 				factor = 0
+# 				TEU = { has_country_flag = teu_crusader_path }
+# 			}
+# 		}
+# 	}
+	
+# 	option = {	# Accept the order, but they need to become a proper nation within the HRE
+# 		name = flavor_teu.28.b
+# 		custom_tooltip = flavor_teu.28.b.tt
+# 		hidden_effect = {
+# 			FROM = {
+# 				country_event = {
+# 					id = egypt.4
+# 				}
+# 			}
+# 		}
+# 		ai_chance = {
+# 			factor = 100
+# 			modifier = {
+# 				factor = 0
+# 				TEU = { has_country_flag = teu_crusader_path }
+# 			}
+# 		}
+# 	}
+	
+# 	option = {	# The Teutonic Order has no business in the HRE.
+# 		name = flavor_teu.28.c
+# 		custom_tooltip = flavor_teu.28.c.tt
+# 		hidden_effect = {
+# 			FROM = {
+# 				country_event = {
+# 					id = egypt.5
+# 				}
+# 			}
+# 		}
+# 		reverse_add_opinion = {
+# 			who = FROM
+# 			modifier = teu_rejected_us_from_joining
+# 		}
+# 		add_opinion = {
+# 			who = FROM
+# 			modifier = teu_does_not_want_the_order_in_the_hre
+# 		}
+# 		ai_chance = {
+# 			factor = 100
+# 			modifier = {
+# 				factor = 0
+# 				TEU = { has_country_flag = teu_crusader_path }
+# 			}
+# 		}
+# 	}
+# }
+
+# # The Order is requesting to join the HRE
+# country_event = {
+# 	id = egypt.2
+# 	title = flavor_teu.28.t
+# 	desc = flavor_teu.28.desc
+# 	picture = KNIGHTS_eventPicture
+# 	is_triggered_only = yes
+# 	major = yes
+	
+# 	option = {	# Accept the order as part of the HRE
+# 		name = flavor_teu.28.a
+# 		custom_tooltip = flavor_teu.28.a.tt
+# 		FROM = {
+# 			add_opinion = {
+# 				who = ROOT
+# 				modifier = teu_allowed_us_to_join
+# 			}
+# 		}
+# 		hidden_effect = {
+# 			FROM = {
+# 				country_event = {
+# 					id = egypt.3
+# 				}
+# 				every_neighbor_country = {
+# 					limit = {
+# 						is_part_of_hre = yes
+# 					}
+# 					add_opinion = {
+# 						who = ROOT
+# 						modifier = teu_allowed_the_teutons_into_the_hre
+# 					}
+# 				}
+# 			}
+# 		}
+# 		ai_chance = {
+# 			factor = 0
+# 			modifier = {
+# 				factor = 0
+# 				TEU = { has_country_flag = teu_crusader_path }
+# 			}
+# 		}
+# 	}
+	
+# 	option = {	# Accept the order, but they need to become a proper nation within the HRE
+# 		name = flavor_teu.28.b
+# 		custom_tooltip = flavor_teu.28.b.tt
+# 		hidden_effect = {
+# 			FROM = {
+# 				country_event = {
+# 					id = egypt.4
+# 				}
+# 			}
+# 		}
+# 		ai_chance = {
+# 			factor = 100
+# 			modifier = {
+# 				factor = 0
+# 				OR = {
+# 					ai_attitude = { who = FROM attitude = attitude_hostile }
+# 					ai_attitude = { who = FROM attitude = attitude_domineering }
+# 					ai_attitude = { who = FROM attitude = attitude_outraged }
+# 					ai_attitude = { who = FROM attitude = attitude_rivalry }
+# 				}
+# 			}
+# 			modifier = {
+# 				factor = 0
+# 				TEU = { has_country_flag = teu_crusader_path }
+# 			}
+# 		}
+# 	}
+	
+# 	option = {	# The Teutonic Order has no business in the HRE.
+# 		name = flavor_teu.28.c
+# 		custom_tooltip = flavor_teu.28.c.tt
+# 		hidden_effect = {
+# 			FROM = {
+# 				country_event = {
+# 					id = egypt.5
+# 				}
+# 			}
+# 		}
+# 		reverse_add_opinion = {
+# 			who = FROM
+# 			modifier = teu_rejected_us_from_joining
+# 		}
+# 		add_opinion = {
+# 			who = FROM
+# 			modifier = teu_does_not_want_the_order_in_the_hre
+# 		}
+# 		ai_chance = {
+# 			factor = 100
+# 			modifier = {
+# 				factor = 0
+# 				OR = {
+# 					ai_attitude = { who = FROM attitude = attitude_allied }
+# 					ai_attitude = { who = FROM attitude = attitude_defensive }
+# 					ai_attitude = { who = FROM attitude = attitude_friendly }
+# 					ai_attitude = { who = FROM attitude = attitude_neutral }
+# 					ai_attitude = { who = FROM attitude = attitude_protective }
+# 				}
+# 			}
+# 		}
+# 	}
+# }
+
+# # The Teutonic Order is allowed to stay in the HRE indefinitely
+# country_event = {
+# 	id = egypt.3
+# 	title = flavor_teu.29.t
+# 	desc = flavor_teu.29.desc
+# 	picture = DIPLOMACY_SIGNING_eventPicture
+# 	is_triggered_only = yes
+	
+# 	option = {	# Nice
+# 		name = flavor_teu.29.a
+# 		custom_tooltip = flavor_teu.29.a.tt
+# 		set_in_empire = yes
+# 		set_country_flag = teu_is_allowed_to_stay_in_the_hre
+# 		ai_chance = {
+# 			factor = 100
+# 		}
+# 	}
+# }
+
+# # The Teutonic Order is allowed to stay in the HRE, but has to become a proper bishopric
+# country_event = {
+# 	id = egypt.4
+# 	title = flavor_teu.30.t
+# 	desc = flavor_teu.30.desc
+# 	picture = DIPLOMAT_INTERROGATION_eventPicture
+# 	is_triggered_only = yes
+	
+# 	option = {	# Okay.
+# 		name = flavor_teu.30.a
+# 		custom_tooltip = flavor_teu.30.a.tt
+# 		if = {
+# 			limit = {
+# 				NOT = { has_country_flag = teu_crusader_path }
+# 			}
+# 			set_in_empire = yes
+# 			set_country_flag = teu_joined_the_hre
+# 		}
+# 		else = {
+# 			custom_tooltip = flavor_teu.30.a.bt
+# 			if = {
+# 				limit = { is_part_of_hre = yes }
+# 				set_in_empire = no
+# 			}
+# 		}
+# 		ai_chance = {
+# 			factor = 100
+# 		}
+# 	}
+	
+# 	option = {	# This is outrageous! This is unfair!
+# 		name = flavor_teu.30.b
+# 		custom_tooltip = flavor_teu.30.b.tt
+# 		if = {
+# 			limit = { is_part_of_hre = yes }
+# 			set_in_empire = no
+# 		}
+# 		add_opinion = {
+# 			who = FROM
+# 			modifier = teu_unfair_conditions
+# 		}
+# 		reverse_add_opinion = {
+# 			who = FROM
+# 			modifier = teu_rejected_our_offer
+# 		}
+# 		ai_chance = {
+# 			factor = 0
+# 		}
+# 	}
+# }
+
+# # The Teutonic Order has to go.
+# country_event = {
+# 	id = egypt.5
+# 	title = flavor_teu.31.t
+# 	desc = flavor_teu.31.desc
+# 	picture = ACCUSATION_eventPicture
+# 	is_triggered_only = yes
+	
+# 	option = {	# Okay.
+# 		name = flavor_teu.31.a
+# 		custom_tooltip = flavor_teu.31.a.tt
+# 		tooltip = {
+# 			reverse_add_opinion = {
+# 				who = FROM
+# 				modifier = teu_rejected_us_from_joining
+# 			}
+# 			add_opinion = {
+# 				who = FROM
+# 				modifier = teu_does_not_want_the_order_in_the_hre
+# 			}
+# 		}
+# 		if = {
+# 			limit = { is_part_of_hre = yes }
+# 			set_in_empire = no
+# 		}
+# 		ai_chance = {
+# 			factor = 0
+# 		}
+# 	}
+# }
+
+# # TO declares war while being on probation
+# country_event = {
+# 	id = egypt.6
+# 	title = flavor_teu.33.t
+# 	desc = flavor_teu.33.desc
+# 	picture = BATTLE_VISTULA_LAGOON_eventPicture
+# 	is_triggered_only = yes
+	
+# 	option = {	#Oh oh...
+# 		name = flavor_teu.33.a
+# 		set_in_empire = no
+# 		declare_war = emperor
+# 		ai_chance = {
+# 			factor = 100
+# 		}
+# 	}
+# }

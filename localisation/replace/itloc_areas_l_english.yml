@@ -1,18 +1,11 @@
 ﻿l_english:
- artaka_area: "Artaka"
- artaka_area_adj: "Artaka"
 
- chaldea_area: "Chaldía"
- chaldea_area_adj: "Chaldían"
+# BALKANS
+ adrianople_area: "Adreanoblis"
+ adrianople_area_adj: "Adrianopolitan"
 
- urmia_area: "Urmia"
- urmia_area_adj: "Urmian"
-
- mikra_sogdia_area: "Mikra Sogdia"
- mikra_sogdia_area_adj: "Mikra Sogdian"
-
- qom_area: "Qom"
- qom_area_adj: "Qomi"
+ thrace_area: "Europa"
+ thrace_area_adj: "Europan"
 
  thessalonica_area: "Thessalonika"
  thessalonica_area_adj: "Thessalonikan"
@@ -35,11 +28,548 @@
  northern_greece_area: "Epirus"
  northern_greece_area_adj: "Epirote"
 
- asturias_area: "Asturias"
- asturias_area_adj: "Asturian"
+# IBERIA
+ asturias_area: "Aitsiúraigh"
+ asturias_area_adj: "Aitsiúrach"
 
- north_castille_area: "North Castille"
- north_castille_area_adj: "North Castillian"
+ alentejo_area: "Dortaga"
+ alentejo_area_adj: "Dortagon"
 
- mancha_area: "La Mancha"
- mancha_area_adj: "Manchese"
+ aragon_area: "Teragon"
+ aragon_area_adj: "Teragonian"
+
+ baleares_area: "Baljeyjar"
+ baleares_area_adj: "Baljeyjarsk"
+
+ basque_country: "Baskoina"
+ basque_country_adj: "Baskoinak"
+
+ beieras_area: "Beras"
+ beieras_area_adj: "Berisc"
+
+ brigantia_area: "Briganta"
+ brigantia_area_adj: "Brigantian"
+
+ castille_area: "Segobriga"
+ castille_area_adj: "Segobrigis"
+
+ catalonia_area: "Geathlonja"
+ catalonia_area_adj: "Geathlonjan"
+
+ extremadura_area: "Dordofra"
+ extremadura_area_adj: "Dordofron"
+
+ galicia_area: "Kaliza"
+ galicia_area_adj: "Kalizjan"
+
+ helmantike_area: "Helemantiko"
+ helmantike_area_adj: "Helemantikan"
+
+ leon_area: "Gaeltacht"
+ leon_area_adj: "Gaelach"
+
+ lisbona_area: "Lissabon"
+ lisbona_area_adj: "Lissabon"
+
+ lower_andalucia_area: "Ispanya Baxa"
+ lower_andalucia_area_adj: "Baxonyes"
+
+ magro_area: "Macron"
+ magro_area_adj: "Macronian"
+
+ mancha_area: "Keltid"
+ mancha_area_adj: "Keltidjan"
+
+ mons_calpe_area: "Mons Calpe"
+ mons_calpe_area_adj: "Calpian"
+
+ north_castille_area: "Bisebria"
+ north_castille_area_adj: "Bisebris"
+
+ toledo_area: "Toletho"
+ toledo_area_adj: "Tolethjan"
+
+ upper_andalucia_area: "Ispanya Alta"
+ upper_andalucia_area_adj: "Altanyo"
+
+ urgell_area: "Orgel"
+ urgell_area_adj: "Orgellian"
+
+ valencia_area: "Valentz"
+ valencia_area_adj: "Valentzjan"
+
+# FRANCE
+
+ bourgogne_area: "Ostburgundja"
+ bourgogne_area_adj: "Burgundjan"
+
+ brittany_area: "Westangly"
+ brittany_area_adj: "Westanglys"
+
+ champagne_area: "Remis"
+ champagne_area_adj: "Remis"
+
+ normandy_area: "Suþsasse"
+ normandy_area_adj: "Suþsassen"
+
+ picardy_area: "Norþsasse"
+ picardy_area_adj: "Norþsassen"
+
+ poitou_area: "Peiteu"
+ poitou_area_adj: "Pectieu"
+
+ guyenne_area: "Bordegalla"
+ guyenne_area_adj: "Bordegallis"
+
+ pyrenees_area: "Asikoina"
+ pyrenees_area_adj: "Asikoak"
+
+ massif_central_area: "Auron"
+ massif_central_area_adj: "Auroni"
+
+ orleans_area: "Bleus"
+ orleans_area_adj: "Bleuis"
+
+ ile_de_france_area: "Lutis"
+ ile_de_france_area_adj: "Lutisis"
+
+ languedoc_area: "Narbona"
+ languedoc_area_adj: "Narbonioí"
+
+ loire_area: "Eastangly"
+ loire_area_adj: "Eastanglys"
+
+ lorraine_area: "Loherja"
+ lorraine_area_adj: "Loherjan"
+
+ provence_area: "Massalía"
+ provence_area_adj: "Massalioí"
+
+ pyrenees_area: "Asikoina"
+ pyrenees_area_adj: "Asikoinak"
+
+ savoy_dauphine_area: "Dalfin"
+ savoy_dauphine_area_adj: "Dalfini"
+
+ west_burgundy_area: "Vestroburgundja"
+ west_burgundy_area_adj: "Burgundjan"
+
+# ANATOLIA
+ amaseia_area: "Amaseia"
+ amaseia_area_adj: "Amaseian"
+
+ mysia_area: "Mysia"
+ mysia_area_adj: "Mysian"
+
+ kotyaion_area: "Kotyaion"
+ kotyaion_area_adj: "Kotyaian"
+
+ lycia_area: "Lycia"
+ lycia_area_adj: "Lycian"
+
+ hierapolis_area: "Hierapolis"
+ hierapolis_area_adj: "Hierapolitan"
+
+ paphlagonia_area: "Paphlagonia"
+ paphlagonia_area_adj: "Paphlagonian"
+
+ iconia_area: "Ikonia"
+ iconia_area_adj: "Ikonian"
+
+ tarsus_area: "Tarsos"
+ tarsus_area_adj: "Tarsian"
+
+ harran_area: "Harran"
+ harran_area_adj: "Harranian"
+
+# MASHRIQ
+ al_jazira_area: "Kallínikos"
+ al_jazira_area_adj: "Kallínikoí"
+
+ aleppo_area: "Beroia"
+ aleppo_area_adj: "Beroí"
+
+ basra_area: "Basra"
+ basra_area_adj: "Basra"
+
+ chaldea_area: "Chaldía"
+ chaldea_area_adj: "Chaldían"
+
+ iraq_arabi_area: "Ghanib Nahrain"
+ iraq_arabi_area_adj: "Ghanib Nahraya"
+
+ kassima_area: "Kassima"
+ kassima_area_adj: "Kassiman"
+
+ mikra_sogdia_area: "Mikra Sogdia"
+ mikra_sogdia_area_adj: "Mikra Sogdian"
+
+ nineveh_area: "Ninuwa"
+ nineveh_area_adj: "Ninuwaya"
+
+ palestine_area: "Philistia"
+ palestine_area_adj: "Philistine"
+
+ seleukia_area: "Seleukia"
+ seleukia_area_adj: "Seleukian"
+
+ syria_area: "Darmesheq"
+ syria_area_adj: "Darmesheqi"
+
+ syrian_desert_area: "Syrian Desert"
+ syrian_desert_area_adj: "Syrian Desert"
+
+ tadmor_area: "Tadmor"
+ tadmor_area_adj: "Tadmori"
+
+ tripolis_area: "Tripolis"
+ tripolis_area_adj: "Tripolaya"
+
+ trans_jordan_area: "Transjordan"
+ trans_jordan_area_adj: "Transjordanian"
+
+# PERSIA
+ azerbaijan_area: "Zanjan"
+ azerbaijan_area_adj: "Zanjan"
+
+ bam_area: "Bam"
+ bam_area_adj: "Bami"
+
+ deylam_area: "Deylam"
+ deylam_area_adj: "Deylamite"
+
+ dezful_area: "Dezful"
+ dezful_area_adj: "Dezfuli"
+
+ farsistan_area: "Farsistan"
+ farsistan_area_adj: "Farsistan"
+
+ fereydunshahr_area: "Phereidan"
+ fereydunshahr_area_adj: "Phereilebi"
+
+ golestan_area: "Golestan"
+ golestan_area_adj: "Golestani"
+
+ hamadan_area: "Hamadan"
+ hamadan_area_adj: "Hamadanian"
+
+ hashtrud_area: "Hashtrud"
+ hashtrud_area_adj: "Hashtrudi"
+
+ iraq_e_ajam_area: "Tehran"
+ iraq_e_ajam_area_adj: "Tehrani"
+
+ isfahan_area: "Isfahan"
+ isfahan_area_adj: "Isfahan"
+
+ kerman_area: "Kerman"
+ kerman_area_adj: "Kermani"
+
+ kermanshah_area: "Kermanshah"
+ kermanshah_area_adj: "Kermanshahi"
+
+ kesh_area: "Keþ"
+ kesh_area_adj: "Keþi"
+
+ khuzestan_area: "Khuzestan"
+ khuzestan_area_adj: "Khuzestan"
+
+ lamerd_area: "Lamerd"
+ lamerd_area_adj: "Lamerdi"
+
+ luristan_area: "Luristan"
+ luristan_area_adj: "Luristan"
+
+ mogostan_area: "Mogostan"
+ mogostan_area_adj: "Mogostan"
+
+ persepolis_area: "Parsa"
+ persepolis_area_adj: "Parsig"
+
+ qom_area: "Qom"
+ qom_area_adj: "Qomi"
+
+ shahrizor_area: "Shahrizor"
+ shahrizor_area_adj: "Shahrizor"
+
+ tabarestan_area: "Tabarestan"
+ tabarestan_area_adj: "Tabarestan"
+
+ tabriz_area: "Azerbaijan"
+ tabriz_area_adj: "Azerbaijan"
+
+ urmia_area: "Urmia"
+ urmia_area_adj: "Urmian"
+
+ yazd_area: "Yazd"
+ yazd_area_adj: "Yazdi"
+
+# MAGHREB
+ algiers_area: "Ikusem" # Icosium
+ algiers_area_adj: "Ikusmen"
+
+ barbary_coast_area: "Deben" # Portus Divinus
+ barbary_coast_area_adj: "Debensk"
+
+ djerba_area: "Meninga"
+ djerba_area_adj: "Meningisk"
+
+ fezzan_area: "Fezzan"
+ fezzan_area_adj: "Fezzen"
+
+ hautes_plaines_area: "Aras"
+ hautes_plaines_area_adj: "Arsen"
+
+ kabylia_area: "Numidja"
+ kabylia_area_adj: "Numidjan"
+
+ macaronesia_area: "Kanerya Ginsula"
+ macaronesia_area_adj: "Ginsulai"
+
+ marrekesh_area: "Maritanya"
+ marrekesh_area_adj: "Maritanyu"
+
+ north_saharan_area: "Leyo"
+ north_saharan_area_adj: "Leyonu"
+
+ northern_morocco_area: "Dingidana"
+ northern_morocco_area_adj: "Dingidansk"
+
+ ouled_nail_area: "Debéskra"
+ ouled_nail_area_adj: "Debéskranu"
+
+ southern_morocco_area: "Agadir"
+ southern_morocco_area_adj: "Agden"
+
+ sus_area: "Drahwa"
+ sus_area_adj: "Drask"
+
+ tafilalt_area: "Gulþland"
+ tafilalt_area_adj: "Gulþlander"
+
+ tripolitania_area: "Tripolitania"
+ tripolitania_area_adj: "Tripolitanioí"
+
+ tunisia_area: "Karþago"
+ tunisia_area_adj: "Karþagisk"
+
+ western_morocco_area: "Purpela"
+ western_morocco_area_adj: "Purpelsk"
+
+# ITALY
+ apulia_area: "Pule"
+ apulia_area_adj: "Puleic"
+
+ calabria_area: "Kalabrí"
+ calabria_area_adj: "Kalabroí"
+
+ central_italy_area: "Prutetium"
+ central_italy_area_adj: "Prutetii"
+
+ corsica_sardinia_area: "Nura Balara"
+ corsica_sardinia_area_adj: "Nura Balari"
+
+ emilia_romagna_area: "Vimilia"
+ emilia_romagna_area_adj: "Vimilii"
+
+ liguria_area: "Ambronis"
+ liguria_area_adj: "Ambroni"
+
+ lombardy_area: "Medeladunom"
+ lombardy_area_adj: "Medelanis"
+
+ naples_area: "Opicem"
+ naples_area_adj: "Opical"
+
+ piedmont_area: "Lombardia"
+ piedmont_area_adj: "Lombardii"
+
+ po_valley_area: "Binauria"
+ po_valley_area_adj: "Binaurii"
+
+ sicily_area: "Eastern Sicily"
+ sicily_area_adj: "Sicilian"
+
+ tuscany_area: "Rasna"
+ tuscany_area_adj: "Rasnal"
+
+ venetia_area: "Venets"
+ venetia_area_adj: "Venets"
+
+ western_sicily_area: "Western Sicily"
+ western_sicily_area: "Eastern Sicily"
+
+# SOUTH GERMANY
+ austria_proper_area: "Baiern"
+ austria_proper_area_adj: "Baierisch"
+
+ carinthia_area: "Kranjska"
+ carinthia_area_adj: "Kranjski"
+
+ east_bavaria_area: "Východoçeska"
+ east_bavaria_area_adj: "Východoçeska"
+
+ franconia_area: "Dolnodrevska"
+ franconia_area_adj: "Dolnodrevski"
+
+ inner_austria_area: "Bolgharlar"
+ inner_austria_area_adj: "Bolghari"
+
+ lower_bavaria_area: "Stredoçeska"
+ lower_bavaria_area_adj: "Stredoçeský"
+
+ lower_swabia_area: "Sredirvatska"
+ lower_swabia_area_adj: "Sredirvatski"
+
+ palatinate_area: "Palatinate"
+ palatinate_area_adj: "Palatinate"
+
+ romandie_area: "Romandie"
+ romandie_area_adj: "Romandie"
+
+ switzerland_area: "Switzerland"
+ switzerland_area_adj: "Switzerland"
+
+ tirol_area: "Tirol"
+ tirol_area_adj: "Tirol"
+
+ upper_bavaria_area: "Zahodoçeska"
+ upper_bavaria_area_adj: "Zahodoçeský"
+
+ upper_franconia_area: "Górnodrevska"
+ upper_franconia_area_adj: "Górnodrevski"
+
+ upper_rhineland_area: "Ishodrvatska"
+ upper_rhineland_area_adj: "Ishodrvatski"
+
+ upper_swabia_area: "Zâpadrvatska"
+ upper_swabia_area_adj: "Zâpadrvatski"
+
+# LOW COUNTRIES
+ brabant_area: "Meriddo"
+ brabant_area_adj: "Merriddolâš"
+
+ flanders_area: "Bolgis"
+ flanders_area_adj: "Bolgis"
+
+ frisia_area: "Tjarra"
+ frisia_area_adj: "Tjarralaš"
+
+ holland_area: "Jokka"
+ holland_area_adj: "Jokkalaš"
+
+ north_brabant_area: "Limburg"
+ north_brabant_area_adj: "Limburger"
+
+ wallonia_area: "Westduuytsland"
+ wallonia_area_adj: "Westduuytslander"
+
+# NORTH GERMANY
+ bohemia_area: "Praga"
+ bohemia_area_adj: "Prazoki"
+
+ braunschweig_area: "Palenigrad"
+ braunschweig_area_adj: "Palenigradi"
+
+ erzgebirge_area: "Krušné Hory"
+ erzgebirge_area_adj: "Krušký"
+
+ hesse_area: "Hácz"
+ hesse_area_adj: "Háczi"
+
+ hinter_pommern_area: "Pòrénkòwô Pòmòrskô"
+ hinter_pommern_area_adj: "Pòrénkòwô Pòmòrský"
+
+ holstein_area: "Srbija"
+ holstein_area_adj: "Srpski"
+
+ lower_rhineland_area: "Lower Rhineland"
+ lower_rhineland_area_adj: "Lower Rhineland"
+
+ lower_saxony_area: "Lavogrod"
+ lower_saxony_area_adj: "Lavogrod"
+
+ lusatia_area: "Lužyca"
+ lusatia_area_adj: "Lužyski"
+
+ mecklenburg_area: "Mikkelemiasto"
+ mecklenburg_area_adj: "Mikkelemiasti"
+
+ mittelmark_area: "Sredjubež"
+ mittelmark_area_adj: "Sredjubeský"
+
+ moravia_area: "Stary Morava"
+ moravia_area_adj: "Stary Moravský"
+
+ neumark_area: "Nowyrubež"
+ neumark_area_adj: "Nowyrubeský"
+
+ north_rhine_area: "North Rhine"
+ north_rhine_area_adj: "North Rhine"
+
+ north_westphalia_area: "Mebez"
+ north_westphalia_area_adj: "Mebeski"
+
+ northern_saxony_area: "Dzewina"
+ northern_saxony_area_adj: "Dzewinski"
+
+ south_saxony_area: "Dreždany"
+ south_saxony_area_adj: "Dreždanský"
+
+ thuringia_area: "Subotica"
+ thuringia_area_adj: "Subotský"
+
+ vorpommern_area: "Zôpadnô Pòmòrskô"
+ vorpommern_area_adj: "Zôpadnô Pòmòrský"
+
+ weser_area: "Dalkågge"
+ weser_area_adj: "Dallkåggelaš"
+
+ westphalia_area: "Rawen"
+ westphalia_area_adj: "Rawenski"
+
+# BRITAIN
+ connacht_area: "Connachta"
+ connacht_area_adj: "Connacht"
+
+ east_anglia_area: "Aastfräislound"
+ east_anglia_area_adj: "Aastfräisch"
+
+ east_midlands_area: "West-Fryslân"
+ east_midlands_area_adj: "West-Frysk"
+
+ highlands_area: "Highlands"
+ highlands_area_adj: "Highlands"
+
+ home_counties_area: "Xanti"
+ home_counties_area_adj: "Xanti"
+
+ kingdom_of_the_isles_area: "The Isles"
+ kingdom_of_the_isles_area_adj: "The Isles"
+
+ leinster_area: "Laistaðr"
+ leinster_area_adj: "Laistaðr"
+
+ lowlands_area: "Lowlands"
+ lowlands_area_adj: "Lowlands"
+
+ munster_area: "Mýnstaðr"
+ munster_area_adj: "Mýnstaðr"
+
+ scottish_marches_area: "Ystrad Clud"
+ scottish_marches_area_adj: "Ystrad Cleg"
+
+ ulster_area: "Ulaidh"
+ ulster_area_adj: "Ultach"
+
+ wales_area: "Bretland"
+ wales_area_adj: "Bretlandr"
+
+ wessex_area: "Priðin"
+ wessex_area_adj: "Priðinac"
+
+ west_midlands_area: "Cymru"
+ west_midlands_area_adj: "Cymraeg"
+
+ yorkshire_area: "Jorvík"
+ yorkshire_area_adj: "Jorvíkr"

@@ -69,6 +69,7 @@ PHR = "countries/Phereidan.txt" # Georgian/Iberian
 RPH = "countries/Repha.txt" # Roman
 PMG = "countries/Pompeia Margiana.txt" # Roman
 BMC = "countries/Bamice.txt" # Gothic
+MIT = "countries/Mittani.txt" # Mitanni
 
  # Anatolia
  ## Selikuó (Serico-Anatolian)

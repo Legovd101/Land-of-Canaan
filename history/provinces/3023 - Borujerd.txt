@@ -6,7 +6,6 @@
 # Borujerd
 # 3023 Borujerd - 11/4/2025 4:20:27 AM 
  
-add_core = ISF
 add_core = ORO
 owner = ORO
 controller = ORO

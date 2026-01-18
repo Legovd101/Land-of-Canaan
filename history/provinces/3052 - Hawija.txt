@@ -4,14 +4,13 @@
 ### Modified 11/4/2025 5:58:57 AM ###
 # Hawija
 # 3052 Hawija - 11/4/2025 5:58:57 AM 
-add_core = ISF
 add_core = MKR
 owner = MKR
 controller = MKR
 base_tax = 1
 base_production = 1
 base_manpower = 1
-trade_goods = livestock
+trade_goods = slaves
 culture = sogdik
 religion = pyrrhonism
 capital = "Hawija"

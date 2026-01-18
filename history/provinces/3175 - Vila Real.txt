@@ -2,6 +2,7 @@
 owner = GDL
 controller = GDL
 culture = suebi
+add_core = SUV
 religion = new_gothic
 capital = "Vila Real"
 trade_goods = wine

@@ -4,7 +4,7 @@
 ### Modified 10/14/2025 2:36:58 PM ###
 # Touraine
 # 4389 Touraine - 10/14/2025 2:36:58 PM 
-add_core = ORL
+add_core = FRA
 owner = ENG
 controller = ENG
 base_tax = 4

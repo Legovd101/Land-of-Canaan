@@ -1,0 +1,9 @@
+﻿l_english:
+ itloc_catholic_events.1.title: "The Koiné Akadimía"
+ itloc_catholic_events.1.desc: "With the enactment of the imperial peace, the Empire enters a new era of hope. Making the best of this opportunity, a middle-aged philosopher has approached the [Root.Monarch.GetTitle] with an interesting proposal: unite the various canons within the Empire into one "Katholikón," or universal doctrine"
+ itloc_catholic_events.1.a: "These "Katholikón" shall lead the Empire into the future!"
+ itloc_catholic_events.1.b: "This all sounds far too radical..."
+ itloc_catholic_events.2.title: "The Koiné Akadimía"
+ itloc_catholic_events.2.desc: "The Emperor in [From.Capital.GetName] has proposed a radical change to the way people worship in the Empire: to become students of a new school of thought: "Katholikós""
+ itloc_catholic_events.2.a: "These "Katholikón" shall lead the Empire into the future!"
+ itloc_catholic_events.2.b: "This all sounds far too radical..."

@@ -6,7 +6,6 @@
 # Babol
 # 3017 Babol - 11/4/2025 5:58:57 AM 
  
-add_core = ISF
 add_core = TAB
 owner = TAB
 controller = TAB

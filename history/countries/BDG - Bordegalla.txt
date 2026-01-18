@@ -5,3 +5,14 @@ religion = gallic_pagan
 capital = 174
 technology_group = western
 primary_culture = biturigian
+
+1430.1.1 = {
+	monarch = {
+		name = "Camserona"
+		dynasty = "Rigomagos"
+		adm = 6
+		dip = 4
+		mil = 1
+	}
+	add_ruler_personality = patron_of_arts_personality
+}

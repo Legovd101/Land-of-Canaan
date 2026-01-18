@@ -2,7 +2,7 @@
 owner = CYP
 controller = CYP
 culture = greek
-religion = kemetism
+religion = dionysian
 capital = "Nicosia"
 trade_goods = wine
 base_tax = 6

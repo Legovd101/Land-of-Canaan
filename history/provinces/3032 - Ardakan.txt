@@ -4,14 +4,13 @@
 ### Modified 11/4/2025 5:58:57 AM ###
 # Ardakan
 # 3032 Ardakan - 11/4/2025 5:58:57 AM 
-add_core = ISF
 add_core = PRS
 owner = PRS
 controller = PRS
 base_tax = 1
 base_production = 1
 base_manpower = 1
-trade_goods = livestock
+trade_goods = grain
 culture = pharsik
 religion = pyrrhonism
 capital = "Ardakan"

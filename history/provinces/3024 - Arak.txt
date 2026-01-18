@@ -6,7 +6,6 @@
 # Arak
 # 3024 Arak - 11/4/2025 6:05:38 AM 
  
-add_core = ISF
 add_core = KMR
 owner = KMR
 controller = KMR

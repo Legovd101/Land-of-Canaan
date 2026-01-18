@@ -1,0 +1,81 @@
+#Country Name: Please see filename.
+graphical_culture = easterngfx
+color = { 67 101 44 }
+revolutionary_colors = { 4 8 4 }
+historical_idea_groups = { 
+	maritime_ideas
+	religious_ideas
+	defensive_ideas
+	administrative_ideas
+	trade_ideas
+	quality_ideas
+	innovativeness_ideas
+	diplomatic_ideas
+}
+historical_units = { 
+	eastern_medieval_infantry
+	eastern_knights
+	slavic_stradioti
+	eastern_militia
+	ottoman_spahi
+	ottoman_sekban
+	ottoman_reformed_spahi
+	ottoman_reformed_janissary
+	ottoman_toprakli_hit_and_run
+	ottoman_nizami_cedid
+	ottoman_toprakli_dragoon
+	eastern_skirmisher
+	eastern_uhlan
+	eastern_carabinier
+	ottoman_new_model
+	ottoman_lancer
+}
+monarch_names = { 
+	"Seuthes #0" = 40
+	"Teres #1" = 20
+	"Sitalkes #0" = 15
+	"Rhoemetalces #2" = 10
+	"Amadokos #1" = 10
+	"Sparatocos #1" = 10
+	"Dromichaites #1" = 10
+	"Kotys #0" = 0
+	"Medos #0" = 0
+	"Bryzos #0" = 0
+	"Acornion #0" = 0
+	"Hebryzelmis #0" = 0
+	"Ziselmis #0" = 0
+	"Remaxos #0" = 0
+	"Taroukos #0" = 0
+	"Zipaes #0" = 0
+	"Beithyos #0" = 0
+	"Delos #0" = 0
+	"Rholes #0" = 0
+	"Pytos #0" = 0
+	"Kadros #0" = 0
+	"Bolipor #0" = 0
+	"Koroupaios #0" = 0
+	"Berisades #0" = 0
+	"Maisades #0" = 0
+	"Getas #0" = 0
+	"Scoris #0" = 0
+	"Arizis #0" = 0
+	"Germokrates #0" = 0
+	"Brygotas #0" = 0
+	"Zermon #0" = 0
+	"Sadalas #0" = 0
+	"Denkeos #0" = 0
+	"Sparadokos #0" = 0
+	"Zendos #0" = 0
+	"Meda #0" = -10
+	"Bendis #0" = -1
+	"Cotyla #0" = -1
+}
+leader_names = { 
+	Seuthes Teres Sitalkes Rhoemetalces Amadokos Medos Sparatocos Dadas Bryzos
+	Ziselmis
+	Rholes Remaxos Dromichaites Beithyos 
+}
+ship_names = { 
+	"Hebros" Rhodope Haemus Odessos Seuthopolis Salmydessos Aenus Zerynthos Maroneia Kotys
+	Bendis 
+}

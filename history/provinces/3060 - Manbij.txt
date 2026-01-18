@@ -4,14 +4,13 @@
 ### Modified 11/4/2025 4:20:27 AM ###
 # Manbij
 # 3060 Manbij - 11/4/2025 4:20:27 AM 
-add_core = ISF
 add_core = NTI
 owner = NTI
 controller = NTI
 base_tax = 1
 base_production = 1
 base_manpower = 1
-trade_goods = livestock
+trade_goods = grain
 culture = assyrian
 religion = mithraism
 capital = "Manbij"
@@ -21,3 +20,4 @@ discovered_by = muslim
 discovered_by = ottoman
 discovered_by = indian
 discovered_by = nomad_group
+add_core = ASY

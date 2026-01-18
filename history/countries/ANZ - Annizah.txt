@@ -1,7 +1,7 @@
 government = monarchy
 add_government_reform = feudalism_reform
 technology_group = muslim
-primary_culture = nabathu
+primary_culture = nabatean
 religion = zoroastrian
 capital = 4272#Al Jawf
 religious_school = shafii_school

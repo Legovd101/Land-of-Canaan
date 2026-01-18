@@ -2,6 +2,7 @@
 owner = VTE
 controller = VTE
 culture = suebi
+add_core = SUV
 religion = new_gothic
 capital = "Braga"
 trade_goods = wine

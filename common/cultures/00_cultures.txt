@@ -223,7 +223,7 @@ germanic = {
 scandinavian = { #Nordic
 	graphical_culture = westerngfx
 
-	#country = { land_forcelimit_modifier = 0.25}
+	#country = { land_forcelimit_modifier = 0.25 }
 	#province = { local_build_cost = -0.10 }
 
 
@@ -835,7 +835,7 @@ gaelic = {
 	}
 }
 	
-latin_group = {
+latin = {
 	graphical_culture = westerngfx
 
 	tuscan = {
@@ -2567,6 +2567,11 @@ baltic	= {
 	}
 }
 
+byzantine = {
+	graphical_culture = easterngfx
+	byzantine_placeholder_culture = {}
+}
+
 caucasian = {
 	graphical_culture = easterngfx
 	georgian = {
@@ -2920,31 +2925,6 @@ turko_semitic = { #Levantine
 			Taliba Tanaz Taneen Yagana Yakta Yasmin Zaynab
 		}
 	}
-	nabathu = {
-		primary = ANZ
-		dynasty_names = {
-			"Rasulid" "Tahiride" "Jabrid" "al-Qasimi"
-			"Nabhani" "Yaruba" "Usfurid" "Jarwanid"
-		}
-		male_names = {
-			Mani Rabi'a Musa Ibrahim Markhan Watban Nasir Idris "'Abd-Allah" Sa'ud Zayid Abdullah Muhammad
-			'Abdullah Turki Faisal Al-Rahman Khalid Fahd Aziz Abu-Bakr Abu-Bakr Aarif Abdul-Gafur Abdul-Jaleel Abdul-Qadir 
-			Abdul-Wahab Abdul Abdul Abdullah Abdullah Aghlab Akin Ali Ali Alim Aram Azam Bahir Burhanaddin
-			Fadil Fadl Faruk Ghalib Hafiz Halil Hasan Hasan Husam Hussayn Hussayn Ibrahim Abraham Idris 
-			Is'mail Ismail Isa Jabir Jalil Jibril Khaireddin Khalil Mahdi Mahmud Mahmud
-			Mansur Mirza Mubarak Muhammad Muhammad Mukhtar Murad Musa Moses Muslihiddin Muzaffaraddin Najib 
-			Nasr Nizam Qawurd Ramadan Sa'daddin Sadiq Sami Samir Shaiban
-			Shamir Shujah Sulayman Solomon Talib Ubayd Uways Yahya Yahya Ya'qub Jacob Youkhanna John Yusuf 
-			Joseph Zeyd 
-		}
-		female_names = {
-			Nadiyya Adila Amsha Asiya Faghira Habiba Hanifa Jahaira Kamala Layla Maryam Nafisa Nyawela Parand 
-			Parween Paymaneh Paywand Qamara Rafiqa Rasa Rashida Reshawna
-			Saaman Sabba Saghar Sahba Sajida Samira Semeah Setara Shahrbano Shahzadah Shameem Shararah 
-			Sheeftah Sheeva Shogofa Shokouh Shola Sholah Simin Souzan
-			Taliba Tanaz Taneen Yagana Yakta Yasmin Zaynab
-		}
-	}
 	male_names = {		
 		# EGYPTIAN_ARABIC
 		Aaron Aaron Abanoub Abderahman Abderrahman Abdul-Aziz Abdul-Haq Abdul-Madjid Abdul-Salaam Abdullah 
@@ -3130,7 +3110,7 @@ iranian	= {
 			Jatoi Nausherwani
 		}
 	}
-	afghani= {
+	afghani = {
 		primary = AFG
 	}
 	kurdish = {
@@ -9113,6 +9093,9 @@ hellenic = {
 	aegyptian = {
 		primary = EGY
 	}
+	ecumenical = {
+		primary = OIK
+	}
 	goths = {
 		primary = FEO
 		dynasty_names = { 
@@ -9613,7 +9596,7 @@ amazigh = {
 greco_iranian ={
 	graphical_culture = easterngfx
 	pharsik = {
-		# primary = DND
+		primary = PER
 	}
 	gedrusik = {
 		primary = HMZ
@@ -9622,16 +9605,16 @@ greco_iranian ={
 		# primary = DND
 	}
 	parthik = {
-		# primary = DND
+		primary = PTW
 	}
 	elymaik = {
-		# primary = DND
+		primary = ELY
 	}
 	medik = {
-		# primary = DND
+		primary = AKB
 	}
 	sogdik = {
-		# primary = DND
+		primary = SGD
 	}
 	dynasty_names = { 
 		Hvarxšiti Parthava Aršakid Pahlav Zranka Harauvatiš Aria Drangiana 
@@ -9818,13 +9801,13 @@ west_semitic = {
 east_semitic = {
 	graphical_culture = muslimgfx
 	aramean = {
-		# primary = PLM
+		primary = ASY
 	}
 	assyrian = {
-		# primary = SYR
+		# primary = ASY
 	}
 	nabatean = {
-		# primary = SYR
+		primary = ANZ
 	}
 	syriac = {
 		primary = PLM
@@ -9834,7 +9817,13 @@ east_semitic = {
 			Amorite Sealand Larsa Kassite 
 		}
 		male_names = {
-			Naplanum Emisum Samium Zabaia Gungunum Abisare Sumuel "Nur-Adad" "Sin-Iddinam" "Sin-Eribam" "Sin-Iqisham" "Silli-Adad" "Warad-Sin" "Rim-Sin" Hammurabi "Samsu-iluna" "Su-abu" "Sumu-la-El" "Sabum" "Apil-Sin" "Sin-muballit" Abieshu "Ammi-ditana" "Samsu-Ditana" Ammisaduqa Gandas Agum Kastiliasu "Abi-Rattas" Hurbazum Ulamburiash Karaindash "Enlil-nadin-ahi" Gulkishar
+			Naplanum Emisum Samium Zabaia Gungunum Abisare Sumuel
+			"Nur-Adad" "Sin-Iddinam""Sin-Eribam" "Sin-Iqisham"
+			"Silli-Adad" "Warad-Sin" "Rim-Sin" Hammurabi "Samsu-iluna"
+			"Su-abu" "Sumu-la-El" "Sabum" "Apil-Sin" "Sin-muballit"
+			Abieshu "Ammi-ditana" "Samsu-Ditana" Ammisaduqa Gandas
+			Agum Kastiliasu "Abi-Rattas" Hurbazum Ulamburiash
+			Karaindash "Enlil-nadin-ahi" Gulkishar
 		}
 		female_names = {
 			Nana Allatu Belit Zirrabanit Tiamat
@@ -9887,13 +9876,13 @@ gallic = {
 		primary = BUR
 	}
 	hessian = {
-		primary = HES
+		primary = DAU
 	}
 	taifal = {
-		primary = GUY
+		primary = TOU
 	}
 	west_frankish = {
-		primary = BER
+		primary = FRA
 	}
 	male_names = {
 		Wilhelm Ludwig Friedrich Hermann Karl Moritz Philipp Heinrich Otto Adolf Christian Georg Leopold 
@@ -10039,7 +10028,7 @@ lowlander = {
 outlander = {
 	graphical_culture = westerngfx
 
-	#country = { land_forcelimit_modifier = 0.25}
+	#country = { land_forcelimit_modifier = 0.25 }
 	#province = { local_build_cost = -0.10 }
 
 	normand = {
@@ -10199,7 +10188,7 @@ outlander = {
 ibero_germanic = {
 	graphical_culture = westerngfx
 
-	#country = { land_forcelimit_modifier = 0.25}
+	#country = { land_forcelimit_modifier = 0.25 }
 	#province = { local_build_cost = -0.10 }
 
 	jutish = {
@@ -10318,6 +10307,7 @@ ibero_germanic = {
 		}
 	}
 	suebi = {
+		primary = SUV
 		male_names = {
 			Alarico Ataulfo Teodorico Eurico Leovigildo Recaredo Sigerico Walia
 			Theudis Athanagildo Liuva Suintila Gundemaro Gesaleco
@@ -10361,7 +10351,7 @@ ibero_germanic = {
 paleo_european = {
 	graphical_culture = westerngfx
 
-	#country = { land_forcelimit_modifier = 0.25}
+	#country = { land_forcelimit_modifier = 0.25 }
 	#province = { local_build_cost = -0.10 }
 
 	fomorian = {
@@ -11051,5 +11041,13 @@ north_bantu = {
 		Gbemisola Hiwot Hlengiwe Idowu Ife Ige Imani Ime Itumeleng Kagiso Kahina Kamaria Katlego Kayin Kefilwe Kirabo 
 		Kondwani Kumbukani Kunto Lerato Lesedi Limbani Limbikani Lindiwe Lumusi Lungile Madalitso Makena Manyara Marjani 
 		Masego Masozi 
+	}
+}
+
+
+hurrian = {
+	graphical_culture = muslimgfx
+	mittani = {
+		primary = MIT
 	}
 }

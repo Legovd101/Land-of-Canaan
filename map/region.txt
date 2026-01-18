@@ -57,7 +57,8 @@ ural_region = {
 iberia_region = { 
 	areas = { 
 		aragon_area catalonia_area valencia_area lower_andalucia_area upper_andalucia_area castille_area toledo_area asturias_area leon_area alentejo_area
-		beieras_area basque_country galicia_area baleares_area extremadura_area north_castille_area mancha_area 
+		beieras_area basque_country galicia_area baleares_area extremadura_area north_castille_area mancha_area magro_area urgell_area helmantike_area
+		brigantia_area lisbona_area mons_calpe_area 
 	}
 }
 british_isles_region = { 
@@ -90,7 +91,7 @@ crimea_region = {
 balkan_region = { 
 	areas = { 
 		croatia_area east_adriatic_coast_area bosnia_area serbia_area rascia_area bulgaria_area macedonia_area northern_greece_area morea_area thrace_area
-		albania_area silistria_area slavonia_area mala_area thessalia_area thessalonica_area greek_islands_area attica_area philippopolis_area 
+		albania_area silistria_area slavonia_area mala_area thessalia_area thessalonica_area greek_islands_area attica_area philippopolis_area adrianople_area
 	}
 }
 carpathia_region = { 
@@ -112,23 +113,27 @@ maghreb_region = {
 mashriq_region = { 
 	areas = { 
 		syria_area palestine_area al_jazira_area iraq_arabi_area basra_area trans_jordan_area syrian_desert_area aleppo_area chaldea_area mikra_sogdia_area
+		kassima_area seleukia_area nineveh_area tadmor_area tripolis_area
 	}
 }
 anatolia_region = { 
 	areas = { 
 		hudavendigar_area aydin_area karaman_area rum_area kastamonu_area erzurum_area north_kurdistan_area dulkadir_area cukurova_area ankara_area
-		aegean_archipelago_area germiyan_area 
+		aegean_archipelago_area germiyan_area mysia_area kotyaion_area lycia_area tarsus_area iconia_area amaseia_area hierapolis_area paphlagonia_area
+		harran_area 
 	}
 }
 persia_region = { 
 	areas = { 
 		luristan_area farsistan_area iraq_e_ajam_area tabarestan_area azerbaijan_area isfahan_area kerman_area persian_gulf_coast tabriz_area khuzestan_area
-		shahrizor_area mogostan_area urmia_area qom_area artaka_area 
+		shahrizor_area mogostan_area urmia_area qom_area fereydunshahr_area dezful_area hamadan_area yazd_area bam_area lamerd_area
+		persepolis_area kesh_area deylam_area hashtrud_area kermanshah_area 
 	}
 }
 khorasan_region = { 
 	areas = { 
 		merv_area balkh_area kabulistan_area ghor_area sistan_area makran_area kalat_area birjand_area herat_area mashhad_area
+		golestan_area 
 	}
 }
 caucasia_region = { 

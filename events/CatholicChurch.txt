@@ -1,0 +1,79 @@
+
+
+namespace = itloc_catholic_events
+
+# The Koiné Akadimía for the emperor...
+country_event = {
+	id = itloc_catholic_events.1
+	title = "itloc_catholic_events.1.title"
+	desc = "itloc_catholic_events.1.desc"
+	picture = HRE_eventPicture
+	
+	major = yes
+	is_triggered_only = yes
+	immediate = {
+		hidden_effect = {
+			set_country_flag = common_academy_flag
+		}
+	}
+
+	option = { # These "Katholikon" shall lead the empire into the future!
+		name = "itloc_catholic_events.1.a"
+		change_religion = katholikos
+		capital_scope = {
+			change_religion = katholikos
+		}
+		set_hre_religion = katholikos
+		every_country = {
+			limit = {
+				is_part_of_hre = yes
+				is_emperor = no
+				num_of_cities = 1
+				NOT = { vassal_of = ROOT }
+			}
+			country_event = { id = itloc_catholic_events.2 }
+		}
+	}
+	option = { # This all sounds far too radical...
+		name = "itloc_catholic_events.1.b"
+	}
+}
+
+# ...and for member states
+country_event = {
+	id = itloc_catholic_events.2
+	title = "itloc_catholic_events.2.title"
+	desc = "itloc_catholic_events.2.desc"
+	picture = HRE_eventPicture
+	
+	is_triggered_only = yes
+	
+	option = {
+		name = "itloc_catholic_events.2.a"
+		# ai_chance = {
+		# 	factor = 10
+		# 	modifier = {
+		# 		factor = 0
+		# 		NOT = {
+		# 			will_back_reform = emperor_erbkaisertum
+		# 		}
+		# 	}
+		# }
+		change_religion = katholikos
+		capital_scope = {
+			change_religion = katholikos
+		}
+	}
+	
+	option = {
+		name = "itloc_catholic_events.2.b"
+		ai_chance = {
+			factor = 10
+			modifier = {
+				factor = 0
+				will_back_reform = emperor_erbkaisertum
+			}			
+			
+		}
+	}
+}

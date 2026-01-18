@@ -1,0 +1,243 @@
+namespace = anatolia
+
+# Dummy incident
+country_event = {
+	id = anatolia.1
+	title = anatolia.1.t
+	picture = GOOD_WITH_MONARCH_eventPicture
+	desc = anatolia.1.d
+	
+	fire_only_once = yes
+	is_triggered_only = yes
+		
+	option = { # A direct intervention by the Emperor is best!
+		name = anatolia.1.a
+		custom_tooltip = demand_anatolia_tt
+		add_imperial_influence = 5
+		anatolia_region = {
+			add_claim = emperor
+		}
+		ai_chance = {
+			factor = 1
+			modifier = {
+				factor = 100
+			}
+		}
+	}
+	
+	option = { # We should collaborate with the remaining Hellenic states in the region.
+		name = anatolia.1.b
+		add_imperial_influence = -10
+		PHI = {
+			country_event = { id = anatolia.2 days = 3 }
+		}
+		ION = {
+			country_event = { id = anatolia.2 days = 3 }
+		}
+		TRE = {
+			country_event = { id = anatolia.2 days = 3 }
+		}
+		ai_chance = {
+			factor = 1
+			modifier = {
+				factor = 100
+				OR = {
+					exists = PHI
+					exists = ION
+					exists = TRE
+				}
+			}
+		}
+	}	
+	
+	option = { # Perhaps the Captaincies can be courted?
+		name = anatolia.1.c
+		add_imperial_influence = -20
+		every_country = {
+			limit = {
+				culture = serican
+			}
+			country_event = { id = anatolia.2 days = 3 }
+		}
+		ai_chance = {
+			factor = 1
+		}
+	}	
+}
+
+
+# Offer of Suzerainty from [From.GetName]
+country_event = {
+	id = anatolia.2
+	title = anatolia.2.t
+	picture = GOOD_WITH_MONARCH_eventPicture
+	desc = anatolia.2.d
+	
+	is_triggered_only = yes
+	major = yes
+
+	option = { # yes
+		name = anatolia.2.a
+		ai_chance = {
+			factor = 10
+			modifier = {
+				factor = 1000
+				emperor = {
+					OR = {
+						alliance_with = ROOT
+						reverse_has_opinion = {
+							who = ROOT
+							value = 150
+						}
+					}
+				}
+			}
+			modifier = {
+				factor = 500
+				emperor = {
+					reverse_has_opinion = {
+						who = ROOT
+						value = 100
+					}
+				}
+			}
+			modifier = {
+				factor = 250
+				emperor = {
+					reverse_has_opinion = {
+						who = ROOT
+						value = 50
+					}
+				}
+			}
+		}
+		add_prestige = -10
+		if = {
+			limit = {
+				OR = {
+					tag = PHI
+					tag = ION
+					tag = TRE
+				}
+			}
+			if = { # If both accept, the whole peninsula will be added to the OKS (imperial ban)
+				limit = {
+					calc_true_if = {
+						amount = 2
+						OR = {
+							PHI = { is_part_of_hre = yes }
+							ION = { is_part_of_hre = yes }
+							TRE = { is_part_of_hre = yes }
+						}
+					}
+				}
+				anatolia_region = {
+					limit = {
+						is_capital = no
+					}
+					set_in_empire = yes
+				}
+			}
+			anatolia_region = {
+				add_permanent_claim = ROOT
+			}
+		}
+		capital_scope = {
+			set_in_empire = yes
+		}
+		set_in_empire = yes
+		emperor = {
+			add_imperial_influence = 15
+			create_guarantee = ROOT
+			add_opinion = {
+				who = ROOT
+				modifier = ceded_anatolia
+			}			
+		}
+	}
+	
+	option = { # no
+		name = anatolia.2.b
+		ai_chance = {
+			factor = 5
+			modifier = {
+				factor = 250
+				emperor = {
+					reverse_has_opinion = {
+						who = ROOT
+						value = -50
+					}
+				}
+			}
+			modifier = {
+				factor = 500
+				emperor = {
+					reverse_has_opinion = {
+						who = ROOT
+						value = -100
+					}
+				}
+			}
+			modifier = {
+				factor = 1000
+				emperor = {
+					OR = {
+						is_rival = ROOT
+						reverse_has_opinion = {
+							who = ROOT
+							value = -150
+						}
+					}
+				}
+			}
+		}
+		add_prestige = 10
+		emperor = {
+			add_imperial_influence = -15
+			add_opinion = {
+				who = ROOT
+				modifier = refused_to_cede_anatolia
+			}
+		}
+	}	
+}
+
+# Startup event for Emperor
+country_event = {
+	id = anatolia.3
+	title = anatolia.3.t
+	picture = GOOD_WITH_MONARCH_eventPicture
+	desc = anatolia.3.d
+	
+	fire_only_once = yes
+	
+	goto = 1775
+	
+	trigger = {	
+		has_dlc = "Emperor"
+		is_emperor = yes
+		OR = {
+			current_age = age_of_absolutism
+			current_age = age_of_revolutions
+		}
+		calc_true_if = {
+			amount = 40
+			all_province = {
+				region = anatolia_region
+				is_part_of_hre = no
+			}
+		}
+		NOT = { exists = BTH }
+		NOT = { active_imperial_incident = any }
+	}
+	
+	mean_time_to_happen = {
+		months = 240
+	}
+	
+	
+	option = {
+		name = anatolia.3.a
+		set_imperial_incident = incident_anatolia
+	}
+}

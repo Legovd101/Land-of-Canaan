@@ -3,6 +3,7 @@ owner = GDL#Juan II of Castille
 controller = GDL
 add_core = GAL
 culture = suebi
+add_core = SUV
 religion = new_gothic
 base_tax = 2
 base_production = 2

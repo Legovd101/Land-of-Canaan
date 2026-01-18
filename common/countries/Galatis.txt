@@ -1,0 +1,90 @@
+#Country Name: Please see filename.
+graphical_culture = westerngfx
+color = { 94 130 94 }
+revolutionary_colors = { 1 0 1 }
+historical_score = 25
+historical_idea_groups = { 
+	naval_ideas
+	trade_ideas
+	religious_ideas
+	exploration_ideas
+	diplomatic_ideas
+	economic_ideas
+	innovativeness_ideas
+	offensive_ideas
+}
+historical_units = { 
+	western_medieval_infantry
+	chevauchee
+	western_men_at_arms
+	swiss_landsknechten
+	dutch_maurician
+	french_caracolle
+	anglofrench_line
+	french_dragoon
+	french_bluecoat
+	french_cuirassier
+	french_impulse
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+monarch_names = { 
+	"Vercassivellaunos #0" = 60
+	"Bituitus #4" = 40
+	"Ambiorix #2" = 20
+	"Dumnorix #2" = 20
+	"Diviciacus #0" = 10
+	"Segovax #1" = 5
+	"Catuvolcus #0" = 5
+	"Viridomarus #0" = 5
+	"Eporedorix #0" = 0
+	"Acco #0" = 0
+	"Lucterius #0" = 0
+	"Sedullos #0" = 0
+	"Commius #0" = 0
+	"Togodumnos #0" = 0
+	"Drappes #0" = 0
+	"Vindex #0" = 0
+	"Adcantuannus #0" = 0
+	"Brictos #0" = 0
+	"Catugnatus #0" = 0
+	"Ueromos #0" = 0
+	"Rianorix #0" = 0
+	"Segomaros #0" = 0
+	"Litaviccus #0" = 0
+	"Bellovesus #0" = 0
+	"Cingetorix #0" = 0
+	"Orgetorix #0" = 0
+	"Camulogenos #0" = 0
+	"Indutiomarus #0" = 0
+	"Critognatos #0" = 0
+	"Virdumaros #0" = 0
+	"Vassetius #0" = 0
+	"Sedatos #0" = 0
+	"Senocatus #0" = 0
+	"Uxellodunos #0" = 0
+	"Vellocatus #0" = 0
+	"Cartimandua #0" = -10
+	"Epona #0" = -10
+	"Litavica #0" = -1
+	"Rosmerta #0" = -1
+	"Nantosuelta #0" = -1
+	"Bricta #0" = -1
+	"Adgennia #0" = -1
+}
+leader_names = { 
+	"mapos Ambiorigis" "mapos Diviciaci" "mapos Segomari" "mapos Bituiti" "mapos Cingetorigis" "mapos Eporedorigis" "mapos Orgetorigis" "mapos Indutiomari" "mapos Camulogenis" "mapos Vercassivellauni"
+	"mapos Bellovesi" "Ueromari mapos" "Segoduni mapos" "Catuvellauni" "Aedui" "Arverni" "Senones" "Carnutes" "Remi" "Lingones"
+	"Bituriges" "Parisii" "Treveri" 
+}
+ship_names = { 
+	"Epona" "Taranis" "Toutatis" "Teutates" "Sucellos" "Esus" "Lugus" "Cernunnos" "Belenos" "Maponos"
+	"Rosmerta" "Nantosuelta" "Bricta" "Sirona" "Segomaros" "Bellovesus" "Ambiorix" "Diviciacus" "Vercingetorix" "Orgetorix"
+	"Catuvolcus" "Camulos" "Rigisamos" "Albiorix" "Uirotutis" "Ueramos" "Dubnos" "Nemeton" "Uxellodunon" 
+}
+army_names = { 
+	"Slougos Aeduon" "Slougos Aruernon" "Slougos Biturigon" "Slougos Senonon" "Slougos Carnuton" "Slougos Remon" "Slougos Parisioon" "Slougos Treueron" "Slougos Lingonon" "Slougos Ueromandon"
+	"Slougos Nemeton" "Slougos $PROVINCE$" 
+}

@@ -11,6 +11,7 @@ base_production = 2
 base_manpower = 1
 trade_goods = naval_supplies
 culture = suebi
+add_core = SUV
 religion = new_gothic
 capital = "Orense"
 is_city = yes

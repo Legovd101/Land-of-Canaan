@@ -1,0 +1,119 @@
+graphical_culture = easterngfx
+color = { 189 0 13 }
+revolutionary_colors = { 4 1 4 }
+historical_idea_groups = { 
+	religious_ideas
+	defensive_ideas
+	spy_ideas
+	trade_ideas
+	offensive_ideas
+	economic_ideas
+	diplomatic_ideas
+	innovativeness_ideas
+}
+historical_units = { 
+	bardiche_infantry
+	eastern_knights
+	slavic_stradioti
+	eastern_militia
+	ottoman_sekban
+	ottoman_reformed_spahi
+	ottoman_reformed_janissary
+	ottoman_toprakli_hit_and_run
+	ottoman_nizami_cedid
+	ottoman_toprakli_dragoon
+	eastern_skirmisher
+	eastern_uhlan
+	eastern_carabinier
+	ottoman_new_model
+	ottoman_lancer
+}
+monarch_names = { 
+	"Bato #0" = 20
+	"Monounios #0" = 20
+	"Grabos #0" = 10
+	"Pleuratus #0" = 10
+	"Genthios #0" = 10
+	"Teutares #0" = 0
+	"Dazos #1" = 10
+	"Longaros #0" = 10
+	"Plator #2" = 1
+	"Ballaios #1" = 1
+	"Aulonios #0" = 1
+	"Byllaios #0" = 1
+	"Daorsios #0" = 1
+	"Dasius #0" = 1
+	"Epicadus #0" = 1
+	"Genthius #0" = 1
+	"Grabus #0" = 1
+	"Genthauros #0" = 1
+	"Laedus #0" = 1
+	"Liccaios #0" = 1
+	"Maelo #0" = 1
+	"Nervatus #0" = 1
+	"Pleuratos #0" = 1
+	"Pladomenus #0" = 1
+	"Skerdilaidas #0" = 1
+	"Scenobarbos #0" = 5
+	"Saros #0" = 1
+	"Teutares #0" = 1
+	"Tritanus #0" = 1
+	"Verzaios #0" = 1
+	"Volso #0" = 1
+	"Zanatis #0" = 1
+	"Ziridates #0" = 1
+	"Ziros #0" = 1
+	"Pleuron #0" = 5
+	"Genthauros #1" = 5
+	"Genthios #0" = 1
+	"Skerdilaidas #0" = 1
+	"Monounios #0" = 1
+	"Longaros #0" = 1
+	"Pleuratus #0" = 10
+	"Bato #0" = 10
+	"Daorsios #0" = 1
+	"Ballaios #0" = 1
+	"Plator #0" = 1
+	"Grabos #0" = 1
+	"Dazos #0" = 10
+	"Genthios #0" = 10
+	"Skerdilaidas #0" = 1
+	"Maelo #0" = 1
+	"Epicadus #0" = 1
+	"Ziros #0" = 1
+	"Volso #0" = 1
+	"Pleuron #0" = 1
+	"Liccaios #0" = 1
+	"Laedus #0" = 1
+	"Teuta #0" = -1
+	"Etleva #0" = -1
+	"Plania #0" = -1
+}
+leader_names = { 
+	Arianit
+	Badera Balsha Bua Cervota Comneniates Dukagjini Faqemiri Gojcin Golemi Kastrioti
+	Losha Musaki Sguros Shpata Spani Thopia Toptani Vishanj Zenevisi Zogu
+	Hoxha Çarçani Chani Dosti
+	Elezi
+	Duka
+	Fakaj
+	Corbajram
+	Halili
+	Hamza
+	Gecaj
+	Hajdaraga
+	Gjokaj
+	Gjika
+	Shehu
+	Alia
+	Vata
+	Veseli
+	Xhumba
+	Xhaferi
+	Ziberi
+	Useni
+	Ymeri
+}
+ship_names = { 
+	"Bishti i Palles" "Gjiri i Drinit" "Gjiri i Rondonit" Jube "Kalaja e Turres" "Kepi i Rodonit" Kyrekuq Shengjin Shetaj Velipoje
+}

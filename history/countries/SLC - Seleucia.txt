@@ -12,3 +12,15 @@ elector = yes
 government = republic
 add_government_reform = oligarchy_reform
 primary_culture = mesopotamian
+
+1430.1.1 = {
+	monarch = {
+		name = "Apuleon"
+		dynasty = "Slevkides"
+		adm = 2
+		dip = 4
+		mil = 6
+		religion = zoroastrian
+	}
+	add_ruler_personality = free_thinker_personality
+}

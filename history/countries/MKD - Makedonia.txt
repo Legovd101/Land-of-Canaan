@@ -5,7 +5,7 @@
 # MKD (Makedonía)
 government = monarchy
 add_government_reform = feudalism_reform
-government_rank = 1
+government_rank = 2
 primary_culture = greek
 religion = pyrrhonism
 technology_group = ottoman

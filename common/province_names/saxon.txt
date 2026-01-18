@@ -1,0 +1,29 @@
+# RULES
+# All names here will be my attempt at reconstructing Modern French and Breton names from Old English
+# Format: ID = { "Province" "Capital" } # Origin
+
+## Galle 
+
+# Brittany/Westangly
+169 = { "Foranseu" "Kuningsburg" } # "(Be)fore the sea", "King's city"
+170 = { "Landsendi" "Breg" } # "Land's End"
+171 = { "Uuenethskiri" "Weneð" } # Veneti
+172 = { "Anentskiri" "Anent" } # Amneti
+4384 = { "Riagonskiri" "Riegon" } # Regnica
+
+# Loire Valley/Eastangly
+177 = { "Kemen" "Kemenesburg" } # "Cemani's city"
+178 = { "Angek" "Angeksburg" } # "Andecavi's city"
+4389 = { "Theorona" "Theorona" } # Turones
+
+# Normandy/Suþsasse
+4385 = { "Kutanz" "Unellaburg" } # Coutances, "Unelles' city"
+1879 = { "Siluvarwik" "Siluvarwik" } # "Silver village"
+168 = { "Walstowik" "Walstowik" } # "Battlefield village"
+167 = { "Limwik" "Limwik" } # "Lime village"
+
+# Picardy/Norþsasse
+87 = { "Kalete" "Kaletesburg" } # Caletes
+88 = { "Akeuskiri" "Akeuburg" } # "Atrebates' City"
+89 = { "Pikker" "Pikker" } # "Picker"
+1743 = { "Kamehrok" "Kamehrok" } # "Picker"

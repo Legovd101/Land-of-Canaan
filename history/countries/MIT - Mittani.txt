@@ -1,0 +1,7 @@
+religion = hinduism
+capital = 3056
+technology_group = muslim
+primary_culture = mittani
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 3

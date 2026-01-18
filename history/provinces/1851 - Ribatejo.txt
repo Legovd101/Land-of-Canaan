@@ -11,6 +11,7 @@ base_production = 4
 base_manpower = 3
 trade_goods = grain
 culture = suebi
+add_core = SUV
 religion = xadarosh
 capital = "Coimbra"
 is_city = yes

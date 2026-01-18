@@ -5,3 +5,13 @@ technology_group = eastern
 primary_culture = saragur
 add_government_reform = steppe_horde
 government_rank = 3
+
+1430.1.1 = {
+	monarch = {
+		name = "Arslan"
+		dynasty = "Sälçuklular"
+		adm = 6
+		dip = 6
+		mil = 6	
+	}
+}

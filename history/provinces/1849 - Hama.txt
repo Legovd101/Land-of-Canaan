@@ -4,14 +4,13 @@
 ### Modified 11/4/2025 4:20:27 AM ###
 # Hama
 # 1849 Hama - 11/4/2025 4:20:27 AM 
-add_core = FAD
 add_core = NTI
 owner = NTI
 controller = NTI
 base_tax = 4
 base_production = 4
 base_manpower = 2
-trade_goods = cotton
+trade_goods = livestock
 culture = assyrian
 religion = zoroastrian
 capital = "Hama"
@@ -26,3 +25,4 @@ discovered_by = viking
 discovered_by = eastern
 discovered_by = nomad_group
 discovered_by = indian
+add_core = ASY

@@ -5,3 +5,15 @@ government_rank = 1
 primary_culture = mikmaq
 government = monarchy
 add_government_reform = feudalism_reform
+
+
+1430.1.1 = {
+	monarch = {
+		name = "Puku'kowij"
+		dynasty = "Onamagig"
+		adm = 3
+		dip = 5
+		mil = 1
+	}
+}
+

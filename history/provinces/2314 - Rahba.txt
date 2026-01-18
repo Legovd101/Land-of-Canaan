@@ -4,7 +4,6 @@
 ### Modified 11/4/2025 6:05:38 AM ###
 # Rahba
 # 2314 Rahba - 11/4/2025 6:05:38 AM 
-add_core = FAD
 add_core = ANZ
 add_core = BHT
 owner = BHT
@@ -25,3 +24,4 @@ discovered_by = indian
 discovered_by = nomad_group
 discovered_by = east_african
 discovered_by = BYZ
+add_core = ASY

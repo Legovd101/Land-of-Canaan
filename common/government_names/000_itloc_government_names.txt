@@ -1,0 +1,70 @@
+seleucid_empire = {
+	rank = {
+		3 = KOSMOKRATIA
+	}
+	
+	ruler_male = {
+		3 = KOSMOKRATOR
+	}
+	
+	ruler_female = {
+		3 = KOSMOKRATEIRA
+	}
+	
+	consort_male = {
+		3 = BASILEUS
+	}
+	
+	consort_female = {
+		3 = BASILISSA
+	}
+	
+	heir_male = {
+		3 = HEIR
+	}
+	
+	heir_female = {
+		3 = HEIR_fem
+	}
+	
+	trigger = {
+		OR = {
+			is_emperor = yes
+			tag = KMK
+		}
+	}
+}
+
+cypriote_kingdom = {
+	rank = {
+		2 = KINGDOM
+	}
+	
+	ruler_male = {
+		2 = BASILEUS
+	}
+	
+	ruler_female = {
+		2 = BASILEUS
+	}
+	
+	consort_male = {
+		2 = CONSORT
+	}
+	
+	consort_female = {
+		2 = CONSORT
+	}
+	
+	heir_male = {
+		2 = HEIR
+	}
+	
+	heir_female = {
+		2 = HEIR_fem
+	}
+	
+	trigger = {
+		tag = CYP
+	}
+}

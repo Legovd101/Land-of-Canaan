@@ -6,7 +6,6 @@
 # Natanz
 # 3029 Natanz - 11/4/2025 5:58:57 AM 
  
-add_core = ISF
 add_core = KES
 owner = KES
 controller = KES

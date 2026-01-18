@@ -2,5 +2,6 @@ religion = gallic_pagan
 capital = 90
 technology_group = western
 government = monarchy
+primary_culture = belgae
 add_government_reform = feudalism_reform
 government_rank = 1

@@ -48,7 +48,7 @@
  aztec_pagan_rebels_title: "Religious"
  aztec_pagan_religion_desc: "The Aztec religion features a creation myth centered on sacrifice - even gods were sacrificed to keep the sun moving. This is reflected in the many festivals and rituals of the religion, which feature human sacrifice on a massive scale. The chief gods are Huitzilopochtli, god of war and human sacrifice, Tlaloc, god of thunder and rain, Xiuhtecuhtli, god of fire, Xipe Totec, 'our Lord the Flayed One' and Quetzalcoatl, god of wisdom."
 
- baltic_pagan: "Reformed Romuva"
+ baltic_pagan: "Reformed"
  baltic_pagan_rebels_army: "$RELIGION$ Army"
  baltic_pagan_rebels_demand: "Convert $COUNTRYNAME$"
  baltic_pagan_rebels_demand_desc: "The religious rebels fight for the $RELIGION$ religion. They demand that we recognize its supremacy or at the very least cease our efforts to convert them and let them worship in peace."
@@ -209,6 +209,24 @@
  jupiterian_rebels_name: "$RELIGION$ Zealots"
  jupiterian_rebels_title: "Religious"
  jupiterian_religion_desc: "In a desperate attempt to unify his crumbling empire, Theodosius II, Emperor of Rome, declared that all subjects had to give tribute to and worship Jupiter, or Zeus among the Greeks, in 414. Not surprisingly, given the cult system that allowed people to worship whichever god affected their lives most had been around for a millenium, this only further divided the empire and contributed to its downfall. Today, Jupiterians are the last remnants of the followers of the Theodosian Creed, centered entirely in Italy. Although they are polytheistic on paper, paying lip-service to the rest of the Hellenic pantheon, in practice, Jupiter is the only god that matters to them."
+
+ katholikos: "Katholikós"
+ katholikos_rebels_army: "$RELIGION$ Army"
+ katholikos_rebels_demand: "Convert $COUNTRYNAME$"
+ katholikos_rebels_demand_desc: "The religious rebels fight for the $RELIGION$ religion. They demand that we recognize its supremacy or at the very least cease our efforts to convert them and let them worship in peace."
+ katholikos_rebels_desc: "Religious fanatics tend to rise up in provinces controlled by nations of a different faith. They seek to spread their faith and smite all unbelievers."
+ katholikos_rebels_name: "$RELIGION$ Zealots"
+ katholikos_rebels_title: "Religious"
+ katholikos_religion_desc: "An attempt at uniting the various faiths of Persia into one canon, the imperial-sponsored "Katholikós" or "Universal" faith is a syncretic mesh of Hellenic, Zoroastrian, and Buddhist beliefs."
+
+ kushite_pagan: "Qorato"
+ kushite_pagan_rebels_army: "$RELIGION$ Army"
+ kushite_pagan_rebels_demand: "Convert $COUNTRYNAME$"
+ kushite_pagan_rebels_demand_desc: "The religious rebels fight for the $RELIGION$ religion. They demand that we recognize its supremacy or at the very least cease our efforts to convert them and let them worship in peace."
+ kushite_pagan_rebels_desc: "Religious fanatics tend to rise up in provinces controlled by nations of a different faith. They seek to spread their faith and smite all unbelievers."
+ kushite_pagan_rebels_name: "$RELIGION$ Zealots"
+ kushite_pagan_rebels_title: "Religious"
+ kushite_pagan_religion_desc: "The reinvigorated Kushite faith traces its history back thousands of years to the ancient Egyptian empires of old."
 
  HOLY_SITE_379_DESC: "As one of the Abrahamic faiths, Yazidis hold Jerusalem as a sacred city, to be held with the utmost respect and care."
  HOLY_SITE_385_DESC: "Mecca is famous as the holy site of Islam. Control of it for the Yazidi faithful would be proof that it is towards Lalish we should pray, not Mecca."

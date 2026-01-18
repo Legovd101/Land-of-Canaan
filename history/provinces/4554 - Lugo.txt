@@ -11,6 +11,7 @@ base_production = 3
 base_manpower = 2
 trade_goods = fish
 culture = suebi
+add_core = SUV
 religion = new_gothic
 capital = "Lugo"
 is_city = yes

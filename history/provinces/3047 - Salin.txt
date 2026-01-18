@@ -4,14 +4,13 @@
 ### Modified 11/4/2025 6:05:38 AM ###
 # Salin
 # 3047 Salin - 11/4/2025 6:05:38 AM 
-add_core = ISF
 add_core = KSM
 owner = KSM
 controller = KSM
 base_tax = 1
 base_production = 1
 base_manpower = 1
-trade_goods = livestock
+trade_goods = salt
 culture = limenioi
 religion = mithraism
 capital = "Salin"

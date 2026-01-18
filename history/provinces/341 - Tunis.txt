@@ -17,7 +17,7 @@ center_of_trade = 2
 trade_goods = cloth
 extra_cost = 16
 
-culture = balearic
+culture = phoenician
 religion = norse_pagan
 capital = "Tunis"
 

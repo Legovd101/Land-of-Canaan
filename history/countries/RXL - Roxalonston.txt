@@ -14,3 +14,13 @@ capital = 4531
 # Specific Effects #
 
 
+1430.1.1 = {
+	monarch = {
+		name = "Digor"
+		dynasty = "Dorikan"
+		adm = 3
+		dip = 5
+		mil = 1
+	}
+}
+

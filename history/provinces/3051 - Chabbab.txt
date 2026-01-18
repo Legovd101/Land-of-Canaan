@@ -4,14 +4,13 @@
 ### Modified 11/4/2025 4:20:27 AM ###
 # Chabbab
 # 3051 Chabbab - 11/4/2025 4:20:27 AM 
-add_core = ISF
 add_core = BSL
 owner = BSL
 controller = BSL
 base_tax = 1
 base_production = 1
 base_manpower = 1
-trade_goods = livestock
+trade_goods = paper
 culture = mesopotamian
 religion = pyrrhonism
 capital = "Chabbab"

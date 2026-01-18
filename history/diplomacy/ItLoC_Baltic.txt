@@ -1,0 +1,49 @@
+
+union = {
+	first = PRU
+	second = LIT
+	start_date = 1444.1.1
+	end_date = 1579.1.23
+}
+
+vassal = {
+	first = PRU
+	second = DNZ
+	start_date = 1444.1.1
+	end_date = 1579.1.23
+}
+
+vassal = {
+	first = PRU
+	second = SDV
+	start_date = 1444.1.1
+	end_date = 1579.1.23
+}
+
+vassal = {
+	first = LIT
+	second = KRZ
+	start_date = 1444.1.1
+	end_date = 1579.1.23
+}
+
+vassal = {
+	first = LIT
+	second = ZMG
+	start_date = 1444.1.1
+	end_date = 1579.1.23
+}
+
+vassal = {
+	first = LIT
+	second = LTG
+	start_date = 1444.1.1
+	end_date = 1579.1.23
+}
+
+vassal = {
+	first = LIT
+	second = LVA
+	start_date = 1444.1.1
+	end_date = 1579.1.23
+}

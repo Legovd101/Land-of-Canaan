@@ -1,7 +1,7 @@
 #2327 - Maan
 owner = ANZ
 controller = ANZ
-culture = nabathu
+culture = nabatean
 religion = zoroastrian
 capital = "Maan"
 trade_goods = livestock

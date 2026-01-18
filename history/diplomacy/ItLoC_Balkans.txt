@@ -1,4 +1,4 @@
-
+# League of Thessalonica
 dependency = {
 	subject_type = league_member
 	first = MKD
@@ -103,6 +103,7 @@ dependency = {
 	end_date = 1579.1.23
 }
 
+# Roxalonston
 dependency = {
 	subject_type = tributary_state
 	first = RXL
@@ -143,9 +144,59 @@ dependency = {
 	end_date = 1579.1.23
 }
 
+# Adreanoblis
 vassal = {
 	first = ADR
 	second = CRL
+	start_date = 1444.1.1
+	end_date = 1579.1.23
+}
+
+# Daisitan
+dependency = {
+	subject_type = tributary_state
+	first = DST
+	second = MRD
+	start_date = 1444.1.1
+	end_date = 1579.1.23
+}
+
+dependency = {
+	subject_type = tributary_state
+	first = DST
+	second = PST
+	start_date = 1444.1.1
+	end_date = 1579.1.23
+}
+
+dependency = {
+	subject_type = tributary_state
+	first = DST
+	second = DRD
+	start_date = 1444.1.1
+	end_date = 1579.1.23
+}
+
+dependency = {
+	subject_type = tributary_state
+	first = DST
+	second = NNA
+	start_date = 1444.1.1
+	end_date = 1579.1.23
+}
+
+dependency = {
+	subject_type = tributary_state
+	first = DST
+	second = RAG
+	start_date = 1444.1.1
+	end_date = 1579.1.23
+}
+
+# Saraghur
+vassal = {
+	first = SAG
+	second = BUL
 	start_date = 1444.1.1
 	end_date = 1579.1.23
 }
