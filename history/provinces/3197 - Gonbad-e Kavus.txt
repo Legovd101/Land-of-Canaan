@@ -6,3 +6,6 @@ is_city = no
 hre = yes
 culture = parthian
 religion = zoroastrian
+base_tax = 2
+base_manpower = 1
+base_production = 1

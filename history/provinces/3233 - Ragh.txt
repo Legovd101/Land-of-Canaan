@@ -9,3 +9,7 @@ religion = pyrrhonism
 discovered_by = ottoman
 discovered_by = BUY
 discovered_by = OSE
+base_tax = 2
+base_manpower = 1
+base_production = 1
+trade_goods = salt
