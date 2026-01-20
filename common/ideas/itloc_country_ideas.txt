@@ -1,0 +1,130 @@
+GDL_ideas = {
+	start = {
+		infantry_power = 0.10 # Invasion Campaign
+		global_unrest = -1 # legacy of the Invasion
+	}
+
+	bonus = {
+		fort_maintenance_modifier = -0.15
+	}
+	
+	trigger = {
+		tag = GDL
+	}
+	free = yes		#will be added at load.
+	
+	tuile_de_daoine = {
+		culture_conversion_cost = -0.05
+		province_warscore_cost = -0.05
+	}
+	daisbhaile = {
+		fort_maintenance_modifier = -0.15
+	}
+	traochtar = {
+		global_unrest = -3
+	}
+	uisead = {
+		movement_speed_onto_off_boat_modifier = -0.2
+		leader_naval_shock = 2
+	}
+	muir_na_fola = {
+		recover_navy_morale_speed = 0.1
+	}
+	hy_brasil = {
+		colonists = 1
+		global_colonial_growth = 0.2
+	}
+	trath_de_athru = {
+		years_of_nationalism = -5
+		core_creation = -0.1
+	}
+}
+
+ALN_ideas = {
+	start = {
+		development_cost = -0.2 # City-Builting Legacy
+		defensiveness = 0.25 # Defense of the Realm
+	}
+
+	bonus = {
+		build_cost = -0.4
+	}
+	
+	trigger = {
+		tag = ALN
+	}
+	free = yes		#will be added at load.
+	
+	attaces_glory = {
+		cavalry_shock = 2
+		cav_to_inf_ratio = 0.25
+	}
+	origin_of_the_invaders = {
+		may_explore = yes
+		colonists = 1
+	}
+	valiant_defense = {
+		land_attrition = -0.10
+		reinforce_speed = 0.10
+	}
+	urban_centers = {
+		build_time = -0.25
+	}
+	iberian_domination = {
+		fabricate_claims_cost = -0.1
+		years_of_nationalism = -10
+	}
+	combined_arms = {
+		morale_damage_received = -0.025
+		leader_cost = -0.15
+	}
+	visigothic_rivals = {
+		prestige_from_land = 0.1
+		global_naval_barrage_cost = -0.5
+	}
+}
+
+NTI_ideas = {
+	start = {
+		development_cost = -0.25 # City-Builting Legacy
+		fort_maintenance_modifier = -0.25 # Legacy of Antiochus
+	}
+
+	bonus = {
+		build_cost = -0.4
+	}
+	
+	trigger = {
+		tag = NTI
+	}
+	free = yes		#will be added at load.
+	
+	city_of_antiochos = {
+		build_cost = -0.15
+		build_time = -0.25
+	}
+	leaders_of_the_empire = {
+		imperial_authority = 0.1
+		improve_relation_modifier = 0.2
+	}
+	antipatrean_walls = {
+		garrison_size = 0.25
+		defensiveness = 0.1
+	}
+	words_of_zoroaster = {
+		prestige_per_development_from_conversion = 0.2
+		global_missionary_strength = 0.02
+	}
+	mediterranean_markets = {
+		trade_steering = 0.15
+		light_ship_power = 0.1
+	}
+	reformed_hetairoi = {
+		cavalry_flanking = 0.5
+		morale_damage_received = -0.025
+	}
+	legacy_of_alexander = {
+		prestige_decay = -0.25
+		discipline = 0.02
+	}
+}

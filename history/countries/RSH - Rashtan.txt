@@ -1,0 +1,7 @@
+religion = zoroastrian
+capital = 3220
+technology_group = ottoman
+primary_culture = bactrian
+government_rank = 1
+government = monarchy
+add_government_reform = feudalism_reform

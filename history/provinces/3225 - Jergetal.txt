@@ -1,0 +1,11 @@
+capital = "Jergetal"
+add_core = BKP
+owner = BKP
+controller = BKP
+is_city = no
+culture = ionian
+hre = yes
+religion = dionysian
+discovered_by = ottoman
+discovered_by = BUY
+discovered_by = OSE

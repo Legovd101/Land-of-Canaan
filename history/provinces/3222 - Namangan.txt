@@ -1,0 +1,11 @@
+capital = "Namangan"
+owner = BUY
+controller = BUY
+is_city = no
+add_core = BUY
+culture = ionian
+hre = yes
+religion = dionysian
+discovered_by = ottoman
+discovered_by = BUY
+discovered_by = OSE

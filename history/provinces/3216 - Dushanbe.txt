@@ -1,0 +1,11 @@
+capital = "Dushanbe"
+add_core = TRM
+owner = TRM
+controller = TRM
+is_city = no
+culture = makrinoi
+hre = yes
+religion = zoroastrian
+discovered_by = ottoman
+discovered_by = BUY
+discovered_by = OSE

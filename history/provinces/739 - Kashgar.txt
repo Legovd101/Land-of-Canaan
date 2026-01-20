@@ -17,4 +17,6 @@ discovered_by = ottoman
 discovered_by = nomad_group
 extra_cost = 16
 center_of_trade = 2
+discovered_by = BUY
+discovered_by = OSE
 fort_15th = yes

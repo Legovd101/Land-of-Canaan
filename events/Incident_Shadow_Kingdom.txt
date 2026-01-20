@@ -64,12 +64,7 @@ country_event = {
 		every_province = {
 			limit = {
 				is_part_of_hre = yes
-				OR = {
-					region = khorasan_region
-					region = hindusthan_region
-					region = west_india_region
-					region = central_asia_region
-				}
+				region = bactria_region
 				owner = {
 					is_part_of_hre = no
 				}
@@ -105,12 +100,7 @@ country_event = {
 							NOT = {
 								is_part_of_hre = yes
 								capital_scope = {
-									OR = {
-										region = khorasan_region
-										region = hindusthan_region
-										region = west_india_region
-										region = central_asia_region
-									}
+									region = bactria_region
 								}
 							}
 						}
@@ -134,12 +124,7 @@ country_event = {
 								NOT = {
 									is_part_of_hre = yes
 									capital_scope = {
-										OR = {
-											region = khorasan_region
-											region = hindusthan_region
-											region = west_india_region
-											region = central_asia_region
-										}
+										region = bactria_region
 									}
 								}
 							}
@@ -188,12 +173,7 @@ country_event = {
 							NOT = {
 								is_part_of_hre = yes
 								capital_scope = {
-									OR = {
-										region = khorasan_region
-										region = hindusthan_region
-										region = west_india_region
-										region = central_asia_region
-									}
+									region = bactria_region
 								}
 							}
 						}
@@ -214,12 +194,7 @@ country_event = {
 								NOT = {
 									is_part_of_hre = yes
 								capital_scope = {
-									OR = {
-										region = khorasan_region
-										region = hindusthan_region
-										region = west_india_region
-										region = central_asia_region
-									}
+									region = bactria_region
 								}
 								}
 							}
@@ -241,12 +216,7 @@ country_event = {
 							NOT = {
 								is_part_of_hre = yes
 								capital_scope = {
-									OR = {
-										region = khorasan_region
-										region = hindusthan_region
-										region = west_india_region
-										region = central_asia_region
-									}
+									region = bactria_region
 								}
 							}
 						}
@@ -267,12 +237,7 @@ country_event = {
 							NOT = {
 								is_part_of_hre = yes
 								capital_scope = {
-									OR = {
-										region = khorasan_region
-										region = hindusthan_region
-										region = west_india_region
-										region = central_asia_region
-									}
+									region = bactria_region
 								}
 							}
 						}
@@ -285,12 +250,7 @@ country_event = {
 		every_province = {
 			limit = {
 				is_part_of_hre = yes
-				OR = {
-					region = khorasan_region
-					region = hindusthan_region
-					region = west_india_region
-					region = central_asia_region
-				}
+				region = bactria_region
 				owner = {
 					is_part_of_hre = no
 				}
@@ -311,14 +271,9 @@ country_event = {
 							overlord = { # overlord chooses for their vassals if eligible to leave themselves
 								NOT = {
 									is_part_of_hre = yes
-								capital_scope = {
-									OR = {
-										region = khorasan_region
-										region = hindusthan_region
-										region = west_india_region
-										region = central_asia_region
+									capital_scope = {
+										region = bactria_region
 									}
-								}
 								}
 							}
 						}
@@ -406,12 +361,7 @@ country_event = {
 				any_country = {
 					is_subject_of = ROOT
 					capital_scope = {
-						OR = {
-							region = khorasan_region
-							region = hindusthan_region
-							region = west_india_region
-							region = central_asia_region
-						}
+						region = bactria_region
 					}
 					is_part_of_hre = yes
 				}
@@ -419,12 +369,7 @@ country_event = {
 			every_subject_country = {
 				limit = {
 					capital_scope = {
-						OR = {
-							region = khorasan_region
-							region = hindusthan_region
-							region = west_india_region
-							region = central_asia_region
-						}
+						region = bactria_region
 					}
 					is_part_of_hre = yes
 				}
@@ -498,12 +443,7 @@ country_event = {
 								NOT = {
 									is_part_of_hre = yes
 									capital_scope = {
-										OR = {
-											region = khorasan_region
-											region = hindusthan_region
-											region = west_india_region
-											region = central_asia_region
-										}
+										region = bactria_region
 									}
 								}
 							}
@@ -516,12 +456,7 @@ country_event = {
 		every_province = {
 			limit = {
 				is_part_of_hre = yes
-				OR = {
-					region = khorasan_region
-					region = hindusthan_region
-					region = west_india_region
-					region = central_asia_region
-				}
+				region = bactria_region
 				owner = {
 					is_part_of_hre = no
 				}

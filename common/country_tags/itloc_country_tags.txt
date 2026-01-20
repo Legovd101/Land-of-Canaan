@@ -15,6 +15,12 @@ VKS = "countries/Vaxshabad.txt" # Parthian
 CRD = "countries/Corduene.txt"  ## Kurdish
 KRD = "countries/Kurdistan.txt"  ## Kurdish
 KUS = "countries/Kushansha.txt"  ## Kushan
+BOR = "countries/Borshand.txt"  ## Kushan
+KAD = "countries/Kand.txt"
+RSH = "countries/Rashtan.txt"
+BXR = "countries/Boxar.txt"
+XVA = "countries/Xiva.txt"
+SFD = "countries/Safedippa.txt"
 
  ## Hellenic
 NTI = "countries/Antiocheia.txt"
@@ -32,6 +38,10 @@ LXE = "countries/Alexandreia Eschata.txt"
 TRM = "countries/Thermae.txt"
 NDA = "countries/India.txt"
 RCH = "countries/Arachoisa.txt"
+LXH = "countries/Alexandreia Hyperboreia.txt"
+ECD = "countries/Eucratideia.txt"
+MKN = "countries/Marakanda.txt"
+BKP = "countries/Boukephala.txt"
 
  ## Eraník
 HMZ = "countries/Homerizad.txt"
@@ -70,6 +80,8 @@ RPH = "countries/Repha.txt" # Roman
 PMG = "countries/Pompeia Margiana.txt" # Roman
 BMC = "countries/Bamice.txt" # Gothic
 MIT = "countries/Mittani.txt" # Mitanni
+BUY = "countries/Buyeo.txt" # Koreanic
+OSE = "countries/Oseo.txt" # Koreanic
 
  # Anatolia
  ## Selikuó (Serico-Anatolian)

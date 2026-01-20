@@ -1,0 +1,7 @@
+religion = pyrrhonism
+technology_group = ottoman
+primary_culture = makrinoi
+government_rank = 1
+capital = 453
+government = monarchy
+add_government_reform = feudalism_reform

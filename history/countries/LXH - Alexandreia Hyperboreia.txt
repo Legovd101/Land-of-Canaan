@@ -1,0 +1,7 @@
+religion = zoroastrian
+technology_group = ottoman
+primary_culture = makrinoi
+capital = 2349
+government_rank = 1
+government = republic
+add_government_reform = oligarchy_reform

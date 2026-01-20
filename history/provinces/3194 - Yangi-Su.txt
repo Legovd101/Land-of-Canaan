@@ -1,0 +1,10 @@
+capital = "Yangi-Su"
+add_core = SFD
+owner = SFD
+controller = SFD
+is_city = no
+culture = abaxtri
+religion = zoroastrian
+discovered_by = ottoman
+discovered_by = BUY
+discovered_by = OSE

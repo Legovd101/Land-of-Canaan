@@ -233,7 +233,14 @@
  HOLY_SITE_411_DESC: "Mosul is home to Lalish, a mountain valley and temple in Ninawa. It is the holiest temple of the Yazidis. It is the location of the tomb of the Sheikh Adi ibn Musafir, a central figure of the Yazidi faith."
  HOLY_SITE_430_DESC: "Said to have been the burial site of the 3 magi, Bushehr is important not just strategically but theologically as well."
  HOLY_SITE_4326_DESC: "One of the oldest and most prestigious cities in the world, Nishapur has been the capital of more than one great empire, exuding prestige and power from its nucleus."
- hurrian_pagan: "Hurrian"
+
+ hurrian_pagan: "Khurri"
+ hurrian_pagan_rebels_army: "$RELIGION$ Army"
+ hurrian_pagan_rebels_demand: "Convert $COUNTRYNAME$"
+ hurrian_pagan_rebels_demand_desc: "The religious rebels fight for the $RELIGION$ religion. They demand that we recognize its supremacy or at the very least cease our efforts to convert them and let them worship in peace."
+ hurrian_pagan_rebels_desc: "Religious fanatics tend to rise up in provinces controlled by nations of a different faith. They seek to spread their faith and smite all unbelievers."
+ hurrian_pagan_rebels_name: "$RELIGION$ Zealots"
+ hurrian_pagan_rebels_title: "Religious"
  hurrian_pagan_religion_desc: "The Hurrians worshiped a great number of gods derived from various different cultures of the Near East. The main gods in the Hurrian pantheon were Teshub, the mighty weather god, and his wife Hebat, the mother goddess. A special class of figures venerated by the Hurrians were so-called Sarrena, deified kings and heroes."
 
  iberian_pagan: "Lurra Zoragarri"

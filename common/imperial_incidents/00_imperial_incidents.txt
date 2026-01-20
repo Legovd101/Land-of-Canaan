@@ -723,12 +723,7 @@ incident_shadow_kingdom = {
 		modifier = {
 			factor = 5
 			capital_scope = {
-				OR = {
-					region = khorasan_region
-					region = hindusthan_region
-					region = west_india_region
-					region = central_asia_region
-				}
+				region = bactria_region
 			}
 		}
 	}

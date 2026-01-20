@@ -1,0 +1,47 @@
+# RULES
+# All names here will be my attempt at reconstructing Modern French and Breton names from Old English
+# Format: ID = { "Province" "Capital" } # Origin
+
+## Iberia 
+
+# Asturias/Aitsiúraigh
+207 = { "Aitsiúraigh" "Sonáit" } # Astures, "Happy place"
+3161 = { "Fuibhaile" "Fuibhaile" } # "Blood village"
+1745 = { "Chaintbriaigh" "Brighidbhaile" } # Cantabres, "Brigid-ville"
+1746 = { "Búiragh" "Búiragh" } # Burgos
+
+# North Castille/Bisebria
+4552 = { "Péallansa" "Péallansa" } # Pallantia
+3159 = { "Riandaigh" "Riandaigh" }
+215 = { "Fáilís Tholl" "Fáilís Tholl" } # Vallis Tolitum
+3160 = { "Tiúrrash" "Tiúrrash" }
+
+# León/Gaeltacht
+208 = { "Áithbhaile" "Áithbhaile" } # "Victory-ville"
+3162 = { "Droch de Iarann" "Droch de Iarann" } # "Iron bridge"
+3163 = { "Malaígh" "Malaígh" }
+
+# Helemantiko
+4553 = { "Oghalam" "Oghalam" } # Ocalam
+216 = { "Ghaílemann" "Ghaílemann" } # Helmantike
+3164 = { "Geíríbhaile" "Geíríbhaile" }
+
+# Galicia/Kaliza
+3165 = { "Slíanaigh" "Slíanaigh" } # "Mount Naigh/Nedo"
+4554 = { "Adham" "Adham" } # "Wood"
+4558 = { "Miniú" "Miniú" } # Minho River
+4555 = { "Teogha" "Teogha" } # Teucer
+206 = { "Artebáigh" "Artebáigh" } # Artabri
+3166 = { "Subiáigh" "Subiáigh" } # Suebi
+
+# Briganta
+232 = { "Brigháins" "Brigháins" } # Brigantia
+3175 = { "Ríogha" "Ríogha" } # "Royal"
+3174 = { "Miniú de Dess" "Miniú de Dess" } # "South Minho"
+231 = { "Calforr" "Calforr" } # "Port"
+
+# Beiras/Beras
+3176 = { "Báirdagh" "Báirdagh" } # "High Beira"
+4556 = { "Abaraigh" "Abaraigh" } # Aber
+1851 = { "Coinabrigh" "Coinabrigh" } # Conimbriga
+228 = { "Báiríseal" "Báiríseal" } # "Low Beira"

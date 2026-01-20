@@ -1,0 +1,7 @@
+religion = dionysian
+capital = 3225
+technology_group = ottoman
+primary_culture = ionian
+government_rank = 1
+government = theocracy
+add_government_reform = holy_state_reform

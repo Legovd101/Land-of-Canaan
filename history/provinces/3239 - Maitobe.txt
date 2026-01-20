@@ -1,0 +1,10 @@
+capital = "Maitobe"
+owner = BUY
+controller = BUY
+is_city = no
+add_core = BUY
+culture = buyeo
+religion = vajrayana
+discovered_by = ottoman
+discovered_by = BUY
+discovered_by = OSE

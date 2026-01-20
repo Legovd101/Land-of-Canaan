@@ -1,7 +1,7 @@
 owner = NTI
 controller = NTI
 culture = mittani
-religion = hinduism
+religion = hurrian_pagan
 capital = "Suwar"
 trade_goods = sugar#known for its pastures for Timurid armies
 base_tax = 1

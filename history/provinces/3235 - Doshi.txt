@@ -1,0 +1,11 @@
+capital = "Doshi"
+add_core = KOS
+owner = KOS
+controller = KOS
+is_city = no
+culture = sogdik
+hre = yes
+religion = zoroastrian
+discovered_by = ottoman
+discovered_by = BUY
+discovered_by = OSE

@@ -15,5 +15,5 @@ discovered_by = ottoman
 discovered_by = nomad_group
 discovered_by = indian
 add_core = VKS
-fort_15th = yes
 hre = yes
+fort_15th = yes

@@ -3156,89 +3156,89 @@ province;red;green;blue;x;x
 3155;246;245;88;Tutera;x
 3156;71;184;42;Alava;x
 3157;83;220;87;Albarrasi;x
-3158;31;155;61;Cartagena;
-3159;37;172;60;Aranda;
-3160;89;89;56;Tordesillas;
-3161;157;204;166;Villaviciosa;
-3162;84;71;62;Ponferrada;
-3163;186;29;173;Benavente;
-3164;223;128;181;Ciudad Rodrigo;
-3165;156;98;143;Mondonedo;
-3166;197;195;99;Santiago;
-3167;120;243;248;Guadalajara;
-3168;89;129;178;Talavera;
-3169;93;129;61;Requena;
-3170;150;106;127;Merida;
-3171;22;0;112;Calatrava;
-3172;225;200;171;Guadix;
-3173;114;155;208;Carmona;
-3174;209;17;89;Minho;
-3175;51;228;25;Vila Real;
-3176;61;20;9;Beira Alta;
-3177;247;139;29;Portalegre;
-3178;161;78;220;Sines;
-3179;179;185;72;Leiria;
-3180;139;143;159;Fuerteventura;
-3181;238;245;244;Alcaraz;
-3182;43;44;52;Sierra Morena;
-3183;35;39;140;Baxo Aragon;
-3184;207;140;133;Cordillera Cantabrica;
-3185;207;140;134;Karakum Desert;
-3186;207;140;135;Kyzylkum Desert;
-3187;207;140;136;Ferghana Mountains1;
-3188;207;140;137;Ferghana Mountains2;
-3189;207;140;138;Ferghana Mountains3;
-3190;219;32;0;Ghardaman;
-3191;219;32;1;Shakhaman;
-3192;219;32;2;Tuprakkala;
-3193;219;32;3;Uzboy;
-3194;219;32;4;Yangi-Su;
-3195;219;32;5;Dzharia;
-3196;219;32;6;Okarem;
-3197;219;32;7;Gonbad-e Kavus;
-3198;219;32;8;ShirvanKhorasan;
-3199;219;32;9;Babadajhan;
-3200;219;32;10;Uc Depe Obasy;
-3201;219;32;11;Yagty Yol;
-3202;219;32;12;Sandykgacy;
-3203;219;32;13;Udarnik;
-3204;219;32;14;Garabekewul;
-3205;219;32;15;Talimardzhan;
-3206;219;32;16;Andkhoy;
-3207;219;32;17;Qorako'l;
-3208;219;32;18;Yangibazar;
-3209;219;32;19;Yangibog;
-3210;219;32;20;Qorovulbozor;
-3211;219;32;21;Navoi;
-3212;219;32;22;Sarmysh;
-3213;219;32;23;Kattakurgan;
-3214;219;32;24;Gallaorol;
-3215;219;32;25;Guzar;
-3216;219;32;26;Dushanbe;
-3217;219;32;27;Istaravshan;
-3218;219;32;28;Almalyk;
-3219;219;32;29;Konibodom;
-3220;219;32;30;Rishtan;
-3221;219;32;31;Chust;
-3222;219;32;32;Namangan;
-3223;219;32;33;Andijan;
-3224;219;32;34;Bazarkorgon;
-3225;219;32;35;Jergetal;
-3226;219;32;36;Osh;
-3227;219;32;37;Rovand;
-3228;219;32;38;Khurog;
-3229;219;32;39;Murghab;
-3230;219;32;40;Kushka;
-3231;219;32;41;Koytendag;
-3232;219;32;42;MazarISharif;
-3233;219;32;43;Ragh;
-3234;219;32;44;Taleqan;
-3235;219;32;45;Doshi;
-3236;219;32;46;Gharm;
-3237;219;32;47;Galaymor;
-3238;219;32;48;Mangystau Desert;
-3239;219;32;49;Maitobe;
-3240;219;32;50;Arys;
+3158;31;155;61;Cartagena;x
+3159;37;172;60;Aranda;x
+3160;89;89;56;Tordesillas;x
+3161;157;204;166;Villaviciosa;x
+3162;84;71;62;Ponferrada;x
+3163;186;29;173;Benavente;x
+3164;223;128;181;Ciudad Rodrigo;x
+3165;156;98;143;Mondonedo;x
+3166;197;195;99;Santiago;x
+3167;120;243;248;Guadalajara;x
+3168;89;129;178;Talavera;x
+3169;93;129;61;Requena;x
+3170;150;106;127;Merida;x
+3171;22;0;112;Calatrava;x
+3172;225;200;171;Guadix;x
+3173;114;155;208;Carmona;x
+3174;209;17;89;Minho;x
+3175;51;228;25;Vila Real;x
+3176;61;20;9;Beira Alta;x
+3177;247;139;29;Portalegre;x
+3178;161;78;220;Sines;x
+3179;179;185;72;Leiria;x
+3180;139;143;159;Fuerteventura;x
+3181;238;245;244;Alcaraz;x
+3182;43;44;52;Sierra Morena;x
+3183;35;39;140;Baxo Aragon;x
+3184;207;140;133;Cordillera Cantabrica;x
+3185;75;106;254;Karakum Desert;x
+3186;17;177;4;Kyzylkum Desert;x
+3187;200;252;248;Ferghana Mountains1;x
+3188;152;217;128;Ferghana Mountains2;x
+3189;91;75;80;Ferghana Mountains3;x
+3190;191;81;127;Ghardaman;x
+3191;228;253;31;Shakhaman;x
+3192;83;158;55;Tuprakkala;x
+3193;107;146;191;Uzboy;x
+3194;19;23;47;Yangi-Su;x
+3195;73;66;29;Dzharia;x
+3196;90;65;33;Okarem;x
+3197;129;40;80;Gonbad-e Kavus;x
+3198;195;57;69;ShirvanKhorasan;x
+3199;7;138;172;Babadajhan;x
+3200;236;151;154;Uc Depe Obasy;x
+3201;62;175;76;Yagty Yol;x
+3202;214;149;185;Sandykgacy;x
+3203;17;127;113;Udarnik;x
+3204;221;209;61;Garabekewul;x
+3205;24;224;16;Talimardzhan;x
+3206;11;143;38;Andkhoy;x
+3207;189;223;94;Qorako'l;x
+3208;135;120;91;Yangibazar;x
+3209;167;249;206;Yangibog;x
+3210;170;248;69;Qorovulbozor;x
+3211;66;60;62;Navoi;x
+3212;23;159;54;Sarmysh;x
+3213;114;154;47;Kattakurgan;x
+3214;166;44;21;Gallaorol;x
+3215;110;113;4;Guzar;x
+3216;144;157;205;Dushanbe;x
+3217;203;168;94;Istaravshan;x
+3218;250;11;76;Almalyk;x
+3219;223;51;237;Konibodom;x
+3220;248;184;120;Rishtan;x
+3221;156;222;35;Chust;x
+3222;142;151;207;Namangan;x
+3223;20;9;37;Andijan;x
+3224;183;11;7;Bazarkorgon;x
+3225;86;108;121;Jergetal;x
+3226;80;22;194;Osh;x
+3227;0;63;86;Rovand;x
+3228;243;220;221;Khurog;x
+3229;229;222;3;Murghab;x
+3230;170;72;201;Kushka;x
+3231;228;179;18;Koytendag;x
+3232;167;219;191;MazarISharif;x
+3233;141;156;35;Ragh;x
+3234;105;214;1;Taleqan;x
+3235;112;97;74;Doshi;x
+3236;128;123;136;Gharm;x
+3237;117;68;25;Galaymor;x
+3238;110;109;136;Mangystau Desert;x
+3239;81;28;54;Maitobe;x
+3240;82;104;172;Arys;x
 3241;219;32;51;UnusedLand51;
 3242;219;32;52;UnusedLand52;
 3243;219;32;53;UnusedLand53;

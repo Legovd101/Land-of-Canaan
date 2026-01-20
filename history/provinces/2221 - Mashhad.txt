@@ -1,7 +1,7 @@
 #2221 - Mashhad
 owner = SSH
 controller = SSH
-culture = khorasani
+culture = parthian
 religion = zoroastrian
 capital = "Mashhad"
 trade_goods = copper
@@ -18,3 +18,5 @@ center_of_trade = 2
 add_province_triggered_modifier = religious_center
 add_core = SSH
 hre = yes
+discovered_by = BUY
+discovered_by = OSE

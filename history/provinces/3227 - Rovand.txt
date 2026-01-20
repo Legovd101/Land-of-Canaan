@@ -1,0 +1,11 @@
+capital = "Rovand"
+add_core = BOR
+owner = BOR
+controller = BOR
+is_city = no
+culture = kushan
+hre = yes
+religion = zoroastrian
+discovered_by = ottoman
+discovered_by = BUY
+discovered_by = OSE

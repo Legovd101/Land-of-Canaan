@@ -1,0 +1,39 @@
+serican_ideas = {
+	start = {
+		infantry_power = 0.10 # Invasion Campaign
+		warscore_cost_vs_other_religion = -0.25 # legacy of the Invasion
+	}
+
+	bonus = {
+		culture_conversion_cost = -0.25
+	}
+	
+	trigger = {
+		culture_group = greco_serican
+	}
+	free = yes		#will be added at load.
+	
+	legacy_of_invasion = {
+		movement_speed = 0.1
+		siege_ability = 0.1
+	}
+	wild_west = {
+		global_missionary_strength = 0.04
+	}
+	mercenary_companies = {
+		discipline = 0.02
+	}
+	captaincy_governance = {
+		leader_cost = -0.5
+		monarch_military_power = 1
+	}
+	flexible_borders = {
+		num_accepted_cultures = 2
+	}
+	rapid_development = {
+		monthly_reform_progress = 0.5
+	}
+	last_of_the_greeks = {
+		core_creation = -0.1
+	}
+}

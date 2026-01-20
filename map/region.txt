@@ -113,7 +113,7 @@ maghreb_region = {
 mashriq_region = { 
 	areas = { 
 		syria_area palestine_area al_jazira_area iraq_arabi_area basra_area trans_jordan_area syrian_desert_area aleppo_area chaldea_area mikra_sogdia_area
-		kassima_area seleukia_area nineveh_area tadmor_area tripolis_area
+		kassima_area seleukia_area nineveh_area tadmor_area tripolis_area 
 	}
 }
 anatolia_region = { 
@@ -132,8 +132,13 @@ persia_region = {
 }
 khorasan_region = { 
 	areas = { 
-		merv_area balkh_area kabulistan_area ghor_area sistan_area makran_area kalat_area birjand_area herat_area mashhad_area
-		golestan_area 
+		kabulistan_area ghor_area sistan_area makran_area kalat_area birjand_area herat_area mashhad_area vakhsh_area golestan_area
+	}
+}
+bactria_region = { 
+	areas = { 
+		merv_area balkh_area termez_area arys_area yashilkul_area bukhara_area uzkend_area ferghana_area oxus_area maymana_area
+		qarshi_area transoxiana_area tashkent_area 
 	}
 }
 caucasia_region = { 
@@ -220,8 +225,8 @@ kongo_region = {
 }
 central_asia_region = { 
 	areas = { 
-		nogai_area transcaspia_area transoxiana_area kazakhstan_area balchasj_area khiva_area ferghana_area jetysuu_area arys_area lower_yik_area
-		syr_darya_area kashgaria_area tarim_basin_area shanshan_area kyzylkum_area termez_area 
+		nogai_area transcaspia_area kazakhstan_area balchasj_area khiva_area jetysuu_area lower_yik_area syr_darya_area kashgaria_area tarim_basin_area
+		shanshan_area kyzylkum_area gurganj_area 
 	}
 }
 south_africa_region = { 

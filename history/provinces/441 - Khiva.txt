@@ -1,7 +1,7 @@
 #441 - Khiva
-owner = SHY
-controller = SHY
-culture = bactrian
+owner = XVA
+controller = XVA
+culture = abaxtri
 religion = zoroastrian
 capital = "Khiva"
 trade_goods = wool
@@ -17,4 +17,6 @@ discovered_by = nomad_group
 discovered_by = indian
 extra_cost = 8
 center_of_trade = 1
-add_core = SHY
+add_core = XVA
+discovered_by = BUY
+discovered_by = OSE

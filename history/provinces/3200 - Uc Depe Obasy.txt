@@ -1,0 +1,11 @@
+capital = "Uc Depe Obasy"
+add_core = PMG
+owner = PMG
+controller = PMG
+is_city = no
+culture = parthik
+hre = yes
+religion = zoroastrian
+discovered_by = ottoman
+discovered_by = BUY
+discovered_by = OSE

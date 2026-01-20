@@ -1,0 +1,11 @@
+capital = "Sarmysh"
+add_core = MKN
+owner = MKN
+controller = MKN
+is_city = no
+culture = bactrian
+hre = yes
+religion = pyrrhonism
+discovered_by = ottoman
+discovered_by = BUY
+discovered_by = OSE

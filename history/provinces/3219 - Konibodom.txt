@@ -1,0 +1,11 @@
+capital = "Konibodom"
+add_core = KAD
+owner = KAD
+controller = KAD
+is_city = no
+culture = bactrian
+hre = yes
+religion = pyrrhonism
+discovered_by = ottoman
+discovered_by = BUY
+discovered_by = OSE

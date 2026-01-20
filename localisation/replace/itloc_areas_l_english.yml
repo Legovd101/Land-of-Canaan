@@ -573,3 +573,110 @@
 
  yorkshire_area: "Jorvík"
  yorkshire_area_adj: "Jorvíkr"
+
+# CENTRAL ASIA
+ arys_area: "Arys"
+ arys_area_adj: "Arys"
+
+ balchasj_area: "Balchash"
+ balchasj_area_adj: "Balchashi"
+
+ bukhara_area: "Bukhara"
+ bukhara_area_adj: "Bukharan"
+
+ ferghana_area: "Ferghana"
+ ferghana_area_adj: "Ferghanan"
+
+ gurganj_area: "Gurganj"
+ gurganj_area_adj: "Gurganji"
+
+ jetysuu_area: "Jetysuu"
+ jetysuu_area_adj: "Jetysuu"
+
+ kashgaria_area: "Kashgaria"
+ kashgaria_area_adj: "Kashgarian"
+
+ kazakhstan_area: "Kazakhstan"
+ kazakhstan_area_adj: "Kazakh"
+
+ khiva_area: "Khiva"
+ khiva_area_adj: "Khivan"
+
+ kyzylkum_area: "Kyzylkum"
+ kyzylkum_area_adj: "Kyzylkum"
+
+ lower_yik_area: "Lower Yik"
+ lower_yik_area_adj: "Yikian"
+
+ nogai_area: "Nogai"
+ nogai_area_adj: "Nogai"
+
+ oxus_area: "Oxus"
+ oxus_area_adj: "Oxite"
+
+ qarshi_area: "Qarshi"
+ qarshi_area_adj: "Qarshite"
+
+ shanshan_area: "Shanshan"
+ shanshan_area_adj: "Shanshani"
+
+ syr_darya_area: "Syr Darya"
+ syr_darya_area_adj: "Syr Darya"
+
+ tarim_basin_area: "Central Altishahr"
+ tarim_basin_area_adj: "Altishahr"
+
+ tashkent_area: "Tashkent"
+ tashkent_area_adj: "Tashkenti"
+
+ termez_area: "Khuttalan"
+ termez_area_adj: "Khuttalan"
+
+ transcaspia_area: "Transcaspia"
+ transcaspia_area_adj: "Transcaspian"
+
+ transoxiana_area: "Transoxiana"
+ transoxiana_area_adj: "Transoxianan"
+
+ uzkend_area: "Uzkend"
+ uzkend_area_adj: "Uzkendi"
+
+ yashilkul_area: "Yashilkul"
+ yashilkul_area_adj: "Yashilkul"
+
+# KHORASAN
+ balkh_area: "Balkh"
+ balkh_area_adj: "Balkhi"
+
+ birjand_area: "Birjand"
+ birjand_area_adj: "Birjandi"
+
+ ghor_area: "Ghor"
+ ghor_area_adj: "Ghori"
+
+ herat_area: "Herat"
+ herat_area_adj: "Herati"
+
+ kabulistan_area: "Kabulistan"
+ kabulistan_area_adj: "Kabulistani"
+
+ kalat_area: "Kalat"
+ kalat_area_adj: "Kalati"
+
+ makran_area: "Makran"
+ makran_area_adj: "Makrani"
+
+ mashhad_area: "Mashhad"
+ mashhad_area_adj: "Mashhad"
+
+ maymana_area: "Maymana"
+ maymana_area_adj: "Maymani"
+
+ merv_area: "Merv"
+ merv_area_adj: "Merv"
+
+ sistan_area: "Sistan"
+ sistan_area_adj: "Sistani"
+
+ vakhsh_area: "Vakhþ"
+ vakhsh_area: "Vakhþi"

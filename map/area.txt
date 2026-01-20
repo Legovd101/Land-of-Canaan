@@ -808,7 +808,7 @@ lower_yik_area = {  #4
 }
 nogai_area = {  #5
 
-	465 470 471 472 2366 
+	470 471 472 2366 
 }
 ural_area = {  #5
 
@@ -1956,48 +1956,69 @@ kalat_area = {  #3
 
 	576 577 2068 
 }
-ferghana_area = {  #3
+ferghana_area = {  #4
 
-	458 460 1967 
+	458 1967 3219 3220
 }
-arys_area = {  #3
+uzkend_area = {  #5
+	460 3222 3224 3225 3226 
+}
+arys_area = {  #4
 
-	457 2364 2356 
+	2364 2356 3239 3240
 }
 kyzylkum_area = {  #3
 
-	455 1970 2363 
+	455 1970 1969 
 }
-transoxiana_area = {  #3
-
-	442 453 454 
+tashkent_area = { #5
+	2363 457 3218 3221 3223
 }
-termez_area = {  #3
+yashilkul_area = {  #4
+	2127 3227 3228 3229
+}
+transoxiana_area = {  #5
 
-	1968 4344 4343 
+	454 4344 3213 3214 3217
+}
+qarshi_area = {  #4
+	453 3210 3215 3231
+}
+bukhara_area = {
+	442 3208 3209 3211 3212
+}
+termez_area = {  #5
+
+	1968 4343 3233 3216 3236
 }
 khiva_area = {  #5
 
-	440 441 1973 2362 2370 
+	440 441 1973 3190 3191
+}
+gurganj_area = {  #4
+	2362 2370 3193 3195
 }
 kabulistan_area = {  #5
 
 	color = { 96 219 58 }
 	448 451 452 578 2226 
 }
-transcaspia_area = { 
-	437 438 439 443 2349 
+transcaspia_area = {  #3
+	439 443 465 
 }
-mashhad_area = {  #4 - Northern Khorasan
+vakhsh_area = {  #4
+	2349 437 3194 3196
+}
+mashhad_area = {  #5 - Northern Khorasan
 
-	2221 2235 4326 
+	2221 2235 4326 2350 3198
 }
-golestan_area = {
-	2236 2214 427 
+golestan_area = {  #5
+	2236 2214 427 438 3197 
 }
-herat_area = {  #3 - Eastern Khorasan
+herat_area = {  #5 - Eastern Khorasan
 
-	446 4324 4325 
+	446 4324 4325 3237 3202
 }
 birjand_area = {  #3 - Western Khorasan
 
@@ -2011,14 +2032,20 @@ ghor_area = {  #3
 	color = { 191 176 53 }
 	447 449 2225 
 }
-merv_area = {  #3
+merv_area = {  #4
 
 	color = { 60 186 134 }
-	444 445 2350 
+	445 3199 3200 3201 
+}
+oxus_area = { #5
+	3192 444 3204 3205 3207
 }
 balkh_area = {  #3
 
-	450 2227 2228 
+	450 2227 3232 3235 3234
+}
+maymana_area = {
+	2228 3230 3206 3203
 }
 kerman_area = {  #3
 
@@ -2712,7 +2739,7 @@ kazakhstan_area = {  #5
 }
 syr_darya_area = {  #4
 
-	456 1969 2352 2361 
+	456 2352 2361 
 }
 yrtesh_area = {  #5
 
@@ -2817,7 +2844,7 @@ jetysuu_area = {  #5
 }
 kashgaria_area = {  #5 #Just Kashgar & Yarkand
 
-	739 2124 2127 4209 4210 
+	739 2124 4209 4210 
 }
 tarim_basin_area = {  #3 #The rest of the Seven Cities
 

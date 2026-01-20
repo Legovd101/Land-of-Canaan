@@ -1,0 +1,7 @@
+religion = vajrayana
+capital = 3221
+technology_group = chinese
+primary_culture = buyeo
+government_rank = 1
+government = tribal
+add_government_reform = steppe_horde

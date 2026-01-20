@@ -7,7 +7,7 @@
 # Brittany/Westangly
 169 = { "Foranseu" "Kuningsburg" } # "(Be)fore the sea", "King's city"
 170 = { "Landsendi" "Breg" } # "Land's End"
-171 = { "Uuenethskiri" "Weneð" } # Veneti
+171 = { "Uuenethskiri" "Uueneth" } # Veneti
 172 = { "Anentskiri" "Anent" } # Amneti
 4384 = { "Riagonskiri" "Riegon" } # Regnica
 

@@ -1,7 +1,7 @@
 #445 - Marv
 owner = PMG
 controller = PMG
-culture = parthian
+culture = parthik
 religion = mithraism
 capital = "Merv"
 trade_goods = cotton
@@ -18,4 +18,6 @@ extra_cost = 8
 center_of_trade = 1
 add_core = PMG
 hre = yes
+discovered_by = BUY
+discovered_by = OSE
 fort_15th = yes

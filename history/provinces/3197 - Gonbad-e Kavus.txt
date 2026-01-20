@@ -1,0 +1,8 @@
+capital = "Gonbad-e Kavus"
+add_core = VKS
+owner = VKS
+controller = VKS
+is_city = no
+hre = yes
+culture = parthian
+religion = zoroastrian

@@ -14,3 +14,5 @@ discovered_by = chinese
 discovered_by = nomad_group
 extra_cost = 8
 center_of_trade = 1
+discovered_by = BUY
+discovered_by = OSE
