@@ -7,9 +7,9 @@
 add_core = PSP
 owner = PSP
 controller = PSP
-base_tax = 1
-base_production = 1
-base_manpower = 1
+base_tax = 5
+base_production = 3
+base_manpower = 4
 trade_goods = grain
 culture = pharsik
 religion = zoroastrian

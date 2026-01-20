@@ -7,9 +7,9 @@
 add_core = DRN
 owner = DRN
 controller = DRN
-base_tax = 1
+base_tax = 2
 base_production = 1
-base_manpower = 1
+base_manpower = 2
 trade_goods = grain
 culture = drangiani
 religion = zoroastrian

@@ -7,9 +7,9 @@
 add_core = FAS
 owner = FAS
 controller = FAS
-base_tax = 1
+base_tax = 3
 base_production = 1
-base_manpower = 1
+base_manpower = 3
 trade_goods = slaves
 culture = pharsik
 religion = zoroastrian
