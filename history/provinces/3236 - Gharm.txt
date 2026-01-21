@@ -1,7 +1,6 @@
 capital = "Gharm"
-add_core = LXE
-owner = LXE
-controller = LXE
+owner = TRM
+controller = TRM
 is_city = no
 culture = makrinoi
 hre = yes
@@ -13,3 +12,4 @@ base_tax = 1
 base_manpower = 2
 base_production = 3
 trade_goods = grain
+add_core = TRM

@@ -125,9 +125,15 @@ anatolia_region = {
 }
 persia_region = { 
 	areas = { 
-		luristan_area farsistan_area iraq_e_ajam_area tabarestan_area azerbaijan_area isfahan_area kerman_area persian_gulf_coast tabriz_area khuzestan_area
-		shahrizor_area mogostan_area urmia_area qom_area fereydunshahr_area dezful_area hamadan_area yazd_area bam_area lamerd_area
-		persepolis_area kesh_area deylam_area hashtrud_area kermanshah_area 
+		farsistan_area isfahan_area kerman_area persian_gulf_coast khuzestan_area
+		mogostan_area fereydunshahr_area dezful_area yazd_area bam_area lamerd_area
+		persepolis_area 
+	}
+}
+atropatene_region = {
+	areas = {
+		urmia_area qom_area tabriz_area kesh_area deylam_area hashtrud_area kermanshah_area hamadan_area shahrizor_area 
+		iraq_e_ajam_area tabarestan_area azerbaijan_area luristan_area 
 	}
 }
 khorasan_region = { 

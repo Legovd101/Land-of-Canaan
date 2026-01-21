@@ -39,10 +39,9 @@ country_decisions = {
 				area = ferghana_area
 				area = termez_area
 				area = transoxiana_area
+				area = qarshi_area
 			}
-			OR = {
-				NOT = { country_or_non_sovereign_subject_holds = ROOT }
-			}
+			NOT = { country_or_non_sovereign_subject_holds = ROOT }
 		}
 		allow = {
 			is_free_or_tributary_trigger = yes
@@ -57,6 +56,10 @@ country_decisions = {
 				country_or_non_sovereign_subject_holds = ROOT
 			}
 			transoxiana_area = {
+				type = all
+				country_or_non_sovereign_subject_holds = ROOT
+			}
+			qarshi_area = {
 				type = all
 				country_or_non_sovereign_subject_holds = ROOT
 			}

@@ -5,7 +5,10 @@ country_decisions = {
 		potential = {
 			normal_or_historical_nations = yes
 			NOT = { has_country_flag = restored_ecumene_flag }
-			owns = 3131
+			OR = {
+				owns = 3131
+				owns = 410
+			}
 			OR = {
 				ai = no
 				is_playing_custom_nation = no

@@ -128,3 +128,46 @@ NTI_ideas = {
 		discipline = 0.02
 	}
 }
+
+PMR_ideas = {
+	start = {
+		naval_forcelimit_modifier = 0.15 # Naval Legacy
+		development_cost = -0.1 # Oldest Civilization
+	}
+
+	bonus = {
+		naval_maintenance_modifier = -0.3
+	}
+	
+	trigger = {
+		tag = PMR
+	}
+	free = yes		#will be added at load.
+	
+	fomorian_flight = {
+		may_explore = yes
+		colonists = 1
+	}
+	kings_landing = {
+		naval_morale = 0.2
+		leader_naval_shock = 2
+	}
+	vestiges_of_greatness = {
+		prestige_from_naval = 0.1
+		trade_range_modifier = 0.25
+	}
+	fomorian_temple = {
+		prestige_per_development_from_conversion = 0.2
+		global_missionary_strength = 0.02
+	}
+	western_shores = {
+		global_colonial_growth = 15
+	}
+	isolated_culture = {
+		culture_conversion_cost = -0.25
+	}
+	first_empire = {
+		prestige_decay = -0.25
+		discipline = 0.02
+	}
+}

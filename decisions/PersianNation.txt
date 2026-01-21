@@ -44,9 +44,7 @@ country_decisions = {
 				area = persian_gulf_coast
 				area = lamerd_area
 			}
-			OR = {
-				NOT = { country_or_non_sovereign_subject_holds = ROOT }
-			}
+			NOT = { country_or_non_sovereign_subject_holds = ROOT }
 		}
 		allow = {
 			is_free_or_tributary_trigger = yes

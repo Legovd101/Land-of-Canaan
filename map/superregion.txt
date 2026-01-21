@@ -131,6 +131,7 @@ persia_superregion = {
 	persia_region
 	caucasia_region
 	bactria_region
+	atropatene_region
 }
 
 new_world_superregion = {

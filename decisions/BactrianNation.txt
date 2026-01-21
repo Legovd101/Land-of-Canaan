@@ -1,0 +1,93 @@
+country_decisions = {
+	bactrian_nation = {
+		major = yes
+		potential = {
+			normal_or_historical_nations = yes
+			NOT = { has_country_flag = formed_bactria_flag }
+			was_never_end_game_tag_trigger = yes
+			OR = {
+				ai = no
+				is_playing_custom_nation = no
+			}
+			OR = {
+				is_free_or_tributary_trigger = yes
+				ai = no
+			}
+			NOT = { exists = PER }
+			OR = {
+				culture = bactrian
+				culture = makrinoi
+				culture = pharsik
+			}
+			OR = {
+				ai = no
+				AND = {
+					ai = yes
+					num_of_cities = 6
+				}
+			}
+			is_colonial_nation = no
+			OR = {
+				is_former_colonial_nation = no
+				AND = {
+					is_former_colonial_nation = yes
+					ai = no
+				}
+			}
+		}
+		provinces_to_highlight = {
+			region = bactria_region
+			NOT = { country_or_non_sovereign_subject_holds = ROOT }
+		}
+		allow = {
+			is_free_or_tributary_trigger = yes
+			is_at_war = no
+			owns_core_province = 450
+			num_of_owned_provinces_with = {
+				value = 50
+				region = bactria_region
+			}
+		}
+		effect = {
+			change_tag = BCT
+			# trigger_switch = {
+			# 	on_trigger = primary_culture
+			# 	persian = { PER = { override_country_name = PER_iranian } }
+			# 	persoi = { PER = { override_country_name = PER_hellenic } }
+			# }
+			if = {
+				limit = {
+					NOT = { government_rank = 2 }
+				}
+				set_government_rank = 2
+			}
+			khorasan_region = {
+				limit = {
+					NOT = { owned_by = ROOT }
+				}
+				add_permanent_claim = BCT
+			}
+			bactria_region = {
+				limit = {
+					NOT = { owned_by = ROOT }
+				}
+				add_permanent_claim = BCT
+			}
+			add_prestige = 25
+			add_country_modifier = {
+				name = "centralization_modifier"
+				duration = 7300
+			}
+			set_country_flag = formed_bactria_flag
+		# if = {
+		# 		limit = { 
+		# 			has_custom_ideas = no
+		# 			NOT = { has_idea_group = NSE_ideas }
+		# 		}
+		# 		country_event = { id = ideagroups.1 } #Swap Ideas
+		# 	}
+		}
+		ai_importance = 400
+	}
+
+}
