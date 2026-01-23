@@ -1,3 +1,104 @@
+# RULES
+# All names here will be either historical names, or reconstructed Greek Toponyms
+# Format: ID = { "Province" "Capital" } # Origin
+
+## Anatolia 
+
+# Çukurova/Cilicia
+327 = { "Kilikía" "Ádana" }
+
+## Mashriq/Mesopotamia 
+
+# Aleppo/Beroia
+2313 = { "Antiócheia" "Antiócheia" }
+4298 = { "Antiócheia tou Taúrou" "Antiócheia tou Taúrou" }
+377 = { "Béroia" "Béroia" }
+3060 = { "Bambýki" "Bambýki" }
+1849 = { "Epipháneia" "Epipháneia" }
+
+# Tripolis
+3062 = { "Hermélon" "Hermélon" }
+4297 = { "Émesa" "Émesa" }
+378 = { "Trípolis" "Trípolis" }
+
+# Syria/Darmesheq
+1855 = { "Sidón" "Sidón" }
+382 = { "Damaskós" "Damaskós" }
+3061 = { "Helioúpolis" "Helioúpolis" }
+
+# Palestine/Philistia
+379 = { "Hierosólyma" "Hierosólyma" }
+1854 = { "Ióppi" "Mábartha" }
+364 = { "Gáza" "Gáza" }
+
+# Transjordan
+2327 = { "Pétra" "Pétra" }
+380 = { "Charachmoba" "Charachmoba" }
+381 = { "Éklaneia" "Éklaneia" } # King Eglon
+
+# Syrian Desert
+4271 = { "Dionýsiás" "Dionýsiás" }
+4270 = { "Philadélphia" "Charachmoba" }
+3063 = { "Krémnika" "Krémnika" } # "Cliff"
+3074 = { "Chorazín" "Chorazín" }
+
+# Tadmor
+405 = { "Palmýra" "Palmýra" }
+3055 = { "Kríneia" "Kríneia" } # "Spring"
+3072 = { "Boúddapolis" "Boúddapolis" } # "Buddha's City"
+2314 = { "Doúra Eúropos" "Doúra Eúropos" }
+
+# Al-Jazira/Kallinikos
+407 = { "Kallínikos" "Kallínikos" }
+3056 = { "Soúri" "Soúri" }
+3057 = { "Birtha" "Birtha" }
+
+# Ninuwa
+2309 = { "Síngara" "Síngara" }
+3054 = { "Hatrí" "Hatrí" }
+4292 = { "Antiócheia tis Mygdonías" "Antiócheia tis Mygdonías" } # "Buddha's City"
+411 = { "Nineuí" "Nineuí" }
+
+# Mikra Sogdia
+406 = { "Aúdattha" "Aúdattha" }
+3053 = { "Hiknéia" "Hiknéia" } # "Arrival"
+2310 = { "Birtha ton Tigris" "Birtha ton Tigris" }
+3052 = { "Stratoníkeia" "Stratoníkeia" }
+
+# Chaldia
+3073 = { "Erythrópolis" "Erythrópolis" }
+3075 = { "Toúleia" "Toúleia" }
+3064 = { "Romanía" "Romanía" }
+3065 = { "Nýktophýla" "Nýktophýla" } # Night Guard
+3076 = { "Múgdonía" "Múgdonía" } # Mygdonia, Macedonia
+
+# Iraq Arabi/Ghanib Nahrain
+3066 = { "Trýphaina" "Trýphaina" }
+409 = { "Karbeláton" "Karbeláton" }
+3049 = { "Deániotan" "Deániotan" } # "(Where) the Gods Stood"
+3077 = { "Lasaía" "Lasaía" } # Lasaea, Crete
+
+# Seleukia
+410 = { "Babylón" "Babylón" }
+4291 = { "Óryzópolis" "Óryzópolis" } # "Rice City"
+3051 = { "Chabokúon" "Chabokúon" } # "Dog's Snout"
+2312 = { "Seleukía" "Seleukía" } # Lasaea, Crete
+
+# Basra
+2311 = { "Ouranópolis" "Ouranópolis" } # Heaven
+3050 = { "Ópisthenikaía" "Ópisthenikaía" } # "Behind"
+3048 = { "Oréch" "Oréch" }
+4288 = { "Tolmirópolis" "Tolmirópolis" } # "Valiant"
+408 = { "Vasóra" "Vasóra" }
+
+# Kassima
+3080 = { "Kadéssa" "Kadéssa" } # Kadesh
+3079 = { "Boúsaión" "Boúsaión" } # Busae
+3047 = { "Salamándrópolis" "Salamándrópolis" } # "Lizard"
+2340 = { "Larissa" "Larissa" }
+3067 = { "Níkaia tis Árabes" "Níkaia tis Árabes" } # "Nicaea of the Arabs"
+
+
 285 = "Theodosia"
 340 = "Constantina"
 352 = "Justiniania"
@@ -6,11 +107,9 @@
 360 = "Kaine"
 363 = "Tamiathis"
 396 = "Tylos"
-407 = "Kallinikos"
 418 = "Amida"
 1231 = "Syene"
 1233 = "Megale"
-2313 = "Antiocheia"
 2319 = "Lytkopolis"
 2326 = "Petra Megale"
 2348 = "Chios"
@@ -27,7 +126,6 @@
 324 = { "Laranda" "Laranda" }
 325 = { "Paphlagonia" "Timonio" }
 326 = { "Galatia" "Ancyra" }
-327 = { "Cilicia" "Atana" }
 328 = { "Sinope" "Sinop" }
 329 = { "Sebasteia" "Sebastopolis" }
 330 = { "Trebizond" "Trapezous" }
@@ -70,3 +168,4 @@
 1827 = "Ras"
 159 = "Dorostolon"
 2746 = "Vidyne"
+

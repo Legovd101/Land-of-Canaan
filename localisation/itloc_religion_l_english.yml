@@ -48,7 +48,7 @@
  aztec_pagan_rebels_title: "Religious"
  aztec_pagan_religion_desc: "The Aztec religion features a creation myth centered on sacrifice - even gods were sacrificed to keep the sun moving. This is reflected in the many festivals and rituals of the religion, which feature human sacrifice on a massive scale. The chief gods are Huitzilopochtli, god of war and human sacrifice, Tlaloc, god of thunder and rain, Xiuhtecuhtli, god of fire, Xipe Totec, 'our Lord the Flayed One' and Quetzalcoatl, god of wisdom."
 
- baltic_pagan: "Reformed"
+ baltic_pagan: "Romuva"
  baltic_pagan_rebels_army: "$RELIGION$ Army"
  baltic_pagan_rebels_demand: "Convert $COUNTRYNAME$"
  baltic_pagan_rebels_demand_desc: "The religious rebels fight for the $RELIGION$ religion. They demand that we recognize its supremacy or at the very least cease our efforts to convert them and let them worship in peace."
@@ -405,7 +405,7 @@
  pyrrhonism_rebels_desc: "Religious fanatics tend to rise up in provinces controlled by nations of a different faith. They seek to spread their faith and smite all unbelievers."
  pyrrhonism_rebels_name: "$RELIGION$ Zealots"
  pyrrhonism_rebels_title: "Religious"
- pyrrhonism_desc: "Founded in the teachings of Pyrrho of Elis, a member of Alexander the Great's court, Pyrrhonism is a school of skepticist thought (often said to be the first) based on many of the early teachings of Buddhist philosophers. After the rise of the First Seleukid Kingdom, Pyrrho settled in Alexandreia Eschata and joined the local Buddhist monks, who adopted his teachings. The Second Seleukid Kingdom, which had many Pyrrhonists in its court, spread the school across the Hindu Kush and Sogdia, and then the Sogdians spread his teachings westwards when they fled from the Kushans."
+ pyrrhonism_religion_desc: "Founded in the teachings of Pyrrho of Elis, a member of Alexander the Great's court, Pyrrhonism is a school of skepticist thought (often said to be the first) based on many of the early teachings of Buddhist philosophers. After the rise of the First Seleukid Kingdom, Pyrrho settled in Alexandreia Eschata and joined the local Buddhist monks, who adopted his teachings. The Second Seleukid Kingdom, which had many Pyrrhonists in its court, spread the school across the Hindu Kush and Sogdia, and then the Sogdians spread his teachings westwards when they fled from the Kushans."
 
  samaritan_faith: "Samaritan"
  samaritan_faith_rebels_army: "$RELIGION$ Army"

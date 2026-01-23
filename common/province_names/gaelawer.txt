@@ -1,5 +1,5 @@
 # RULES
-# All names here will be my attempt at reconstructing Modern French and Breton names from Old English
+# All names here will be my attempt at reconstructing Modern Ibero-Romance names from Irish
 # Format: ID = { "Province" "Capital" } # Origin
 
 ## Iberia 
