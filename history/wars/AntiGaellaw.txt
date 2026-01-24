@@ -1,0 +1,18 @@
+name = "War of the Gaelic Coalition"
+war_goal = {
+	type = superiority_punitive
+	casus_belli = cb_super_badboy
+	tag = GDL
+}
+
+
+
+# Truce falls apart.
+1444.11.10 = {
+	add_attacker = ALN
+	add_attacker = KSB
+	add_defender = GDL
+}
+
+1450.4.15 = {
+}

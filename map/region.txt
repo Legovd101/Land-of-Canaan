@@ -119,7 +119,7 @@ mashriq_region = {
 anatolia_region = { 
 	areas = { 
 		hudavendigar_area aydin_area karaman_area rum_area kastamonu_area erzurum_area north_kurdistan_area dulkadir_area cukurova_area ankara_area
-		aegean_archipelago_area germiyan_area mysia_area kotyaion_area lycia_area tarsus_area iconia_area amaseia_area hierapolis_area paphlagonia_area
+		aegean_archipelago_area germiyan_area mysia_area kotyaion_area lycia_area tarsus_area iconia_area amaseia_area phrygia_area paphlagonia_area
 		harran_area 
 	}
 }

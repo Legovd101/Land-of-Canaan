@@ -4,7 +4,7 @@
 ### Modified 11/29/2025 12:31:05 AM ###
 # ATL (Ataliya)
 government = monarchy
-add_government_reform = feudalism_reform
+add_government_reform = serican_captaincy_reform
 government_rank = 1
 primary_culture = serican
 religion = vajrayana

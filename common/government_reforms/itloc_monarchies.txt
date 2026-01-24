@@ -1,0 +1,23 @@
+serican_captaincy_reform = {
+	icon = "parliament_hall"
+	allow_normal_conversion = no
+	legacy_equivalent = elective_monarchy_legacy
+	lock_level_when_selected = yes
+	valid_for_nation_designer = yes
+	is_elective = yes
+	nation_designer_cost = 0
+	trigger = {
+		culture_group = greco_serican
+	}
+	modifiers = {
+		vassal_income = 0.25
+		mercenary_cost = -0.25
+		merc_maintenance_modifier = -0.25
+	}
+	custom_attributes = {
+		buffed_strong_duchies = yes #+5% Loyalty
+	}
+	ai = {
+		factor = 0.5 #generic
+	}
+}

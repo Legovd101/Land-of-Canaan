@@ -1,0 +1,48 @@
+vassal = {
+	first = ROM
+	second = UMB
+	start_date = 1444.1.1
+	end_date = 1579.1.23
+}
+
+vassal = {
+	first = ROM
+	second = BLG
+	start_date = 1444.1.1
+	end_date = 1579.1.23
+}
+
+vassal = {
+	first = ROM
+	second = RSN
+	start_date = 1444.1.1
+	end_date = 1579.1.23
+}
+
+vassal = {
+	first = ROM
+	second = SAF
+	start_date = 1444.1.1
+	end_date = 1579.1.23
+}
+
+vassal = {
+	first = ROM
+	second = OPC
+	start_date = 1444.1.1
+	end_date = 1579.1.23
+}
+
+vassal = {
+	first = ROM
+	second = TAS
+	start_date = 1444.1.1
+	end_date = 1579.1.23
+}
+
+vassal = {
+	first = ROM
+	second = KLB
+	start_date = 1444.1.1
+	end_date = 1579.1.23
+}

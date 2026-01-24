@@ -1,0 +1,74 @@
+namespace = flavor_GDL
+
+# The War of the Gaelic Coalition (Gaedlighe Intro Event)
+country_event = {
+	id = flavor_GDL.1
+	title = flavor_GDL.1.title
+	picture = GOOD_WITH_MONARCH_eventPicture
+	desc = flavor_GDL.1.desc
+	
+	is_triggered_only = yes
+	trigger = {
+		tag = GDL
+	}
+	fire_only_once = yes
+		
+	option = { # We shall triumph!
+		name = flavor_GDL.1.a
+		custom_tooltip = GDL_intro_tt
+		capital_scope = {
+			infantry = GDL
+			infantry = GDL
+			infantry = GDL
+			infantry = GDL
+			infantry = GDL
+			infantry = GDL
+			infantry = GDL
+		}
+	}
+}
+
+# The War of the Gaelic Coalition (Alonesiara Intro Event)
+country_event = {
+	id = flavor_GDL.2
+	title = flavor_GDL.2.title
+	picture = GOOD_WITH_MONARCH_eventPicture
+	desc = flavor_GDL.2.desc
+	
+	is_triggered_only = yes
+	trigger = {
+		tag = ALN
+	}
+	fire_only_once = yes
+		
+	option = { # The invaders shall be expelled!
+		name = flavor_GDL.2.a
+		create_general = {
+			tradition = 75
+			name = "Bagawas"
+		}
+	}
+}
+
+# The War of the Gaelic Coalition (Kaisarburgs Intro Event)
+country_event = {
+	id = flavor_GDL.3
+	title = flavor_GDL.3.title
+	picture = GOOD_WITH_MONARCH_eventPicture
+	desc = flavor_GDL.3.desc
+	
+	is_triggered_only = yes
+	trigger = {
+		tag = KSB
+	}
+	fire_only_once = yes
+		
+	option = { # The invaders shall be expelled!
+		name = flavor_GDL.3.a
+		create_general = {
+			tradition = 75
+			name = "Cixilsun"
+		}
+	}
+}
+

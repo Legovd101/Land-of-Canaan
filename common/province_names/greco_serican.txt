@@ -1,0 +1,136 @@
+# RULES
+# All names here will be transliterated Greek Toponyms in Chinese to the best of my ability 
+# Format: ID = { "Province" "Capital" } # Origin
+
+## Anatolia
+
+# Hüdavendigar/Prusias
+316 = { "Níkuomeng" "Níkuomeng" } # Nikomedia
+317 = { "Bùersà" "Bùersà" } # Prusa
+3087 = { "Xeng Hé" "Xeng Hé" } # Zingid
+3088 = { "Perùxi" "Perùxi" } # Prusias
+
+# Paphlagonia
+2299 = { "Bizùni" "Bizùni" } # Bithynium
+3091 = { "Puonzhí" "Puonzhí" } # Pontoherakleia
+3092 = { "Barízhen" "Barízhen" } # Parthenios
+3093 = { "Amaíxì" "Amaíxì" } # Semasus/Amastris
+
+# Karadeniz/Pontus
+325 = { "Chímoni" "Chímoni" } # Timonium
+3094 = { "Abùnuó" "Abùnuó" } # Abonoteichos
+328 = { "Xinuopu" "Xinuopu" } # Sinopi
+2304 = { "Gàli Xí" "Gàli Xí" } # Chaldia
+
+# Erzurum/Trapezous
+3096 = { "Faidíya" "Faidíya" } # Phadisani
+330 = { "Tuolêbízha" "Tuolêbízha" } # Trebizond
+331 = { "Kalí" "Kalí" } # Karin
+2305 = { "Aikílizên" "Aikílizên" } # Acilisene
+
+# Rum/Dokeia
+3110 = { "Zhê Lí" "Zhê Lí" } # Zelitis
+329 = { "Mígaluó" "Mígaluó" } # Megalopolis
+4315 = { "Guodùkí" "Guodùkí" } # Eudocia
+
+# Amaseia
+3095 = { "Ni Guòní" "Ni Guòní" } # Nikonia
+1846 = { "Améxíya" "Améxíya" } # Amaseia
+2300 = { "Dàoyi" "Dàoyi" } # Tavium
+4314 = { "Haomuòrí" "Haomuòrí" } # Amorium
+
+# Phrygia
+3108 = { "Yelá" "Yelá" } # Hierapolis
+3109 = { "Shàmailuo" "Shàmailuo" } # Sarmalius
+4313 = { "Qiàngalé" "Qiàngalé" } # Gangra
+
+# Ankara
+3107 = { "Píxinù" "Píxinù" } # Pessinus
+326 = { "Ankàla" "Ankàla" } # Ankara
+4312 = { "Duòlai" "Duòlai" } # Dorylaion
+
+# Kotyaion
+3097 = { "Sàkí" "Sàkí" } # Usak
+322 = { "Kuò Tian" "Kuò Tian" } # Kotyaion
+4308 = { "Laodíkiyà" "Laodíkiyà" } # Laodicea
+
+# Mysia
+3081 = { "Mílèduo" "Mílèduo" } # Miletopolis
+3082 = { "Kídòni" "Kídòni" } # Kydonies
+3083 = { "Ba Laí" "Ba Laí" } # Palaiokastron
+3084 = { "Xia Dêi" "Xia Dêi" } # Thyatira
+2296 = { "Aibíduo" "Aibíduo" } # Abydos
+
+# Aydin/Caria
+3085 = { "Alíguan" "Alíguan" } # Halicarnassus
+3086 = { "Fíladeì" "Fíladeì" } # Philadelphia
+318 = { "Samianuò" "Samianuò" } # Smyrna
+2297 = { "Fésuò" "Fésuò" } # Ephesus
+4309 = { "Téla" "Téla" } # Tralles
+
+# Lycia
+3089 = { "Maikèlí" "Maikèlí" } # Makri
+3090 = { "Kíbilà" "Kíbilà" } # Kibyra
+319 = { "Mílàxi" "Mílàxi" } # Mylasa
+2298 = { "Antalìyà" "Antalìyà" } # Attalia
+
+# Germiyan/Pisidia
+3098 = { "Fílòme" "Fílòme" } # Philomelion
+1848 = { "Bàlí" "Bàlí" } # Baris
+4311 = { "Límenuò" "Límenuò" } # Limnombria
+
+# Ikonia
+3101 = { "Mayídà" "Mayídà" } # Magida
+323 = { "Iguòní" "Iguòní" } # Iconium
+2301 = { "Wósébà" "Wósébà" } # Eusebia
+4307 = { "Akeílà" "Akeílà" } # Archelais
+
+# Karaman/Lycaonia
+3099 = { "Mixièti" "Mixièti" } # Mistheia
+3102 = { "Heilàkeí" "Heilàkeí" } # Heraclea
+324 = { "Ailandá" "Ailandá" }
+
+# Tarsos
+3103 = { "Korá Keishí" "Korá Keishí" } # Korakesion
+3104 = { "Dàshù" "Dàshù" } # Tarsus
+3113 = { "Shialama" "Shialama" } # Salamis
+321 = { "Níkuòsí" "Níkuòsí" } # Nicosia
+2302 = { "Seluokí" "Seluokí" } # Seleucia
+
+# Çukurova/Cilicia
+327 = { "Adánà" "Adánà" } # Adana 
+3105 = { "Beilàn" "Beilàn" } # Brankata
+3106 = { "Shisí" "Shisí" } # Sision
+
+# Dulkadir/Commagene
+332 = { "Màlíka" "Màlíka" } # Marash/Marqas
+3111 = { "Pa Xi" "Pa Xi" } # Plasta
+3112 = { "Pèlé" "Pèlé" } # Perrhe
+4310 = { "Tefélík" "Tefélík" } # Tephrike
+
+# Harran
+2303 = { "Mèlitín" "Mèlitín" } # Melitene
+2308 = { "Kalíluò" "Kalíluò" } # Callirrhoe 
+3058 = { "Kalai" "Kalai" } # Carrhae
+3059 = { "Kazhána" "Kazhána" } # Chasanara
+
+# Tarsos
+418 = { "Amiàda" "Amiàda" } # Amida
+2306 = { "Mushu" "Mushu" } # Mush
+4295 = { "Kéfà" "Kéfà" } # Kepha
+4296 = { "Baleísuo" "Baleísuo" } # Balaleison
+3015 = { "Sálà" "Sálà" } # Sârâ
+2307 = { "Wa" "Wa" } # Eua
+
+## Balkans/Haemia
+
+# Thrace/Europa
+151 = { "Bàizhàntíng" "Bàizhàntíng" } # Byzantium
+3132 = { "Bízhí" "Bízhí" } # Bizye
+3151 = { "Laidèshuó" "Laidèshuó" } # Rhaedestus
+
+# Adreanoblis
+4705 = { "Kuomóchi" "Kuomóchi" } # Komotini
+149 = { "Aidíernèi" "Aidíernèi" } # Adrianople
+4779 = { "Gailíb" "Gailíb" } # Gallipoli
+1764 = { "Meisàmbí" "Meisàmbí" }

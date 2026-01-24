@@ -10,4 +10,4 @@ capital = 3085
 religion = dionysian
 technology_group = ottoman
 government = monarchy
-add_government_reform = feudalism_reform
+add_government_reform = serican_captaincy_reform

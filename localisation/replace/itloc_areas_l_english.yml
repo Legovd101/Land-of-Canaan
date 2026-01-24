@@ -155,11 +155,45 @@
  west_burgundy_area_adj: "Burgundjan"
 
 # ANATOLIA
+
+ aegean_archipelago_area: "Aegean Archipelago"
+ aegean_archipelago_area_adj: "Aegean Archipelago"
+
  amaseia_area: "Amaseia"
  amaseia_area_adj: "Amaseian"
 
- mysia_area: "Mysia"
- mysia_area_adj: "Mysian"
+ ankara_area: "Ankara"
+ ankara_area_adj: "Ankara"
+
+ aydin_area: "Aydin"
+ aydin_area_adj: "Aydin"
+
+ cukurova_area: "Çukurova"
+ cukurova_area_adj: "Çukurova"
+
+ dulkadir_area: "Dulkadir"
+ dulkadir_area_adj: "Dulkadir"
+
+ erzurum_area: "Erzurum"
+ erzurum_area_adj: "Erzurum"
+
+ germiyan_area: "Germiyan"
+ germiyan_area_adj: "Germiyan"
+
+ harran_area: "Harran"
+ harran_area_adj: "Harranian"
+
+ hudavendigar_area: "Hüdavendigar"
+ hudavendigar_area_adj: "Hüdavendigar"
+
+ iconia_area: "Ikonia"
+ iconia_area_adj: "Ikonian"
+
+ karaman_area: "Karaman"
+ karaman_area_adj: "Karaman"
+
+ kastamonu_area: "Karadeniz"
+ kastamonu_area_adj: "Karadeniz"
 
  kotyaion_area: "Kotyaion"
  kotyaion_area_adj: "Kotyaian"
@@ -167,20 +201,24 @@
  lycia_area: "Lycia"
  lycia_area_adj: "Lycian"
 
- hierapolis_area: "Hierapolis"
- hierapolis_area_adj: "Hierapolitan"
+ mysia_area: "Mysia"
+ mysia_area_adj: "Mysian"
+
+ north_kurdistan_area: "Kurdistan"
+ north_kurdistan_area_adj: "Kurdistan"
 
  paphlagonia_area: "Paphlagonia"
  paphlagonia_area_adj: "Paphlagonian"
 
- iconia_area: "Ikonia"
- iconia_area_adj: "Ikonian"
+ phrygia_area: "Phrygia"
+ phrygia_area_adj: "Phrygia"
+
+ rum_area: "Rum"
+ rum_area_adj: "Rum"
 
  tarsus_area: "Tarsos"
  tarsus_area_adj: "Tarsian"
 
- harran_area: "Harran"
- harran_area_adj: "Harranian"
 
 # MASHRIQ
  al_jazira_area: "Kallínikos"

@@ -1,9 +1,9 @@
-#3107 - Doukkara
+#3107 - Pissinous
 owner = NKL
 controller = NKL
 culture = serican
 religion = zoroastrian
-capital = "Doukkara"
+capital = "Pissinous"
 trade_goods = cotton
 base_tax = 2
 base_production = 3

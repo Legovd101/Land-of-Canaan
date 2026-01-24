@@ -1185,7 +1185,7 @@ ankara_area = {  #3
 	color = { 57 154 172 }
 	326 4312 3107 
 }
-hierapolis_area = {  #3
+phrygia_area = {  #3
 	4313 3109 3108 
 }
 aegean_archipelago_area = {  #4
