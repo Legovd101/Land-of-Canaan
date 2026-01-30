@@ -51,7 +51,7 @@ russia_region = {
 }
 ural_region = { 
 	areas = { 
-		ural_area perm_area kazan_area galich_area saratov_area kama_area bashkiria_area samara_area volga_area 
+		ural_area perm_area kazan_area galich_area saratov_area kama_area bashkiria_area samara_area volga_area lower_yik_area
 	}
 }
 iberia_region = { 
@@ -231,8 +231,8 @@ kongo_region = {
 }
 central_asia_region = { 
 	areas = { 
-		nogai_area transcaspia_area kazakhstan_area balchasj_area khiva_area jetysuu_area lower_yik_area syr_darya_area kashgaria_area tarim_basin_area
-		shanshan_area kyzylkum_area gurganj_area 
+		nogai_area transcaspia_area kazakhstan_area balchasj_area khiva_area jetysuu_area syr_darya_area kashgaria_area tarim_basin_area
+		shanshan_area kyzylkum_area gurganj_area turgay_area taraz_area kypshak_area
 	}
 }
 south_africa_region = { 
