@@ -98,6 +98,214 @@
 2340 = { "Larissa" "Larissa" }
 3067 = { "Níkaia tis Árabes" "Níkaia tis Árabes" } # "Nicaea of the Arabs"
 
+## Anatolia
+
+# Hüdavendigar/Prusias
+316 = { "Nikomídeia" "Nikomídeia" } # Nikomedia
+317 = { "Proúsa" "Proúsa" } # Prusa
+3087 = { "Zingíd" "Zingíd" } # Zingid
+3088 = { "Prousías" "Prousías" } # Prusias
+
+# Paphlagonia
+2299 = { "Bithýnion" "Bithýnion" } # Bithynium
+3091 = { "Pontoherákleia" "Pontoherákleia" } # Pontoherakleia
+3092 = { "Parthénios" "Parthénios" } # Parthenios
+3093 = { "Ámastris" "Ámastris" } # Semasus/Amastris
+
+# Karadeniz/Pontus
+325 = { "Timónion" "Timónion" } # Timonium
+3094 = { "Abónou Teîchos" "Abónou Teîchos" } # Abonoteichos
+328 = { "Sinópi" "Sinópi" } # Sinopi
+2304 = { "Chaldía" "Amisós" } # Chaldia
+
+# Erzurum/Trapezous
+3096 = { "Phadisaní" "Phadisaní" } # Phadisani
+330 = { "Trapezoús" "Trapezoús" } # Trebizond
+331 = { "Karín" "Karín" } # Karin
+2305 = { "Akilisiní" "Akilisiní" } # Acilisene
+
+# Rum/Dokeia
+3110 = { "Zilítis" "Zilítis" } # Zelitis
+329 = { "Megalopolis" "Megalopolis" } # Megalopolis
+4315 = { "Dókeia" "Dókeia" } # Eudocia
+
+# Amaseia
+3095 = { "Nikónía" "Nikónía" } # Çorum/Niconia
+1846 = { "Amáseia" "Amáseia" } # Amaseia
+2300 = { "Táouion" "Táouion" } # Tavium
+4314 = { "Amórion" "Amórion" } # Amorium
+
+# Phrygia
+3108 = { "Hierápolis" "Hierápolis" } # Hierapolis
+3109 = { "Sarmálios" "Sarmálios" } # Sarmalius
+4313 = { "Gangra" "Gangra" } # Gangra
+
+# Ankara
+3107 = { "Pessinoús" "Pessinoús" } # Pessinus
+326 = { "Ánkyra" "Ánkyra" } # Ankara
+4312 = { "Darýlaion" "Darýlaion" } # Dorylaion
+
+# Kotyaion
+3097 = { "Sàki" "Sàki" } # Usak
+322 = { "Kotýaion" "Kotýaion" } # Kotyaion
+4308 = { "Laodíkeia" "Laodíkeia" } # Laodicea
+
+# Mysia
+3081 = { "Miletópolis" "Miletópolis" } # Miletopolis
+3082 = { "Kydoníes" "Kydoníes" } # Kydonies
+3083 = { "Palaiókastron" "Palaiókastron" } # Palaiokastron
+3084 = { "Thyátira" "Thyátira" } # Thyatira
+2296 = { "Abydos" "Abydos" } # Abydos
+
+# Aydin/Caria
+3085 = { "Halikarnassós" "Halikarnassós" } # Halicarnassus
+3086 = { "Philadelphía" "Philadelphía" } # Philadelphia
+318 = { "Smyrna" "Smyrna" } # Smyrna
+2297 = { "Éphesos" "Éphesos" } # Ephesus
+4309 = { "Tralles" "Tralles" } # Tralles
+
+# Lycia
+3089 = { "Mákri" "Mákri" } # Makri
+3090 = { "Kíbyra" "Kíbyra" } # Kibyra
+319 = { "Mýlasa" "Mýlasa" } # Mylasa
+2298 = { "Attáleia" "Attáleia" } # Attalia
+
+# Germiyan/Pisidia
+3098 = { "Philomílion" "Philomílion" } # Philomelion
+1848 = { "Báris" "Báris" } # Baris
+4311 = { "Limnómbria" "Limnómbria" } # Limnombria
+
+# Ikonia
+3101 = { "Magída" "Magída" } # Magida
+323 = { "Ikónion" "Ikónion" } # Iconium
+2301 = { "Eúsébeia" "Eúsébeia" } # Eusebia
+4307 = { "Archelaís" "Archelaís" } # Archelais
+
+# Karaman/Lycaonia
+3099 = { "Mistheía" "Mistheía" } # Mistheia
+3102 = { "Herákleia" "Herákleia" } # Heraclea
+324 = { "Laranda" "Laranda" } # Laranda
+
+# Tarsos
+3103 = { "Korakísion" "Korakísion" } # Korakesion
+3104 = { "Tarsos" "Tarsos" } # Tarsus
+3113 = { "Salamís" "Salamís" } # Salamis
+321 = { "Nikósia" "Nikósia" } # Nicosia
+2302 = { "Seleúkia" "Seleúkia" } # Seleucia
+
+# Çukurova/Cilicia
+327 = { "Ádana" "Ádana" } # Adana 
+3105 = { "Brankáta" "Brankáta" } # Brankata
+3106 = { "Sísion" "Sísion" } # Sision
+
+# Dulkadir/Commagene
+332 = { "Márkas" "Márkas" } # Marash/Marqas
+3111 = { "Plasta" "Plasta" } # Plasta
+3112 = { "Pírrhe" "Pírrhe" } # Perrhe
+4310 = { "Tephrikí" "Tephrikí" } # Tephrike
+
+# Harran
+2303 = { "Melitiní" "Melitiní" } # Melitene
+2308 = { "Kallirrhóis" "Kallirrhóis" } # Callirrhoe 
+3058 = { "Kárrhai" "Kárrhai" } # Carrhae
+3059 = { "Chasanara" "Chasanara" } # Chasanara
+
+# Kurdistan
+418 = { "Ámida" "Ámida" } # Amida
+2306 = { "Móus" "Móus" } # Mush
+4295 = { "Képha" "Képha" } # Kepha
+4296 = { "Balaléison" "Balaléison" } # Balaleison
+3015 = { "Sára" "Sára" } # Saray/Sêrê
+2307 = { "Eúa" "Eúa" } # Eua
+
+## Bactria/Baktria
+
+# Uzkend
+3225 = { "Boukephála" "Boukephála" } # Bucephala
+3224 = { "Pýrgora" "Pýrgora" } # "Fortified Market"
+3222 = { "Alatorycheía" "Alatorycheía" } # "Salt Mine"
+460 = { "Mabárannái" "Mabárannái" } # Mavarannahr
+3226 = { "Oúskeia" "Oúskeia" } # Osh
+
+# Ferghana
+3220 = { "Rissáta" "Rissáta" } # Rishtan
+3219 = { "Kánd" "Kánd" } # Konibodom/Kand
+1967 = { "Kyroúpolis" "Kyroúpolis" } # Cyropolis
+458 = { "Hoúkand" "Hoúkand" } # Kokand
+
+# Tashkent
+3223 = { "Sougánta" "Sougánta" } # Andijan, "Oath"
+3221 = { "Chósta" "Chósta" } # Chust/Khost
+2363 = { "Phúsakánd" "Phúsakánd" } # Atakent, "Forefathers' City"
+457 = { "Saískánd" "Saískánd" } # Tashkent
+3218 = { "Kriphthána" "Kriphthána" } # "Taken"
+
+# Arys
+3240 = { "Barýza" "Barýza" } # "Rye"
+3239 = { "Balaságon" "Balaságon" } # Balasagun
+2356 = { "Simkánd" "Simkánd" } # Shymkent
+2364 = { "Tálas" "Tálas" } # Talas/Taraz
+
+# Transoxiana
+3217 = { "Histára" "Histára" } # Istaravshan
+3214 = { "Gallíapolis" "Gallíapolis" } # "Gauls' City"
+3213 = { "Megápýrgos" "Megápýrgos" } # "Large Fortress"
+454 = { "Marakánda" "Marakánda" } # Samarkand
+4344 = { "Nautáka" "Nautáka" } # Kish
+
+# Bukhara
+3211 = { "Kerminí" "Kerminí" } # Kermine
+3212 = { "Míkophranx" "Míkophranx" } # "Poppy Gorge"
+3208 = { "Néagóra" "Néagóra" } # "New Market"
+3209 = { "Néa Képos" "Néa Képos" } # "New Garden"
+442 = { "Bouchára" "Bouchára" } # Bukhara
+
+# Oxus
+3207 = { "Maúrolímni" "Maúrolímni" } # "Black Lake"
+3192 = { "Ártabánópolis" "Ártabánópolis" } # "Poppy Gorge"
+3205 = { "Deutéronopolis" "Deutéronopolis" } # "Secondary"
+3204 = { "Lamprólemeia" "Lamprólemeia" } # "Bright Warrior"
+444 = { "Óxopolis" "Óxopolis" } # Oxus
+
+# Merv
+3200 = { "Triploúphoidí" "Triploúphoidí" } # "Three Hills Melody"
+3199 = { "Pápadanos" "Pápadanos" } # Babadajhan
+3201 = { "Lamprodós" "Lamprodós" } # "Bright Path"
+445 = { "Margianí" "Margianí" } # Merv
+
+# Maymana
+3206 = { "Kupséla" "Kupséla" } # "Box"
+3203 = { "Polúergópolis" "Polúergópolis" } # "Hard Worker"
+3230 = { "Koúska" "Koúska" } # Kushka
+2228 = { "Maimaní" "Maimaní" } # Maymana
+
+# Qarshi
+3210 = { "Tírisa" "Tírisa" } # "Watch"
+453 = { "Eúkratídeia" "Eúkratídeia" } # Eucratideia
+3215 = { "Póroneia" "Póroneia" } # "Passage"
+3231 = { "Koitánga" "Koitánga" } # Kotyendag
+
+# Balkh
+450 = { "Báktra" "Báktra" } # Bactra
+2227 = { "Áornos" "Áornos" } # Aornos
+3234 = { "Sácharák" "Sácharák" } # "Shah"
+3232 = { "Boúddapolis" "Boúddapolis" } # "Buddha's City"
+3235 = { "Doúsa" "Doúsa" } # Doshi
+
+# Khuttalan
+4343 = { "Thérmai" "Thérmai" } # 
+3216 = { "Diónyseia" "Diónyseia" } # "Dionysus"
+3236 = { "Agárma" "Agárma" } # Gharm
+1968 = { "Alexándreia Eschatí" "Alexándreia Eschatí" } # Alexandria Eschate
+3233 = { "Alexándreia tis Óxos" "Alexándreia tis Óxos" } # Alexandria on the Oxus
+
+# Yashilkul
+3227 = { "Iazýga" "Iazýga" } # Yazghulom 
+3228 = { "Podéia" "Podéia" } # "Foor"
+2127 = { "Prásinolimni" "Prásinolimni" } # "Green Lake"
+3229 = { "Mýrkóbi" "Mýrkóbi" } # Murghab
+
+
 
 285 = "Theodosia"
 340 = "Constantina"
@@ -107,7 +315,6 @@
 360 = "Kaine"
 363 = "Tamiathis"
 396 = "Tylos"
-418 = "Amida"
 1231 = "Syene"
 1233 = "Megale"
 2319 = "Lytkopolis"
@@ -117,41 +324,8 @@
 2447 = "Tamatarha"
 149 = { "Adrianople" "Adrianople" }
 151 = { "Constantinople" "Constantinople" }
-316 = { "Optimatoi" "Nikomedeia" }
-317 = { "Opsikion" "Prussa" }
-318 = { "Smyrna" "Smyrna" }
-319 = { "Mylasa" "Mougla" }
-322 = { "Kotyaion" "Kotyaion" }
-323 = { "Ikonion" "Iconion" }
-324 = { "Laranda" "Laranda" }
-325 = { "Paphlagonia" "Timonio" }
-326 = { "Galatia" "Ancyra" }
-328 = { "Sinope" "Sinop" }
-329 = { "Sebasteia" "Sebastopolis" }
-330 = { "Trebizond" "Trapezous" }
-331 = { "Theodosiopolis" "Theodosiopolis" }
 1764 = { "Mesambria" "Mesambria" }
-1846 = { "Armeniakon" "Amasea" }
-1848 = { "Baris" "Baris" }
-2296 = { "Abydos" "Pigai" }
-2297 = { "Thrakesion" "Magnesia" }
-2298 = { "Attalia" "Attalia" }
-2299 = { "Boukellarion" "Klaudiopol" }
-2300 = { "Cappadocia" "Tavium" }
-2301 = { "Charsianon" "Ceasarea" }
-2302 = { "Seleucia" "Kermarage" }
-2304 = { "Chaldia" "Amissos" }
-2305 = { "Acilisene" "Acilisene" }
 2750 = { "Philippopolis" "Philippopolis" }
-4307 = { "Colonia" "Colonia" }
-4308 = { "Laodicea" "Laodicea" }
-4309 = { "Tralles" "Tralles" }
-4310 = { "Tephrike" "Tephrike" }
-4311 = { "Anatolikon" "Polydorion" }
-4312 = { "Dorylaeum" "Dorylaeum" }
-4313 = { "Gangra" "Gangra" }
-4314 = { "Justinianopolis" "Justinianopolis" }
-4315 = { "Evdoksia" "Evdoksia" }
 4705 = { "Komotini" "Komotini" }
 4702 = { "Serres" "Serres" }
 4706 = { "Aegyssus" "Aegyssus" }
@@ -163,9 +337,7 @@
 4750 = "Kroai"
 4175 = "Lissos"
 4174 = "Dyrrhachion"
-4780 = "Lychnidos"
 1766 = "Dardania"
 1827 = "Ras"
 159 = "Dorostolon"
 2746 = "Vidyne"
-

@@ -24,3 +24,4 @@ add_core = BUY
 hre = yes
 discovered_by = BUY
 discovered_by = OSE
+add_core = BKP

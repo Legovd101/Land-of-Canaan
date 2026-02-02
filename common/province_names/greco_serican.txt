@@ -34,7 +34,7 @@
 4315 = { "Guodùkí" "Guodùkí" } # Eudocia
 
 # Amaseia
-3095 = { "Ni Guòní" "Ni Guòní" } # Nikonia
+3095 = { "Ni Guòní" "Ni Guòní" } # Çorum/Niconia
 1846 = { "Améxíya" "Améxíya" } # Amaseia
 2300 = { "Dàoyi" "Dàoyi" } # Tavium
 4314 = { "Haomuòrí" "Haomuòrí" } # Amorium
@@ -88,7 +88,7 @@
 # Karaman/Lycaonia
 3099 = { "Mixièti" "Mixièti" } # Mistheia
 3102 = { "Heilàkeí" "Heilàkeí" } # Heraclea
-324 = { "Ailandá" "Ailandá" }
+324 = { "Ailandá" "Ailandá" } # Laranda
 
 # Tarsos
 3103 = { "Korá Keishí" "Korá Keishí" } # Korakesion
@@ -114,12 +114,12 @@
 3058 = { "Kalai" "Kalai" } # Carrhae
 3059 = { "Kazhána" "Kazhána" } # Chasanara
 
-# Tarsos
+# Kurdistan
 418 = { "Amiàda" "Amiàda" } # Amida
 2306 = { "Mushu" "Mushu" } # Mush
 4295 = { "Kéfà" "Kéfà" } # Kepha
 4296 = { "Baleísuo" "Baleísuo" } # Balaleison
-3015 = { "Sálà" "Sálà" } # Sârâ
+3015 = { "Sálà" "Sálà" } # Saray/Sêrê
 2307 = { "Wa" "Wa" } # Eua
 
 ## Balkans/Haemia

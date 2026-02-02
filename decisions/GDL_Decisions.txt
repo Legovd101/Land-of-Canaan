@@ -1,0 +1,50 @@
+country_decisions = { 
+
+	consolidate_suevica = {
+		major = yes
+		potential = {
+			tag = GDL
+			any_subject_country = {
+				culture = suebi
+			}
+			NOT = { exists = SUV }
+		}
+		
+		allow = {
+			galicia_area = {
+				type = all
+				country_or_non_sovereign_subject_holds = ROOT
+			}
+			brigantia_area = {
+				type = all
+				country_or_non_sovereign_subject_holds = ROOT
+			}
+		}
+		
+		effect = {
+			SUV = {
+				change_primary_culture = gaelo_suebi
+				change_religion = gaelic_pagan
+				override_country_name = SUV_gaelic
+			}
+			every_subject_country = {
+				limit = {
+					capital_scope = {
+						OR = {
+							area = galicia_area
+							area = brigantia_area
+						}
+					}
+				}
+				SUV = { inherit = PREV }
+			}
+			vassalize = SUV
+		}
+		
+		ai_will_do = {
+			factor = 0
+		}
+	
+	}	
+
+}

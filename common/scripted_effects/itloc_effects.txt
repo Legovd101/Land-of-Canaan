@@ -1,0 +1,102 @@
+peace_of_asturias_GDL_loses_effect = {
+	release_all_subjects = yes
+	beieras_area = {
+		add_core = ALN
+		cede_province = ALN
+		remove_core = GDL
+	}
+	3164 = {
+		add_core = ALN
+		cede_province = ALN
+		remove_core = GDL
+	}
+	3175 = {
+		add_core = POR
+		cede_province = POR
+		remove_core = GDL
+	}
+	216 = {
+		add_core = POR
+		cede_province = POR
+		remove_core = GDL
+	}
+	232 = {
+		add_core = VTE
+		cede_province = VTE
+		remove_core = GDL
+	}
+	4558 = {
+		add_core = VTE
+		cede_province = VTE
+		remove_core = GDL
+	}
+	4554 = {
+		add_core = CRU
+		cede_province = CRU
+		remove_core = GDL
+	}
+	3165 = {
+		add_core = CRU
+		cede_province = CRU
+		remove_core = GDL
+	}
+	4551 = {
+		add_core = KSB
+		cede_province = KSB
+		remove_core = GDL
+	}
+	3160 = {
+		add_core = KSB
+		cede_province = KSB
+		remove_core = GDL
+	}
+	3159 = {
+		cede_province = HRS
+	}
+	1746 = {
+		cede_province = BSK
+	}
+	if = {
+		limit = { POR = { is_subject_of = GDL } }
+		ALN = {
+			create_subject = {
+				subject_type = tributary_state
+				subject = POR
+			}
+		}
+	}
+	if = {
+		limit = { EBR = { is_subject_of = GDL } }
+		KSB = {
+			create_subject = {
+				subject_type = tributary_state
+				subject = EBR
+			}
+		}
+	}
+}
+
+peace_of_asturias_GDL_wins_effect = {
+	beieras_area = {
+		add_core = GDL
+		cede_province = GDL
+		remove_core = ALN
+	}
+	3179 = {
+		add_core = GDL
+		cede_province = GDL
+		remove_core = ALN
+	}
+	4788 = {
+		add_core = GDL
+		cede_province = GDL
+		remove_core = ALN
+	}
+	3168 = {
+		add_core = GDL
+		cede_province = GDL
+		remove_core = ALN
+	}
+	vassalize = KSB
+	vassalize = ALN
+}

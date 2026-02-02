@@ -1,7 +1,6 @@
 # 3346 - Mondonedo
-owner = GDL#Juan II of Castille
+owner = GDL
 controller = GDL
-add_core = GAL
 culture = suebi
 add_core = SUV
 religion = new_gothic

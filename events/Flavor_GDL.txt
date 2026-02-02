@@ -4,53 +4,100 @@ namespace = flavor_GDL
 country_event = {
 	id = flavor_GDL.1
 	title = flavor_GDL.1.title
-	picture = GOOD_WITH_MONARCH_eventPicture
-	desc = flavor_GDL.1.desc
-	
+	picture = SIEGE_PRAGUE_CASTLE_eventPicture
+	desc = {
+		trigger = { tag = GDL }
+		desc = flavor_GDL.1.desc_GDL
+	}
+	desc = {
+		trigger = { tag = ALN }
+		desc = flavor_GDL.1.desc_ALN
+	}
+	desc = {
+		trigger = { tag = KSB }
+		desc = flavor_GDL.1.desc_KSB
+	}
+
 	is_triggered_only = yes
 	trigger = {
-		tag = GDL
+		OR = {
+			tag = GDL
+			tag = ALN
+			tag = KSB
+		}
 	}
-	fire_only_once = yes
-		
+	
+	immediate = { set_country_flag = in_gaelic_war }
+
 	option = { # We shall triumph!
 		name = flavor_GDL.1.a
-		custom_tooltip = GDL_intro_tt
-		capital_scope = {
-			infantry = GDL
-			infantry = GDL
-			infantry = GDL
-			infantry = GDL
-			infantry = GDL
-			infantry = GDL
-			infantry = GDL
+		if = {
+			custom_tooltip = GDL_intro_tt
+			limit = { tag = GDL}
+			while = {
+				limit = { NOT = { army_size_percentage = 1.0 } }
+				capital_scope = { infantry = GDL }
+			}
+		}
+		else_if = {
+			custom_tooltip = ALN_intro_tt
+			limit = { tag = ALN }
+			create_general = {
+				tradition = 75
+				name = "Bagawas"
+			}
+		}
+		else_if = {
+			custom_tooltip = KSB_intro_tt
+			limit = { tag = KSB }
+			create_general = {
+				tradition = 75
+				name = "Cixilsun"
+			}
 		}
 	}
 }
 
-# The War of the Gaelic Coalition (Alonesiara Intro Event)
+# An Offer of Peace? (Gaedlighe Losing)
 country_event = {
 	id = flavor_GDL.2
 	title = flavor_GDL.2.title
 	picture = GOOD_WITH_MONARCH_eventPicture
 	desc = flavor_GDL.2.desc
 	
-	is_triggered_only = yes
 	trigger = {
 		tag = ALN
+		war_score_against = {
+			who = GDL
+			value = 50
+		}
+		has_country_flag = in_gaelic_war
+	}
+	mean_time_to_happen = {
+		days = 1
 	}
 	fire_only_once = yes
 		
-	option = { # The invaders shall be expelled!
+	option = { # Let us send them an ultimatum!
 		name = flavor_GDL.2.a
-		create_general = {
-			tradition = 75
-			name = "Bagawas"
+		custom_tooltip = treaty_of_asturias_lose_tt
+		GDL = {
+			country_event = {
+				id = flavor_GDL.3
+				days = 3
+			}
+		}
+	}
+
+	option = { # I can handle my own peace treaty!
+		name = flavor_GDL.2.b
+		ai_chance = {
+			factor = 0
 		}
 	}
 }
 
-# The War of the Gaelic Coalition (Kaisarburgs Intro Event)
+# Treaty of Aitsiúraigh (Losing)
 country_event = {
 	id = flavor_GDL.3
 	title = flavor_GDL.3.title
@@ -58,17 +105,158 @@ country_event = {
 	desc = flavor_GDL.3.desc
 	
 	is_triggered_only = yes
-	trigger = {
-		tag = KSB
-	}
-	fire_only_once = yes
 		
-	option = { # The invaders shall be expelled!
+	option = { # Fine!
 		name = flavor_GDL.3.a
-		create_general = {
-			tradition = 75
-			name = "Cixilsun"
+		override_country_name = GDL_gaeltacht
+		peace_of_asturias_GDL_loses_effect = yes
+		white_peace = ALN
+		white_peace = KSB
+		add_truce_with = ALN	
+		add_truce_with = KSB	
+		add_truce_with = VTE	
+		add_truce_with = FLB	
+		add_truce_with = POR	
+		add_truce_with = CRU	
+		add_truce_with = EBR	
+		add_truce_with = BSK	
+		add_truce_with = HRS
+		clr_country_flag = in_gaelic_war
+		set_country_flag = lost_gaelic_war
+		ALN = {
+			clr_country_flag = in_gaelic_war
+			set_country_flag = won_gaelic_war
+		}
+		KSB = {
+			clr_country_flag = in_gaelic_war
+			set_country_flag = won_gaelic_war
+		}
+	}
+		
+	option = { # Do they think us fools?
+		name = flavor_GDL.3.b
+		ai_chance = {
+			factor = 0
 		}
 	}
 }
 
+# An Offer of Peace? (Gaedlighe Winning)
+country_event = {
+	id = flavor_GDL.4
+	title = flavor_GDL.4.title
+	picture = GOOD_WITH_MONARCH_eventPicture
+	desc = flavor_GDL.4.desc
+	
+	trigger = {
+		tag = GDL
+		war_score_against = {
+			who = ALN
+			value = 50
+		}
+		has_country_flag = in_gaelic_war
+	}
+	mean_time_to_happen = {
+		days = 1
+	}
+	fire_only_once = yes
+		
+	option = { # Let us send them an ultimatum!
+		name = flavor_GDL.4.a
+		custom_tooltip = treaty_of_asturias_win_tt
+		ALN = {
+			country_event = {
+				id = flavor_GDL.5
+				days = 3
+			}
+		}
+	}
+
+	option = { # I can handle my own peace treaty!
+		name = flavor_GDL.4.b
+		ai_chance = {
+			factor = 0
+		}
+	}
+}
+
+# Treaty of Aitsiúraigh (Winning)
+country_event = {
+	id = flavor_GDL.5
+	title = flavor_GDL.5.title
+	picture = GOOD_WITH_MONARCH_eventPicture
+	desc = flavor_GDL.5.desc
+	
+	is_triggered_only = yes
+		
+	option = { # Fine!
+		name = flavor_GDL.5.a
+		peace_of_asturias_GDL_wins_effect = yes
+		white_peace = ALN
+		white_peace = KSB
+		add_truce_with = ALN	
+		add_truce_with = KSB	
+		clr_country_flag = in_gaelic_war
+		set_country_flag = won_gaelic_war
+		ALN = {
+			clr_country_flag = in_gaelic_war
+			set_country_flag = lost_gaelic_war
+		}
+		KSB = {
+			clr_country_flag = in_gaelic_war
+			set_country_flag = lost_gaelic_war
+		}
+	}
+		
+	option = { # Do they think us fools?
+		name = flavor_GDL.5.b
+		ai_chance = {
+			factor = 0
+		}
+	}
+}
+
+# Consolidation of the Suebic Counts
+country_event = {
+	id = flavor_GDL.6
+	title = flavor_GDL.6.title
+	picture = GOOD_WITH_MONARCH_eventPicture
+	desc = flavor_GDL.6.desc
+	
+	trigger = {
+		tag = GDL
+		any_subject_country = {
+			is_subject_of_type = tributary_state
+			culture = suebi
+			has_opinion = {
+				who = ROOT
+				value = 150
+			}
+			NOT = { liberty_desire = 50 }
+			alliance_with = ROOT
+			ai = yes
+		}
+	}
+	
+	mean_time_to_happen = {
+		months = 12
+	}
+
+	option = { # Perfect!
+		name = flavor_GDL.6.a
+		random_country = {
+			limit = {
+				is_subject_of_type = tributary_state
+				culture = suebi
+				has_opinion = {
+					who = ROOT
+					value = 150
+				}
+				NOT = { liberty_desire = 50 }
+				alliance_with = ROOT
+				ai = yes
+			}
+			ROOT = { vassalize = PREV }
+		}
+	}
+}

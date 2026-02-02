@@ -1,6 +1,35 @@
 on_startup = {
 	hre_inheritable = yes
 	events = {
-		marcin_events.103
+		flavor_GDL.1
+		flavor_BUY.1
+	}
+}
+on_war_won = {
+	if = {
+		limit = { has_country_flag = in_gaelic_war }
+		if = {
+			limit = { FROM = { tag = ALN } }
+			clr_country_flag = in_gaelic_war
+			set_country_flag = won_gaelic_war
+			FROM = { set_country_flag = lost_gaelic_war clr_country_flag = in_gaelic_war }
+		}
+		else = {
+			FROM = { set_country_flag = lost_gaelic_war clr_country_flag = in_gaelic_war }
+		}
+	}
+}
+
+on_siege_won_province = {
+	if = {
+		limit = {
+			controller = { has_country_flag = invading_bactria }
+			province_id = 454
+		}
+		controller = {
+			country_event = {
+				id = flavor_BUY.7
+			}
+		}
 	}
 }

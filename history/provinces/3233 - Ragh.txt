@@ -1,7 +1,7 @@
 capital = "Ragh"
 owner = BLS
 controller = BLS
-is_city = no
+is_city = yes
 culture = makrinoi
 hre = yes
 religion = pyrrhonism

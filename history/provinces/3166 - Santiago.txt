@@ -1,7 +1,6 @@
 # 3347 - Santiago
-owner = FLB#Juan II of Castille
+owner = FLB
 controller = FLB
-add_core = GAL
 culture = normand
 religion = new_gothic
 base_tax = 5

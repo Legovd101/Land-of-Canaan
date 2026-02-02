@@ -5,3 +5,4 @@ technology_group = western
 primary_culture = visigothic
 government = theocracy
 add_government_reform = leading_clergy_reform
+historical_friend = ALN

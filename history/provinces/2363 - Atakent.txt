@@ -19,3 +19,4 @@ add_core = MKN
 hre = yes
 discovered_by = BUY
 discovered_by = OSE
+add_claim = BUY

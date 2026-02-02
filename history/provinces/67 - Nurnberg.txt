@@ -9,7 +9,6 @@ trade_goods = paper
 base_manpower = 3
 capital = "Nürnberg"
 is_city = yes
-add_claim = ANS
 discovered_by = eastern
 discovered_by = western
 discovered_by = latin

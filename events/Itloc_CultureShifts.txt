@@ -1,0 +1,162 @@
+namespace = cultureshift
+
+# Ebriac into Gaelach
+province_event = {
+	id = cultureshift.1
+	title = cultureshift.1t
+	desc = cultureshift.1d
+	picture = RELIGIOUS_CONVERSION_eventPicture
+
+	trigger = {
+		OR = {
+			culture = celtiberian
+		}
+		owner = {
+			culture_group = gaelic
+		}
+		# religion = owner
+	}
+
+	mean_time_to_happen = {
+		years = 25
+		modifier = {
+			factor = 0.9
+			NOT = {
+				any_neighbor_province = {
+					owner = {
+						OR = {
+							culture = celtiberian
+							religion = celtiberian_pagan
+						}
+					}
+				}
+			}
+		}
+		modifier = {
+			factor = 0.5
+			NOT = {
+				any_neighbor_province = {
+					culture = celtiberian
+				}
+			}
+		}
+		modifier = {
+			factor = 0.5
+			NOT = {
+				any_neighbor_province = {
+					religion = celtiberian_pagan
+				}
+			}
+		}
+		modifier = {
+			factor = 0.75
+			religion = gaelic_pagan
+		}
+		modifier = {
+			factor = 0.9
+			any_neighbor_province = {
+				OR = {
+					culture = gaelawer
+				}
+			}
+		}
+	}
+
+	option = {
+		name = cultureshift.1.a
+		change_culture = gaelawer
+		add_core = GDL
+		hidden_effect = {
+			if = {
+				limit = {
+					is_capital = yes
+					owner = { ai = yes }
+				}
+				owner = { change_primary_culture = gaelawer }
+			}
+		}
+	}
+}
+
+# Suebi into Subiách
+province_event = {
+	id = cultureshift.2
+	title = cultureshift.2t
+	desc = cultureshift.2d
+	picture = RELIGIOUS_CONVERSION_eventPicture
+
+	trigger = {
+		OR = {
+			culture = suebi
+		}
+		owner = {
+			culture_group = gaelic
+		}
+		# religion = owner
+	}
+
+	mean_time_to_happen = {
+		years = 25
+		modifier = {
+			factor = 0.9
+			NOT = {
+				any_neighbor_province = {
+					owner = {
+						OR = {
+							culture = suebi
+							religion_group = germanic_religions
+						}
+					}
+				}
+			}
+		}
+		modifier = {
+			factor = 0.5
+			NOT = {
+				any_neighbor_province = {
+					culture = suebi
+				}
+			}
+		}
+		modifier = {
+			factor = 0.5
+			NOT = {
+				any_neighbor_province = {
+					religion_group = germanic_religions
+				}
+			}
+		}
+		modifier = {
+			factor = 0.75
+			religion = gaelic_pagan
+		}
+		modifier = {
+			factor = 0.25
+			owner = { tag = SUV }
+		}
+		modifier = {
+			factor = 0.9
+			any_neighbor_province = {
+				OR = {
+					culture = gaelawer
+					culture = gaelo_suebi
+				}
+			}
+		}
+	}
+
+	option = {
+		name = cultureshift.2.a
+		change_culture = gaelo_suebi
+		add_core = SUV
+		hidden_effect = {
+			if = {
+				limit = {
+					is_capital = yes
+					owner = { ai = yes }
+				}
+				owner = { change_primary_culture = gaelo_suebi }
+			}
+		}
+	}
+}

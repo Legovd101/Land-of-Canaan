@@ -1,0 +1,335 @@
+namespace = flavor_BUY
+
+# The Dog, the Horse, the Cow, and the Pig (Buyeo Intro Event)
+country_event = {
+	id = flavor_BUY.1
+	title = flavor_BUY.1.title
+	picture = SIEGE_PRAGUE_CASTLE_eventPicture
+	desc =  flavor_BUY.1.desc
+
+	is_triggered_only = yes
+	fire_only_once = yes
+	trigger = {
+		tag = BUY
+	}
+	
+	immediate = { set_country_flag = invading_bactria }
+
+	option = { # The four Ka agree: the time for action is now!
+		name = flavor_BUY.1.a
+		custom_tooltip = BUY_intro_tt
+		country_event = {
+			id = flavor_BUY.2
+			days = 55
+		}
+		add_country_modifier = {
+			name = invasion_of_bactria
+			duration = 18250
+		}
+		add_manpower = 40
+		add_treasury = 200
+		OSE = {
+			add_country_modifier = {
+				name = invasion_of_bactria
+				duration = 18250
+			}
+			add_manpower = 40
+			add_treasury = 200
+		}
+	}
+}
+
+# Breaching the Iaxartes
+country_event = {
+	id = flavor_BUY.2
+	title = flavor_BUY.2.title
+	picture = GOOD_WITH_MONARCH_eventPicture
+	desc = flavor_BUY.2.desc
+
+	is_triggered_only = yes
+	fire_only_once = yes
+		
+	option = { # War Were Declared!
+		name = flavor_BUY.2.a
+		custom_tooltip = BUY_invasion_of_bactria_tt
+		declare_war_with_cb = {
+			casus_belli = cb_conquest
+			war_goal_province = 3218
+			who = MKN
+		}
+		KAD = { join_all_defensive_wars_of = MKN }
+		RSH = { join_all_defensive_wars_of = MKN }
+		OSE = { join_all_offensive_wars_of = ROOT }
+	}
+}
+
+# An Offer of Peace? (Buyeo Winning)
+country_event = {
+	id = flavor_BUY.3
+	title = flavor_BUY.3.title
+	picture = GOOD_WITH_MONARCH_eventPicture
+	desc = flavor_BUY.3.desc
+	
+	trigger = {
+		tag = BUY
+		war_score_against = {
+			who = MKN
+			value = 50
+		}
+		has_country_flag = invading_bactria
+	}
+	mean_time_to_happen = {
+		months = 2
+	}
+	fire_only_once = yes
+		
+	option = { # Let us send them an ultimatum!
+		name = flavor_BUY.3.a
+		custom_tooltip = treaty_of_marakanda_win_tt
+		MKN = {
+			country_event = {
+				id = flavor_BUY.4
+				days = 3
+			}
+		}
+	}
+		
+	option = { # I can handle my own peace treaty!
+		name = flavor_BUY.3.b
+		ai_chance = {
+			factor = 0
+		}
+	}
+}
+
+# Treaty of Marakanda (Buyeo Winning)
+country_event = {
+	id = flavor_BUY.4
+	title = flavor_BUY.4.title
+	picture = GOOD_WITH_MONARCH_eventPicture
+	desc = flavor_BUY.4.desc
+	
+	is_triggered_only = yes
+	fire_only_once = yes
+		
+	option = { # Fine!
+		name = flavor_BUY.4.a
+		every_country = {
+			limit = { defensive_war_with = ROOT }
+			white_peace = ROOT
+		}
+		3220 = { cede_province = OSE }
+		3219 = { cede_province = OSE }
+		1967 = { cede_province = OSE }
+
+		3218 = { cede_province = BUY }
+		3240 = { cede_province = BUY }
+		2363 = { cede_province = BUY }
+		MKN = {
+			release_all_subjects = yes
+			every_owned_province = {
+				limit = { has_fort_building_trigger = yes }
+				remove_building = fort_15th
+			}
+		}
+		clr_country_flag = invading_bactria
+		set_country_flag = invaded_bactria_successfully
+	}
+
+	option = { # Do they think us fools?
+		name = flavor_BUY.4.b
+		ai_chance = {
+			factor = 0
+		}
+	}
+}
+
+# An Offer of Peace? (Buyeo Losing)
+country_event = {
+	id = flavor_BUY.5
+	title = flavor_BUY.5.title
+	picture = GOOD_WITH_MONARCH_eventPicture
+	desc = flavor_BUY.5.desc
+	
+	trigger = {
+		tag = MKN
+		war_score_against = {
+			who = BUY
+			value = 50
+		}
+		BUY = { has_country_flag = invading_bactria }
+	}
+	mean_time_to_happen = {
+		months = 2
+	}
+	fire_only_once = yes
+		
+	option = { # Let us send them an ultimatum!
+		name = flavor_BUY.5.a
+		custom_tooltip = treaty_of_marakanda_lose_tt
+		BUY = {
+			country_event = {
+				id = flavor_BUY.6
+				days = 3
+			}
+		}
+	}
+		
+	option = { # I can handle my own peace treaty!
+		name = flavor_BUY.5.b
+		ai_chance = {
+			factor = 0
+		}
+	}
+}
+
+# Treaty of Marakanda (Buyeo Losing)
+country_event = {
+	id = flavor_BUY.6
+	title = flavor_BUY.6.title
+	picture = GOOD_WITH_MONARCH_eventPicture
+	desc = flavor_BUY.6.desc
+	
+	is_triggered_only = yes
+		
+	option = { # Fine!
+		name = flavor_BUY.6.a
+		every_country = {
+			limit = { defensive_war_with = ROOT }
+			white_peace = ROOT
+		}
+		3222 = { cede_province = BKP }
+		3224 = { cede_province = BKP }
+		460 = { cede_province = BKP }
+		458 = { cede_province = RSH }
+		BUY = {
+			release_all_subjects = yes
+			every_owned_province = {
+				limit = { has_fort_building_trigger = yes }
+				remove_building = fort_15th
+			}
+			clr_country_flag = invading_bactria
+			set_country_flag = didnt_invade_bactria
+			set_in_empire = yes
+		}
+		OSE = { set_in_empire = yes }
+	}
+		
+	option = { # Do they think us fools?
+		name = flavor_BUY.6.b
+		ai_chance = {
+			factor = 0
+		}
+	}
+}
+
+# The Second Sacking of Marakanda
+country_event = {
+	id = flavor_BUY.7
+	title = flavor_BUY.7.title
+	picture = VILLAGE_BURNING_eventPicture
+	desc = flavor_BUY.7.desc
+	
+	is_triggered_only = yes
+
+	immediate = {
+		play_sound = Caesarion_BRASS
+	}
+
+	option = { # Let the looting be gentle.
+		name = flavor_BUY.7.a
+		454 = {
+			add_base_manpower = -1
+			add_base_tax = -1
+			add_base_production = -1
+			add_devastation = 25
+		}
+		capital_scope = {
+			random_list = {
+				33 = { add_base_manpower = 2 }
+				33 = { add_base_production = 2 }
+				33 = { add_base_tax = 2 }
+			}
+		}
+	}
+
+	option = { # Leave no stone unturned.
+		name = flavor_BUY.7.b
+		454 = {
+			add_base_manpower = -2
+			add_base_tax = -2
+			add_base_production = -2
+			add_devastation = 50
+		}
+		capital_scope = {
+			random_list = {
+				33 = { add_base_manpower = 4 }
+				33 = { add_base_production = 4 }
+				33 = { add_base_tax = 4 }
+			}
+		}
+	}
+
+	option = { # None shall hide!
+		name = flavor_BUY.7.c
+		454 = {
+			add_base_manpower = -3
+			add_base_tax = -3
+			add_base_production = -3
+			add_devastation = 75
+		}
+		capital_scope = {
+			random_list = {
+				33 = { add_base_manpower = 6 }
+				33 = { add_base_production = 6 }
+				33 = { add_base_tax = 6 }
+			}
+		}
+	}
+}
+
+# Disagreement between the Kas!
+country_event = {
+	id = flavor_BUY.8
+	title = flavor_BUY.8.title
+	picture = shinto_DIPLOMACY_eventPicture
+	desc = flavor_BUY.8.desc
+	
+	trigger = {
+		tag = BUY
+		any_owned_province = {
+			any_neighbor_province = {
+				region = bactria_region
+				NOT = { owned_by = ROOT }
+			}
+		}
+	}
+	mean_time_to_happen = {
+		years = 10
+	}
+	fire_only_once = yes
+		
+	option = { # Oh, must we squabble? 
+		name = flavor_BUY.8.a
+		random = {
+			chance = 25
+			add_stability = -1
+		}
+	}
+		
+	option = { # ...Why are we even arguing about this?
+		name = flavor_BUY.8.b
+		ai_chance = {
+			factor = 0
+		}
+		add_dip_power = -100
+		random_province = {
+			limit = {
+				NOT = { owned_by = ROOT }
+				any_neighbor_province = { owned_by = ROOT }
+				region = bactria_region
+			}
+			area = { add_claim = ROOT }
+		}
+	}
+}

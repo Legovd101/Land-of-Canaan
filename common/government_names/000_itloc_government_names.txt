@@ -68,3 +68,99 @@ cypriote_kingdom = {
 		tag = CYP
 	}
 }
+
+serican_captaincy = {
+	rank = {
+		1 = CAPTAINCY
+		2 = GONGGUO
+		3 = WANGGUO
+	}
+	
+	ruler_male = {
+		1 = SHANGWEI
+		2 = JUNWANG
+		3 = GUOWANG
+	}
+	
+	ruler_female = {
+		1 = SHANGWEI
+		2 = JUNWANG
+		3 = NUWANG
+	}
+	
+	consort_male = {
+		1 = CONSORT
+		2 = CONSORT
+		3 = CONSORT
+	}
+	
+	consort_female = {
+		1 = CONSORT
+		2 = WANGFEI
+		3 = CONSORT
+	}
+	
+	heir_male = {
+		1 = HEIR
+		2 = HEIR
+		3 = HEIR
+	}
+	
+	heir_female = {
+		1 = HEIR_fem
+		2 = HEIR_fem
+		3 = HEIR_fem
+	}
+	
+	trigger = {
+		has_reform = serican_captaincy_reform
+	}
+}
+
+irish_king = {
+	rank = {
+		1 = MIONRIOCHT
+		2 = RIOCHT
+		3 = ARDRIOCHT
+	}
+	
+	ruler_male = {
+		1 = MIONRI
+		2 = RI
+		3 = ARDRI
+	}
+	
+	ruler_female = {
+		1 = MIONRION
+		2 = BANRION
+		3 = ARDRION
+	}
+	
+	consort_male = {
+		1 = MIONRI
+		2 = RI
+		3 = ARDRI
+	}
+	
+	consort_female = {
+		1 = MIONRION
+		2 = BANRION
+		3 = ARDRION
+	}
+	
+	heir_male = {
+		1 = MACRI
+		2 = MACRI
+		3 = MACRI
+	}
+	
+	heir_female = {
+		1 = INIONRI
+		2 = INIONRI
+		3 = INIONRI
+	}
+	
+	trigger = {
+		culture_group = gaelic
+	}
+}

@@ -5,6 +5,7 @@ government_rank = 2
 religion = gaelic_pagan
 technology_group = western
 primary_culture = gaelawer
+historical_rival = ALN
 
 1430.1.1 = {
 	monarch = {

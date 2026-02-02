@@ -1,1 +1,35 @@
 ﻿l_english:
+ flavor_GDL.1.title: "The War of the Gaelic Coalition"
+ flavor_GDL.1.desc_GDL: "Fleeing the lochlannach invaders, the Eirennach sailed south nearly a century and a half ago, establishing Gaedlighe or the Gael-Law. We have spent that time reestablishing our identity and founding a grand kingdom for ourselves in Iberia. Now, the dastardly Alans and Visigoths to our south seek to undo much of our hard work."
+ flavor_GDL.1.desc_ALN: "For nearly a century and a half, the Gaelic invaders have terrorized Iberia and left our people in fear that their wrath may turn to us like it did the Suebi and the Ebrian Republic. At the request of an unlikely ally in the Visigoths, we now aim to hobble the Gaels in a grand war to end the Gael-Law for good."
+ flavor_GDL.1.desc_KSB: "REPLACE_ME"
+ flavor_GDL.1.a: "We shall triumph!"
+ GDL_intro_tt: "REPLACE_ME"
+ ALN_intro_tt: "REPLACE_ME"
+ KSB_intro_tt: "REPLACE_ME"
+
+ flavor_GDL.2.title: "An Offer of Peace?"
+ flavor_GDL.2.desc: "With the war against the Gael-Law going so well, one of our diplomats has taken it upon himself to begin the drafting of a peace treaty."
+ flavor_GDL.2.a: "Let us send them an ultimatum!"
+ treaty_of_asturias_lose_tt: "The Gael-Law will be forced to release all subjects and will be partitioned by its neighbors, leaving only a rump state in its core lands."
+ flavor_GDL.2.b: "I can handle my own peace treaty!"
+
+ flavor_GDL.3.title: "Treaty of Aitsiúraigh"
+ flavor_GDL.3.desc: "The diplomats of [From.GetName] have approached us with a costly offer of peace, resulting in the loss of most of our lands."
+ flavor_GDL.3.a: "Fine!"
+ flavor_GDL.3.b: "Do they think us fools?"
+
+ flavor_GDL.4.title: "An Offer of Peace?"
+ flavor_GDL.4.desc: "With the war against the coalition going so well, one of our diplomats has taken it upon himself to begin the drafting of a peace treaty."
+ flavor_GDL.4.a: "Let us send them an ultimatum!"
+ treaty_of_asturias_win_tt: "We will vassalize both the Alans and Kaisarburgs, along with taking some of their land."
+ flavor_GDL.4.b: "I can handle my own peace treaty!"
+
+ flavor_GDL.5.title: "Treaty of Aitsiúraigh"
+ flavor_GDL.5.desc: "The diplomats of [From.GetName] have approached us with a costly offer of peace, resulting in the loss of most of our lands."
+ flavor_GDL.5.a: "Fine!"
+ flavor_GDL.5.b: "Do they think us fools?"
+
+ flavor_GDL.6.title: "Consolidation of the Suebic Counts"
+ flavor_GDL.6.desc: "The counts in Subiáigh, in response to our efforts to pursue friendlier relations, have offered to pursue closer ties with the [Root.Monarch.GetTitle]"
+ flavor_GDL.6.a: "Perfect!"
