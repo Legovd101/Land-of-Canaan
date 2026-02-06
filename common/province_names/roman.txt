@@ -1,0 +1,154 @@
+# RULES
+# All names here will be either historical names, or reconstructed Latin Toponyms
+# Format: ID = { "Province" "Capital" } # Origin
+
+## Bactria/Baktria
+
+# Uzkend
+3225 = { "Bucephala" "Bucephala" } # Bucephala
+3224 = { "Piagora" "Piagora" } # "Fortified Market"
+3222 = { "Alatorichia" "Alatorichia" } # "Salt Mine"
+460 = { "Mauaranna" "Mauaranna" } # Mavarannahr
+3226 = { "Oscia" "Oscia" } # Osh
+
+# Ferghana
+3220 = { "Rissata" "Rissata" } # Rishtan
+3219 = { "Canda" "Canda" } # Konibodom/Kand
+1967 = { "Cyropolis" "Cyropolis" } # Cyropolis
+458 = { "Ucanda" "Ucanda" } # Kokand
+
+# Tashkent
+3223 = { "Suganta" "Suganta" } # Andijan, "Oath"
+3221 = { "Costa" "Costa" } # Chust/Khost
+2363 = { "Phuscanda" "Phuscanda" } # Atakent, "Forefathers' City"
+457 = { "Sescanda" "Sescanda" } # Tashkent
+3218 = { "Criphtana" "Criphtana" } # "Taken"
+
+# Arys
+3240 = { "Baryza" "Baryza" } # "Rye"
+3239 = { "Balascium" "Balascium" } # Balasagun
+2356 = { "Simcanda" "Simcanda" } # Shymkent
+2364 = { "Talas" "Talas" } # Talas/Taraz
+
+# Transoxiana
+3217 = { "Histrium" "Histrium" } # Istaravshan
+3214 = { "Galliapolis" "Galliapolis" } # "Gauls' City"
+3213 = { "Magnapirgum" "Magnapirgum" } # "Large Fortress"
+454 = { "Maracanda" "Maracanda" } # Samarkand
+4344 = { "Nautaca" "Nautaca" } # Kish
+
+# Bukhara
+3211 = { "Cermina" "Cermina" } # Kermine
+3212 = { "Mycophranx" "Mycophranx" } # "Poppy Gorge"
+3208 = { "Neagorum" "Neagorum" } # "New Market"
+3209 = { "Nova Cepus" "Nova Cepus" } # "New Garden"
+442 = { "Bucara" "Bucara" } # Bukhara
+
+# Oxus
+3207 = { "Maurolimnium" "Maurolimnium" } # "Black Lake"
+3192 = { "Artabanopolis" "Artabanopolis" } # "Poppy Gorge"
+3205 = { "Deuteronopolis" "Deuteronopolis" } # "Secondary"
+3204 = { "Lamprolemia" "Lamprolemia" } # "Bright Warrior"
+444 = { "Oxopolis" "Oxopolis" } # Oxus
+
+# Merv
+3200 = { "Triplophodia" "Triplophodia" } # "Three Hills Melody"
+3199 = { "Papadanus" "Papadanus" } # Babadajhan
+3201 = { "Lamprodus" "Lamprodus" } # "Bright Path"
+445 = { "Margiana" "Margiana" } # Merv
+
+# Maymana
+3206 = { "Cypsela" "Cypsela" } # "Box"
+3203 = { "Polericopolis" "Polericopolis" } # "Hard Worker"
+3230 = { "Cusca" "Cusca" } # Kushka
+2228 = { "Maimana" "Maimana" } # Maymana
+
+# Qarshi
+3210 = { "Therisa" "Therisa" } # "Watch"
+453 = { "Eucratidea" "Eucratidea" } # Eucratideia
+3215 = { "Poronea" "Poronea" } # "Passage"
+3231 = { "Coetanga" "Coetanga" } # Kotyendag
+
+# Balkh
+450 = { "Bactra" "Bactra" } # Bactra
+2227 = { "Aornus" "Aornus" } # Aornos
+3234 = { "Sacharaca" "Sacharaca" } # "Shah"
+3232 = { "Buddapolis" "Buddapolis" } # "Buddha's City"
+3235 = { "Dusa" "Dusa" } # Doshi
+
+# Khuttalan
+4343 = { "Thermae" "Thermae" } # Termez
+3216 = { "Dionysia" "Dionysia" } # "Dionysus"
+3236 = { "Agarma" "Agarma" } # Gharm
+1968 = { "Alexandria Eschate" "Alexandria Eschate" } # Alexandria Eschate
+3233 = { "Alexandria ad Oxus" "Alexandria ad Oxus" } # Alexandria on the Oxus
+
+# Yashilkul
+3227 = { "Iaziga" "Iaziga" } # Yazghulom 
+3228 = { "Pudea" "Pudea" } # "Foor"
+2127 = { "Presinolimnus" "Presinolimnus" } # "Green Lake"
+3229 = { "Mircobium" "Mircobium" } # Murghab
+
+## Khorasan/Chorasmia
+
+# Vakhþi
+3194 = { "Novadora" "Novadora" } # "New Water"
+2349 = { "Novaera" "Novaera" } # "Red Water"
+3196 = { "Ocarinium" "Ocarinium" } # Okarem
+437 = { "Polaeorium" "Polaeorium" } # "Many Peaks"
+
+# Golestan
+2214 = { "Hyrcanium" "Hyrcanium" } # Hyrcania 
+427 = { "Hecatolympus" "Hecatolympus" } # Hecatompylos
+3197 = { "Constantinocium" "Constantinocium" } # "Constantine Wall"
+2236 = { "Buzangirda" "Buzangirda" } # Bojnord
+438 = { "Melammus" "Melammus" } # "Black Sand"
+
+# Mashhad
+2350 = { "Arsacepolis" "Arsacepolis" } # "City of Arsaces" 
+3198 = { "Leonopolis" "Leonopolis" } # "City of Lions"
+2235 = { "Anduborsa" "Anduborsa" } # Adur Burzen-Mihr
+2221 = { "Susia" "Susia" } # Susia
+4326 = { "Aparisaccara" "Aparisaccara" } # Abarshahr
+
+# Herat
+4325 = { "Saracis" "Saracis" } # Sarakhs 
+3202 = { "Andronicopolis" "Andronicopolis" } # "City of Andronikos"
+3237 = { "Moripirgus" "Moripirgus" } # "Mori Fort"
+446 = { "Aria" "Aria" } # Aria
+4324 = { "Gurium" "Gurium" } # Ghuriyan
+
+# Birjand
+4336 = { "Taban" "Taban" } # Tun 
+4334 = { "Policorasanium" "Policorasanium" } # "Khorasanian Gate"
+436 = { "Piricanda" "Piricanda" } # "Fortified Fort"
+
+# Sistan
+2224 = { "Carumia" "Carumia" } # "Happy" 
+2229 = { "Bost" "Bost" } # "City of Andronikos"
+2230 = { "Sacansuria" "Sacansuria" } # Chakhansur
+435 = { "Drangiana" "Drangiana" } # Drangiana
+
+# Makran
+2233 = { "Tis" "Tis" } # Tiz 
+2232 = { "Buccanapolis" "Buccanapolis" } # Buqan 
+575 = { "Ichthyophagopolis" "Ichthyophagopolis" } # "Fish-eater City"
+434 = { "Pura" "Pura" } # Bampur
+2231 = { "Rhambacia" "Rhambacia" } # Rhambacia
+
+# Kalat
+576 = { "Pirgus" "Pirgus" } # "Fort" 
+2068 = { "Stoicypus" "Stoicypus" } # "Cost"
+577 = { "Occumorium" "Occumorium" } # "Fortress"
+
+# Ghor
+447 = { "Alexandropolis" "Alexandropolis" } # Alexandria Arachosia 
+449 = { "Gura" "Gura" } # Ghor
+2225 = { "Bamicana" "Bamicana" } # Bamyan
+
+# Kabulistan
+448 = { "Gazaca" "Alexandria Opiana" } # Alexandria Opiana 
+451 = { "Cophen" "Cophen" } # Kabul
+2226 = { "Nagara" "Nagara" } # Nagara 
+578 = { "Oronia" "Oronia" } # "Mountain"
+452 = { "Balascia" "Balascia" } # Balascia

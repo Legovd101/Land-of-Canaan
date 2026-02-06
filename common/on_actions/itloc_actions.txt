@@ -5,6 +5,7 @@ on_startup = {
 		flavor_BUY.1
 	}
 }
+
 on_war_won = {
 	if = {
 		limit = { has_country_flag = in_gaelic_war }
@@ -16,6 +17,24 @@ on_war_won = {
 		}
 		else = {
 			FROM = { set_country_flag = lost_gaelic_war clr_country_flag = in_gaelic_war }
+		}
+	}
+	if = {
+		limit = { has_country_flag = invading_bactria }
+		if = {
+			limit = { FROM = { tag = MKN } }
+			clr_country_flag = invading_bactria
+			set_country_flag = invaded_bactria_successfully
+		}
+	}
+}
+on_war_lost = {
+	if = {
+		limit = { has_country_flag = invading_bactria }
+		if = {
+			limit = { FROM = { tag = MKN } }
+			clr_country_flag = invading_bactria
+			set_country_flag = didnt_invade_bactria
 		}
 	}
 }

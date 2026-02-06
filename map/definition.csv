@@ -3240,25 +3240,25 @@ province;red;green;blue;x;x
 3239;81;28;54;Maitobe;x
 3240;82;104;172;Arys;x
 3241;207;140;139;Ferghana Mountains4;x
-3242;219;32;52;Shieli;
-3243;219;32;53;Kyzylorda;
-3244;219;32;54;Kyzylkum Desert 2;
-3245;219;32;55;Kozhakazgan;
-3246;219;32;56;Tshkhantam;
-3247;219;32;57;Appak;
-3248;219;32;58;Akkense;
-3249;219;32;59;Betpak-Dala;
-3250;219;32;60;Akbakay;
-3251;219;32;61;Gulshat;
-3252;219;32;62;Ming-Kush;
-3253;219;32;63;Sayak;
-3254;219;32;64;Axmet;
-3255;219;32;65;Zhalauly;
-3256;219;32;66;Saksaulskiy;
-3257;219;32;67;Begimbet;
-3258;219;32;68;Amantogay;
-3259;219;32;69;Kargaly;
-3260;219;32;70;Almaty2;
+3242;42;151;82;Shieli;x
+3243;223;194;52;Kyzylorda;x
+3244;129;46;83;Kyzylkum Desert 2;x
+3245;0;171;108;Kozhakazgan;x
+3246;95;155;48;Tshkhantam;x
+3247;48;112;19;Appak;x
+3248;29;180;49;Akkense;x
+3249;109;85;87;Betpak-Dala;x
+3250;65;140;86;Akbakay;x
+3251;112;207;11;Gulshat;x
+3252;149;54;127;Ming-Kush;x
+3253;124;161;99;Sayak;x
+3254;90;128;97;Axmet;x
+3255;152;198;150;Zhalauly;x
+3256;187;208;27;Saksaulskiy;x
+3257;3;247;127;Begimbet;x
+3258;100;105;9;Amantogay;x
+3259;62;132;9;Kargaly;x
+3260;219;32;70;Almaty2;x
 3261;219;32;71;UnusedLand71;
 3262;219;32;72;UnusedLand72;
 3263;219;32;73;UnusedLand73;

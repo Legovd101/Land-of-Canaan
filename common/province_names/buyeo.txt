@@ -1,0 +1,90 @@
+# RULES
+# All names here will be either historical names, or reconstructed Greek Toponyms
+# Format: ID = { "Province" "Capital" } # Origin
+
+## Bactria/Baktria
+
+# Uzkend
+3225 = { "Bukepla" "Bukepla" } # Bucephala
+3224 = { "Piryeo" "Piryeo" } # "Fortified Market"
+3222 = { "Rateokya" "Rateokya" } # "Salt Mine"
+460 = { "Ambalyae" "Ambalyae" } # Mavarannahr
+3226 = { "Oseo" "Oseo" } # Osh
+
+# Ferghana
+3220 = { "Yusata" "Yusata" } # Rishtan
+3219 = { "Kaen" "Kaen" } # Konibodom/Kand
+1967 = { "Kaelapeule" "Kaelapeule" } # Cyropolis
+458 = { "Heukaena" "Heukaena" } # Kokand
+
+# Tashkent
+3223 = { "Seukan" "Seukan" } # Andijan, "Oath"
+3221 = { "Keos" "Keos" } # Chust/Khost
+2363 = { "Ppeuskaen" "Ppeuskaen" } # Atakent, "Forefathers' City"
+457 = { "Saeskaen" "Saeskaen" } # Tashkent
+3218 = { "Kleotan" "Kleotan" } # "Taken"
+
+# Arys
+3240 = { "Balyae" "Balyae" } # "Rye"
+3239 = { "Balyes" "Balyes" } # Balasagun
+2356 = { "Simkaen" "Simkaen" } # Shymkent
+2364 = { "Talae" "Talae" } # Talas/Taraz
+
+# Transoxiana
+3217 = { "Estala" "Estala" } # Istaravshan
+3214 = { "Galyapeule" "Galyapeule" } # "Gauls' City"
+3213 = { "Mapiryeo" "Mapiryeo" } # "Large Fortress"
+454 = { "Malakaena" "Malakaena" } # Samarkand
+4344 = { "Neutak" "Neutak" } # Kish
+
+# Bukhara
+3211 = { "Keulmin" "Keulmin" } # Kermine
+3212 = { "Mikoprang" "Mikoprang" } # "Poppy Gorge"
+3208 = { "Nyagol" "Nyagol" } # "New Market"
+3209 = { "Nyakipu" "Nyakipu" } # "New Garden"
+442 = { "Beunja" "Beunja" } # Bukhara
+
+# Oxus
+3207 = { "Maelong" "Maelong" } # "Black Lake"
+3192 = { "Altanpeule" "Altanpeule" } # "Poppy Gorge"
+3205 = { "Deutonpeule" "Deutonpeule" } # "Secondary"
+3204 = { "Lamprolaema" "Lamprolaema" } # "Bright Warrior"
+444 = { "Hwongpeule" "Hwongpeule" } # Oxus
+
+# Merv
+3200 = { "Tripui" "Tripui" } # "Three Hills Melody"
+3199 = { "Padneus" "Padneus" } # Babadajhan
+3201 = { "Lambeul" "Lambeul" } # "Bright Path"
+445 = { "Maelyeogan" "Maelyeogan" } # Merv
+
+# Maymana
+3206 = { "Kyepsael" "Kyepsael" } # "Box"
+3203 = { "Poleupeule" "Poleupeule" } # "Hard Worker"
+3230 = { "Keuska" "Keuska" } # Kushka
+2228 = { "Maeman" "Maeman" } # Maymana
+
+# Qarshi
+3210 = { "Telin" "Telin" } # "Watch"
+453 = { "Heukaladin" "Heukaladin" } # Eucratideia
+3215 = { "Polune" "Polune" } # "Passage"
+3231 = { "Keutanju" "Keutanju" } # Kotyendag
+
+# Balkh
+450 = { "Bakla" "Bakla" } # Bactra
+2227 = { "Eunong" "Eunong" } # Aornos
+3234 = { "Sakala" "Sakala" } # "Shah"
+3232 = { "Bucheopeule" "Bucheopeule" } # "Buddha's City"
+3235 = { "Deucha" "Deucha" } # Doshi
+
+# Khuttalan
+4343 = { "Teolmae" "Teolmae" } # Termez
+3216 = { "Deonisa" "Deonisa" } # "Dionysus"
+3236 = { "Galam" "Galam" } # Gharm
+1968 = { "Lichandeulaeska" "Lichandeulaeska" } # Alexandria Eschate
+3233 = { "Lichandeulae Hwong" "Lichandeulae Hwong" } # Alexandria on the Oxus
+
+# Yashilkul
+3227 = { "Yasik" "Yasik" } # Yazghulom 
+3228 = { "Peuja" "Peuja" } # "Foor"
+2127 = { "Praseol" "Praseol" } # "Green Lake"
+3229 = { "Milikob" "Milikob" } # Murghab

@@ -293,7 +293,7 @@
 3235 = { "Doúsa" "Doúsa" } # Doshi
 
 # Khuttalan
-4343 = { "Thérmai" "Thérmai" } # 
+4343 = { "Thérmai" "Thérmai" } # Termez
 3216 = { "Diónyseia" "Diónyseia" } # "Dionysus"
 3236 = { "Agárma" "Agárma" } # Gharm
 1968 = { "Alexándreia Eschatí" "Alexándreia Eschatí" } # Alexandria Eschate
@@ -305,6 +305,69 @@
 2127 = { "Prásinolimni" "Prásinolimni" } # "Green Lake"
 3229 = { "Mýrkóbi" "Mýrkóbi" } # Murghab
 
+## Khorasan/Chorasmia
+
+# Vakhþi
+3194 = { "Neáudora" "Neáudora" } # "New Water"
+2349 = { "Neárythreia" "Neárythreia" } # "Red Water"
+3196 = { "Ocharína" "Ocharína" } # Okarem
+437 = { "Pollaíorion" "Pollaíorion" } # "Many Peaks"
+
+# Golestan
+2214 = { "Hirkaníon" "Hirkaníon" } # Hyrcania 
+427 = { "Hekatómpylos" "Hekatómpylos" } # Hecatompylos
+3197 = { "Konstantínoteichon" "Konstantínoteichon" } # "Constantine Wall"
+2236 = { "Bouzángírdis" "Bouzángírdis" } # Bojnord
+438 = { "Melámmos" "Melámmos" } # "Black Sand"
+
+# Mashhad
+2350 = { "Arsákipolis" "Arsákipolis" } # "City of Arsaces" 
+3198 = { "Léonopolis" "Léonopolis" } # "City of Lions"
+2235 = { "Adoú Borsa" "Adoú Borsa" } # Adur Burzen-Mihr
+2221 = { "Soúsia" "Soúsia" } # Susia
+4326 = { "Aparisáchara" "Aparisáchara" } # Abarshahr
+
+# Herat
+4325 = { "Sarákis" "Sarákis" } # Sarakhs 
+3202 = { "Andronikópolis" "Andronikópolis" } # "City of Andronikos"
+3237 = { "Moúri Pyrgos" "Moúri Pyrgos" } # "Mori Fort"
+446 = { "Áría" "Áría" } # Aria
+4324 = { "Gourión" "Gourión" } # Ghuriyan
+
+# Birjand
+4336 = { "Tabán" "Tabán" } # Tun 
+4334 = { "Púli Chorasánites" "Púli Chorasánites" } # "Khorasanian Gate"
+436 = { "Pýrikand" "Pýrikand" } # "Fortified Fort"
+
+# Sistan
+2224 = { "Charoúmeia" "Charoúmeia" } # "Happy" 
+2229 = { "Boúst" "Boúst" } # "City of Andronikos"
+2230 = { "Sáchansoura" "Sáchansoura" } # Chakhansur
+435 = { "Drangianí" "Drangianí" } # Drangiana
+
+# Makran
+2233 = { "Tíz" "Tíz" } # Tiz 
+2232 = { "Bouchánapolis" "Bouchánapolis" } # Buqan 
+575 = { "Ichthyophágopolis" "Ichthyophágopolis" } # "Fish-eater City"
+434 = { "Poúra" "Poúra" } # Bampur
+2231 = { "Rambakía" "Rambakía" } # Rhambacia
+
+# Kalat
+576 = { "Pýrgos" "Pýrgos" } # "Fort" 
+2068 = { "Stoíkýpos" "Stoíkýpos" } # "Cost"
+577 = { "Ochúromion" "Ochúromion" } # "Fortress"
+
+# Ghor
+447 = { "Alexandrópolis" "Alexandrópolis" } # Alexandria Arachosia 
+449 = { "Goúra" "Goúra" } # Ghor
+2225 = { "Bamikána" "Bamikána" } # Bamyan
+
+# Kabulistan
+448 = { "Gázaka" "Alexándreia Opianí" } # Alexandria Opiana 
+451 = { "Kóphen" "Kóphen" } # Kabul
+2226 = { "Nágara" "Nágara" } # Nagara 
+578 = { "Óroneia" "Óroneia" } # "Mountain"
+452 = { "Baláskia" "Baláskia" } # Balascia
 
 
 285 = "Theodosia"
