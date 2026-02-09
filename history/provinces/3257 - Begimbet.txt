@@ -1,1 +1,10 @@
 capital = "Begimbet"
+add_core = IMD
+owner = IMD
+controller = IMD
+is_city = no
+base_tax = 1
+base_manpower = 1
+base_production = 1
+culture = nogaybak
+religion = vajrayana

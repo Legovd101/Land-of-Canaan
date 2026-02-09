@@ -1,7 +1,7 @@
 #455 - Kyrzyl-Kum
-owner = SHY
-controller = SHY
-culture = khazak
+owner = BLC
+controller = BLC
+culture = pecheneg
 religion = zoroastrian
 capital = "Kyzyl Kum"
 trade_goods = livestock
@@ -10,7 +10,6 @@ base_production = 1
 base_manpower = 1
 is_city = yes
 add_core = KZH
-add_core = SHY
 add_core = TRS
 discovered_by = KAS
 discovered_by = muslim
@@ -18,3 +17,4 @@ discovered_by = ottoman
 discovered_by = nomad_group
 discovered_by = BUY
 discovered_by = OSE
+add_core = BLC

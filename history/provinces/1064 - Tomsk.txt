@@ -1,5 +1,5 @@
 #1064 - Tomsk
-culture = ostyaki
+culture = uzbehk
 religion = tengri_pagan_reformed
 capital = "Tomsk"
 trade_goods = unknown

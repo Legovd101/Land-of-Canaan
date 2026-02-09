@@ -1,7 +1,7 @@
 #473 - Samara
 owner = IMD
 controller = IMD
-culture = kazani
+culture = astrakhani
 religion = vajrayana
 capital = "Samara"
 trade_goods = livestock

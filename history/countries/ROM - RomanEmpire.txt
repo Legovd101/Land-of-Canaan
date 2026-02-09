@@ -9,7 +9,7 @@ add_government_reform = roman_republic_government
 government_rank = 1
 primary_culture = roman
 religion = jupiterian
-technology_group = latin
+technology_group = latin_group
 capital = 118
 # Specific Effects #
 

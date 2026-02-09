@@ -10,7 +10,7 @@ government_rank = 1
 primary_culture = dalmatian
 add_accepted_culture = croatian
 religion = mahayana
-technology_group = latin
+technology_group = latin_group
 capital = 136
 # Specific Effects #
 government = monarchy

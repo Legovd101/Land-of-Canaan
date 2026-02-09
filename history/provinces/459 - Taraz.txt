@@ -1,8 +1,7 @@
 #459 - Taraz
-owner = CHG
-controller = CHG
-add_core = CHG
-culture = khazak
+owner = TND
+controller = TND
+culture = kirgiz
 religion = mahayana
 capital = "Taraz"
 trade_goods = cloth
@@ -17,3 +16,4 @@ discovered_by = nomad_group
 discovered_by = KAS
 discovered_by = BUY
 discovered_by = OSE
+add_core = TND

@@ -268,7 +268,7 @@ groups = {
 		}
 	}
 
-	latin = {
+	latin_group = {
 		start_level = 3
 		start_cost_modifier = 0
 		nation_designer_unit_type = western

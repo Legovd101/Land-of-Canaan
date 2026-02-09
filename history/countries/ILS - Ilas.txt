@@ -1,6 +1,6 @@
 religion = new_gothic
 capital = 201
-technology_group = latin
+technology_group = latin_group
 primary_culture = massalian
 government = republic
 add_government_reform = merchants_reform

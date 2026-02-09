@@ -6,7 +6,7 @@
 government_rank = 1
 primary_culture = gaetuli
 religion = buddhism
-technology_group = latin
+technology_group = latin_group
 capital = 336
 # Specific Effects #
 government = tribal

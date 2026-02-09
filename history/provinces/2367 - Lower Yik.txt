@@ -1,7 +1,7 @@
 # 2367 - Lower Yik
 owner = IMD
 controller = IMD
-culture = nogaybak
+culture = astrakhani
 religion = zoroastrian
 capital = "Kalmyk"
 trade_goods = livestock

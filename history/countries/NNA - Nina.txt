@@ -7,6 +7,6 @@ government = monarchy
 government_rank = 1
 primary_culture = dalmatian
 religion = pyrrhonism
-technology_group = latin
+technology_group = latin_group
 capital = 3142
 # Specific Effects #

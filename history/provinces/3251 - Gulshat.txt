@@ -1,1 +1,10 @@
 capital = "Gulshat"
+add_core = TND
+owner = TND
+controller = TND
+is_city = no
+base_tax = 1
+base_manpower = 2
+base_production = 1
+culture = khazak
+religion = mahayana

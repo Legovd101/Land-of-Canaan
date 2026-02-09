@@ -4,7 +4,7 @@
 ### Modified 11/29/2025 12:31:05 AM ###
 # MGL (MGL)
 primary_culture = shilha
-technology_group = latin
+technology_group = latin_group
 # Specific Effects #
 religion = buddhism
 government = republic

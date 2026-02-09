@@ -1,1 +1,10 @@
 capital = "Zhalauly"
+add_core = QRB
+owner = QRB
+controller = QRB
+is_city = no
+base_tax = 1
+base_manpower = 1
+base_production = 1
+culture = bashkir
+religion = vajrayana

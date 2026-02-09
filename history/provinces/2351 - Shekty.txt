@@ -1,7 +1,7 @@
 # 2351 - Shekty
 owner = IMD
 controller = IMD
-culture = khazak
+culture = bashkir
 religion = vajrayana
 capital = "Shekty"
 trade_goods = livestock

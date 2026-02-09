@@ -1,7 +1,6 @@
 # 2368 - Karamegdan
-owner = CHG
-controller = CHG
-add_core = CHG
+owner = TND
+controller = TND
 culture = khazak
 religion = vajrayana
 capital = "Karamegdan"
@@ -19,3 +18,4 @@ discovered_by = OIR
 discovered_by = KAS
 discovered_by = BUY
 discovered_by = OSE
+add_core = TND

@@ -1,7 +1,7 @@
 #464 - Astrakhan
 owner = IMD
 controller = IMD
-culture = amazonian
+culture = astrakhani
 religion = xadarosh
 capital = "Hajitarkhan"
 trade_goods = wool

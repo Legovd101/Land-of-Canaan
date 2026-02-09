@@ -1,6 +1,6 @@
 religion = jupiterian
 capital = 116
-technology_group = latin
+technology_group = latin_group
 primary_culture = umbrian
 government = monarchy
 add_government_reform = feudalism_reform

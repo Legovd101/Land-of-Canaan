@@ -9,7 +9,7 @@ add_government_reform = signoria_reform
 government_rank = 1
 primary_culture = umbrian
 religion = jupiterian
-technology_group = latin
+technology_group = latin_group
 capital = 2976
 fixed_capital = 2976
 # Specific Effects #

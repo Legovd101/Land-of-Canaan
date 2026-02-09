@@ -1,8 +1,8 @@
 # 2352 - Alty-Kuduk
-owner = SHY
-controller = SHY
-culture = khazak
-religion = zoroastrian
+owner = BLC
+controller = BLC
+culture = pecheneg
+religion = vajrayana
 capital = "Alty-Kuduk"
 trade_goods = fish
 base_tax = 3
@@ -10,7 +10,6 @@ base_production = 3
 base_manpower = 3
 is_city = yes
 add_core = KZH
-add_core = SHY
 discovered_by = KZH
 discovered_by = KAZ
 discovered_by = KAS
@@ -19,3 +18,4 @@ discovered_by = muslim
 discovered_by = ottoman
 discovered_by = BUY
 discovered_by = OSE
+add_core = BLC

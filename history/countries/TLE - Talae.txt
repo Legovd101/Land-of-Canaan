@@ -1,0 +1,7 @@
+religion = vajrayana
+capital = 2364
+technology_group = nomad_group
+primary_culture = buyeo
+government = tribal
+add_government_reform = steppe_horde
+government_rank = 1

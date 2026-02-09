@@ -1,1 +1,10 @@
 capital = "Amantogay"
+add_core = QRB
+owner = QRB
+controller = QRB
+is_city = no
+base_tax = 3
+base_manpower = 2
+base_production = 2
+culture = bashkir
+religion = mahayana

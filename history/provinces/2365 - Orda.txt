@@ -1,7 +1,7 @@
 # 2365 - Orda
 owner = IMD
 controller = IMD
-culture = nogaybak
+culture = amazonian
 religion = zoroastrian
 capital = "Orda"
 trade_goods = livestock

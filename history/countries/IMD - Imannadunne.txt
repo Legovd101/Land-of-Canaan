@@ -1,4 +1,4 @@
-religion = tengri_pagan
+religion = tengri_pagan_reformed
 capital = 464
 technology_group = nomad_group
 primary_culture = evenk

@@ -9,7 +9,7 @@ add_government_reform = feudalism_reform
 government_rank = 1
 primary_culture = romagnan
 religion = jupiterian
-technology_group = latin
+technology_group = latin_group
 capital = 113
 fixed_capital = 113
 # Specific Effects #

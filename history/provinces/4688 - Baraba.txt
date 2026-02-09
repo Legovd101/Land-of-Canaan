@@ -2,7 +2,7 @@
 owner = SHY
 controller = SHY
 add_core = SHY
-culture = kirgiz
+culture = uzbehk
 religion = tengri_pagan_reformed
 capital = "Baraba"
 trade_goods = livestock

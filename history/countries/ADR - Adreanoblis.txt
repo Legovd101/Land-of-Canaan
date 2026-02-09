@@ -8,6 +8,6 @@ add_government_reform = feudalism_reform
 government_rank = 1
 primary_culture = thraco_roman
 religion = pyrrhonism
-technology_group = latin
+technology_group = latin_group
 capital = 149
 # Specific Effects #

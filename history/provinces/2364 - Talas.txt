@@ -1,8 +1,7 @@
 # 2364 - Talas
-owner = CHG
-controller = CHG
-add_core = CHG
-culture = kirgiz
+owner = TLE
+controller = TLE
+culture = buyeo
 religion = vajrayana
 capital = "Talas"
 trade_goods = iron
@@ -19,3 +18,4 @@ discovered_by = OIR
 discovered_by = KAS
 discovered_by = BUY
 discovered_by = OSE
+add_core = TLE

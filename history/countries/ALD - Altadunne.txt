@@ -1,4 +1,4 @@
-religion = tengri_pagan
+religion = tengri_pagan_reformed
 capital = 4116
 technology_group = eastern
 primary_culture = evenk

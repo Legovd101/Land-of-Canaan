@@ -2,7 +2,7 @@
 owner = SFD
 controller = SFD
 culture = abaxtri
-religion = zoroastrian
+religion = tengri_pagan_reformed
 capital = "Mangyshlak"
 trade_goods = fish
 base_tax = 1

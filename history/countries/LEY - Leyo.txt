@@ -8,6 +8,6 @@ add_government_reform = military_dictatorship_reform
 government_rank = 1
 primary_culture = leyonese
 religion = mithraism
-technology_group = latin
+technology_group = latin_group
 capital = 2456
 # Specific Effects #
