@@ -11,6 +11,6 @@ base_manpower = 1
 capital = "Messukylä"
 is_city = yes
 discovered_by = western
-discovered_by = latin
+discovered_by = latin_group
 discovered_by = viking
 discovered_by = eastern

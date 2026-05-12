@@ -8,6 +8,6 @@ primary_culture = serican
 capital = 2296
 # Specific Effects #
 religion = dionysian
-technology_group = chinese
+technology_group = ottoman
 government = theocracy
 add_government_reform = leading_clergy_reform

@@ -1,0 +1,482 @@
+serican_1 = {
+	slot = 1
+	generic = yes
+	ai = yes
+	has_country_shield = yes
+	potential = { culture_group = greco_serican } 
+
+}
+serican_1_2 = {
+	slot = 1
+	generic = yes
+	ai = yes
+	has_country_shield = yes
+	potential = { tag = SRK } 
+
+}
+serican_2 = {
+	slot = 2
+	generic = yes
+	ai = yes
+	has_country_shield = yes
+	potential = { culture_group = greco_serican } 
+
+	seri_pious_land = {
+		icon = mission_land_of_churches
+		position = 3
+		required_missions = { seri_buffer_zone } 
+		provinces_to_highlight = {
+			area_for_scope_province = { is_capital_of = ROOT } 
+			has_tax_building_trigger = no
+		}
+
+		trigger = {
+			num_of_owned_provinces_with = {
+				value = 5
+				has_tax_building_trigger = yes
+			}
+		}
+
+		effect = {
+			random_neighbor_country = {
+				limit = {
+					NOT = { alliance_with = ROOT }
+				}
+				ROOT = {
+					add_casus_belli = {
+						type = cb_vassalize_mission
+						target = PREV
+					}
+				}
+			}
+		}
+	}
+}
+serican_2_2 = {
+	slot = 2
+	generic = yes
+	ai = yes
+	has_country_shield = yes
+	potential = { tag = SRK } 
+
+	seri_order_orontes = {
+		icon = mission_build_up_to_force_limit
+		position = 6
+		required_missions = { seri_new_homeland } 
+		provinces_to_highlight = {  }
+
+		trigger = {  }
+
+		effect = {  }
+	}
+}
+serican_3 = {
+	slot = 3
+	generic = yes
+	ai = yes
+	has_country_shield = yes
+	potential = { culture_group = greco_serican } 
+
+	seri_worthy_capital = {
+		icon = mission_mnd_dai_imperial_citadel
+		position = 1
+		provinces_to_highlight = { is_capital_of = ROOT } 
+
+		trigger = { capital_scope = { development = 15 }  } 
+
+		effect = {
+			capital_scope = {
+				area = { add_permanent_claim = ROOT } 
+				add_province_modifier = {
+					name = "worthy_capital"
+					duration = -1
+				}
+			}
+		}
+	}
+
+	seri_buffer_zone = {
+		icon = claim_the_borderlands
+		position = 2
+		required_missions = { seri_worthy_capital } 
+		provinces_to_highlight = {
+			area_for_scope_province = { is_capital_of = ROOT } 
+			NOT = { owned_by = ROOT } 
+		}
+
+		trigger = {
+			capital_scope = {
+				area_for_scope_province = {
+					type = all
+					owned_by = ROOT
+					development = 10
+				}
+			}
+		}
+
+		effect = {
+			add_country_modifier = {
+				name = "conversion_zeal"
+				duration = 18250
+			}
+		}
+	}
+
+	seri_brothers_in_arms = {
+		icon = per_sword_of_our_faith
+		position = 3
+		required_missions = { seri_buffer_zone } 
+		provinces_to_highlight = {  }
+
+		trigger = {
+			any_ally = {
+				religion = ROOT
+				culture_group = greco_serican
+			}
+		}
+
+		effect = {
+			if = {
+				limit = {
+					any_ally = {
+						religion = ROOT
+						ai = yes
+						culture_group = greco_serican
+					}
+				}
+				random_ally = {
+					limit = {
+						religion = ROOT
+						ai = yes
+						culture_group = greco_serican
+					}
+					ROOT = { vassalize = PREV } 
+				}
+			}
+			add_prestige = 10
+			if = {
+				limit = { dip = 6 } 
+				add_dip_power = 100
+			}
+			else = { change_dip = 1 } 
+		}
+	}
+
+	seri_full_potential = {
+		icon = mission_build_up_to_force_limit
+		position = 4
+		required_missions = {
+			seri_faithful_land
+			seri_pious_land
+		}
+		provinces_to_highlight = {  }
+
+		trigger = { army_size_percentage = 1.0 } 
+
+		effect = { anatolia_region = { add_permanent_claim = ROOT }  } 
+	}
+
+	seri_new_homeland = {
+		icon = anatolian_frontier
+		position = 5
+		required_missions = { seri_full_potential } 
+		provinces_to_highlight = {
+			region = anatolia_region
+			NOT = { country_or_non_sovereign_subject_holds = ROOT } 
+		}
+
+		trigger = {
+			num_of_provinces_owned_or_owned_by_non_sovereign_subjects_with = {
+				value = 50
+				region = anatolia_region
+			}
+		}
+
+		effect = {
+			thrace_area = { add_permanent_claim = ROOT } 
+			adrianople_area = { add_permanent_claim = ROOT } 
+			thessalonica_area = { add_permanent_claim = ROOT } 
+			caucasia_region = { add_permanent_claim = ROOT } 
+			al_jazira_area = { add_permanent_claim = ROOT } 
+			aleppo_area = { add_permanent_claim = ROOT } 
+		}
+	}
+}
+serican_3_2 = {
+	slot = 3
+	generic = yes
+	ai = yes
+	has_country_shield = yes
+	potential = { tag = SRK } 
+
+	seri_eastern_threats = {
+		icon = mission_build_up_to_force_limit
+		position = 6
+		required_missions = { seri_new_homeland } 
+		provinces_to_highlight = {  }
+
+		trigger = {  }
+
+		effect = {  }
+	}
+}
+serican_4 = {
+	slot = 4
+	generic = yes
+	ai = yes
+	has_country_shield = yes
+	potential = { culture_group = greco_serican } 
+
+	seri_faithful_land = {
+		icon = evengelize_the_faith
+		position = 3
+		required_missions = { seri_buffer_zone } 
+		provinces_to_highlight = {
+			area_for_scope_province = { is_capital_of = ROOT } 
+			NOT = { religion = ROOT } 
+		}
+
+		trigger = {
+			capital_scope = {
+				area_for_scope_province = {
+					type = all
+					religion = ROOT
+				}
+			}
+		}
+
+		effect = {
+			add_estate_loyalty = {
+				estate = estate_church
+				loyalty = 20
+			}
+		}
+	}
+}
+serican_4_2 = {
+	slot = 4
+	generic = yes
+	ai = yes
+	has_country_shield = yes
+	potential = { tag = SRK } 
+
+	seri_mastery_marmara = {
+		icon = mission_build_up_to_force_limit
+		position = 6
+		required_missions = { seri_new_homeland } 
+		provinces_to_highlight = {  }
+
+		trigger = {  }
+
+		effect = {  }
+	}
+}
+serican_5 = {
+	slot = 5
+	generic = yes
+	ai = yes
+	has_country_shield = yes
+	potential = { culture_group = greco_serican } 
+
+	seri_deal_with_seleucids = {
+		icon = mission_diplomatic_relation
+		position = 1
+		provinces_to_highlight = {  }
+
+		trigger = {
+			OR = {
+				is_part_of_hre = yes
+				reverse_has_opinion_modifier = {
+					who = emperor
+					modifier = insulted
+				}
+			}
+		}
+
+		effect = {
+			hidden_effect = {
+				if = {
+					limit = { is_part_of_hre = yes }
+					add_adm_power = 50
+					add_dip_power = 50
+					add_mil_power = 50
+					set_country_flag = seri_joined_empire
+				}
+				else = {
+					add_country_modifier = {
+						name = military_reform
+						duration = 3650
+					}
+					set_country_flag = seri_insulted_emperor
+				}
+			}
+			custom_tooltip = if_joined_empire
+			tooltip = {
+				add_adm_power = 50
+				add_dip_power = 50
+				add_mil_power = 50
+			}
+			custom_tooltip = if_insulted_emperor
+			tooltip = {
+				add_country_modifier = {
+					name = military_reform
+					duration = 3650
+				}
+			}
+		}
+
+	}
+
+	seri_imperial_influence = {
+		icon = personal_diplomacy
+		position = 2
+		required_missions = { seri_deal_with_seleucids } 
+		provinces_to_highlight = {
+			region = anatolia_region
+			OR = {
+				AND = {
+					ROOT = { has_country_flag = seri_joined_empire }
+					is_part_of_hre = yes
+				}
+				AND = {
+					ROOT = { has_country_flag = seri_insulted_emperor }
+					is_part_of_hre = no
+				}
+			}
+		}
+
+		trigger = {
+			OR = {
+				AND = {
+					custom_trigger_tooltip = {
+						tooltip = if_joined_empire
+						has_country_flag = seri_joined_empire
+					}
+					anatolia_region = {
+						type = all
+						OR = {
+							is_part_of_hre = yes
+							owned_by = ROOT
+						}
+					}
+				}
+				AND = {
+					custom_trigger_tooltip = {
+						tooltip = if_insulted_emperor
+						has_country_flag = seri_insulted_emperor
+					}
+					custom_trigger_tooltip = {
+						tooltip = anatolia_not_in_empire
+						anatolia_region = {
+							type = all
+							is_part_of_hre = no
+						}
+					}
+				}
+			}
+		}
+
+		effect = {
+			hidden_effect = {
+				if = {
+					limit = { has_country_flag = seri_joined_empire }
+					add_casus_belli = {
+						type = cb_claim_emperorship
+						target = emperor
+						months = 600
+					}
+				}
+				if = {
+					limit = { has_country_flag = seri_insulted_emperor }
+					emperor = {
+						every_owned_province = { add_permanent_claim = ROOT }
+					}
+				}
+			}
+			custom_tooltip = if_joined_empire
+			tooltip = {
+				add_casus_belli = {
+					type = cb_claim_emperorship
+					target = emperor
+					months = 600
+				}
+			}
+			custom_tooltip = if_insulted_emperor
+			tooltip = {
+				emperor = {
+					every_owned_province = { add_permanent_claim = ROOT }
+				}
+			}
+		}
+	}
+
+	seri_masters_of_asia = {
+		icon = polish_diplomacy
+		position = 3
+		required_missions = { seri_imperial_influence } 
+		provinces_to_highlight = {
+			is_capital_of = emperor
+		}
+
+		trigger = {
+			OR = {
+				AND = {
+					custom_trigger_tooltip = {
+						tooltip = if_joined_empire
+						has_country_flag = seri_joined_empire
+					}
+					is_emperor = yes
+				}
+				AND = {
+					custom_trigger_tooltip = {
+						tooltip = if_insulted_emperor
+						has_country_flag = seri_insulted_emperor
+					}
+					emperor = {
+						capital_scope = {
+							area_for_scope_province = {
+								type = all
+								controlled_by = ROOT
+							}
+						}
+					}
+				}
+			}
+		}
+
+		effect = {
+			hidden_effect = {
+				if = {
+					limit = { has_country_flag = seri_joined_empire }
+					add_authority = 40
+				}
+				if = {
+					limit = { has_country_flag = seri_insulted_emperor }
+					mashriq_region = {
+						add_permanent_claim = ROOT
+					}
+					dismantle_hre = yes
+				}
+			}
+			custom_tooltip = if_joined_empire
+			tooltip = {
+				add_authority = 40
+			}
+			custom_tooltip = if_insulted_emperor
+			tooltip = {
+				mashriq_region = {
+					add_permanent_claim = ROOT
+				}
+				dismantle_hre = yes
+			}
+		}
+	}
+}
+serican_5_2 = {
+	slot = 5
+	generic = yes
+	ai = yes
+	has_country_shield = yes
+	potential = { tag = SRK } 
+
+}

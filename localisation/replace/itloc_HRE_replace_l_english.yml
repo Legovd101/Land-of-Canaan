@@ -13,7 +13,7 @@
  ALREADY_THIS_IMP_REFORM: "Persia has already enacted '§Y$WHICH$§!'."
  
  HRE_JOIN: "Join OKS"
- ADD_TO_HRE_TOOLTIP: "Adding §Y$NAME$§! to the KODTRill give it the protection of the Basileus, and increase the Imperial Authority."
+ ADD_TO_HRE_TOOLTIP: "Adding §Y$NAME$§! to the Empire of Persia give it the protection of the Basileus, and increase the Imperial Authority."
  ADD_TO_HRE_TOOLTIP_CAPITAL: "By adding our capital to Persia, we will also get the following benefits:"
  APH_IS_SUBJECT: "Subjects can't add their provinces to Persia."
  APH_ALREADY_PART_OF_HRE: "$NAME$ is already a part of Persia."
@@ -23,7 +23,7 @@
  APH_NOT_CORE: "$NAME$ needs to be a $WHO$ core province before it can join the Ordained Kingdom of Seleukos."
  APH_TOO_LARGE: "Your nation is simply too large to join the OKS."
  APH_NOT_RELATION: "Your relation with $EMPEROR$ is not good enough. It needs to be at §Y$NEED$§! but is currently only §R$CURR$§!."
- REMOVE_FROM_HRE_TOOLTIP: "Removing §Y$NAME$§! from the KODTRill reduce the imperial authority, and greatly upset the Basileus!"
+ REMOVE_FROM_HRE_TOOLTIP: "Removing §Y$NAME$§! from the Empire of Persia reduce the imperial authority, and greatly upset the Basileus!"
  RPH_NOT_OWNED_CONTROLLED: "You can only remove provinces you own and control from Persia."
  RPH_NOT_PART_OF_HRE: "$NAME$ is not a part of the Ordained Kingdom of Seleukos."
  RPH_NOT_CORE: "$NAME$ has to be a $ADJ$ core to allow it to be removed from the Ordained Kingdom of Seleukos."

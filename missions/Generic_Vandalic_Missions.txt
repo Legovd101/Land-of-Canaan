@@ -1,0 +1,135 @@
+vand_1 = {
+	slot = 1
+	generic = no
+	ai = yes
+	has_country_shield = yes
+	potential = { culture_group = vandalic } 
+
+}
+vand_2 = {
+	slot = 2
+	generic = no
+	ai = yes
+	has_country_shield = yes
+	potential = { culture_group = vandalic } 
+
+	vand_prepare_for_conquest = {
+		icon = mission_build_up_to_force_limit
+		position = 1
+		provinces_to_highlight = {  } 
+
+		trigger = { army_size_percentage = 1.0 } 
+
+		effect = {
+			capital_scope = { area = { add_permanent_claim = ROOT }  } 
+			add_country_modifier = {
+				name = "offensive_modifier"
+				duration = 18250
+			}
+			every_owned_province = { every_neighbor_province = { add_permanent_claim = ROOT }  } 
+		}
+	}
+
+	vand_capital_defense = {
+		icon = spa_new_capital
+		position = 2
+		required_missions = { vand_prepare_for_conquest } 
+		provinces_to_highlight = {  } 
+
+		trigger = { capital_scope = { area_for_scope_province = { has_fort_building_trigger = yes }  }  } 
+
+		effect = {
+			capital_scope = {
+				add_province_modifier = {
+					name = "per_reinforced_defenses"
+					duration = -1
+				}
+			}
+		}
+	}
+}
+vand_3 = {
+	slot = 3
+	generic = no
+	ai = yes
+	has_country_shield = yes
+	potential = { culture_group = vandalic } 
+
+	vand_unify_the_land = {
+		icon = mission_west_african_ports
+		position = 3
+		required_missions = {
+			vand_capital_defense
+			vand_expand_administration
+		}
+		provinces_to_highlight = {
+			region = maghreb_region
+			NOT = { country_or_non_sovereign_subject_holds = ROOT } 
+		}
+
+		trigger = {
+			maghreb_region = {
+				type = all
+				OR = {
+					country_or_non_sovereign_subject_holds = ROOT
+					is_empty = yes
+				}
+			}
+		}
+
+		effect = {
+			1127 = { add_siberian_construction = 400 } 
+			2474 = { add_siberian_construction = 400 } 
+			2475 = { add_siberian_construction = 400 } 
+			mons_calpe_area = { add_permanent_claim = ROOT } 
+			upper_andalucia_area = { add_permanent_claim = ROOT } 
+			lower_andalucia_area = { add_permanent_claim = ROOT } 
+			baleares_area = { add_permanent_claim = ROOT } 
+			corsica_sardinia_area = { add_permanent_claim = ROOT } 
+			sicily_area = { add_permanent_claim = ROOT } 
+		}
+	}
+}
+vand_4 = {
+	slot = 4
+	generic = no
+	ai = yes
+	has_country_shield = yes
+	potential = { culture_group = vandalic } 
+
+	vand_capital_economy = {
+		icon = mission_dominate_home_trade_node
+		position = 1
+		provinces_to_highlight = {  } 
+
+		trigger = { capital_scope = { development = 15 }  } 
+
+		effect = {
+			capital_scope = {
+				add_province_modifier = {
+					name = "worthy_capital"
+					duration = -1
+				}
+			}
+		}
+	}
+
+	vand_expand_administration = {
+		icon = mission_asian_trader
+		position = 2
+		required_missions = { vand_capital_economy } 
+		provinces_to_highlight = {  } 
+
+		trigger = { grown_by_states = 2 } 
+
+		effect = { maghreb_region = { add_permanent_claim = ROOT }  } 
+	}
+}
+vand_5 = {
+	slot = 5
+	generic = no
+	ai = yes
+	has_country_shield = yes
+	potential = { culture_group = vandalic } 
+
+}

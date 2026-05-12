@@ -12,3 +12,13 @@ capital = 4755
 religion = xadarosh
 government = monarchy
 add_government_reform = feudalism_reform
+
+1440.1.1 = {
+	monarch = {
+		name = "Pleuratus"
+		dynasty = "Atintani"
+		mil = 3
+		adm = 4
+		dip = 1
+	}
+}

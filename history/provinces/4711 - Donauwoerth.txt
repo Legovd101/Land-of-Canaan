@@ -11,9 +11,10 @@ trade_goods = grain
 add_core = DWT
 discovered_by = eastern
 discovered_by = western
-discovered_by = latin
+discovered_by = latin_group
 discovered_by = viking
 discovered_by = muslim
+discovered_by = kemetic
 discovered_by = ottoman
 #Last of the Ingolstadt Wittelsbachs dies
 add_core = DRV

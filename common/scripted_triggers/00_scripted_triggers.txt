@@ -590,6 +590,10 @@ was_never_end_game_tag_trigger = {	#Country Scope
 				NOT = { was_tag = GZI }
 				NOT = { was_tag = RZI }
 				NOT = { was_tag = SCA }
+				NOT = { was_tag = LMD }
+				NOT = { was_tag = KMK }
+				NOT = { was_tag = OIK }
+				NOT = { was_tag = ZPD }
 				NOT = { tag = MUG }
 				NOT = { tag = ERS }
 				NOT = { tag = TUR }
@@ -625,6 +629,10 @@ was_never_end_game_tag_trigger = {	#Country Scope
 				NOT = { tag = GZI }
 				NOT = { tag = RZI }
 				NOT = { tag = SCA }
+				NOT = { tag = LMD }
+				NOT = { tag = KMK }
+				NOT = { tag = OIK }
+				NOT = { tag = ZPD }
 			}
 		}
 	}

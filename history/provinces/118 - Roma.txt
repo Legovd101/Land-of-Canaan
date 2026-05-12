@@ -25,7 +25,7 @@ is_city = yes
 fort_15th = yes
 
 discovered_by = western
-discovered_by = latin
+discovered_by = latin_group
 discovered_by = viking
 discovered_by = eastern
 discovered_by = muslim

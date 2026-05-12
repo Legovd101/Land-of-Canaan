@@ -19,6 +19,7 @@ capital = "Harer"
 is_city = yes
 discovered_by = east_african
 discovered_by = muslim
+discovered_by = kemetic
 discovered_by = ottoman
 discovered_by = indian
 add_core = GIK

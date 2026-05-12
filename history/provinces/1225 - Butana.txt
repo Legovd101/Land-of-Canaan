@@ -18,5 +18,6 @@ is_city = yes
 add_local_autonomy = 60
 discovered_by = east_african
 discovered_by = muslim
+discovered_by = kemetic
 discovered_by = ottoman
 add_core = QES

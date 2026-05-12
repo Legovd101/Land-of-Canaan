@@ -7,6 +7,8 @@
  western_desc: "With the Germanic technology group, technology levels are standard cost (100%)."
  latin_group: "Latin"
  latin_group_desc: "With the Latin technology group, technology levels are standard cost (100%)."
+ kemetic: "Kemetic"
+ kemetic_desc: "With the Kemetic technology group, technology levels are standard cost (100%)."
  viking: "Viking"
  viking_desc: "With the Viking technology group, technology levels are standard cost (100%)."
  eastern: "Eastern"

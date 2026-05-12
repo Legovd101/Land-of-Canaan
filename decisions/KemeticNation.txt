@@ -21,7 +21,7 @@ country_decisions = {
 					num_of_cities = 3
 				}
 			}
-			culture_group = egyptian
+			culture_group = egyptian_g
 			is_colonial_nation = no
 			OR = {
 				is_former_colonial_nation = no

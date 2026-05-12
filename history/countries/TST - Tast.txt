@@ -1,5 +1,5 @@
 capital = 2318
-technology_group = east_african
+technology_group = kemetic
 government_rank = 1
 religion = kemetism
 primary_culture = old_egyptian

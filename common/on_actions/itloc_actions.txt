@@ -3,6 +3,7 @@ on_startup = {
 	events = {
 		flavor_GDL.1
 		flavor_BUY.1
+		marcin_events.103
 	}
 }
 
@@ -50,5 +51,20 @@ on_siege_won_province = {
 				id = flavor_BUY.7
 			}
 		}
+	}
+}
+
+on_core = {
+	if = {
+		limit = {
+			owner = { is_part_of_hre = yes }
+			# NOT = { religion_group = emperor }
+			OR = {
+				any_neighbor_province = { is_part_of_hre = yes }
+				any_friendly_coast_border_province  = { is_part_of_hre = yes }
+			}
+			is_part_of_hre = no
+		}
+		set_in_empire = yes
 	}
 }
