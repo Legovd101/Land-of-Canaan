@@ -8,7 +8,7 @@ government = monarchy
 add_government_reform = feudalism_reform
 primary_culture = sicilian
 religion = norse_pagan
-technology_group = viking
+technology_group = adventurer
 capital = 125
 # Specific Effects #
 

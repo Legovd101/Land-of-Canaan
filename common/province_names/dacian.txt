@@ -1,0 +1,49 @@
+# Format: ID = { "Province" "Capital" } # Origin
+## Lt.
+# i/a -> e occasionally
+## Brt.
+# -dava -> -dau
+# source: https://en.wikipedia.org/wiki/List_of_reconstructed_Dacian_words# 
+
+## CARPATHIA
+
+
+# Ançem/Northern Transylvania
+157 = { "Behar" "Berdau" } # Biharata, Bihar-dava
+158 = { "Sendau" "Sendau" } # Sandava
+1952 = { "Çetat" "Kašdau" } # Cetatea, "Castle City"
+4127 = { "Putauis" "Putauis" } # Patavissa
+
+# Maluans/Southern Transylvania
+156 = { "Tems" "Tems" } # Timis
+1951 = { "Zerdau" "Zerdau" } # Ziridava
+4128 = { "Saçedau" "Saçedau" } # Sacidava
+
+# Alföld/Yazigpat
+155 = { "Rabudau" "Rabudau" } # Rabodava
+1953 = { "Tiš" "Tiš" } # Tissa
+1954 = { "Audenis" "Audenis" } # Vojvodina
+4125 = { "Belau" "Belau" } # Bjelovar
+
+# Transdanubia/Panna
+153 = { "Piš" "Piš" } # Pest
+4126 = { "Pacaš" "Pacaš" } # Pagatsion
+135 = { "Suprau" "Suprau" } # Sopron
+1864 = { "Pelš" "Pelš" } # Pelso
+4240 = { "Anmaç" "Anmaç" } # Annamatia
+
+# Wallachia/Roxalonston
+160 = { "Auluçen" "Auluçen" } # Alutus
+161 = { "Pašedau" "Pašedau" } # "Country City"
+2998 = { "Muçes" "Muçes" } # Mouseos
+4531 = { "Iulau" "Iulau" } # Iulia
+4532 = { "Seuer" "Seuer" } # Severinus
+
+## BALKANS
+
+# Slavonia/Šaroba
+152 = { "Berež" "Berež" } # Varasd
+1767 = { "Morça" "Morça" } # Mursa
+4173 = { "Serma" "Serma" } # Sirmium
+4756 = { "Belau" "Belau" } # Bjelovar
+3145 = { "Mures" "Mures" } # Mursa

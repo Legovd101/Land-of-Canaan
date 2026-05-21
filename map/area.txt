@@ -1040,7 +1040,7 @@ thrace_area = {  #3
 adrianople_area = { # 4
 	149 1764 4779 4705 
 }
-philippopolis_area = { 
+pulpudeva_area = { 
 	2750 4703 1765 3138 3136 
 }
 bulgaria_area = {  #5

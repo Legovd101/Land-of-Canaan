@@ -1,0 +1,23 @@
+# RULES
+# All names here will be hypothetical Breton toponyms
+# Format: ID = { "Province" "Capital" } # Origin
+
+
+## Scandinavia
+
+# Ostlandet/Douareter
+17 = { "Ekerti" "Kêrpradenn" } # "Aker's House", "Meadow"
+4143 = { "Teroufenn" "Kêrmanenn" } # "East of the Fold", "Moss"
+22 = { "Nozhenn" "Tornaon" } # "North Land", Cliff
+4144 = { "Palanksenn" "Palanksenn" } # "Plank"
+
+# Vestlandet/Douamerv
+23 = { "Bezhenti" "Bezhen" } # "Bergen's House"
+4145 = { "Doualemm" "Mountankenn" } # "Sharp Land", "Morn Dale"
+24 = { "Bazhenn" "Bazhenn" } # "Staff"
+2752 = { "Roumdankenn" "Kêrtant" } # "Rom Dale", Farm
+
+# Trondelag/Toumammvro 
+20 = { "Toumammvro" "Kêroumammvro" } # "Þrond's Home"
+10 = { "Douafraeüs" "Kêrmamm" } # "Industrious Land", "Mother"
+21 = { "Doualzhi" "Gwenodenn" } # "Holgi's Land", Path

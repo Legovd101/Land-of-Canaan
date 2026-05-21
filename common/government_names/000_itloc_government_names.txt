@@ -164,3 +164,53 @@ irish_king = {
 		culture_group = gaelic
 	}
 }
+
+
+pagan_egyptian_monarchy = {
+	rank = {
+		1 = NOMOS
+		2 = METOURO
+		3 = OMETOURO
+	}
+
+	ruler_male = {
+		1 = NOMARKHIS
+		2 = PHARAO
+		3 = OPHARAO
+	}
+
+	ruler_female = {
+		1 = NOMARKHIS
+		2 = PHARAO
+		3 = PHARAO
+	}
+	
+	consort_male = {
+		1 = CONSORT
+		2 = OURO
+		3 = OURO
+	}
+
+	consort_female = {
+		1 = CONSORT
+		2 = OURO
+		3 = OURO
+	}
+
+	heir_male = {
+		1 = HEIR
+		2 = HEIR
+		3 = HEIR
+	}
+
+	heir_female = {
+		1 = HEIR_fem
+		2 = HEIR_fem
+		3 = HEIR_fem
+	}
+
+	trigger = {
+		government = monarchy
+		culture_group = egyptian_g
+	}
+}

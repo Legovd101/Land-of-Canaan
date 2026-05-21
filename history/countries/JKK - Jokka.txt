@@ -1,6 +1,6 @@
 religion = sami_pagan
 capital = 97
-technology_group = eastern
+technology_group = adventurer
 primary_culture = kazka
 government = monarchy
 add_government_reform = feudalism_reform

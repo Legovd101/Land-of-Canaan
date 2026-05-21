@@ -171,3 +171,84 @@ PMR_ideas = {
 		discipline = 0.02
 	}
 }
+
+KEM_ideas = {
+	start = {
+		land_forcelimit_modifier = 0.2
+		core_creation = -0.25
+	}
+
+	bonus = {
+		artillery_cost = -0.2
+	}
+	
+	trigger = {
+		tag = KEM
+	}
+	free = yes		#will be added at load.
+	
+	tiered_administration = {
+		development_cost = -0.1
+		global_tax_modifier = 0.1
+	}
+	nile_centric_culture = {
+		global_allowed_num_of_buildings = 1
+		build_cost = -0.15
+	}
+	legacy_of_pyramids = {
+		great_project_upgrade_cost = -0.25
+	}
+	irrigation_projects = {
+		colonists = 1
+	}
+	canaanite_colonies = {
+		culture_conversion_cost = -0.25
+	}
+	nome_system = {
+		reduced_liberty_desire = 10
+	}
+	great_green_sea = {
+		prestige_from_naval = 0.5
+		global_ship_cost = -0.15
+	}
+}
+
+BBL_ideas = {
+	start = {
+		global_trade_power = 0.1
+		same_culture_advisor_cost = -0.25
+	}
+
+	bonus = {
+		great_project_upgrade_cost = -0.2
+	}
+	
+	trigger = {
+		culture = babylonian
+	}
+	free = yes		#will be added at load.
+	
+	heart_of_mesopotamia = {
+		idea_cost = -0.15
+	}
+	ziggurat_builders = {
+		prestige = 0.5
+		prestige_decay = -0.05
+	}
+	master_astronomers = {
+		movement_speed = 0.15
+	}
+	ancient_libraries = {
+		all_power_cost = -0.2
+	}
+	blessing_of_tigris = {
+		development_cost = -0.1
+	}
+	adoption_of_gunpowder = {
+		fire_damage = 0.1
+	}
+	great_babylonia = {
+		production_efficiency = 0.15
+		trade_efficiency = 0.15
+	}
+}

@@ -8,6 +8,6 @@ add_government_reform = steppe_horde
 government_rank = 1
 primary_culture = coralli
 religion = pyrrhonism
-technology_group = ottoman
+technology_group = celtic_group
 capital = 1764
 # Specific Effects #

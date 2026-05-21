@@ -6,7 +6,7 @@
 religion = zoroastrian
 # Specific Effects #
 capital = 3080
-technology_group = ottoman
+technology_group = muslim
 government_rank = 1
 government = tribal
 add_government_reform = steppe_horde

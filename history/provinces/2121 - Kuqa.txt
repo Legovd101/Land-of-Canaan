@@ -12,5 +12,6 @@ base_manpower = 3
 is_city = yes
 discovered_by = chinese
 discovered_by = nomad_group
+discovered_by = uralic_group
 discovered_by = BUY
 discovered_by = OSE

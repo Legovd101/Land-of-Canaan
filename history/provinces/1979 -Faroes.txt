@@ -12,4 +12,5 @@ is_city = yes
 add_core = NOR
 discovered_by = western
 discovered_by = latin_group
-discovered_by = viking
+discovered_by = adventurer
+discovered_by = celtic_group

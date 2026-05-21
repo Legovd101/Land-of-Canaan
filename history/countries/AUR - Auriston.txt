@@ -1,6 +1,6 @@
 religion = scythian_pagan
 capital = 2409
-technology_group = nomad_group
+technology_group = iranic_group
 primary_culture = aorsi
 government_rank = 1
 government = monarchy

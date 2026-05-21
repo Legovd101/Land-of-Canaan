@@ -1,7 +1,7 @@
 capital = 4754
 government_rank = 1
 religion = pyrrhonism
-technology_group = eastern
+technology_group = thraco_illyrian
 primary_culture = pirustae
 government = monarchy
 add_government_reform = feudalism_reform

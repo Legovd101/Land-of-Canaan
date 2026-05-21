@@ -4,3 +4,4 @@ government_rank = 1
 government = republic
 add_government_reform = oligarchy_reform
 capital = 335
+primary_culture = phoenician

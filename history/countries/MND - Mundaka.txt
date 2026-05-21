@@ -1,6 +1,6 @@
 religion = norse_pagan
 capital = 209
-technology_group = viking
+technology_group = adventurer
 primary_culture = normand
 government = monarchy
 add_government_reform = feudalism_reform

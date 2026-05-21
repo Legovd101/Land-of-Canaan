@@ -1,0 +1,91 @@
+# RULES
+# All names here are taken from Nomina Culturalia Maxima https://steamcommunity.com/sharedfiles/filedetails/?id=3667059600
+# Format: ID = { "Province" "Capital" } # Origin
+
+## Britain 
+
+# East Anglia/Aastfräislound
+1860 = { "Norðfolc" "Norðrvík" }
+238 = { "Austfrísland" "Keilafjörður" }
+4370 = { "Beadanford" "Kambryggja" }
+
+# London/Xanti
+236 = { "Lundúnaborg" "Lundúnaborg" }
+235 = { "Cent" "Cantawaraborg" }
+4371 = { "Portesmuða" "Hæstingaceaster" }
+237 = { "Øxnafurða" "Øxnafurða" }
+
+# East Midlands/West-Fryslân
+243 = { "Linnsey" "Linnsey" }
+4376 = { "Ligeraceaster" "Ligeraceaster" }
+1861 = { "Djúrabýr" "Djúrabýr" }
+
+# Wales/Bretland
+241 = { "Taffborg" "Sveinsey" }
+242 = { "Norður-Bretland" "Arfonborg" }
+4366 = { "Fjeldsæter" "Fjeldsæter" }
+4369 = { "Karmårten" "Karmårten" }
+
+# West Midlands/Cymru
+4372 = { "Klausturbýr" "Klausturbýr" }
+239 = { "Gleawceaster" "Brycgstow" }
+240 = { "Scrobbesborg" "Scrobbesborg" }
+
+# Wessex/Priðin
+234 = { "Hamtun" "Searesborg" }
+4374 = { "Dornsæte" "Dornsæte" }
+4130 = { "Sumorsæte" "Baðum" }
+4373 = { "Defena" "Escanceaster" }
+233 = { "Cornweal" "Cornweal" }
+
+# Yorkshire/Jorvík
+4368 = { "Skarðaborg" "Skarðaborg" }
+4785 = { "Skaufvöllr" "Skaufvöllr" }
+4367 = { "Kongensbýr" "Kongensbýr" }
+245 = { "Jorvík" "Kottingaheimr" }
+
+# Northern England/Ystrad Clud
+4375 = { "Borgstaður" "Borgstaður" }
+247 = { "Karley" "Karley" }
+246 = { "Norðimbraland" "Norðimbraland" }
+244 = { "Lonceaster" "Lonceaster" }
+
+# Lowlands
+4361 = { "Kelsæ" "Jedborg" }
+4362 = { "Þykkniborg" "Þykkniborg" }
+249 = { "Ægrfylki" "Ægrfylki" }
+248 = { "Luðen" "Edinborg" }
+251 = { "Apardjón" "Apardjón" }
+
+# Highlands
+4110 = { "Suðrland" "Hjálmundalr" }
+4363 = { "Argjáll" "Argjáll" }
+250 = { "Kubbarp" "Kubbarp" }
+252 = { "Invernes" "Invernes" }
+369 = { "Orkneyjar" "Kirkjuvágr" }
+
+# The Isles
+4365 = { "Kelly" "Kelly" }
+4364 = { "Innri Suðreyjar" "Skíð" }
+253 = { "Ýtri Suðreyja" "Stork" }
+
+# Ulster/Ulaidh
+4121 = { "Lýborg" "Lýborg" }
+4380 = { "Útlendingaborg" "Útlendingaborg" }
+372 = { "Rathgannon" "Rathgannon" }
+
+# Connaught/Connachta
+4119 = { "Slich" "Slich" }
+375 = { "Hlymrekr" "Hlymrekr" }
+376 = { "Konnachta" "Galwæg" }
+
+# Munster/Mýnstaðr
+4377 = { "Austur-Munstaðr" "Kilkanice" }
+4378 = { "Suður-Munstaðr" "Desmuðr" }
+4118 = { "Chorkee" "Chorkee" }
+
+# Leinster/Laistaðr
+373 = { "Divlyn" "Divlyn" }
+374 = { "Laistaðrr" "Kilkanice" }
+4120 = { "Kíldari" "Kíldari" }
+4379 = { "Miðr" "Miðr" }

@@ -8,7 +8,7 @@ add_government_reform = league_of_lezhe_reform
 government_rank = 1
 primary_culture = albanoi
 religion = pyrrhonism
-technology_group = ottoman
+technology_group = thraco_illyrian
 capital = 4750
 # Specific Effects #
 1443.3.4 = { 

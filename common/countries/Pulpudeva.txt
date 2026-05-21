@@ -71,11 +71,10 @@ monarch_names = {
 	"Cotyla #0" = -1
 }
 leader_names = { 
-	Seuthes Teres Sitalkes Rhoemetalces Amadokos Medos Sparatocos Dadas Bryzos
-	Ziselmis
+	Seuthes Teres Sitalkes Rhoemetalces Amadokos Medos Sparatocos Dadas Bryzos Ziselmis
 	Rholes Remaxos Dromichaites Beithyos 
 }
 ship_names = { 
 	"Hebros" Rhodope Haemus Odessos Seuthopolis Salmydessos Aenus Zerynthos Maroneia Kotys
-	Bendis 
+	Bendis
 }

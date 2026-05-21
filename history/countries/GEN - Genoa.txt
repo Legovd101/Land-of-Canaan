@@ -9,7 +9,7 @@ add_government_reform = merchants_reform
 government_rank = 1
 primary_culture = ligurian
 religion = norse_pagan
-technology_group = viking
+technology_group = adventurer
 capital = 101
 fixed_capital = 101
 # Specific Effects #

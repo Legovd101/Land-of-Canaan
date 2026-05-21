@@ -1800,3 +1800,26 @@ league_member = {
 
 	is_voluntary = no
 }
+
+nome = {
+	copy_from = appanage
+	
+	is_potential_overlord = { 
+		tag = KEM
+	}
+
+	takes_diplo_slot = no
+	can_fight = {
+		same_overlord = nome
+	}
+	can_rival = {
+	}
+	can_ally = {
+	}
+	can_marry = {
+	}
+	forcelimit_to_overlord = 0.5
+	naval_forcelimit_to_overlord = 0.5		
+	manpower_to_overlord = 0.5
+	sailors_to_overlord = 0.5
+}

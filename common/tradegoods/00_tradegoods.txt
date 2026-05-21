@@ -5894,7 +5894,7 @@ exotic_fur = {
 }
 
 
-String_Instruments = {
+string_instruments = {
 	is_valuable = yes
 	color = { 250 200 160 }
 	is_latent = yes

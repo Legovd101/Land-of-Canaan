@@ -1,0 +1,117 @@
+#Country Name: Please see filename.
+graphical_culture = westerngfx
+color = { 175 108 132 }
+revolutionary_colors = { 2 0 10 }
+historical_idea_groups = { 
+	administrative_ideas
+	exploration_ideas
+	quality_ideas
+	maritime_ideas
+	economic_ideas
+	expansion_ideas
+	trade_ideas
+	naval_ideas
+}
+historical_units = { 
+	western_medieval_infantry
+	chevauchee
+	western_longbow
+	gaelic_mercenary
+	gaelic_free_shooter
+	french_caracolle
+	irish_charge
+	anglofrench_line
+	french_dragoon
+	british_redcoat
+	british_hussar
+	british_square
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+monarch_names = { 
+	"Æthelred #0" = 100
+	"Eadweard #0" = 60
+	"Ceorl #0" = 40
+	"Seaxneat #0" = 40
+	"Wilhelm #0" = 20
+	"Richeard #0" = 20
+	"Æthelflæd #0" = -20
+	"Penda #0" = 20
+	"Æthelred #0" = 10
+	"Eadgifu #0" = -10
+	"Ælfwine #0" = 10
+	"Ceorl #0" = 10
+	"Eadgar #0" = 10
+	"Thurstan #0" = 10
+	"Eadmund #0" = 5
+	"Geoffa #0" = 5
+	"Iohann #0" = 1
+	"Iacob #0" = 0
+	"Hunfrith #0" = 0
+	"Hrodebert #0" = 0
+	"Stæfan #0" = 1
+	"Æadmaer #0" = 0
+	"Alessand #0" = 0
+	"Æthelberht #0" = 0
+	"Ælfred #0" = 0
+	"Ambrosius #0" = 0
+	"Andreas #0" = 0
+	"Antonius #0" = 0
+	"Eorcenbeorht #0" = 0
+	"Benedict #0" = 0
+	"Christoph #0" = 0
+	"Daniell #0" = 0
+	"Dæfydd #0" = 0
+	"Earnst #0" = 0
+	"Francis #0" = 0
+	"Godfrith #0" = 0
+	"Wiga #0" = 0
+	"Horsa #0" = 0
+	"Hugo #0" = 0
+	"Isaac #0" = 0
+	"Ieremias #0" = 0
+	"Ionathan #0" = 0
+	"Ioseph #0" = 0
+	"Laurence #0" = 0
+	"Matthæus #0" = 0
+	"Nehemia #0" = 0
+	"Olafr #0" = 0
+	"Samuell #0" = 0
+	"Sigeweard #0" = 0
+	"Ælizabeth #0" = -10
+	"Iane #0" = -10
+	"Margrete #0" = -1
+}
+
+leader_names = { 
+	Ælfgar Æthelstan Beornwulf Byrhtnoth Cenric Ceawlin Coenwulf Cuthred Cynebald
+	Cynric Dudda Dunstan Eadbald Eadric Eadwine Ealdred Ecgberht Eoforwine
+	Hereward Horsa Hunlaf Leofric Leofwine Offa Ordgar Osbeorn Osric
+	Peada Penda Raedwald Saewulf Seaxbald Sigeberht Sigehelm Sigewine
+	Styrr Swein Theodric Thurstan Wigheard Wiglaf Wulfric Wulfgar Wulfhere
+	Wulfstan Yric
+}
+
+ship_names = { 
+	Ælfswan Ætheling Ashdragon Beaduwulf Beorhthelm Black Raven Blackwyrm
+	Bretwalda Brytenwalda Cyningesfære Dragonwolf Ealdormen Eagle of Kent
+	Eastwind Eorlscipe Fenrir Fyrdraca Goldmane Great Dragon Great Wyvern
+	Guthmere Hamtun Hawk of Mercia Heofonwyrm Hengest Horsa Iron Hart
+	King Ælfred King Eadgar King Offa Lady Eadgifu Lady of Wessex
+	Leofwind Lion of Kent Long Serpent Mercian Crown Moonwolf
+	Northdragon North Star Oakheart Raven Banner Ravenwing Red Dragon
+	Red Wyvern Ringgiver Roaring Hart Royal Ætheling Saxon Crown
+	Saxon Spear Sea Dragon Sea Hart Sea Raven Seaxwolf Shieldbreaker
+	Stormwyrm Sun Hart Swan of Mercia Swanwyrm The Golden Hart
+	The White Dragon Thunor Thunderwyrm Wessex Crown Westwind White Hart
+	White Raven Wild Drake Windwolf Wolf of Sussex Wolfwyrm Wulfing
+	Wyrm of Kent Yrthling
+}
+army_names = { 
+	"Royal Army" "Army of Scotland" "Army of Ireland" 
+}
+fleet_names = { 
+	"Royal Navy" "Blue Squadron" "Red Squadron" "White Squadron" "North Sea Squadron" "Channel Squadron" 
+}

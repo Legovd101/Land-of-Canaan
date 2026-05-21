@@ -1,6 +1,6 @@
 religion = baltic_pagan
 capital = 1936
-technology_group = eastern
+technology_group = baltic_group
 primary_culture = lithuanian
 government_rank = 1
 government = monarchy

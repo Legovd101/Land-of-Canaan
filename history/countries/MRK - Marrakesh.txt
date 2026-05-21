@@ -9,7 +9,7 @@ add_government_reform = barbary_sultanate_reform
 government_rank = 1
 primary_culture = moroccan
 religion = vandalic
-technology_group = muslim
+technology_group = latin_group
 capital = 344
 fixed_capital = 343
 # Specific Effects #

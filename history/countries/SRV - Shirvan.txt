@@ -1,7 +1,7 @@
 government = monarchy
 add_government_reform = feudalism_reform
 primary_culture = azerbaijani
-technology_group = ottoman
+technology_group = iranic_group
 religion = barjiana
 capital = 421
 1378.1.1 = { 

@@ -1,0 +1,25 @@
+# namespace = formables
+
+# # The Return of the Nomarch
+# province_event = {
+# 	id = formables.1
+# 	title = formables.1t
+# 	desc = formables.1d
+# 	picture = RELIGIOUS_CONVERSION_eventPicture
+
+	
+# 	option = {
+# 		name = formables.1.a
+# 		change_culture = gaelawer
+# 		add_core = GDL
+# 		hidden_effect = {
+# 			if = {
+# 				limit = {
+# 					is_capital = yes
+# 					owner = { ai = yes }
+# 				}
+# 				owner = { change_primary_culture = gaelawer }
+# 			}
+# 		}
+# 	}
+# }

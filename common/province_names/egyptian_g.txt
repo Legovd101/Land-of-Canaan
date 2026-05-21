@@ -1,0 +1,74 @@
+# RULES
+# All names here will be either historical names, or reconstructed Ancient Egyptian/Coptic toponyms
+# Format: ID = { "Province" "Capital" } # Origin
+
+## EGYPT 
+
+# Cyrenaica
+2325 = { "Amun" "Amun" } # Ammonia
+2326 = { "Perta" "Perta" } # Petra Megale
+357 = { "Kurena" "Kurena" } # Cyrene
+356 = { "Khes-per" "Khes-per" } # Hesperis
+
+# Delta
+358 = { "Raqudit" "Raqudit" } # Alexandria
+362 = { "Rašdi" "Rašdi" } # Rosetta/Bolbitine
+363 = { "Tamiati" "Tamiati" } # Damietta
+
+# Bahari
+361 = { "Men-Nefer" "Men-Nefer" } # Memphis
+2316 = { "Tanitad" "Tanitad" } # Tanta
+4316 = { "Per-Bastet" "Per-Bastet" } # Bubastis
+4317 = { "Temai en Kheru" "Temai en Kheru" } # Damanhur
+
+# Red Sea Hills
+365 = { "Biau" "Biau" } # Sinai
+2315 = { "Peklousma" "Peklousma" } # Clysma
+2320 = { "Iabty" "Iabty" } # "Eastern"
+2321 = { "Šas Kheret" "Šas Kheret" } # Berenice
+
+# Vostani
+359 = { "Epiom" "Epiom" } # Fayyum
+4318 = { "Petpeh" "Petpeh" } # Atfih
+2317 = { "Shmun" "Shmun" } # Hermopolis
+
+# Al-Wahat
+1233 = { "Kenmet" "Kenmet" } # Kharga
+4323 = { "Tiyakhu" "Tiyakhu" } # Farafra
+2318 = { "Tast" "Tast" } # Bahariya
+
+# Said
+360 = { "Waset" "Waset" } # Thebes
+2319 = { "Ipu" "Ipu" } # Manfalut
+4320 = { "Abedju" "Abedju" } # Abydos
+4319 = { "Snit" "Snit" } # Esna
+1231 = { "Swenett" "Swenett" } # Aswan
+
+# Lower Nubia
+1234 = { "Prim" "Prim" } # Primis
+2322 = { "Buhen" "Buhen" } # Buhen
+2323 = { "Iken" "Iken" } # Iken, from https://commons.wikimedia.org/wiki/File:Ancient_Egypt_map-hiero_(ms).svg
+
+## MASHRIQ/MESOPOTAMIA 
+
+# Palestine/Philistia
+1854 = { "Yapu" "Yapu" } # Jaffa
+379 = { "Erušalem" "Erušalem" } # Jerusalem
+364 = { "Khazzati" "Khazzati" } # Gaza
+
+# Damascus/Darmesheq
+1855 = { "Ziduna" "Ziduna" } # Sidon
+382 = { "Ta-Meshku" "Ta-Meshku" } # Damascus
+3061 = { "Iunu" "Iunu" } # Heliopolis
+
+# Syria/Tripolis
+378 = { "Derbly" "Derbly" } # Tarabulus
+4297 = { "Khamet" "Khamet" } # Hamath-Zobah
+3062 = { "Iru-mel" "Iru-mel" } # Hermel
+
+# Aleppo/Beroia
+377 = { "Kherebu" "Kherebu" } # Tarabulus
+2313 = { "Endjukh" "Endjukh" } # Antioch
+4298 = { "Tjeruma" "Tjeruma" } # Antiochia Ad Taurum
+3060 = { "Menbid" "Menbid" } # Manbij
+1849 = { "Khama" "Khama" } # Hama

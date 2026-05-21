@@ -3,11 +3,10 @@ add_government_reform = feudalism_reform
 government_rank = 1
 religion = gallic_pagan
 capital = 174
-technology_group = western
+technology_group = celtic_group
 primary_culture = biturigian
-
-1430.1.1 = {
-	monarch = {
+1430.1.1 = { 
+	monarch = { 
 		name = "Camserona"
 		dynasty = "Rigomagos"
 		adm = 6

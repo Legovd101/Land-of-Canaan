@@ -12,3 +12,4 @@ add_core = KOR
 add_local_autonomy = 35
 discovered_by = chinese
 discovered_by = nomad_group
+discovered_by = uralic_group

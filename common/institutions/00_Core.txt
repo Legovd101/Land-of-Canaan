@@ -1763,7 +1763,7 @@ manufactories = {
 					trade_goods = jade_sculptures
 					trade_goods = exotic_fur
 					trade_goods = fur_clothing
-					trade_goods = String_Instruments
+					trade_goods = string_instruments
 				}
 				manufactories_origin = {
 					same_continent = PREV
@@ -1957,7 +1957,7 @@ manufactories = {
 					trade_goods = jade_sculptures
 					trade_goods = exotic_fur
 					trade_goods = fur_clothing
-					trade_goods = String_Instruments
+					trade_goods = string_instruments
 				}
 				manufactories_origin = {
 					NOT = { same_continent = PREV }
@@ -2879,7 +2879,7 @@ industrialization = {
 					trade_goods = jade_sculptures
 					trade_goods = exotic_fur
 					trade_goods = fur_clothing
-					trade_goods = String_Instruments
+					trade_goods = string_instruments
 				}
 				industrialization_origin = {
 					same_continent = PREV
@@ -3073,7 +3073,7 @@ industrialization = {
 					trade_goods = jade_sculptures
 					trade_goods = exotic_fur
 					trade_goods = fur_clothing
-					trade_goods = String_Instruments
+					trade_goods = string_instruments
 				}
 				industrialization_origin = {
 					NOT = { same_continent = PREV }

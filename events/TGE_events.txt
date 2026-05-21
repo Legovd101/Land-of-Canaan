@@ -3078,6 +3078,7 @@ country_event = {
 							province_id = 960 
 							province_id = 910 
 							province_id = 969
+							province_id = 3010
 						}
 					}
 					
@@ -3509,6 +3510,7 @@ country_event = {
 							province_id = 2980
 							province_id = 209
 							province_id = 4374
+							province_id = 1231
 						}
 					}
 					
@@ -3555,6 +3557,8 @@ country_event = {
 							province_id = 61 
 							province_id = 673 
 							province_id = 702 
+							province_id = 4319 
+							province_id = 3122 
 						}
 					}
 					
@@ -4007,6 +4011,7 @@ country_event = {
 							province_id = 555   
 							province_id = 677 
 							province_id = 688 
+							province_id = 3009 
 						}
 					}
 					
@@ -4089,7 +4094,7 @@ country_event = {
 							province_id = 395
 							province_id = 396
 							province_id = 400
-							province_id = 365
+							province_id = 2321
 							province_id = 1230
 							province_id = 2100
 							province_id = 4407
@@ -4872,7 +4877,7 @@ country_event = {
 						}
 					}
 					
-					change_trade_goods = String_Instruments
+					change_trade_goods = string_instruments
 				}
 			}
 

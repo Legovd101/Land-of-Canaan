@@ -1,6 +1,6 @@
 religion = gallic_pagan
 capital = 90
-technology_group = western
+technology_group = celtic_group
 government = monarchy
 primary_culture = belgae
 add_government_reform = feudalism_reform

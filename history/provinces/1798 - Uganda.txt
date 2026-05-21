@@ -1,4 +1,5 @@
 #1798 - Imatong
 discovered_by = east_african
+discovered_by = cushitic_group
 discovered_by = central_african
 is_city = no

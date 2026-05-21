@@ -89,7 +89,7 @@ marble_sculpture = { base_price = 4 }
 chocolate = { base_price = 4 }
 cigars = { base_price = 4.25 }
 jade_sculptures = { base_price = 4 }
-String_Instruments = { base_price = 4.50 }
+string_instruments = { base_price = 4.50 }
 # Eastern Resources
 tea = { base_price = 2 }
 opium = { base_price = 4 }

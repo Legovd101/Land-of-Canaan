@@ -1,6 +1,6 @@
 religion = norse_pagan
 capital = 3
-technology_group = western
+technology_group = adventurer
 primary_culture = gautish
 government = monarchy
 add_government_reform = feudalism_reform

@@ -83,8 +83,7 @@ leader_names = {
 	Bawardi
 	Qadi
 	Simnani
-	Banu Tamim Khidrshah Chuhra
-	Sabiri
+	Banu Tamim Khidrshah Chuhra Sabiri
 	Jalili
 	Azizi
 	Shahy

@@ -1,6 +1,6 @@
 religion = pyrrhonism
 capital = 416
-technology_group = ottoman
+technology_group = iranic_group
 primary_culture = cimmerian
 government = monarchy
 add_government_reform = feudalism_reform

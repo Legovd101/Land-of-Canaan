@@ -10,5 +10,6 @@ base_tax = 1
 base_production = 1
 base_manpower = 1
 discovered_by = east_african
+discovered_by = cushitic_group
 discovered_by = central_african
 is_city = no

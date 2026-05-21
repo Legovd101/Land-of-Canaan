@@ -5,6 +5,6 @@ mercantilism = 25
 primary_culture = mazandarani
 religion = zoroastrian
 add_accepted_culture = croatian
-technology_group = eastern
+technology_group = iranic_group
 capital = 428# Ragusa
 fixed_capital = 428# Cannot move capital away from this province & no power cost to move to it

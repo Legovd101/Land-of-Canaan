@@ -7,3 +7,7 @@ military_reform = {
 	navy_tradition = 0.1
 	global_regiment_cost = -0.1
 }
+naval_buildup = {
+	navy_tradition = 0.1
+	naval_maintenance_modifier = -0.3
+}

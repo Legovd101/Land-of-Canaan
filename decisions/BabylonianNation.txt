@@ -72,31 +72,31 @@ country_decisions = {
 				limit = {
 					NOT = { owned_by = ROOT }
 				}
-				add_permanent_claim = ASY
+				add_permanent_claim = BLE
 			}
 			mikra_sogdia_area = {
 				limit = {
 					NOT = { owned_by = ROOT }
 				}
-				add_permanent_claim = ASY
+				add_permanent_claim = BLE
 			}
 			tadmor_area = {
 				limit = {
 					NOT = { owned_by = ROOT }
 				}
-				add_permanent_claim = ASY
+				add_permanent_claim = BLE
 			}
 			nineveh_area = {
 				limit = {
 					NOT = { owned_by = ROOT }
 				}
-				add_permanent_claim = ASY
+				add_permanent_claim = BLE
 			}
 			al_jazira_area = {
 				limit = {
 					NOT = { owned_by = ROOT }
 				}
-				add_permanent_claim = ASY
+				add_permanent_claim = BLE
 			}
 			add_prestige = 25
 			add_country_modifier = {

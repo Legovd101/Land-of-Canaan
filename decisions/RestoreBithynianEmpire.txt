@@ -19,10 +19,7 @@ country_decisions = {
 			NOT = { tag = HLR }
 			NOT = { tag = ROM }
 			NOT = { tag = TUR }
-			OR = {
-				culture_group = hellenic
-				dynasty = "Barkí"
-			}
+			dynasty = "Barkí"
 		}
 		provinces_to_highlight = {
 			OR = {

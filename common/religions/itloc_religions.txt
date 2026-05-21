@@ -355,6 +355,9 @@ semitic_religions = {
 		}
 		personal_deity = yes
 		heretic = { KUSHITE SPHYNX }
+		allowed_conversion = {
+			atenism
+		}
 	}
 	
 	kushite_pagan = {
@@ -413,6 +416,9 @@ semitic_religions = {
 		}
 		uses_piety = yes
 		heretic = { SPHYNX }
+		allowed_conversion = {
+			kemetism
+		}
 	}
 }
 

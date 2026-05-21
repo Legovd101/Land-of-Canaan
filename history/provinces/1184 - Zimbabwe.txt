@@ -11,6 +11,7 @@ trade_goods = gold
 base_tax = 5
 base_production = 4
 discovered_by = east_african
+discovered_by = cushitic_group
 discovered_by = central_african
 extra_cost = 8
 center_of_trade = 1

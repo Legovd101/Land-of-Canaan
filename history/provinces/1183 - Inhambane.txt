@@ -10,6 +10,7 @@ native_size = 30
 native_ferocity = 4
 native_hostileness = 9
 discovered_by = east_african
+discovered_by = cushitic_group
 discovered_by = central_african
 discovered_by = ETH
 discovered_by = ADA

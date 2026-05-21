@@ -1,6 +1,6 @@
 religion = dionysian
 capital = 4700
-technology_group = western
+technology_group = latin_group
 primary_culture = lemnian
 government = theocracy
 add_government_reform = leading_clergy_reform

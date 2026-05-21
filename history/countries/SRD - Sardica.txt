@@ -1,7 +1,7 @@
 capital = 1765
 government_rank = 1
 religion = xadarosh
-technology_group = eastern
+technology_group = thraco_illyrian
 primary_culture = triballi
 government = theocracy
 add_government_reform = leading_clergy_reform

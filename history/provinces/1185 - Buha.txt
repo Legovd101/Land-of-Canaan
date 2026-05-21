@@ -12,4 +12,5 @@ base_tax = 3
 base_production = 3
 add_local_autonomy = 50
 discovered_by = east_african
+discovered_by = cushitic_group
 discovered_by = central_african

@@ -1,0 +1,360 @@
+keme_1 = {
+	slot = 1
+	generic = no
+	ai = yes
+	potential = {
+		culture_group = egyptian_g
+	}
+
+	keme_naval_buildup = {
+		icon = mission_build_up_to_force_limit
+		position = 2
+		required_missions = {  }
+		provinces_to_highlight = { has_port = yes country_or_non_sovereign_subject_holds = ROOT}
+		trigger = { navy_size_percentage = 1.0 }
+		effect = {
+			add_country_modifier = {
+				name = naval_buildup
+				duration = -1
+			}
+		}
+	}
+	keme_kemetic_domination = {
+		icon = mission_build_up_to_force_limit
+		position = 3
+		required_missions = { keme_naval_buildup }
+		provinces_to_highlight = { }
+		trigger = {
+			358 = {
+				is_strongest_trade_power = ROOT
+			}
+		}
+		effect = {
+			capital_scope = {
+				add_prosperity = 20
+			}
+			add_country_modifier = {
+				name = boom_economy
+				duration = -1
+			}
+		}
+	}
+}
+
+keme_1_2 = {
+	slot = 1
+	generic = no
+	ai = yes
+	potential = {
+		tag = KEM
+	}
+
+	keme_renovate_temple_complexes = {
+		icon = mission_build_up_to_force_limit
+		position = 7
+		required_missions = { keme_establish_royal_canon }
+		provinces_to_highlight = { }
+		trigger = { }
+		effect = { }
+	}
+	keme_eastern_glories = {
+		icon = mission_build_up_to_force_limit
+		position = 8
+		required_missions = { keme_renovate_temple_complexes }
+		provinces_to_highlight = { }
+		trigger = { }
+		effect = { }
+	}
+	keme_industrial_might = {
+		icon = mission_build_up_to_force_limit
+		position = 9
+		required_missions = { keme_eastern_glories }
+		provinces_to_highlight = { }
+		trigger = { }
+		effect = { }
+	}
+}
+
+keme_2 = {
+	slot = 2
+	generic = no
+	ai = yes
+	potential = {
+		culture_group = egyptian_g
+	}
+
+	keme_city_of_the_sea = {
+		icon = mission_build_up_to_force_limit
+		position = 2
+		required_missions = { keme_pharaonic_goals }
+		provinces_to_highlight = { }
+		trigger = { }
+		effect = { }
+	}
+	keme_legacy_of_necho = {
+		icon = mission_build_up_to_force_limit
+		position = 3
+		required_missions = { keme_naval_buildup }
+		provinces_to_highlight = { }
+		trigger = { }
+		effect = { }
+	}
+}
+
+keme_2_2 = {
+	slot = 2
+	generic = no
+	ai = yes
+	potential = {
+		tag = KEM
+	}
+
+	keme_empower_nomarchs = {
+		icon = mission_build_up_to_force_limit
+		position = 5
+		required_missions = { keme_thirty_fifth_dynasty }
+		provinces_to_highlight = { }
+		trigger = { }
+		effect = { }
+	}
+	keme_establish_royal_canon = {
+		icon = mission_build_up_to_force_limit
+		position = 6
+		required_missions = { keme_empower_nomarchs }
+		provinces_to_highlight = { }
+		trigger = { }
+		effect = { }
+	}
+	keme_revitalize_economy = {
+		icon = mission_build_up_to_force_limit
+		position = 8
+		required_missions = { keme_renovate_temple_complexes }
+		provinces_to_highlight = { }
+		trigger = { }
+		effect = { }
+	}
+	keme_follow_the_spices = {
+		icon = mission_build_up_to_force_limit
+		position = 10
+		required_missions = { keme_revitalize_economy }
+		provinces_to_highlight = { }
+		trigger = { }
+		effect = { }
+	}
+}
+
+keme_3 = {
+	slot = 3
+	generic = no
+	ai = yes
+	potential = {
+		culture_group = egyptian_g
+	}
+
+	keme_pharaonic_goals = {
+		icon = mission_build_up_to_force_limit
+		position = 1
+		required_missions = {  }
+		provinces_to_highlight = { }
+		trigger = { army_size_percentage = 1.0 }
+		effect = {
+			delta_area = { add_permanent_claim = ROOT }
+			bahari_area = { add_permanent_claim = ROOT }
+		}
+	}
+	keme_enduring_and_beautiful = {
+		icon = mission_build_up_to_force_limit
+		position = 2
+		required_missions = { keme_pharaonic_goals }
+		provinces_to_highlight = { province_id = 361 }
+		trigger = { owns_core_province = 361 }
+		effect = {
+			said_area = { add_permanent_claim = ROOT }
+			vostani_area = { add_permanent_claim = ROOT }
+		}
+	}
+	keme_king_of_nile = {
+		icon = mission_build_up_to_force_limit
+		position = 3
+		required_missions = { keme_enduring_and_beautiful keme_destiny_of_delta keme_city_of_the_sea }
+		provinces_to_highlight = {
+			OR = {
+				area = vostani_area
+				area = said_area
+			}
+			NOT = {
+				OR = {
+					owned_by = ROOT
+					owned_by = QES
+					owned_by = CYR
+				}
+			}
+		}
+		trigger = {
+			vostani_area = {
+				type = all
+				OR = {
+					owned_by = ROOT
+					owned_by = QES
+					owned_by = CYR
+				}
+			}
+			said_area = {
+				type = all
+				OR = {
+					owned_by = ROOT
+					owned_by = QES
+					owned_by = CYR
+				}
+			}
+			al_wahat_area = {
+				type = all
+				OR = {
+					owned_by = ROOT
+					owned_by = QES
+					owned_by = CYR
+				}
+			}
+		}
+		effect = { }
+	}
+	keme_thirty_fifth_dynasty = {
+		icon = mission_build_up_to_force_limit
+		position = 4
+		required_missions = { keme_king_of_nile }
+		provinces_to_highlight = { }
+		trigger = { tag = KEM }
+		effect = { swap_non_generic_missions = yes }
+	}
+}
+
+keme_3_2 = {
+	slot = 3
+	generic = no
+	ai = yes
+	potential = {
+		tag = KEM
+	}
+
+	keme_follow_the_nile = {
+		icon = mission_build_up_to_force_limit
+		position = 7
+		required_missions = { keme_breadbasket_of_mediterranean }
+		provinces_to_highlight = { }
+		trigger = { }
+		effect = { }
+	}
+	keme_land_of_gold = {
+		icon = mission_build_up_to_force_limit
+		position = 8
+		required_missions = { keme_follow_the_nile }
+		provinces_to_highlight = { }
+		trigger = { }
+		effect = { }
+	}
+}
+
+keme_4 = {
+	slot = 4
+	generic = no
+	ai = yes
+	potential = {
+		culture_group = egyptian_g
+	}
+
+	keme_destiny_of_delta = {
+		icon = mission_build_up_to_force_limit
+		position = 2
+		required_missions = { keme_pharaonic_goals }
+		provinces_to_highlight = { }
+		trigger = { }
+		effect = { }
+	}
+}
+
+keme_4_2 = {
+	slot = 4
+	generic = no
+	ai = yes
+	potential = {
+		tag = KEM
+	}
+
+	keme_seat_of_tinayu = {
+		icon = mission_build_up_to_force_limit
+		position = 5
+		required_missions = { keme_thirty_fifth_dynasty }
+		provinces_to_highlight = { }
+		trigger = { }
+		effect = { }
+	}
+	keme_breadbasket_of_mediterranean = {
+		icon = mission_build_up_to_force_limit
+		position = 6
+		required_missions = { keme_seat_of_tinayu }
+		provinces_to_highlight = { }
+		trigger = { }
+		effect = { }
+	}
+	keme_western_nome = {
+		icon = mission_build_up_to_force_limit
+		position = 8
+		required_missions = { keme_breadbasket_of_mediterranean }
+		provinces_to_highlight = { }
+		trigger = { }
+		effect = { }
+	}
+	keme_control_silphium_supplies = {
+		icon = mission_build_up_to_force_limit
+		position = 9
+		required_missions = { keme_western_nome }
+		provinces_to_highlight = { }
+		trigger = { }
+		effect = { }
+	}
+	keme_tiouoti_ouer = {
+		icon = mission_build_up_to_force_limit
+		position = 10
+		required_missions = { keme_control_silphium_supplies }
+		provinces_to_highlight = { }
+		trigger = { }
+		effect = { }
+	}
+}
+
+keme_5 = {
+	slot = 5
+	generic = no
+	ai = yes
+	potential = {
+		culture_group = egyptian_g
+	}
+
+}
+
+keme_5_2 = {
+	slot = 5
+	generic = no
+	ai = yes
+	potential = {
+		tag = KEM
+	}
+
+	keme_canaanite_conquest = {
+		icon = mission_build_up_to_force_limit
+		position = 7
+		required_missions = { keme_breadbasket_of_mediterranean }
+		provinces_to_highlight = { }
+		trigger = { }
+		effect = { }
+	}
+	keme_surian_subjugation = {
+		icon = mission_build_up_to_force_limit
+		position = 9
+		required_missions = { keme_canaanite_conquest }
+		provinces_to_highlight = { }
+		trigger = { }
+		effect = { }
+	}
+}
+

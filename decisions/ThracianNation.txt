@@ -36,7 +36,7 @@ country_decisions = {
 		}
 		provinces_to_highlight = {
 			OR = {
-				area = philippopolis_area
+				area = pulpudeva_area
 				area = thrace_area
 				area = thessalonica_area
 				area = adrianople_area
@@ -50,7 +50,7 @@ country_decisions = {
 			is_free_or_tributary_trigger = yes
 			is_at_war = no
 			owns_core_province = 151
-			philippopolis_area = {
+			pulpudeva_area = {
 				type = all
 				country_or_non_sovereign_subject_holds = ROOT
 			}

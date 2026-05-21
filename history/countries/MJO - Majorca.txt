@@ -9,7 +9,7 @@ add_government_reform = feudalism_reform
 government_rank = 1
 primary_culture = balearic
 religion = norse_pagan
-technology_group = viking
+technology_group = adventurer
 capital = 333
 # Specific Effects #
 

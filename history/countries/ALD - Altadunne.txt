@@ -1,6 +1,6 @@
 religion = tengri_pagan_reformed
 capital = 4116
-technology_group = eastern
+technology_group = nomad_group
 primary_culture = evenk
 government_rank = 1
 government = republic

@@ -74,8 +74,7 @@ monarch_names = {
 	"Renata #0" = -1
 }
 leader_names = { 
-	"von Taubeneck" "von Kyau" Knobelsdorf
-	Linkendorf
+	"von Taubeneck" "von Kyau" Knobelsdorf Linkendorf
 	Briesen
 	Riwotzki
 	Schnittern

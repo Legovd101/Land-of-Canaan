@@ -9,6 +9,6 @@ add_government_reform = free_city
 religion = zoroastrian
 # Specific Effects #
 capital = 3067
-technology_group = ottoman
+technology_group = muslim
 government_rank = 1
 primary_culture = gulf_arabic

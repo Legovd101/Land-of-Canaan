@@ -1,0 +1,25 @@
+# RULES
+# All names here will be either historical names, or reconstructed Akkadian toponyms
+# Format: ID = { "Province" "Capital" } # Origin
+
+
+## Mashriq/Mesopotamia 
+
+# Iraq Arabi/Ghanib Nahrain
+3066 = { "Tarripan" "Tarripan" } # See Hellenic File
+409 = { "Badsiabba" "Badsiabba" } # Borsippa
+3049 = { "Kiššatu" "Kiššatu" } # Kish
+3077 = { "Lašar" "Lašar" } # Lasaea, Crete
+
+# Seleukia
+410 = { "Bebili" "Bebili" } # Babylon
+4291 = { "Ruza" "Ruza" } # See Hellenic File
+3051 = { "Kabebu" "Kabebu" } # See Hellenic File
+2312 = { "Makhhuzen" "Makhhuzen" } # Mahoze
+
+# Basra
+2311 = { "Isin" "Isin" } # Isin
+3050 = { "Upišen" "Upišen" } # See Hellenic File
+3048 = { "Uruk" "Uruk" }
+4288 = { "Larsam" "Larsam" } # Larsa
+408 = { "Ur" "Ur" }

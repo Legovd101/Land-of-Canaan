@@ -1,6 +1,6 @@
 religion = vajrayana
 capital = 1959
-technology_group = eastern
+technology_group = uralic_group
 primary_culture = ostyaki
 government = monarchy
 add_government_reform = feudalism_reform

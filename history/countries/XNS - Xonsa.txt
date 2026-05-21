@@ -1,7 +1,7 @@
 capital = 235
 government_rank = 1
 religion = xadarosh
-technology_group = eastern
+technology_group = iranic_group
 primary_culture = hunnic
 government = theocracy
 add_government_reform = leading_clergy_reform

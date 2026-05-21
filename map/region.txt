@@ -91,7 +91,7 @@ crimea_region = {
 balkan_region = { 
 	areas = { 
 		croatia_area east_adriatic_coast_area bosnia_area serbia_area rascia_area bulgaria_area macedonia_area northern_greece_area morea_area thrace_area
-		albania_area silistria_area slavonia_area mala_area thessalia_area thessalonica_area greek_islands_area attica_area philippopolis_area adrianople_area
+		albania_area silistria_area slavonia_area mala_area thessalia_area thessalonica_area greek_islands_area attica_area pulpudeva_area adrianople_area
 	}
 }
 carpathia_region = { 

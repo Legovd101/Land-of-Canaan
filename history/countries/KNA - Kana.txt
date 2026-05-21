@@ -1,7 +1,7 @@
 government = monarchy
 add_government_reform = tanistry_reform
 government_rank = 1
-technology_group = ottoman
+technology_group = muslim
 primary_culture = phoenician
 religion = zoroastrian
 capital = 1854# Jaffa

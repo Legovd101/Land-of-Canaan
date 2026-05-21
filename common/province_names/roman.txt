@@ -1,5 +1,5 @@
 # RULES
-# All names here will be either historical names, or reconstructed Latin Toponyms
+# All names here will be either historical names, or reconstructed Latin toponyms
 # Format: ID = { "Province" "Capital" } # Origin
 
 ## Bactria/Baktria

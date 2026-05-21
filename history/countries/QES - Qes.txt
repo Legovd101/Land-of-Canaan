@@ -1,5 +1,5 @@
 capital = 2797
-technology_group = east_african
+technology_group = cushitic_group
 government_rank = 1
 religion = kushite_pagan
 primary_culture = nubian

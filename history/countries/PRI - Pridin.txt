@@ -1,6 +1,6 @@
 religion = gallic_pagan
 capital = 234
-technology_group = western
+technology_group = celtic_group
 government_rank = 1
 government = monarchy
 add_government_reform = feudalism_reform

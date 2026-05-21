@@ -58,7 +58,7 @@ has_urban_goods = {
 		trade_goods = marble_sculpture
 		trade_goods = fur_clothing
 		trade_goods = jade_sculptures
-		trade_goods = String_Instruments
+		trade_goods = string_instruments
 		trade_goods = cannon
 	}
 }

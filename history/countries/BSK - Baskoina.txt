@@ -1,6 +1,6 @@
 religion = iberian_pagan
 capital = 3155
-technology_group = western
+technology_group = celtic_group
 primary_culture = basque
 government = monarchy
 add_government_reform = feudalism_reform

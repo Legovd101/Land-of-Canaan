@@ -1,6 +1,6 @@
 religion = iberian_pagan
 capital = 176
-technology_group = western
+technology_group = celtic_group
 primary_culture = asikonian
 government = tribal
 add_government_reform = steppe_horde

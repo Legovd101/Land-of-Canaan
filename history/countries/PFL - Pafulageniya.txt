@@ -8,6 +8,6 @@ add_government_reform = serican_captaincy_reform
 government_rank = 1
 primary_culture = serican
 religion = zoroastrian
-technology_group = ottoman
+technology_group = serican_group
 capital = 3094
 # Specific Effects #

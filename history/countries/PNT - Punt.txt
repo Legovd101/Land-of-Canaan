@@ -1,6 +1,6 @@
 religion = kemetism
 capital = 2786
-technology_group = ottoman
+technology_group = kemetic
 primary_culture = old_egyptian
 government_rank = 1
 government = republic

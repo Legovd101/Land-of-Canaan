@@ -1,0 +1,31 @@
+# Format: ID = { "Province" "Capital" } # Origin
+## Lt.
+# u -> i occasionally
+## Thr.
+# -dava -> -deva
+# source: https://en.wikipedia.org/wiki/List_of_reconstructed_Dacian_words#
+# source: https://en.wikipedia.org/wiki/Thracian_language
+
+## CARPATHIA
+
+# Wallachia/Roxalonston
+160 = { "Aulutis" "Aulutis" } # Alutus
+161 = { "Pasideva" "Pasideva" } # "Country City"
+2998 = { "Muzis" "Muzis" } # Mouseos
+4531 = { "Iulis" "Iulis" } # Iulia
+4532 = { "Sever" "Sever" } # Severinus
+
+## BALKANS
+
+# Bulgaria/Turberon
+# 3148 = { "Amina" "Amina" } # Aemon
+# 150 = { "Morça" "Morça" } # Mursa
+# 3135 = { "Serma" "Serma" } # Sirmium
+# 2746 = { "Belau" "Belau" } # Bjelovar
+
+# Slavonia/Šaroba
+152 = { "Beris" "Beris" } # Varasd
+1767 = { "Morsa" "Morsa" } # Mursa
+4173 = { "Serma" "Serma" } # Sirmium
+4756 = { "Belava" "Belava" } # Bjelovar
+3145 = { "Muris" "Muris" } # Mursa

@@ -3,16 +3,15 @@ government = monarchy
 add_government_reform = feudalism_reform
 government_rank = 2
 religion = gaelic_pagan
-technology_group = western
+technology_group = celtic_group
 primary_culture = gaelawer
 historical_rival = ALN
-
-1430.1.1 = {
-	monarch = {
+1430.1.1 = { 
+	monarch = { 
 		name = "Saoirghin"
 		dynasty = "Goídel"
 		adm = 2
 		dip = 4
-		mil = 6	
+		mil = 6
 	}
 }

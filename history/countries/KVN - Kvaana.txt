@@ -1,6 +1,6 @@
 religion = finnish_pagan
 capital = 315
-technology_group = eastern
+technology_group = uralic_group
 primary_culture = kven
 government = tribal
 add_government_reform = steppe_horde

@@ -1,6 +1,6 @@
 religion = vajrayana
 capital = 4147
-technology_group = nomad_group
+technology_group = uralic_group
 primary_culture = ostyaki
 government_rank = 1
 government = tribal

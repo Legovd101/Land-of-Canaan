@@ -1,5 +1,5 @@
 # RULES
-# All names here will be transliterated Greek Toponyms in Chinese to the best of my ability 
+# All names here will be transliterated Greek toponyms in Chinese to the best of my ability 
 # Format: ID = { "Province" "Capital" } # Origin
 
 ## Anatolia

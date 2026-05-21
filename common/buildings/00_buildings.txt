@@ -2940,7 +2940,7 @@ tradecompany = {
 		jade_sculptures
 		exotic_fur
 		fur_clothing
-		String_Instruments
+		string_instruments
 	}
 	onmap = yes
 	on_built = {

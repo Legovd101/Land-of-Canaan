@@ -3,5 +3,5 @@ add_government_reform = feudalism_reform
 government_rank = 1
 primary_culture = saxon
 religion = norse_pagan
-technology_group = viking
+technology_group = adventurer
 capital = 167

@@ -2,6 +2,6 @@ government = monarchy
 add_government_reform = feudalism_reform
 primary_culture = dacian
 religion = xadarosh
-technology_group = eastern
+technology_group = thraco_illyrian
 capital = 1756# Tîrgoviste
 government_rank = 1

@@ -1,7 +1,7 @@
 government = monarchy
 add_government_reform = appanage_reform
 government_rank = 1
-technology_group = viking
+technology_group = adventurer
 primary_culture = normand
 add_accepted_culture = cosmopolitan_french
 religion = norse_pagan

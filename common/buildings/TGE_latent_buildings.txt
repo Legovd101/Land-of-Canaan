@@ -1300,7 +1300,7 @@ Instruments_workshop = {
 		hidden_effect = { 
 			ROOT = { 
 				goods_save = yes
-				change_trade_goods = String_Instruments 
+				change_trade_goods = string_instruments 
 				set_province_flag = has_latent_good
 			}
 		}
@@ -1326,7 +1326,7 @@ Instruments_workshop = {
 			FROM = {
 				num_of_owned_provinces_with = {
 					value = 3
-					trade_goods = String_Instruments
+					trade_goods = string_instruments
 				}
 			}
 			

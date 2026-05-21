@@ -1,6 +1,6 @@
 religion = norse_pagan
 capital = 374
-technology_group = viking
+technology_group = adventurer
 government_rank = 1
 primary_culture = irelander
 government = monarchy

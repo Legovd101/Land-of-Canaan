@@ -1,5 +1,5 @@
 religion = pyrrhonism
-technology_group = ottoman
+technology_group = iranic_group
 government_rank = 1
 capital = 442
 primary_culture = bactrian

@@ -1,6 +1,6 @@
 religion = mahayana
 capital = 2427
-technology_group = eastern
+technology_group = uralic_group
 primary_culture = uralic
 government = tribal
 add_government_reform = steppe_horde

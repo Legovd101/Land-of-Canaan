@@ -11,5 +11,6 @@ base_manpower = 2
 is_city = yes
 add_core = SIB
 discovered_by = nomad_group
+discovered_by = uralic_group
 unrest = 15
 add_core = BLK

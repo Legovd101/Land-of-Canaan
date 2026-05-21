@@ -1,11 +1,7 @@
 # RULES
-# All names here will be either historical names, or reconstructed Greek Toponyms
+# All names here will be either historical names, or reconstructed Greek toponyms
 # Format: ID = { "Province" "Capital" } # Origin
 
-## Anatolia 
-
-# Çukurova/Cilicia
-327 = { "Kilikía" "Ádana" }
 
 ## Mashriq/Mesopotamia 
 
@@ -82,12 +78,12 @@
 410 = { "Babylón" "Babylón" }
 4291 = { "Óryzópolis" "Óryzópolis" } # "Rice City"
 3051 = { "Chabokúon" "Chabokúon" } # "Dog's Snout"
-2312 = { "Seleukía" "Seleukía" } # Lasaea, Crete
+2312 = { "Seleukía" "Seleukía" }
 
 # Basra
 2311 = { "Ouranópolis" "Ouranópolis" } # Heaven
 3050 = { "Ópisthenikaía" "Ópisthenikaía" } # "Behind"
-3048 = { "Oréch" "Oréch" }
+3048 = { "Oréch" "Oréch" } # Uruk
 4288 = { "Tolmirópolis" "Tolmirópolis" } # "Valiant"
 408 = { "Vasóra" "Vasóra" }
 

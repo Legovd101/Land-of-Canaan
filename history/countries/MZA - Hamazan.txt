@@ -1,6 +1,6 @@
 religion = caucasian_pagan
 capital = 2195
-technology_group = ottoman
+technology_group = iranic_group
 primary_culture = amazonian
 government = monarchy
 add_government_reform = feudalism_reform

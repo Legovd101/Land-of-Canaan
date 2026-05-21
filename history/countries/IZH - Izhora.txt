@@ -1,6 +1,6 @@
 religion = finnish_pagan
 capital = 33
-technology_group = eastern
+technology_group = uralic_group
 primary_culture = izhorian
 government = monarchy
 add_government_reform = steppe_horde

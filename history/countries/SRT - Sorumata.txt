@@ -1,6 +1,6 @@
 religion = xadarosh
 capital = 280
-technology_group = nomad_group
+technology_group = iranic_group
 primary_culture = sarmatian
 government = monarchy
 add_government_reform = feudalism_reform

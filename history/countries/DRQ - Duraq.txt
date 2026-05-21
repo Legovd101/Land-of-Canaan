@@ -8,6 +8,6 @@ add_government_reform = oligarchy_reform
 government_rank = 1
 primary_culture = taluanti
 religion = pyrrhonism
-technology_group = ottoman
+technology_group = thraco_illyrian
 capital = 4174
 # Specific Effects #

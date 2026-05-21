@@ -146,7 +146,7 @@ groups = {
 		}
 	}
 	nomad_group = {
-		start_level = 3
+		start_level = 2
 		start_cost_modifier = 0.75
 		nation_designer_trigger = {
 			has_reform = steppe_horde
@@ -249,7 +249,7 @@ groups = {
 		}
 	}
 
-	viking = {
+	adventurer = {
 		start_level = 3
 		start_cost_modifier = 0
 		nation_designer_unit_type = western
@@ -302,6 +302,137 @@ groups = {
 			}
 		}
 		nation_designer_cost = {
+			value = 75
+		}
+	}
+
+	uralic_group = {
+		start_level = 2
+		start_cost_modifier = 0.75
+		nation_designer_unit_type = western
+		nation_designer_trigger = {
+			capital_scope = {
+				OR = {
+					continent = new_world
+					continent = north_america
+					continent = south_america
+					continent = oceania
+				}
+			}
+		}
+		nation_designer_cost = {
+			value = 75
+		}
+	}
+
+	celtic_group = {
+		start_level = 3
+		start_cost_modifier = 0
+		nation_designer_unit_type = western
+		nation_designer_trigger = {
+			capital_scope = {
+				OR = {
+					continent = new_world
+					continent = north_america
+					continent = south_america
+					continent = oceania
+				}
+			}
+		}
+		nation_designer_cost = {
+			value = 75
+		}
+	}
+
+	iranic_group = {
+		start_level = 3
+		start_cost_modifier = 0
+		nation_designer_unit_type = muslim
+		nation_designer_trigger = {
+			capital_scope = {
+				OR = {
+					continent = new_world
+					continent = north_america
+					continent = south_america
+					continent = oceania
+				}
+			}
+		}
+		nation_designer_cost = {
+			value = 75
+		}
+	}
+
+	serican_group = {
+		start_level = 3
+		start_cost_modifier = 0
+		nation_designer_unit_type = chinese
+		nation_designer_trigger = {
+			capital_scope = {
+				OR = {
+					continent = new_world
+					continent = north_america
+					continent = south_america
+					continent = oceania
+				}
+			}
+		}
+		nation_designer_cost = {
+			value = 75
+		}
+	}
+
+	baltic_group = {
+		start_level = 3
+		start_cost_modifier = 0.3
+		nation_designer_unit_type = eastern
+		nation_designer_trigger = {
+			capital_scope = {
+				OR = {
+					continent = new_world
+					continent = north_america
+					continent = south_america
+					continent = oceania
+				}
+			}
+		}
+		nation_designer_cost = {
+			value = 75
+		}
+	}
+	cushitic_group = {
+		start_level = 3
+		start_cost_modifier = 0.35
+		nation_designer_unit_type = sub_saharan
+		nation_designer_cost = {
+			trigger = {
+				capital_scope = {
+					OR = {
+						continent = new_world
+						continent = north_america
+						continent = south_america
+						continent = oceania
+					}
+				}
+			}
+			value = 75
+		}
+	}
+	thraco_illyrian = {
+		start_level = 3
+		start_cost_modifier = 0.15
+		nation_designer_unit_type = sub_saharan
+		nation_designer_cost = {
+			trigger = {
+				capital_scope = {
+					OR = {
+						continent = new_world
+						continent = north_america
+						continent = south_america
+						continent = oceania
+					}
+				}
+			}
 			value = 75
 		}
 	}

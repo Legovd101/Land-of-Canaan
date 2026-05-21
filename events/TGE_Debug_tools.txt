@@ -378,7 +378,7 @@ province_event = {
 	
 	option = {
 		name = marcin_events.63.t
-		change_trade_goods = String_Instruments
+		change_trade_goods = string_instruments
 	}
 
 	option = {

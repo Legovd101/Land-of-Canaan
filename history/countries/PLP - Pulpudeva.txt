@@ -1,7 +1,7 @@
 capital = 2750
 government_rank = 1
 religion = pyrrhonism
-technology_group = eastern
+technology_group = thraco_illyrian
 primary_culture = bessi
 government = monarchy
 add_government_reform = feudalism_reform

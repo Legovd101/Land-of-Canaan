@@ -1,6 +1,6 @@
 religion = xadarosh
 capital = 155
-technology_group = eastern
+technology_group = iranic_group
 primary_culture = iazygi
 government = tribal
 add_government_reform = steppe_horde

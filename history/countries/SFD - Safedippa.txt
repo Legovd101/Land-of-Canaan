@@ -1,6 +1,6 @@
 religion = zoroastrian
 capital = 439
-technology_group = ottoman
+technology_group = iranic_group
 primary_culture = abaxtri
 government_rank = 1
 government = tribal

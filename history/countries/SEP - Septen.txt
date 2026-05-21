@@ -6,7 +6,7 @@
 government_rank = 1
 primary_culture = normand
 religion = norse_pagan
-technology_group = viking
+technology_group = adventurer
 capital = 1751
 # Specific Effects #
 government = theocracy

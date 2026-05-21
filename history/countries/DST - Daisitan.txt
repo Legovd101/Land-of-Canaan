@@ -5,16 +5,15 @@
 # DST (Daisitan)
 government_rank = 1
 primary_culture = daesitiates
-technology_group = eastern
+technology_group = thraco_illyrian
 unit_type = eastern
 capital = 4755
 # Specific Effects #
 religion = xadarosh
 government = monarchy
 add_government_reform = feudalism_reform
-
-1440.1.1 = {
-	monarch = {
+1440.1.1 = { 
+	monarch = { 
 		name = "Pleuratus"
 		dynasty = "Atintani"
 		mil = 3

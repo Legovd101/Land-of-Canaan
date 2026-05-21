@@ -11,4 +11,5 @@ trade_goods = ivory
 base_tax = 1
 base_production = 1
 discovered_by = east_african
+discovered_by = cushitic_group
 discovered_by = central_african

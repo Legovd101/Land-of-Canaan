@@ -1,6 +1,6 @@
 religion = zoroastrian
 capital = 3220
-technology_group = ottoman
+technology_group = iranic_group
 primary_culture = bactrian
 government_rank = 1
 government = monarchy

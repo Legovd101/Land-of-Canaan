@@ -1,6 +1,6 @@
 religion = sami_pagan
 capital = 100
-technology_group = eastern
+technology_group = adventurer
 primary_culture = lule
 government = tribal
 add_government_reform = steppe_horde
