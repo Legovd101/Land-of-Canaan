@@ -37,3 +37,48 @@ serican_ideas = {
 		core_creation = -0.1
 	}
 }
+
+parthian_ideas = {
+	start = {
+		cav_to_inf_ratio = 0.25
+		movement_speed = 0.2
+	}
+
+	bonus = {
+		administrative_efficiency = 0.2
+	}
+	
+	trigger = {
+		OR = {
+			culture = parthik
+			culture = parthian
+		}
+	}
+	free = yes		#will be added at load.
+	
+	parthian_shot = {
+		cavalry_shock = 1
+		cavalry_fire = 1
+		discipline = 0.02
+	}
+	multilingual_culture = {
+		num_accepted_cultures = 2
+	}
+	royal_intermarriage = {
+		heir_chance = 0.5
+		advisor_pool = 1
+	}
+	seven_great_houses = {
+		global_autonomy = -0.05
+	}
+	dense_urban_centers = {
+		global_manpower_modifier = 0.1
+		land_forcelimit_modifier = 0.2
+	}
+	satrap_system = {
+		reduced_liberty_desire = 15
+	}
+	defensive_lines = {
+		garrison_size = 0.25
+	}
+}

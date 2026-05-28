@@ -1,6 +1,6 @@
 owner = PLM
 controller = PLM
-culture = syriac
+culture = palmyran
 religion = mithraism
 capital = "Sukhnah"
 trade_goods = cotton#known for its pastures for Timurid armies

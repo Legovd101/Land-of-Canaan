@@ -5,14 +5,15 @@
 # Hatra
 # 3054 Hatra - 11/4/2025 6:05:38 AM 
 add_core = BHT
+add_core = BTE
 owner = BHT
 controller = BHT
 base_tax = 1
 base_production = 3
 base_manpower = 1
 trade_goods = livestock
-culture = kurdish
-religion = zoroastrian
+culture = aramean
+religion = mardukism
 capital = "Hatra"
 hre = yes
 is_city = yes

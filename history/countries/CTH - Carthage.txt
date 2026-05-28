@@ -8,7 +8,7 @@ government = monarchy
 add_government_reform = feudalism_reform
 government_rank = 1
 primary_culture = balearic
-religion = norse_pagan
+religion = tivahus
 technology_group = adventurer
 capital = 341
 # Specific Effects #

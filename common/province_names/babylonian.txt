@@ -22,4 +22,4 @@
 3050 = { "Upišen" "Upišen" } # See Hellenic File
 3048 = { "Uruk" "Uruk" }
 4288 = { "Larsam" "Larsam" } # Larsa
-408 = { "Ur" "Ur" }
+408 = { "Karak" "Karak" } # Charax

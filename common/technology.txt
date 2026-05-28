@@ -14,10 +14,8 @@ groups = {
 			trigger = {
 				capital_scope = {
 					OR = {
-						continent = new_world
-						continent = north_america
-						continent = south_america
-						continent = oceania
+						continent = europe
+						continent = africa
 					}
 				}
 			}
@@ -31,10 +29,7 @@ groups = {
 			trigger = {
 				capital_scope = {
 					OR = {
-						continent = new_world
-						continent = north_america
-						continent = south_america
-						continent = oceania
+						continent = europe
 					}
 				}
 			}
@@ -48,10 +43,9 @@ groups = {
 			trigger = {
 				capital_scope = {
 					OR = {
-						continent = new_world
-						continent = north_america
-						continent = south_america
-						continent = oceania
+						continent = europe
+						superregion = near_east_superregion 
+						superregion = persia_superregion
 					}
 				}
 			}
@@ -65,10 +59,8 @@ groups = {
 			trigger = {
 				capital_scope = {
 					OR = {
-						continent = new_world
-						continent = north_america
-						continent = south_america
-						continent = oceania
+						superregion = near_east_superregion 
+						superregion = persia_superregion
 					}
 				}
 			}
@@ -82,10 +74,7 @@ groups = {
 			trigger = {
 				capital_scope = {
 					OR = {
-						continent = new_world
-						continent = north_america
-						continent = south_america
-						continent = oceania
+						continent = asia
 					}
 				}
 			}
@@ -100,10 +89,7 @@ groups = {
 			trigger = {
 				capital_scope = {
 					OR = {
-						continent = new_world
-						continent = north_america
-						continent = south_america
-						continent = oceania
+						continent = africa
 					}
 				}
 			}
@@ -118,10 +104,7 @@ groups = {
 			trigger = {
 				capital_scope = {
 					OR = {
-						continent = new_world
-						continent = north_america
-						continent = south_america
-						continent = oceania
+						continent = africa
 					}
 				}
 			}
@@ -135,10 +118,7 @@ groups = {
 			trigger = {
 				capital_scope = {
 					OR = {
-						continent = new_world
-						continent = north_america
-						continent = south_america
-						continent = oceania
+						continent = asia
 					}
 				}
 			}
@@ -155,10 +135,8 @@ groups = {
 			trigger = {
 				capital_scope = {
 					OR = {
-						continent = new_world
-						continent = north_america
-						continent = south_america
-						continent = oceania
+						continent = europe
+						continent = asia
 					}
 				}
 			}
@@ -172,10 +150,7 @@ groups = {
 			trigger = {
 				capital_scope = {
 					OR = {
-						continent = new_world
-						continent = north_america
-						continent = south_america
-						continent = oceania
+						continent = africa
 					}
 				}
 			}
@@ -253,17 +228,14 @@ groups = {
 		start_level = 3
 		start_cost_modifier = 0
 		nation_designer_unit_type = western
-		nation_designer_trigger = {
-			capital_scope = {
-				OR = {
-					continent = new_world
-					continent = north_america
-					continent = south_america
-					continent = oceania
+		nation_designer_cost = {
+			trigger = {
+				capital_scope = {
+					OR = {
+						continent = europe
+					}
 				}
 			}
-		}
-		nation_designer_cost = {
 			value = 75
 		}
 	}
@@ -272,17 +244,16 @@ groups = {
 		start_level = 3
 		start_cost_modifier = 0
 		nation_designer_unit_type = western
-		nation_designer_trigger = {
-			capital_scope = {
-				OR = {
-					continent = new_world
-					continent = north_america
-					continent = south_america
-					continent = oceania
+		nation_designer_cost = {
+			trigger = {
+				capital_scope = {
+					OR = {
+						continent = europe
+						superregion = africa_superregion
+						superregion = near_east_superregion
+					}
 				}
 			}
-		}
-		nation_designer_cost = {
 			value = 75
 		}
 	}
@@ -291,17 +262,14 @@ groups = {
 		start_level = 3
 		start_cost_modifier = 0
 		nation_designer_unit_type = western
-		nation_designer_trigger = {
-			capital_scope = {
-				OR = {
-					continent = new_world
-					continent = north_america
-					continent = south_america
-					continent = oceania
+		nation_designer_cost = {
+			trigger = {
+				capital_scope = {
+					OR = {
+						continent = africa
+					}
 				}
 			}
-		}
-		nation_designer_cost = {
 			value = 75
 		}
 	}
@@ -310,17 +278,15 @@ groups = {
 		start_level = 2
 		start_cost_modifier = 0.75
 		nation_designer_unit_type = western
-		nation_designer_trigger = {
-			capital_scope = {
-				OR = {
-					continent = new_world
-					continent = north_america
-					continent = south_america
-					continent = oceania
+		nation_designer_cost = {
+			trigger = {
+				capital_scope = {
+					OR = {
+						continent = asia
+						continent = europe
+					}
 				}
 			}
-		}
-		nation_designer_cost = {
 			value = 75
 		}
 	}
@@ -329,17 +295,14 @@ groups = {
 		start_level = 3
 		start_cost_modifier = 0
 		nation_designer_unit_type = western
-		nation_designer_trigger = {
-			capital_scope = {
-				OR = {
-					continent = new_world
-					continent = north_america
-					continent = south_america
-					continent = oceania
+		nation_designer_cost = {
+			trigger = {
+				capital_scope = {
+					OR = {
+						continent = europe
+					}
 				}
 			}
-		}
-		nation_designer_cost = {
 			value = 75
 		}
 	}
@@ -348,17 +311,14 @@ groups = {
 		start_level = 3
 		start_cost_modifier = 0
 		nation_designer_unit_type = muslim
-		nation_designer_trigger = {
-			capital_scope = {
-				OR = {
-					continent = new_world
-					continent = north_america
-					continent = south_america
-					continent = oceania
+		nation_designer_cost = {
+			trigger = {
+				capital_scope = {
+					OR = {
+						continent = asia
+					}
 				}
 			}
-		}
-		nation_designer_cost = {
 			value = 75
 		}
 	}
@@ -367,17 +327,14 @@ groups = {
 		start_level = 3
 		start_cost_modifier = 0
 		nation_designer_unit_type = chinese
-		nation_designer_trigger = {
-			capital_scope = {
-				OR = {
-					continent = new_world
-					continent = north_america
-					continent = south_america
-					continent = oceania
+		nation_designer_cost = {
+			trigger = {
+				capital_scope = {
+					OR = {
+						continent = europe
+					}
 				}
 			}
-		}
-		nation_designer_cost = {
 			value = 75
 		}
 	}
@@ -386,17 +343,14 @@ groups = {
 		start_level = 3
 		start_cost_modifier = 0.3
 		nation_designer_unit_type = eastern
-		nation_designer_trigger = {
-			capital_scope = {
-				OR = {
-					continent = new_world
-					continent = north_america
-					continent = south_america
-					continent = oceania
+		nation_designer_cost = {
+			trigger = {
+				capital_scope = {
+					OR = {
+						continent = europe
+					}
 				}
 			}
-		}
-		nation_designer_cost = {
 			value = 75
 		}
 	}
@@ -408,10 +362,7 @@ groups = {
 			trigger = {
 				capital_scope = {
 					OR = {
-						continent = new_world
-						continent = north_america
-						continent = south_america
-						continent = oceania
+						continent = africa
 					}
 				}
 			}
@@ -426,10 +377,7 @@ groups = {
 			trigger = {
 				capital_scope = {
 					OR = {
-						continent = new_world
-						continent = north_america
-						continent = south_america
-						continent = oceania
+						continent = europe
 					}
 				}
 			}

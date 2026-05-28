@@ -7,8 +7,8 @@
 government = theocracy
 add_government_reform = leading_clergy_reform
 government_rank = 1
-primary_culture = griko
-religion = buddhism
+primary_culture = megalian
+religion = pyrrhonism
 technology_group = ottoman
 capital = 122
 # Specific Effects #

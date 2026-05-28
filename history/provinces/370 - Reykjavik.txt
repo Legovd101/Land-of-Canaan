@@ -2,7 +2,7 @@
 owner = ICE
 controller = ICE
 culture = icelandic
-religion = norse_pagan
+religion = konugatru
 base_tax = 1
 base_production = 1
 trade_goods = fish

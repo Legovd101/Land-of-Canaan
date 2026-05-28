@@ -2,7 +2,7 @@
 owner = NOR
 controller = NOR
 culture = norwegian
-religion = norse_pagan
+religion = konugatru
 base_tax = 1
 base_production = 1
 trade_goods = fish

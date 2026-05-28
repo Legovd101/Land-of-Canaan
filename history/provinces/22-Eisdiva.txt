@@ -2,7 +2,7 @@
 owner = BRI
 controller = BRI
 culture = norwegian
-religion = norse_pagan
+religion = tivahus
 base_tax = 1
 base_production = 1
 trade_goods = naval_supplies

@@ -1,0 +1,1391 @@
+alexandrian_ziggurat = { # Image by Marc Mons
+	start = 410
+	date = -12.01.01
+	time = { months = 0 }
+	build_cost = 0
+	can_be_moved = no
+	move_days_per_unit_distance = 10
+	starting_tier = 0
+	type = monument
+
+	build_trigger = {
+		OR = {
+			AND = {
+				culture_group = east_semitic
+				province_is_or_accepts_culture = yes
+			}
+			province_is_or_accepts_religion = {
+				religion = mardukism
+			}
+		}
+	}
+
+	on_built = {
+	}
+
+	on_destroyed = {
+	}
+
+	can_use_modifiers_trigger = {
+		OR = {
+			AND = {
+				culture_group = east_semitic
+				province_is_or_accepts_culture = yes
+			}
+			province_is_or_accepts_religion = {
+				religion = mardukism
+			}
+		}
+	}
+
+	can_upgrade_trigger = {
+		OR = {
+			AND = {
+				culture_group = east_semitic
+				province_is_or_accepts_culture = yes
+			}
+			province_is_or_accepts_religion = {
+				religion = mardukism
+			}
+		}
+	}
+
+	keep_trigger = {
+	}
+
+	tier_0 = {
+		upgrade_time = {
+			months = 0
+		}
+		cost_to_upgrade = {
+			factor = 0
+		}
+		province_modifiers = {
+		}
+		area_modifier = {
+		}
+		country_modifiers = {
+		}
+		on_upgraded = {
+		}
+	}
+
+	tier_1 = {
+		upgrade_time = {
+			months = 120
+		}
+		cost_to_upgrade = {
+			factor = 1000
+		}
+		province_modifiers = {
+		}
+		area_modifier = {
+		}
+		country_modifiers = {
+			tolerance_heathen = 0.25
+			tolerance_heretic = 0.25
+			church_loyalty_modifier = 0.05
+		}
+		on_upgraded = {
+		}
+	}
+
+	tier_2 = {
+		upgrade_time = {
+			months = 240
+		}
+		cost_to_upgrade = {
+			factor = 2500
+		}
+		province_modifiers = {
+		}
+		area_modifier = {
+		}
+		country_modifiers = {
+			tolerance_heathen = 0.5
+			tolerance_heretic = 0.5
+			legitimacy = 1
+			church_loyalty_modifier = 0.1
+		}
+		on_upgraded = {
+			owner = {
+				add_estate_loyalty = {
+					estate = estate_church
+					loyalty = 5
+				}
+			}
+		}
+	}
+
+	tier_3 = {
+		upgrade_time = {
+			months = 480
+		}
+		cost_to_upgrade = {
+			factor = 5000
+		}
+		province_modifiers = {
+		}
+		area_modifier = {
+		}
+		country_modifiers = {
+			tolerance_heathen = 1
+			tolerance_heretic = 1
+			legitimacy = 2
+			church_loyalty_modifier = 0.15
+		}
+		on_upgraded = {
+			owner = {
+				add_estate_loyalty = {
+					estate = estate_church
+					loyalty = 10
+				}
+			}
+		}
+	}
+}
+
+port_of_tyre = {
+	start = 1855
+	date = -2750.01.01
+	time = { months = 0 }
+	build_cost = 0
+	can_be_moved = no
+	move_days_per_unit_distance = 10
+	starting_tier = 1
+	type = monument
+
+	build_trigger = {
+	}
+
+	on_built = {
+	}
+
+	on_destroyed = {
+	}
+
+	can_use_modifiers_trigger = {
+	}
+
+	can_upgrade_trigger = {
+	}
+
+	keep_trigger = {
+	}
+
+	tier_0 = {
+		upgrade_time = {
+			months = 0
+		}
+		cost_to_upgrade = {
+			factor = 0
+		}
+		province_modifiers = {
+		}
+		area_modifier = {
+		}
+		country_modifiers = {
+		}
+		on_upgraded = {
+		}
+	}
+
+	tier_1 = {
+		upgrade_time = {
+			months = 120
+		}
+		cost_to_upgrade = {
+			factor = 1000
+		}
+		province_modifiers = {
+			province_trade_power_modifier = 0.05
+		}
+		area_modifier = {
+		}
+		country_modifiers = {
+			development_cost = -0.05
+		}
+		on_upgraded = {
+		}
+	}
+
+	tier_2 = {
+		upgrade_time = {
+			months = 240
+		}
+		cost_to_upgrade = {
+			factor = 2500
+		}
+		province_modifiers = {
+			province_trade_power_modifier = 0.1
+		}
+		area_modifier = {
+		}
+		country_modifiers = {
+			development_cost = -0.1
+			trade_range_modifier = 0.1
+			merchants = 1
+		}
+		on_upgraded = {
+			owner = {
+				add_estate_loyalty = {
+					estate = estate_burghers
+					loyalty = 5
+				}
+			}
+		}
+	}
+
+	tier_3 = {
+		upgrade_time = {
+			months = 480
+		}
+		cost_to_upgrade = {
+			factor = 5000
+		}
+		province_modifiers = {
+			province_trade_power_modifier = 0.15
+		}
+		area_modifier = {
+		}
+		country_modifiers = {
+			development_cost = -0.15
+			trade_range_modifier = 0.2
+			colonists = 1
+			merchants = 1
+		}
+		on_upgraded = {
+			owner = {
+				add_estate_loyalty = {
+					estate = estate_burghers
+					loyalty = 10
+				}
+			}
+		}
+	}
+}
+
+grand_nuraghe = {
+	start = 2986
+	date = -1900.01.01
+	time = { months = 0 }
+	build_cost = 0
+	can_be_moved = no
+	move_days_per_unit_distance = 10
+	starting_tier = 0
+	type = monument
+
+	build_trigger = {
+	}
+
+	on_built = {
+	}
+
+	on_destroyed = {
+	}
+
+	can_use_modifiers_trigger = {
+		AND = {
+			culture_group = iberian
+			province_is_or_accepts_culture = yes
+		}
+	}
+
+	can_upgrade_trigger = {
+		AND = {
+			culture_group = iberian
+			province_is_or_accepts_culture = yes
+		}
+	}
+
+	keep_trigger = {
+	}
+
+	tier_0 = {
+		upgrade_time = {
+			months = 0
+		}
+		cost_to_upgrade = {
+			factor = 0
+		}
+		province_modifiers = {
+		}
+		area_modifier = {
+		}
+		country_modifiers = {
+		}
+		on_upgraded = {
+		}
+	}
+
+	tier_1 = {
+		upgrade_time = {
+			months = 120
+		}
+		cost_to_upgrade = {
+			factor = 1000
+		}
+		province_modifiers = {
+			fort_level = 1
+		}
+		area_modifier = {
+			fort_level = 1
+		}
+		country_modifiers = {
+			garrison_size = 0.1
+		}
+		on_upgraded = {
+		}
+	}
+
+	tier_2 = {
+		upgrade_time = {
+			months = 240
+		}
+		cost_to_upgrade = {
+			factor = 2500
+		}
+		province_modifiers = {
+			fort_level = 3
+		}
+		area_modifier = {
+			fort_level = 1
+		}
+		country_modifiers = {
+			garrison_size = 0.25
+			fort_maintenance_modifier = -0.15
+		}
+		on_upgraded = {
+		}
+	}
+
+	tier_3 = {
+		upgrade_time = {
+			months = 480
+		}
+		cost_to_upgrade = {
+			factor = 5000
+		}
+		province_modifiers = {
+			fort_level = 4
+		}
+		area_modifier = {
+			fort_level = 2
+		}
+		country_modifiers = {
+			garrison_size = 0.5
+			fort_maintenance_modifier = -0.45
+		}
+		on_upgraded = {
+		}
+	}
+}
+
+
+pantheon = {
+	start = 118
+	date = -25.01.01 
+	time = { months = 0 }
+	build_cost = 0
+	can_be_moved = no
+	move_days_per_unit_distance = 1
+	starting_tier = 1
+	type = monument
+
+	build_trigger = {
+		province_is_or_accepts_religion = {
+			religion = jupiterian
+		}
+	}
+
+	on_built = {
+		show_ambient_object = stpeters_cathedral
+	}
+
+	on_destroyed = {
+		hide_ambient_object = stpeters_cathedral
+	}
+
+	can_use_modifiers_trigger = {
+		province_is_or_accepts_religion = {
+			religion = jupiterian
+		}
+	}
+
+	can_upgrade_trigger = {
+		province_is_or_accepts_religion = {
+			religion = jupiterian
+		}
+	}
+
+	keep_trigger = {
+	}
+
+	tier_0 = {
+		upgrade_time = {
+			months = 0
+		}
+		cost_to_upgrade = {
+			factor = 0
+		}
+		province_modifiers = {
+		}
+		area_modifier = {
+		}
+		country_modifiers = {
+		}
+		on_upgraded = {
+		}
+	}
+
+	tier_1 = {
+		upgrade_time = {
+			months = 120
+		}
+		cost_to_upgrade = {
+			factor = 1000
+		}
+		province_modifiers = {
+		}
+		area_modifier = {
+		}
+		country_modifiers = {
+			expand_administration_cost = -0.05
+			stability_cost_modifier = -0.05			
+		}
+		on_upgraded = {
+		}
+	}
+
+	tier_2 = {
+		upgrade_time = {
+			months = 240
+		}
+		cost_to_upgrade = {
+			factor = 2500
+		}
+		province_modifiers = {
+		}
+		area_modifier = {
+		}
+		country_modifiers = {
+			expand_administration_cost = -0.1
+			stability_cost_modifier = -0.1
+			idea_cost = -0.05
+		}
+		on_upgraded = {
+			owner = {
+				add_estate_loyalty = {
+					estate = estate_church
+					loyalty = 15
+				}
+			}
+		}
+	}
+
+	tier_3 = {
+		upgrade_time = {
+			months = 480
+		}
+		cost_to_upgrade = {
+			factor = 5000
+		}
+		province_modifiers = {
+		}
+		area_modifier = {
+		}
+		country_modifiers = {
+			expand_administration_cost = -0.2
+			stability_cost_modifier = -0.1
+			idea_cost = -0.1
+			church_influence_modifier = 0.1
+		}
+		on_upgraded = {
+			owner = {
+				add_estate_loyalty = {
+					estate = estate_church
+					loyalty = 20
+				}
+			}
+		}
+	}
+}
+
+palace_of_graecus = {
+	start = 148 #Thessaloniki
+	date = 550.01.01
+	time = { months = 0	}
+	build_cost = 0
+	can_be_moved = no
+	move_days_per_unit_distance = 10
+	starting_tier = 1
+	type = monument
+
+	build_trigger = {
+	}
+
+	on_built = {
+	}
+
+	on_destroyed = {
+	}
+
+	can_use_modifiers_trigger = {
+	}
+
+	can_upgrade_trigger = {
+	}
+
+	keep_trigger = {
+	}
+
+	tier_0 = {
+		upgrade_time = {
+			months = 0
+		}
+		cost_to_upgrade = {
+			factor = 0
+		}
+		province_modifiers = {
+		}
+		area_modifier = {
+		}
+		country_modifiers = {
+		}
+		on_upgraded = {
+		}
+	}
+
+	tier_1 = {
+		upgrade_time = {
+			months = 120
+		}
+		cost_to_upgrade = {
+			factor = 1000
+		}
+		province_modifiers = {
+		}
+		area_modifier = {
+		}
+		country_modifiers = {
+			stability_cost_modifier = -0.1
+			religious_unity = 0.1
+			nobles_loyalty_modifier = 0.05
+		}
+		on_upgraded = {
+		}
+	}
+
+	tier_2 = {
+		upgrade_time = {
+			months = 240
+		}
+		cost_to_upgrade = {
+			factor = 2500
+		}
+		province_modifiers = {
+		}
+		area_modifier = {
+		}
+		country_modifiers = {
+			stability_cost_modifier = -0.2
+			religious_unity = 0.1
+			nobles_loyalty_modifier = 0.1
+		}
+		on_upgraded = {
+		}
+	}
+
+	tier_3 = {
+		upgrade_time = {
+			months = 480
+		}
+		cost_to_upgrade = {
+			factor = 5000
+		}
+		province_modifiers = {
+		}
+		area_modifier = {
+		}
+		country_modifiers = {
+			stability_cost_modifier = -0.3
+			religious_unity = 0.25
+			nobles_loyalty_modifier = 0.15
+		}
+		on_upgraded = {
+		}
+	}
+}
+
+temple_of_bel = {
+	start = 405
+	date = 150.01.01 #957.01.01 BC #Supposed construction date of the Temple of Salomon 
+	time = {
+		months = 0
+	}
+	build_cost = 0
+	can_be_moved = no
+	move_days_per_unit_distance = 1
+	starting_tier = 1
+	type = monument
+
+	build_trigger = {
+		OR = {
+			province_is_or_accepts_religion_group = {
+				religion_group = mardukism
+			}
+			province_is_or_accepts_religion_group = {
+				religion_group = canaanite
+			}
+			province_is_or_accepts_religion = {
+				religion = hurrian_pagan
+			}
+		}
+	}
+
+	on_built = {
+	}
+
+	on_destroyed = {
+	}
+
+	can_use_modifiers_trigger = {
+		OR = {
+			province_is_or_accepts_religion_group = {
+				religion_group = mardukism
+			}
+			province_is_or_accepts_religion_group = {
+				religion_group = canaanite
+			}
+			province_is_or_accepts_religion = {
+				religion = hurrian_pagan
+			}
+		}
+	}
+
+	can_upgrade_trigger = {
+		OR = {
+			province_is_or_accepts_religion_group = {
+				religion_group = mardukism
+			}
+			province_is_or_accepts_religion_group = {
+				religion_group = canaanite
+			}
+			province_is_or_accepts_religion = {
+				religion = hurrian_pagan
+			}
+		}
+	}
+
+	keep_trigger = {
+	}
+
+	tier_0 = {
+		upgrade_time = {
+			months = 0
+		}
+		cost_to_upgrade = {
+			factor = 0
+		}
+		province_modifiers = {
+		}
+		area_modifier = {
+		}
+		country_modifiers = {
+		}
+		on_upgraded = {
+		}
+	}
+
+	tier_1 = {
+		upgrade_time = {
+			months = 120
+		}
+		cost_to_upgrade = {
+			factor = 1000
+		}
+		province_modifiers = {
+		}
+		area_modifier = {
+			local_missionary_strength = 0.01
+		}
+		country_modifiers = {
+			prestige = 0.1
+			global_heretic_missionary_strength = 0.01
+			monthly_fervor_increase = 0.25
+			religious_unity = 0.05
+		}
+		on_upgraded = {
+		}
+	}
+
+	tier_2 = {
+		upgrade_time = {
+			months = 240
+		}
+		cost_to_upgrade = {
+			factor = 2500
+		}
+		province_modifiers = {
+		}
+		area_modifier = {
+			local_missionary_strength = 0.02
+		}
+		country_modifiers = {
+			prestige = 0.25
+			global_heretic_missionary_strength = 0.02
+			monthly_fervor_increase = 0.5
+			religious_unity = 0.1
+		}
+		on_upgraded = {
+		}
+	}
+
+	tier_3 = {
+		upgrade_time = {
+			months = 480
+		}
+		cost_to_upgrade = {
+			factor = 5000
+		}
+		province_modifiers = {
+		}
+		area_modifier = {
+			local_missionary_strength = 0.03
+		}
+		country_modifiers = {
+			prestige = 0.5
+			global_heretic_missionary_strength = 0.03
+			missionaries = 1
+			monthly_fervor_increase = 1
+			religious_unity = 0.15
+		}
+		on_upgraded = {
+		}
+	}
+}
+
+hatra_complex = {
+	start = 3054
+	date = 50.01.01
+	time = {
+		months = 0
+	}
+	build_cost = 0
+	can_be_moved = no
+	move_days_per_unit_distance = 1
+	starting_tier = 2
+	type = monument
+
+	build_trigger = {
+		province_is_or_accepts_religion_group = {
+			religion_group = semitic_religions
+		}
+	}
+
+	on_built = {
+		show_ambient_object = holy_city_jerusalem 
+	}
+
+	on_destroyed = {
+		hide_ambient_object = holy_city_jerusalem
+	}
+
+	can_use_modifiers_trigger = {
+		province_is_or_accepts_religion_group = {
+			religion_group = semitic_religions
+		}
+	}
+
+	can_upgrade_trigger = {
+		province_is_or_accepts_religion_group = {
+			religion_group = semitic_religions
+		}
+	}
+
+	keep_trigger = {
+	}
+
+	tier_0 = {
+		upgrade_time = {
+			months = 0
+		}
+		cost_to_upgrade = {
+			factor = 0
+		}
+		province_modifiers = {
+		}
+		area_modifier = {
+		}
+		country_modifiers = {
+		}
+		on_upgraded = {
+		}
+	}
+
+	tier_1 = {
+		upgrade_time = {
+			months = 120
+		}
+		cost_to_upgrade = {
+			factor = 1000
+		}
+		province_modifiers = {
+		}
+		area_modifier = {
+			local_missionary_strength = 0.01
+		}
+		country_modifiers = {
+			prestige = 0.1
+			global_heretic_missionary_strength = 0.01
+			monthly_fervor_increase = 0.25
+			religious_unity = 0.05
+		}
+		on_upgraded = {
+		}
+	}
+
+	tier_2 = {
+		upgrade_time = {
+			months = 240
+		}
+		cost_to_upgrade = {
+			factor = 2500
+		}
+		province_modifiers = {
+		}
+		area_modifier = {
+			local_missionary_strength = 0.02
+		}
+		country_modifiers = {
+			prestige = 0.25
+			global_heretic_missionary_strength = 0.02
+			monthly_fervor_increase = 0.5
+			religious_unity = 0.1
+		}
+		on_upgraded = {
+		}
+	}
+
+	tier_3 = {
+		upgrade_time = {
+			months = 480
+		}
+		cost_to_upgrade = {
+			factor = 5000
+		}
+		province_modifiers = {
+		}
+		area_modifier = {
+			local_missionary_strength = 0.03
+		}
+		country_modifiers = {
+			prestige = 0.5
+			global_heretic_missionary_strength = 0.03
+			missionaries = 1
+			monthly_fervor_increase = 1
+			religious_unity = 0.15
+		}
+		on_upgraded = {
+		}
+	}
+}
+
+lighthouse_of_alexandria = {
+	start = 358
+	date = -250.01.01
+	time = {
+		months = 0
+	}
+	build_cost = 0
+	can_be_moved = no
+	move_days_per_unit_distance = 1
+	starting_tier = 3
+	type = monument
+
+	build_trigger = {
+	}
+
+	on_built = {
+		show_ambient_object = belem_tower 
+	}
+	
+	on_destroyed = {
+		hide_ambient_object = belem_tower 
+	}
+
+	can_use_modifiers_trigger = {
+	}
+
+	can_upgrade_trigger = {
+	}
+
+	keep_trigger = {
+	}
+
+	tier_0 = {
+		upgrade_time = {
+			months = 0
+		}
+		cost_to_upgrade = {
+			factor = 0
+		}
+		province_modifiers = {
+		}
+		area_modifier = {
+		}
+		country_modifiers = {
+		}
+		on_upgraded = {
+			
+		}
+	}
+
+	tier_1 = {
+		upgrade_time = {
+			months = 120
+		}
+		cost_to_upgrade = {
+			factor = 1000
+		}
+		province_modifiers = {
+			province_trade_power_value = 5
+		}
+		area_modifier = {
+			local_manpower_modifier = 0.15
+		}
+		country_modifiers = {
+			global_trade_power = 0.05
+		}
+		on_upgraded = {
+		}
+	}
+
+	tier_2 = {
+		upgrade_time = {
+			months = 240
+		}
+		cost_to_upgrade = {
+			factor = 2500
+		}
+		province_modifiers = {
+			province_trade_power_value = 10
+		}
+		area_modifier = {
+			local_manpower_modifier = 0.25
+		}
+		country_modifiers = {
+			global_trade_power = 0.1
+			global_sailors_modifier = 0.1
+		}
+		on_upgraded = {
+		}
+	}
+
+	tier_3 = {
+		upgrade_time = {
+			months = 480
+		}
+		cost_to_upgrade = {
+			factor = 5000
+		}
+		province_modifiers = {
+			province_trade_power_value = 15
+		}
+		area_modifier = {
+			local_manpower_modifier = 0.5
+		}
+		country_modifiers = {
+			global_trade_power = 0.15
+			global_sailors_modifier = 0.25
+		}
+		on_upgraded = {
+		}
+	}
+}
+
+kaaba_of_najran = {
+	start = 391
+	date = 300.01.01 #630.01.01 #Muhammad securing Mecca and removing statues and images from Kaaba
+	time = {
+		months = 0
+	}
+	build_cost = 0
+	can_be_moved = no
+	move_days_per_unit_distance = 1
+	starting_tier = 2
+	type = monument
+	build_trigger = {
+		province_is_or_accepts_religion = {
+			religion = arab_pagan
+		}
+	}
+
+	on_built = {
+		show_ambient_object = kaaba 
+	}
+	
+	on_destroyed = {
+		hide_ambient_object = kaaba 
+	}
+
+	can_use_modifiers_trigger = {
+		OR = {
+			province_is_or_accepts_religion = {
+				religion = arab_pagan
+			}
+			# owner = {
+			# 	custom_trigger_tooltip = {
+			# 		tooltip = BYZ_may_use_kaaba 
+			# 		has_country_flag = BYZ_may_use_kaaba
+			# 	}
+			# }
+		}
+	}
+
+	can_upgrade_trigger = {
+		OR = {
+			province_is_or_accepts_religion = {
+				religion = arab_pagan
+			}
+			# owner = {
+			# 	custom_trigger_tooltip = {
+			# 		tooltip = BYZ_may_use_kaaba 
+			# 		has_country_flag = BYZ_may_use_kaaba
+			# 	}
+			# }
+		}
+	}
+
+	keep_trigger = {
+	}
+
+	tier_0 = {
+		upgrade_time = {
+			months = 0
+		}
+		cost_to_upgrade = {
+			factor = 0
+		}
+		province_modifiers = {
+		}
+		area_modifier = {
+		}
+		country_modifiers = {
+		}
+		on_upgraded = {
+			
+		}
+	}
+
+	tier_1 = {
+		upgrade_time = {
+			months = 120
+		}
+		cost_to_upgrade = {
+			factor = 1000
+		}
+		province_modifiers = {			
+		}
+		area_modifier = {
+		}
+		country_modifiers = {
+			prestige = 0.1
+			religious_unity = 0.1
+			global_prov_trade_power_modifier = 0.025
+			tolerance_own = 0.5
+		}
+		on_upgraded = {
+		}
+	}
+
+	tier_2 = {
+		upgrade_time = {
+			months = 240
+		}
+		cost_to_upgrade = {
+			factor = 2500
+		}
+		province_modifiers = {
+		}
+		area_modifier = {
+		}
+		country_modifiers = {
+			prestige = 0.25
+			religious_unity = 0.15
+			warscore_cost_vs_other_religion = -0.05
+			global_prov_trade_power_modifier = 0.05
+			tolerance_own = 1
+		}
+		on_upgraded = {
+		}
+	}
+
+	tier_3 = {
+		upgrade_time = {
+			months = 480
+		}
+		cost_to_upgrade = {
+			factor = 5000
+		}
+		province_modifiers = {
+		}
+		area_modifier = {
+		}
+		country_modifiers = {
+			prestige = 0.5
+			religious_unity = 0.2
+			warscore_cost_vs_other_religion = -0.1
+			global_prov_trade_power_modifier = 0.1
+			tolerance_own = 1.5
+		}
+		on_upgraded = {
+		}
+	}
+}
+
+port_of_muscat = { # Image Credit to Alan Reed Art
+	start = 400
+	date = -6000.1.1
+	time = { months = 0 }
+	build_cost = 0
+	can_be_moved = no
+	move_days_per_unit_distance = 10
+	starting_tier = 1
+	type = monument
+	build_trigger = {}
+
+	on_built = {}
+
+	on_destroyed = {}
+
+	can_use_modifiers_trigger = {}
+
+	can_upgrade_trigger = {}
+
+	keep_trigger = {}
+
+	tier_0 = {
+		upgrade_time = { months = 0 }
+		cost_to_upgrade = { factor = 0 }
+		province_modifiers = {
+		}
+		area_modifier = {
+		}
+		country_modifiers = {
+		}
+		on_upgraded = {
+		}
+	}
+
+	tier_1 = {
+		upgrade_time = { months = 120 }
+		cost_to_upgrade = { factor = 1000 }
+		province_modifiers = {
+		}
+		area_modifier = {
+			local_defensiveness = 0.25
+			local_manpower_modifier = 0.25
+			province_trade_power_modifier = 0.1
+		}
+		country_modifiers = {
+		}
+		on_upgraded = {
+		}
+	}
+
+	tier_2 = {
+		upgrade_time = { months = 240 }
+		cost_to_upgrade = { factor = 2500 }
+		province_modifiers = {
+		}
+		area_modifier = {
+			local_defensiveness = 0.33
+			local_manpower_modifier = 0.33
+			province_trade_power_modifier = 0.2
+		}
+		country_modifiers = {
+		}
+		on_upgraded = {
+		}
+	}
+
+	tier_3 = {
+		upgrade_time = { months = 480 }
+		cost_to_upgrade = { factor = 5000 }
+		province_modifiers = {
+		}
+		area_modifier = {
+			local_defensiveness = 0.5
+			local_manpower_modifier = 0.5
+			local_defender_dice_roll_bonus = 1 
+			province_trade_power_modifier = 0.5
+		}
+		country_modifiers = {
+		}
+		on_upgraded = {
+		}
+	}
+}
+
+pyramids_of_meroe = {
+	start = 2797
+	date = -2570.01.01
+	time = {
+		months = 0
+	}
+	build_cost = 0
+	can_be_moved = no
+	move_days_per_unit_distance = 1
+	starting_tier = 2
+	type = monument
+
+	build_trigger = {
+		OR = {
+			province_is_or_accepts_religion_group = {
+				religion_group = nilotic_religions
+			}
+			AND = {
+				culture_group = hellenic
+				province_is_or_accepts_culture = yes
+			}
+			AND = {
+				culture_group = sudanese
+				province_is_or_accepts_culture = yes
+			}
+			AND = {
+				culture_group = egyptian_g
+				province_is_or_accepts_culture = yes
+			}
+		}
+	}
+
+	on_built = {
+		show_ambient_object = pyramid_of_cheops 
+	}
+	
+	on_destroyed = {
+		hide_ambient_object = pyramid_of_cheops 
+	}
+
+	can_use_modifiers_trigger = {
+		OR = {
+			province_is_or_accepts_religion_group = {
+				religion_group = nilotic_religions
+			}
+			AND = {
+				culture_group = hellenic
+				province_is_or_accepts_culture = yes
+			}
+			AND = {
+				culture_group = sudanese
+				province_is_or_accepts_culture = yes
+			}
+			AND = {
+				culture_group = egyptian_g
+				province_is_or_accepts_culture = yes
+			}
+		}
+	}
+
+	can_upgrade_trigger = {
+		OR = {
+			province_is_or_accepts_religion_group = {
+				religion_group = nilotic_religions
+			}
+			AND = {
+				culture_group = hellenic
+				province_is_or_accepts_culture = yes
+			}
+			AND = {
+				culture_group = sudanese
+				province_is_or_accepts_culture = yes
+			}
+			AND = {
+				culture_group = egyptian_g
+				province_is_or_accepts_culture = yes
+			}
+		}
+	}
+
+	keep_trigger = {
+	}
+
+	tier_0 = {
+		upgrade_time = {
+			months = 0
+		}
+		cost_to_upgrade = {
+			factor = 0
+		}
+		province_modifiers = {
+		}
+		area_modifier = {
+		}
+		country_modifiers = {
+		}
+		on_upgraded = {
+		}
+	}
+
+	tier_1 = {
+		upgrade_time = {
+			months = 120
+		}
+		cost_to_upgrade = {
+			factor = 1000
+		}
+		province_modifiers = {
+		}
+		area_modifier = {
+		}
+		country_modifiers = {
+			yearly_government_power = 0.5
+			prestige_decay = -0.005
+			all_estate_loyalty_equilibrium = 0.05
+		}
+		on_upgraded = {
+		}
+	}
+
+	tier_2 = {
+		upgrade_time = {
+			months = 240
+		}
+		cost_to_upgrade = {
+			factor = 2500
+		}
+		province_modifiers = {
+		}
+		area_modifier = {
+		}
+		country_modifiers = {	
+			prestige_decay = -0.01
+			yearly_government_power = 0.5
+			all_estate_loyalty_equilibrium = 0.05	
+		}
+		on_upgraded = {
+		}
+	}
+
+	tier_3 = {
+		upgrade_time = {
+			months = 480
+		}
+		cost_to_upgrade = {
+			factor = 5000
+		}
+		province_modifiers = {
+		}
+		area_modifier = {
+		}
+		country_modifiers = {
+			yearly_government_power = 1
+			all_estate_loyalty_equilibrium = 0.05
+			prestige_decay = -0.01
+			no_stability_loss_on_monarch_death = yes
+		}
+		on_upgraded = {	
+		}
+	}
+}

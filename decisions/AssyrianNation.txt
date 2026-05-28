@@ -16,7 +16,7 @@ country_decisions = {
 			NOT = { exists = ASY }
 			OR = {
 				culture = aramean
-				culture = syriac
+				culture = palmyran
 				culture = assyrian
 			}
 			OR = {
@@ -86,7 +86,7 @@ country_decisions = {
 			change_tag = ASY
 			trigger_switch = {
 				on_trigger = primary_culture
-				syriac = { ASY = { override_country_name = ASY_syriac } }
+				palmyran = { ASY = { override_country_name = ASY_palmyran } }
 				aramean = { ASY = { override_country_name = ASY_aramean } }
 				assyrian = { ASY = { restore_country_name = yes } }
 			}

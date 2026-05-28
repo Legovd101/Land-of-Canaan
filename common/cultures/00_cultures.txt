@@ -9767,6 +9767,9 @@ west_semitic = {
 			Atarah Mehetabel Noadiah Shulammite Abihail Adah Bilhah Zibiah Jehosheba Maacah
 		}
 	}
+	nabatean = {
+		primary = ANZ
+	}
 	dynasty_names = {
 		Abbarid Adonibaalid Ahiromid Baalhannid Baalid Barcid Bostarid Chelbesid Eshbaalid Eugorid Hannid Hiramid Magoid Mattanid Metallid 
 		Milkiramid Philosirid
@@ -9816,10 +9819,7 @@ east_semitic = {
 	assyrian = {
 		# primary = ASY
 	}
-	nabatean = {
-		primary = ANZ
-	}
-	syriac = {
+	palmyran = {
 		primary = PLM
 	}
 	babylonian = {

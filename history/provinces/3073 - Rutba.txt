@@ -1,6 +1,6 @@
 owner = PLM
 controller = PLM
-culture = syriac
+culture = palmyran
 religion = zoroastrian
 capital = "Rutba"
 trade_goods = salt#known for its pastures for Timurid armies

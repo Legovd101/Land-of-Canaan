@@ -1,0 +1,57 @@
+spriteTypes = {	
+
+	spriteType = {
+		name = "GFX_great_project_alexandrian_ziggurat"	
+		texturefile = "gfx//interface//great_projects//great_project_alexandrian_ziggurat.dds"
+	}	
+
+	spriteType = {
+		name = "GFX_great_project_port_of_tyre"	
+		texturefile = "gfx//interface//great_projects//great_project_port_of_tyre.dds"
+	}	
+
+	spriteType = {
+		name = "GFX_great_project_grand_nuraghe"	
+		texturefile = "gfx//interface//great_projects//great_project_grand_nuraghe.dds"
+	}	
+
+	spriteType = {
+		name = "GFX_great_project_pantheon"	
+		texturefile = "gfx//interface//great_projects//great_project_pantheon.dds"
+	}
+
+	spriteType = {
+		name = "GFX_great_project_palace_of_graecus"	
+		texturefile = "gfx//interface//great_projects//great_project_palace_of_graecus.dds"
+	}
+
+	spriteType = {
+		name = "GFX_great_project_temple_of_bel"	
+		texturefile = "gfx//interface//great_projects//great_project_temple_of_bel.dds"
+	}
+
+	spriteType = {
+		name = "GFX_great_project_hatra_complex"	
+		texturefile = "gfx//interface//great_projects//great_project_hatra_complex.dds"
+	}
+
+	spriteType = {
+		name = "GFX_great_project_lighthouse_of_alexandria"	
+		texturefile = "gfx//interface//great_projects//great_project_lighthouse_of_alexandria.dds"
+	}
+
+	spriteType = {
+		name = "GFX_great_project_kaaba_of_najran"	
+		texturefile = "gfx//interface//great_projects//great_project_kaaba_of_najran.dds"
+	}
+
+	spriteType = {
+		name = "GFX_great_project_port_of_muscat"	
+		texturefile = "gfx//interface//great_projects//great_project_port_of_muscat.dds"
+	}
+
+	spriteType = {
+		name = "GFX_great_project_pyramids_of_meroe"	
+		texturefile = "gfx//interface//great_projects//great_project_pyramids_of_meroe.dds"
+	}
+}

@@ -2,7 +2,7 @@
 owner = SER
 controller = SER
 culture = serbian
-religion = norse_pagan
+religion = tivahus
 base_tax = 7
 base_production = 7
 trade_goods = fish

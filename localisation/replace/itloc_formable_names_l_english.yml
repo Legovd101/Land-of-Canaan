@@ -1,8 +1,10 @@
 ﻿l_english:
+ AST: "Austurland"
+ AST_ADJ: "Austmen"
  ASY: "Mat Aššur"
  ASY_ADJ: "Aššurum"
- ASY_syriac: "Ašor"
- ASY_syriac_ADJ: "Ašoraya"
+ ASY_palmyran: "Ašor"
+ ASY_palmyran_ADJ: "Ašoraya"
  ASY_aramean: "Athur"
  ASY_aramean_ADJ: "Athuraya"
  BLE: "Mat Babilim"

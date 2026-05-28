@@ -3,8 +3,7 @@ add_government_reform = native_chiefdom_reform
 technology_group = muslim
 primary_culture = bedouin_arabic
 religion = arab_pagan
-capital = 2335# Wadi al Dawasir
-religious_school = hanbali_school
+capital = 391 # Najran
 #Dawasir Tribe
 1440.1.1 = {  #Fictional
 

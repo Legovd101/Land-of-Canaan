@@ -1,7 +1,7 @@
 government = monarchy
 add_government_reform = iqta
 primary_culture = andalucian
-religion = norse_pagan
+religion = tivahus
 add_accepted_culture = berber
 technology_group = muslim
 capital = 223# Granada

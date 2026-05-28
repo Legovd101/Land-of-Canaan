@@ -2,7 +2,7 @@
 owner = WTF
 controller = WTF
 culture = irelander
-religion = norse_pagan
+religion = konugatru
 base_tax = 2
 base_production = 2
 trade_goods = livestock

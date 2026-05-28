@@ -1,0 +1,26 @@
+namespace = itloc_religion
+
+# Patronage of the Temple of Zeus Belos
+province_event = {
+	id = itloc_religion.1
+	title = itloc_religion.1t
+	desc = itloc_religion.1d
+	picture = RELIGIOUS_CONVERSION_eventPicture
+
+	is_triggered_only = yes
+	
+	option = {
+		name = itloc_religion.1.a
+		change_culture = gaelawer
+		add_core = GDL
+		hidden_effect = {
+			if = {
+				limit = {
+					is_capital = yes
+					owner = { ai = yes }
+				}
+				owner = { change_primary_culture = gaelawer }
+			}
+		}
+	}
+}

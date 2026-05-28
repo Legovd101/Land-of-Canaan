@@ -1,4 +1,4 @@
-religion = norse_pagan
+religion = konugatru
 capital = 374
 technology_group = adventurer
 government_rank = 1

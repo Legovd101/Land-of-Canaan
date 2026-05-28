@@ -2,7 +2,7 @@
 owner = GAU
 controller = GAU
 culture = gautish
-religion = norse_pagan
+religion = tivahus
 base_tax = 2
 base_production = 1
 trade_goods = grain

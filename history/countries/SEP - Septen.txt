@@ -5,7 +5,7 @@
 # SEP (Septen)
 government_rank = 1
 primary_culture = normand
-religion = norse_pagan
+religion = tivahus
 technology_group = adventurer
 capital = 1751
 # Specific Effects #

@@ -1,4 +1,4 @@
-religion = norse_pagan
+religion = tivahus
 capital = 209
 technology_group = adventurer
 primary_culture = normand

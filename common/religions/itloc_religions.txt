@@ -55,9 +55,27 @@ germanic_religions = {
 		heretic = { GOAT_SKULL }
 	}
 	
-	norse_pagan = {
+	tivahus = {
 		icon = 34
 		color = { 147 98 153 }
+		country = {
+			land_forcelimit_modifier = 0.10
+			naval_forcelimit_modifier = 0.10
+		}
+		country_as_secondary = {
+			merc_maintenance_modifier = -0.1
+			galley_power = 0.2
+		}
+		province = {
+			local_missionary_strength = 0.02
+		}
+		personal_deity = yes
+		heretic = { OLD_GERMANIC }
+	}
+	
+	konugatru = {
+		icon = 77
+		color = { 141 108 255 }
 		country = {
 			land_forcelimit_modifier = 0.10
 			naval_forcelimit_modifier = 0.10
@@ -339,6 +357,45 @@ semitic_religions = {
 		}
 	}
 	
+	arab_pagan = {
+		color = { 140 20 50 }
+		icon = 47
+		province = {
+			local_missionary_strength = 0.02
+		}
+		country = {
+			tolerance_heathen = 2
+			tolerance_heretic = 2
+		}
+		country_as_secondary = {
+			prestige = 1
+			land_attrition = -0.10
+		}
+		uses_piety = yes
+		declare_war_in_regency = yes
+		heretic = { BEAR_SPIRIT SNAKE_CLAN }
+	}
+
+	mardukism = {
+		icon = 76
+		color = { 128 11 0 }
+		country = {
+			monthly_splendor = 2
+			harsh_treatment_cost = -0.3
+		}
+		province = {
+			build_cost = -0.15
+		}
+		country_as_secondary = {
+			monthly_splendor = 1
+			harsh_treatment_cost = -0.1
+		}
+		heretic = { SUMER }
+	}
+}
+
+nilotic_religions = {
+	crusade_name = akha
 	kemetism = {
 		color = { 255 192 33 }
 		icon = 45
@@ -379,25 +436,6 @@ semitic_religions = {
 			yearly_absolutism = 0.5
 		}
 		heretic = { DARKNESS SNAKE_CLAN }
-	}
-	
-	arab_pagan = {
-		color = { 140 20 50 }
-		icon = 47
-		province = {
-			local_missionary_strength = 0.02
-		}
-		country = {
-			tolerance_heathen = 2
-			tolerance_heretic = 2
-		}
-		country_as_secondary = {
-			prestige = 1
-			land_attrition = -0.10
-		}
-		uses_piety = yes
-		declare_war_in_regency = yes
-		heretic = { BEAR_SPIRIT SNAKE_CLAN }
 	}
 	
 	atenism = {

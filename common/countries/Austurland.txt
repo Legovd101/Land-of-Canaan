@@ -1,0 +1,88 @@
+#Country Name: Please see filename.
+graphical_culture = westerngfx
+color = { 41 90 136 }
+revolutionary_colors = { 5 8 5 }
+historical_idea_groups = { 
+	defensive_ideas
+	trade_ideas
+	religious_ideas
+	diplomatic_ideas
+	economic_ideas
+	innovativeness_ideas
+	maritime_ideas
+	spy_ideas
+}
+historical_units = { 
+	western_medieval_infantry
+	chevauchee
+	western_men_at_arms
+	swiss_landsknechten
+	dutch_maurician
+	french_caracolle
+	anglofrench_line
+	french_dragoon
+	french_bluecoat
+	french_cuirassier
+	french_impulse
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+monarch_names = { 
+	"Haraldr #0" = 60
+	"Ivarr #4" = 40
+	"Bjòrn #2" = 20
+	"Sigurðr #2" = 20
+	"Hálfdan #0" = 10
+	"Eiríkr #1" = 5
+	"Guthormr #0" = 5
+	"Ketill #0" = 5
+	"Ragnarr #0" = 0
+	"Hògni #0" = 0
+	"Áslákr #0" = 0
+	"Styrbjòrn #0" = 0
+	"Þórir #0" = 0
+	"Auðunn #0" = 0
+	"Tryggvi #0" = 0
+	"Ívarr #0" = 0
+	"Njáll #0" = 0
+	"Ulfarr #0" = 0
+	"Ormarr #0" = 0
+	"Hákon #0" = 0
+	"Áleifr #0" = 0
+	"Gunnarr #0" = 0
+	"Geirmundr #0" = 0
+	"Hallsteinn #0" = 0
+	"Torfi #0" = 0
+	"Ketilbjòrn #0" = 0
+	"Þórsteinn #0" = 0
+	"Yngvarr #0" = 0
+	"Vésteinn #0" = 0
+	"Skúli #0" = 0
+	"Einarr #0" = 0
+	"Rògnvaldr #0" = 0
+	"Sveinn #0" = 0
+	"Stenkil #0" = 0
+	"Guðrún #0" = -10
+	"Áslaug #0" = -10
+	"Sigríðr #0" = -1
+	"Þóra #0" = -1
+	"Ragnhildr #0" = -1
+	"Ingibjòrg #0" = -1
+	"Hallgerðr #0" = -1
+}
+leader_names = { 
+	"sonr Haraldrs" "sonr Ívars" "sonr Bjarnar" "sonr Sigurðar" "sonr Hálfdanar" "sonr Eiríks" "sonr Ketils" "sonr Ragnars" "sonr Hákonar" "sonr Óláfs"
+	"sonr Gunnars" "Haraldr sonr" "Sigurðr sonr" "Bjòrn sonr" "Ívarr sonr" "Norðmenn" "Danir" "Svíar" "Íslendingar" "Hörðar"
+	"Trøndir" "Gautar" "Háleygir" 
+}
+ship_names = { 
+	"Óðinn" "Þórr" "Týr" "Frey" "Freyr" "Freyja" "Njòrðr" "Baldr" "Loki" "Heimdallr"
+	"Hel" "Sif" "Skadi" "Ullr" "Bragi" "Haraldr" "Ragnarr" "Bjòrn" "Sigurðr" "Ívarr"
+	"Hákon" "Yngvi" "Ægir" "Ran" "Jòrmungandr" "Fenrir" "Midgarðsormr" "Asgarðr" "Valhòll" 
+}
+army_names = { 
+	"Her Norðmanna" "Her Dana" "Her Svía" "Her Gautar" "Her Trønda" "Her Háleygja" "Her Hörða" "Her Íslendinga" "Her Gotar" "Her Upplendinga"
+	"Her Hof" "Her $PROVINCE$" 
+}

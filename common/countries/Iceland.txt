@@ -7,7 +7,7 @@ historical_score = 25
 
 preferred_religion = protestant
 
-historical_idea_groups = {
+historical_idea_groups = { 
 	aristocracy_ideas
 	trade_ideas
 	defensive_ideas
@@ -18,7 +18,7 @@ historical_idea_groups = {
 	maritime_ideas
 }
 
-historical_units = {
+historical_units = { 
 	western_medieval_infantry
 	western_medieval_knights
 	western_men_at_arms
@@ -35,7 +35,7 @@ historical_units = {
 	napoleonic_lancers
 }
 
-monarch_names = {
+monarch_names = { 
 	"MONARCH_NAME_JON" = 10
 	"Olav #0" = 10
 	"Erik #0" = 10
@@ -84,21 +84,14 @@ monarch_names = {
 	"Torhild #0" = 0
 }
 
-leader_names = {
-	Arnesson Amundsen 
-	Bjelke Bolt 
-	Egilsson Eriksson 
-	Haraldsson 
-	Larsson Leifsson 
-	Magnusson 
-	Nansen Norheim 
-	Olavsson 
-	Sverresson Arason 
-	Torgeirsson Nikulásson 
-	Pálsson
+leader_names = { 
+	Arnesson Amundsen Bjelke Bolt Egilsson Eriksson Haraldsson
+	Larsson Leifsson Magnusson
+	Nansen Norheim Olavsson
+	Sverresson Arason Torgeirsson Nikulásson Pálsson
 }
 
-ship_names = {
+ship_names = { 
 	Vattnajökul
 	Eyjafjallajökull
 	Tungnafellsjökull

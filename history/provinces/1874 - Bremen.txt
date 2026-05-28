@@ -2,7 +2,7 @@
 owner = DLK
 controller = DLK
 culture = lower_saxon
-religion = norse_pagan
+religion = tivahus
 capital = "Bremen"
 trade_goods = fish
 base_tax = 6

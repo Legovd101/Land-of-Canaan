@@ -5,5 +5,5 @@ technology_group = adventurer
 primary_culture = anglosaxon
 add_accepted_culture = gascon
 add_accepted_culture = normand
-religion = norse_pagan
+religion = tivahus
 capital = 170 # London

@@ -2,7 +2,7 @@
 owner = BRI
 controller = BRI
 culture = norwegian# They were actually Jämts - the unique blend of Swedish, Norwegian and local tendencies
-religion = norse_pagan
+religion = tivahus
 base_tax = 1
 base_production = 1
 trade_goods = fur

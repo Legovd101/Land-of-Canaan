@@ -6,7 +6,7 @@
 religion = zoroastrian
 # Specific Effects #
 capital = 411
-technology_group = ottoman
+technology_group = muslim
 government_rank = 3
 government = monarchy
 primary_culture = assyrian

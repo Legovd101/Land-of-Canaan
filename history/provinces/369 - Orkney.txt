@@ -2,7 +2,7 @@
 owner = SCO
 controller = SCO
 culture = norn
-religion = norse_pagan
+religion = tivahus
 base_tax = 1
 base_production = 1
 trade_goods = fish

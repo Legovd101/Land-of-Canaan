@@ -365,6 +365,105 @@
 578 = { "Óroneia" "Óroneia" } # "Mountain"
 452 = { "Baláskia" "Baláskia" } # Balascia
 
+## ARABIA
+
+# Bahrain
+394 = { "Gérrha" "Gérrha" } # Gerrha
+395 = { "Kaddára" "Kaddára" } # Qatar
+3078 = { "Phigeía" "Phigeía" }
+2347 = { "Geíra" "Geíra" }
+3068 = { "Thárro" "Thárro" }
+396 = { "Týlos" "Týlos" }
+
+# Pirate Coast
+2333 = { "Sárko" "Sárko" }
+397 = { "Kabána" "Kabána" }
+404 = { "Raouana" "Raouana" }
+3070 = { "Chaboúata" "Chaboúata" }
+3069 = { "Omana" "Omana" } # Omana
+398 = { "Rígama" "Rígama" } # Regama
+3071 = { "Moúzan" "Moúzan" } # Mazun
+
+# Oman
+4285 = { "Touámi" "Touámi" } # Tawam
+403 = { "Nézba" "Nézba" } # Nizwa
+4287 = { "Ibería" "Ibería" } # Ibra
+
+# Muscat
+399 = { "Matákion" "Matákion" }
+400 = { "Móscha tis Omana" "Móscha tis Omana" }
+4286 = { "Zúros" "Zúros" }
+
+# Dhofar
+2341 = { "Serápis" "Serápis" }
+2342 = { "Ásikon" "Ásikon" }
+401 = { "Móscha Límen" "Móscha Límen" }
+
+# Mahra
+4284 = { "Néogilla" "Néogilla" }
+402 = { "Thialémath" "Thialémath" }
+1099 = { "Dioskoúria" "Dioskoúria" }
+
+# Hadramut
+2343 = { "Adramyta" "Adramyta" }
+389 = { "Trétos" "Trétos" }
+4283 = { "Assýrrheia" "Assýrrheia" }
+
+# Lower Yemen
+2345 = { "Sabbátha" "Sabbátha" }
+388 = { "Eudaímon" "Eudaímon" } # Aden
+4280 = { "Saoúe" "Saoúe" }
+
+# Tihama al-Yemen
+2346 = { "Akmí" "Akmí" }
+387 = { "Moúza" "Moúza" }
+4279 = { "Taba" "Taba" }
+
+# Upper Yemen
+2344 = { "Mariába" "Mariába" }
+390 = { "Sabápolis" "Sabápolis" }
+4281 = { "Antamár" "Antamár" }
+
+# Asir
+386 = { "Býsa" "Býsa" }
+391 = { "Negrána" "Negrána" }
+4282 = { "Karminákon" "Karminákon" }
+
+# Al-Yamamah
+2335 = { "Chariátha" "Chariátha" } # Qaryat
+2336 = { "Laíla" "Laíla" } # Layla
+2339 = { "Iábrin" "Iábrin" } # Yabrin
+4275 = { "Iamáma" "Iamáma" } # Yamamah
+
+# Al-Qasim
+392 = { "Deriána" "Deriána" }
+2337 = { "Beáona" "Beáona" } # Biavanna
+4274 = { "Soutería" "Soutería" }
+4273 = { "Kairetána" "Kairetána" }
+
+# Mecca
+385 = { "Makorába" "Makorába" } # Mecca
+2332 = { "Latha" "Latha" }
+4278 = { "Ambí" "Ambí" }
+4277 = { "Típha" "Típha" } # Ta'if
+2331 = { "Arga" "Arga" }
+
+# Medina
+384 = { "Iathríppa" "Iathríppa" } # Yathrib
+2329 = { "Iámbia" "Iámbia" } # Yanbu
+2330 = { "Sálamis tis Arabía" "Sálamis tis Arabía" }
+
+# An Nafud
+393 = { "Gaiápolis" "Gaiápolis" }
+4272 = { "Dédan" "Dédan" } # Ha'il
+2338 = { "Aphárion" "Aphárion" } # Hafar
+
+# Tabuk
+383 = { "Baklánaza" "Baklánaza" }
+4268 = { "Elána" "Elána" }
+4269 = { "Phoínikon Komí" "Phoínikon Komí" }
+2328 = { "Ioúla" "Ioúla" }
+
 
 285 = "Theodosia"
 340 = "Constantina"
@@ -373,13 +472,11 @@
 358 = "Aleksandreia"
 360 = "Kaine"
 363 = "Tamiathis"
-396 = "Tylos"
 1231 = "Syene"
 1233 = "Megale"
 2319 = "Lytkopolis"
 2326 = "Petra Megale"
 2348 = "Chios"
-2343 = "Adrramyta"
 2447 = "Tamatarha"
 149 = { "Adrianople" "Adrianople" }
 151 = { "Constantinople" "Constantinople" }

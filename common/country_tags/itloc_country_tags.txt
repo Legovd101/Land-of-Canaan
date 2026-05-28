@@ -73,6 +73,7 @@ GNB = "countries/Ghanib Nahrain.txt"
 NEB = "countries/Nebtha.txt"
 PLM = "countries/Palmyra.txt"
 BBL = "countries/Babil.txt"
+BTE = "countries/Beit Elaha.txt"
 
  ## Other
 PHR = "countries/Phereidan.txt" # Georgian/Iberian
