@@ -13,7 +13,7 @@ country_decisions = {
 				is_free_or_tributary_trigger = yes
 				ai = no
 			}
-			NOT = { exists = AST }
+			NOT = { exists = AUT }
 			OR = {
 				culture = irelander
 				culture = yorkish
@@ -51,7 +51,7 @@ country_decisions = {
 			}
 		}
 		effect = {
-			change_tag = AST
+			change_tag = AUT
 			if = {
 				limit = {
 					NOT = { government_rank = 2 }
@@ -62,31 +62,31 @@ country_decisions = {
 				limit = {
 					NOT = { owned_by = ROOT }
 				}
-				add_permanent_claim = AST
+				add_permanent_claim = AUT
 			}
 			brittany_area = {
 				limit = {
 					NOT = { owned_by = ROOT }
 				}
-				add_permanent_claim = AST
+				add_permanent_claim = AUT
 			}
 			normandy_area = {
 				limit = {
 					NOT = { owned_by = ROOT }
 				}
-				add_permanent_claim = AST
+				add_permanent_claim = AUT
 			}
 			picardy_area = {
 				limit = {
 					NOT = { owned_by = ROOT }
 				}
-				add_permanent_claim = AST
+				add_permanent_claim = AUT
 			}
 			flanders_area = {
 				limit = {
 					NOT = { owned_by = ROOT }
 				}
-				add_permanent_claim = AST
+				add_permanent_claim = AUT
 			}
 			add_prestige = 25
 			add_country_modifier = {

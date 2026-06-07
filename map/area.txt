@@ -1422,6 +1422,10 @@ lower_nubia_area = {  #5
 
 	2322 2323 3282 3283 3287 
 }
+bahari_area = {}
+vostani_area = {}
+al_wahat_area = {}
+said_area = {}
 ########################################
 # North Africa						   #
 ########################################

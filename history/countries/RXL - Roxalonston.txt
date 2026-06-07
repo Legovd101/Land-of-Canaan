@@ -5,7 +5,7 @@
 # RXL (Roxalonston)
 government = tribal
 add_government_reform = steppe_horde
-government_rank = 1
+government_rank = 2
 primary_culture = roxolani
 religion = xadarosh
 technology_group = iranic_group

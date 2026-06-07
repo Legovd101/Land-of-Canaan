@@ -3,24 +3,46 @@ namespace = itloc_religion
 # Patronage of the Temple of Zeus Belos
 province_event = {
 	id = itloc_religion.1
-	title = itloc_religion.1t
-	desc = itloc_religion.1d
+	title = itloc_religion.1.title
+	desc = itloc_religion.1.desc
 	picture = RELIGIOUS_CONVERSION_eventPicture
 
 	is_triggered_only = yes
 	
-	option = {
+	option = { # We shall give them enough to get by.
 		name = itloc_religion.1.a
-		change_culture = gaelawer
-		add_core = GDL
-		hidden_effect = {
-			if = {
-				limit = {
-					is_capital = yes
-					owner = { ai = yes }
-				}
-				owner = { change_primary_culture = gaelawer }
-			}
+		owner = { add_treasury = -10 }
+		add_province_modifier = {
+			name = cult_of_marduk_sustained
+			duration = 3650
+		}
+	}
+	
+	option = { # The cult deserves the full support of the state.
+		name = itloc_religion.1.b
+		owner = { add_treasury = -50 }
+		add_province_modifier = {
+			name = cult_of_marduk_supported
+			duration = 18250
+		}
+		add_base_tax = 1
+		random = {
+			chance = 50
+			change_religion = mardukism
+		}
+	}
+	
+	option = { # It is time for the old gods to return to the forefront.
+		name = itloc_religion.1.c
+		owner = { add_treasury = -100 }
+		add_province_modifier = {
+			name = cult_of_marduk_reinstated
+			duration = 36500
+		}
+		add_base_tax = 3
+		change_religion = mardukism
+		owner = {
+			change_religion = mardukism
 		}
 	}
 }

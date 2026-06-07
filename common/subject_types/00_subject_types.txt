@@ -832,6 +832,7 @@ tributary_state = {
 		# 	}
 		# 	has_country_flag = forced_tributary_state	#A special flag for the Ottomans so they can get Crimea without allowing them to make tributaries by default
 		# }
+		government_rank = 2
 	}
 	
 	# Graphics:

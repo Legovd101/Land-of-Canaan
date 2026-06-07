@@ -4,8 +4,8 @@
 ### Modified 10/14/2025 2:37:31 PM ###
 # Kharga
 # 1233 Kharga - 10/14/2025 2:37:31 PM 
-owner = KNM
-controller = KNM
+owner = MNP
+controller = MNP
 base_tax = 1
 base_production = 1
 base_manpower = 1
@@ -29,4 +29,4 @@ discovered_by = uralic_group
 discovered_by = indian
 discovered_by = east_african
 discovered_by = cushitic_group
-add_core = KNM
+add_core = MNP

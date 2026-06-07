@@ -3,8 +3,8 @@ namespace = cultureshift
 # Ebriac into Gaelach
 province_event = {
 	id = cultureshift.1
-	title = cultureshift.1t
-	desc = cultureshift.1d
+	title = cultureshift.1.title
+	desc = cultureshift.1.desc
 	picture = RELIGIOUS_CONVERSION_eventPicture
 
 	trigger = {
@@ -81,8 +81,8 @@ province_event = {
 # Suebi into Subiách
 province_event = {
 	id = cultureshift.2
-	title = cultureshift.2t
-	desc = cultureshift.2d
+	title = cultureshift.2.title
+	desc = cultureshift.2.desc
 	picture = RELIGIOUS_CONVERSION_eventPicture
 
 	trigger = {

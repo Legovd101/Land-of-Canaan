@@ -1,0 +1,17 @@
+﻿l_english:
+ itloc_fantastical.1.title: "The Man in the Funny Hat"
+ itloc_fantastical.1.desc: "Amidst the usual proceedings of the Pantheon in [118.GetName], a bright light suddenly engulfed the altar to Zeus. After a few moments, the light subsided, revealing a series of men in striped outfits wielding spears and surrounding another man in white and gold vestments with a strange tall hat. As the men readied their spears with shocked expressions, the man in white rose and turned around, before taking on the same surprised face as his guards. He and his cohort were quickly surrounded by guards, both parties readying for a clash."
+ itloc_fantastical.1.a: "Guards! Sieze them!"
+ itloc_fantastical.1.b: "Wait! Who are you people?"
+
+ itloc_fantastical.2.title: "The Man in the Funny Hat"
+ itloc_fantastical.2.desc: "The guards seem confused, seemingly not expecting to be addressed in Latin. The man in white slowly pushes them aside before responding, speaking with a strange accent. “I am Pius, Pontifex Maximus of the 'Ecclesia' of Roma.”"
+ itloc_fantastical.2.a: "Clearly some lunatic has convinced himself that he is Consul. Sieze these men!"
+ itloc_fantastical.2.b: "But... *I* am the Pontifex Maximus! Also, what is this “Ecclesia of Rome?”"
+
+ itloc_fantastical.3.title: "The Man in the Funny Hat"
+ itloc_fantastical.3.desc: "The man continues, going into a long diatribe about a demigod named “Iesus” and his father “Deus,” claiming that he must have been sent to the Pantheon by him to spread his cult."
+ itloc_fantastical.3.a: "You're insane! Guards!"
+ itloc_fantastical.3.b: "Hmm... your cult may establish itself over *there.*"
+ itloc_fantastical.3.c: "Your appearance is clearly a sign! Praise be to Deus and his son Iesus!"
+ itloc_fantastical.3.d: "These men must have been sent by the gods! Make him Consul at once!"

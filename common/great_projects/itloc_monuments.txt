@@ -67,6 +67,11 @@ alexandrian_ziggurat = { # Image by Marc Mons
 		country_modifiers = {
 		}
 		on_upgraded = {
+			410 = {
+				province_event = {
+					id = itloc_religion.1
+				}
+			}
 		}
 	}
 
@@ -87,6 +92,11 @@ alexandrian_ziggurat = { # Image by Marc Mons
 			church_loyalty_modifier = 0.05
 		}
 		on_upgraded = {
+			410 = {
+				province_event = {
+					id = itloc_religion.1
+				}
+			}
 		}
 	}
 
@@ -108,6 +118,11 @@ alexandrian_ziggurat = { # Image by Marc Mons
 			church_loyalty_modifier = 0.1
 		}
 		on_upgraded = {
+			410 = {
+				province_event = {
+					id = itloc_religion.1
+				}
+			}
 			owner = {
 				add_estate_loyalty = {
 					estate = estate_church
@@ -135,6 +150,11 @@ alexandrian_ziggurat = { # Image by Marc Mons
 			church_loyalty_modifier = 0.15
 		}
 		on_upgraded = {
+			410 = {
+				province_event = {
+					id = itloc_religion.1
+				}
+			}
 			owner = {
 				add_estate_loyalty = {
 					estate = estate_church
@@ -1386,6 +1406,114 @@ pyramids_of_meroe = {
 			no_stability_loss_on_monarch_death = yes
 		}
 		on_upgraded = {	
+		}
+	}
+}
+
+gates_of_alexander = {
+	start = 428
+	date = -12.01.01
+	time = { months = 0 }
+	build_cost = 0
+	can_be_moved = no
+	move_days_per_unit_distance = 10
+	starting_tier = 0
+	type = monument
+
+	build_trigger = {
+	}
+
+	on_built = {
+	}
+
+	on_destroyed = {
+	}
+
+	can_use_modifiers_trigger = {
+	}
+
+	can_upgrade_trigger = {
+	}
+
+	keep_trigger = {
+	}
+
+	tier_0 = {
+		upgrade_time = {
+			months = 0
+		}
+		cost_to_upgrade = {
+			factor = 0
+		}
+		province_modifiers = {
+		}
+		area_modifier = {
+		}
+		country_modifiers = {
+		}
+		on_upgraded = {
+		}
+	}
+
+	tier_1 = {
+		upgrade_time = {
+			months = 120
+		}
+		cost_to_upgrade = {
+			factor = 1000
+		}
+		province_modifiers = {
+			fort_level = 1
+		}
+		area_modifier = {
+			fort_level = 1
+		}
+		country_modifiers = {
+			garrison_size = 0.1
+		}
+		on_upgraded = {
+		}
+	}
+
+	tier_2 = {
+		upgrade_time = {
+			months = 240
+		}
+		cost_to_upgrade = {
+			factor = 2500
+		}
+		province_modifiers = {
+			fort_level = 3
+		}
+		area_modifier = {
+			fort_level = 1
+		}
+		country_modifiers = {
+			garrison_size = 0.25
+			fort_maintenance_modifier = -0.15
+		}
+		on_upgraded = {
+		}
+	}
+
+	tier_3 = {
+		upgrade_time = {
+			months = 480
+		}
+		cost_to_upgrade = {
+			factor = 5000
+		}
+		province_modifiers = {
+			fort_level = 4
+		}
+		area_modifier = {
+			fort_level = 2
+		}
+		country_modifiers = {
+			garrison_size = 0.5
+			fort_maintenance_modifier = -0.45
+		}
+		on_upgraded = {
 		}
 	}
 }

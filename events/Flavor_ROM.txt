@@ -1,0 +1,121 @@
+namespace = flavor_ROM
+
+# The Fall of Rome
+country_event = {
+	id = flavor_ROM.1
+	title = flavor_ROM.1.title
+	picture = SIEGE_PRAGUE_CASTLE_eventPicture
+	desc = {
+		trigger = {
+			any_army = {
+				is_ruler_commanding_unit = yes
+			}
+		}
+		desc = flavor_BUY.1.desc.a
+	}
+	desc = {
+		trigger = {
+			NOT = {
+				any_army = {
+					is_ruler_commanding_unit = yes
+				}
+			}
+		}
+		desc = flavor_BUY.1.desc.b
+	}
+
+	is_triggered_only = yes
+	fire_only_once = yes
+	trigger = {
+		tag = ROM
+	}
+	
+	immediate = { set_country_flag = invading_bactria }
+
+	option = { # Aaaaaaah!
+		name = flavor_ROM.1.a
+		trigger = {
+		}
+		random = {
+			chance = 99
+			kill_ruler = yes
+		}
+		add_prestige = -50
+	}
+
+	option = { # No... No!
+		name = flavor_ROM.1.b
+		trigger = {
+			any_army = {
+				is_ruler_commanding_unit = yes
+			}
+		}
+		add_prestige = -50
+	}
+}
+
+# The Sacking of Roma
+country_event = {
+	id = flavor_ROM.2
+	title = flavor_ROM.2.title
+	picture = VILLAGE_BURNING_eventPicture
+	desc = flavor_ROM.2.desc
+	
+	is_triggered_only = yes
+	fire_only_once = yes
+
+	immediate = {
+		play_sound = Caesarion_BRASS
+	}
+
+	option = { # Let the looting be gentle.
+		name = flavor_ROM.2.a
+		118 = {
+			add_base_manpower = -1
+			add_base_tax = -1
+			add_base_production = -1
+			add_devastation = 25
+		}
+		capital_scope = {
+			random_list = {
+				33 = { add_base_manpower = 2 }
+				33 = { add_base_production = 2 }
+				33 = { add_base_tax = 2 }
+			}
+		}
+	}
+
+	option = { # Leave no stone unturned.
+		name = flavor_ROM.2.b
+		118 = {
+			add_base_manpower = -2
+			add_base_tax = -2
+			add_base_production = -2
+			add_devastation = 50
+		}
+		capital_scope = {
+			random_list = {
+				33 = { add_base_manpower = 4 }
+				33 = { add_base_production = 4 }
+				33 = { add_base_tax = 4 }
+			}
+		}
+	}
+
+	option = { # None shall hide!
+		name = flavor_ROM.2.c
+		118 = {
+			add_base_manpower = -3
+			add_base_tax = -3
+			add_base_production = -3
+			add_devastation = 75
+		}
+		capital_scope = {
+			random_list = {
+				33 = { add_base_manpower = 6 }
+				33 = { add_base_production = 6 }
+				33 = { add_base_tax = 6 }
+			}
+		}
+	}
+}

@@ -933,10 +933,7 @@ latin = {
 	graphical_culture = westerngfx
 
 	tuscan = {
-		primary = RSN
-	}
-	lemnian = {
-		primary = LMN
+		primary = TUS
 	}
 	romagnan = {
 		primary = FER
@@ -961,7 +958,9 @@ latin = {
 		primary = SAF
 	}
 	oscan = {
-		primary = SAF
+		primary = OPC
+	}
+	sicel = {
 	}
 	maltese = {
 		primary = JAI
@@ -971,14 +970,8 @@ latin = {
 			"de Rohan-Polduc" "da Fonseca"
 		}
 	}
-	etrurian = { #EU Rome
-		primary = TUS
-	}
 	roman = { #EU Rome
 		primary = ROM
-	}
-	venetian = {
-		primary = VEN
 	}
 	hispanic = {
 		primary = VEN
@@ -8561,6 +8554,12 @@ sudanese = {
 	nubian = {
 		primary = NUB
 	}
+	nuba = {
+		primary = NUB
+	}
+	meroitic = {
+		primary = QES
+	}
 	beja = {
 		primary = BEJ
 	}
@@ -9308,9 +9307,6 @@ egyptian_g = {
 east_roman = {
 	graphical_culture = easterngfx
 
-	dalmatian = {
-		primary = DAL
-	}
 	thraco_roman = {
 		primary = ADR
 	}
@@ -11175,5 +11171,61 @@ east_turkic = {
 	}
 	female_names = {
 		Hooda Malaika Munira Rabiya Rafiqa Ksyusha Sabina Zarina Hatyra Gulnaza Selbi Aziza Jeren Zeynab Myahri
+	}
+}
+
+tyrrhenian = {
+	graphical_culture = westerngfx
+
+	etruscan = {
+		primary = RSN
+	}
+	lemnian = {
+		primary = LMN
+		male_names = {
+			Holaie Zia Phokiaš Maraš Aker Thoas Euneus
+		}
+		female_names = {
+			Hypsipyle Poilixo
+		}
+	}
+	dynasty_names = {
+		Achu Alethnas Apatrui Camitlnas Churchle Ceithurna Cursni
+		Lemni Metli Musclena Muthikus Papathnas Papsinas Puruhenas
+		Rupstinas Sucisna Svincinas Tarna Thefrinai Uchsie Uchulni
+		Zertna
+	}
+	male_names = {
+		Larth Velthur Aule Arnth Thana Avle Spurinna Caile Larce
+		Velimnas Thanchvil Rasce Velsnas Arruns Tite Vipi Fasti
+		Ruma Semni Aitor Antso Eneko Ortzi Garai Urdin Belex Ilun
+		Zuri Gartze Velchas Thalna Turms Napar Lats
+	}
+	female_names = {
+		Uni Amalur Thanchvilna Larthia Velia Ederne Itsaso Vivinna
+		Vela Sesanseia Semni Ramtha Rantha Pevtha Munatia Hathli
+	}
+}
+
+adriatic = {
+	graphical_culture = westerngfx
+
+	venetian = {
+		primary = VEN
+	}
+	dalmatian = {
+		primary = DAL
+	}
+	dynasty_names = {
+		Kanos Katonikos Kuroninos Firmos Fougo Fremaistina Gallenia Karanmns Lemetorna Markellinos
+		Marskos Matid Niger Poltos Pullio Qualtio Rutuba Skirpa Skorpio Sokiaka Sonio Tertio Timo
+	}
+	male_names = {
+		Aemilio Akuts Albarenios Bellenes Keutini Deipiiarikos Fougo Enetios Molon Verkvalos
+		Alero Arbos Boiknos Atto Afros Buticakos Bris Kalanios Kadriakos Kantes Enopetiarios
+	}
+	female_names = {
+		Turkna Tuina Uanta Upsedia Fetiana Fougonta Frema Fugia Maxuma Matrika Moltisa Muskialna
+		Ithuria Iuvantna Ikeveioneia Kanta Kanodiba Katakna Kopa Lessa Loxina Libona Baitonia Boiialna
 	}
 }

@@ -1,0 +1,99 @@
+namespace = itloc_serican
+
+# The Serican Captaincies (Serican Intro Event)
+country_event = {
+	id = itloc_serican.1
+	title = itloc_serican.1.title
+	desc = itloc_serican.1.desc
+	picture = asiangfx_COURT_eventPicture
+
+	is_triggered_only = yes
+	trigger = {
+		culture_group = greco_serican
+	}
+
+	option = { # May all fear [western_dragon.GetName]!
+		name = itloc_serican.1.a
+		custom_tooltip = here_be_dragons_tt
+		add_country_modifier = {
+			name = shifting_alliances
+			duration = -1
+		}
+	}
+
+	option = { # Awwww, but *I* wanted to be the dragon!
+		name = itloc_serican.1.b
+		trigger = {
+			ai = no
+		}
+		switch_tag = event_target:western_dragon
+	}
+}
+
+# The Dragon of the West (Serican Conqueror Event)
+country_event = {
+	id = itloc_serican.2
+	title = itloc_serican.2.title
+	desc = itloc_serican.2.desc
+	picture = CONQUEROR_eventPicture
+
+	is_triggered_only = yes
+	major = yes
+	major_trigger = {
+		culture_group = greco_serican
+	}
+
+	option = { # All shall fear the Western Dragon!
+		name = itloc_serican.2.a
+		set_country_flag = is_dragon
+		add_ruler_modifier = {
+			name = dragon_of_the_west
+		}
+		add_ruler_personality = conqueror_personality
+		add_treasury = 100
+		add_manpower = 15
+		custom_tooltip = western_dragon_tt
+		save_global_event_target_as = western_dragon
+		add_stability = 1
+		every_neighbor_country = {
+			every_owned_province = {
+				add_claim = ROOT
+			}
+		}
+	}
+}
+
+# The Death of a Dragon
+country_event = {
+	id = itloc_serican.3
+	title = itloc_serican.3.title
+	desc = itloc_serican.3.desc
+	picture = KING_SICK_IN_BED_eventPicture
+
+	is_triggered_only = yes
+
+	trigger = {
+		has_country_flag = is_dragon
+		NOT = { exists = SRC }
+	}
+
+	option = {
+		name = itloc_serican.3.a
+		add_stability = -2
+		clr_country_flag = is_dragon
+		random_country = {
+			limit = {
+				culture_group = greco_serican
+				num_of_cities = 3
+			}
+			country_event = {
+				id = itloc_serican.2
+			}
+		}
+		random_owned_province = {
+			spawn_rebels = {
+				size = 2
+			}
+		}
+	}
+}

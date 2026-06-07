@@ -1,0 +1,13 @@
+cult_of_marduk_sustained = {
+	local_unrest = -1
+}
+cult_of_marduk_supported = {
+	local_unrest = -3
+	local_missionary_strength = -0.03
+	local_manpower_modifier = 0.1
+}
+cult_of_marduk_reinstated = {
+	local_unrest = -5
+	local_missionary_strength = -0.05
+	local_manpower_modifier = 0.25
+}

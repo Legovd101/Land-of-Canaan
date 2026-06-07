@@ -54,6 +54,14 @@ country_decisions = {
 			every_owned_province = {
 				add_core = SRC
 			}
+			remove_country_modifier = shifting_alliances
+			remove_country_modifier = dragon_of_the_west
+			clr_country_flag = is_dragon
+			clear_global_event_target = western_dragon
+			add_country_modifier = {
+				name = dragon_on_its_hoard
+				duration = -1
+			}
 			anatolia_region = {
 				limit = {
 					NOT = { owned_by = ROOT }

@@ -4,9 +4,9 @@
 ### Modified 10/14/2025 2:36:58 PM ###
 # Agew
 # 2770 Agew - 10/14/2025 2:36:58 PM 
-add_core = ETH
-owner = ETH
-controller = ETH
+add_core = DAM
+owner = DAM
+controller = DAM
 base_tax = 2
 base_production = 2
 base_manpower = 1
