@@ -666,6 +666,7 @@ republic = {
 				egyptian_government_reform
 				city_alliance_reform
 				turkoman_ottoman_institutions
+				arctic_admiralty
 			}
 		}
 		republican_virtues = {
