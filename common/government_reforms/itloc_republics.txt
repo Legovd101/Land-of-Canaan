@@ -9,16 +9,17 @@ arctic_admiralty = {
     modifiers = {
         may_explore = yes
         sea_repair = yes
-        navy_tradition_decay = -0.1
-        naval_attrition = -0.1
-        has_marines = yes
+        navy_tradition_decay = -0.025
+        naval_attrition = -0.15
+        naval_tradition_from_battle = 0.1
+        admiral_cost = -0.1
     }
     custom_attributes = {
         enables_plutocratic_idea_group = yes
 		enables_aristocratic_idea_group = no
-        election_on_death = yes
-        force_admiral_leader = yes
+        admirals_become_rulers = yes
     }
+    has_term_election = no
     ai = {
 		factor = 10
 	}
