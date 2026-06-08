@@ -1,4 +1,4 @@
-religion = hinduism
+religion = hurrian_pagan
 capital = 3056
 technology_group = muslim
 primary_culture = mittani
