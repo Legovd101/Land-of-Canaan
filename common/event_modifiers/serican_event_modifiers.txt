@@ -5,7 +5,7 @@
 dragon_of_the_west = {
 	land_forcelimit = 10
 	land_maintenance_modifier = -0.5
-	global_tax_income = 12
+	global_tax_income = 24
 	cavalry_shock = 2
 	cavalry_cost = -0.5
 	reinforce_speed = 0.25

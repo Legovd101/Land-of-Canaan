@@ -17,7 +17,7 @@ unite_the_gaulish_tribes = {
                 culture = petrocori
                 culture = biturigian
                 culture = carnutian
-                culture = parisian
+                culture = pictavian
             }
         }
         provinces_to_highlight = {
@@ -28,7 +28,7 @@ unite_the_gaulish_tribes = {
                 culture = petrocori
                 culture = biturigian
                 culture = carnutian
-                culture = parisian
+                culture = pictavian
             }
         }
         allow = {
@@ -41,7 +41,7 @@ unite_the_gaulish_tribes = {
 					culture = petrocori
 					culture = biturigian
 					culture = carnutian
-					culture = parisian
+					culture = pictavian
                 }
             }
         }
@@ -57,7 +57,7 @@ unite_the_gaulish_tribes = {
 						culture = petrocori
 						culture = biturigian
 						culture = carnutian
-						culture = parisian
+						culture = pictavian
                     }
                 }
                 change_culture = united_gallic
