@@ -19,7 +19,7 @@ country_decisions = {
 			NOT = { tag = HLR }
 			NOT = { tag = ROM }
 			NOT = { tag = TUR }
-			dynasty = "Barkí"
+			dynasty = "BarkÃ­"
 		}
 		provinces_to_highlight = {
 			OR = {
@@ -178,7 +178,7 @@ country_decisions = {
 			add_mil_power = 100
 		}
 		ai_will_do = {
-			factor = 0
+			factor = 400
 		}
 	}
 	
