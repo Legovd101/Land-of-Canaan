@@ -1,9 +1,24 @@
 on_startup = {
 	hre_inheritable = yes
+	if = {
+		limit = {
+			tag = XIM
+		}
+		random_country = {
+			limit = {
+				culture_group = greco_serican
+				num_of_cities = 3
+			}
+			country_event = {
+				id = itloc_serican.2
+			}
+		}
+	}
 	events = {
 		flavor_GDL.1
 		flavor_BUY.1
 		marcin_events.103
+		itloc_serican.1
 	}
 }
 
@@ -52,6 +67,21 @@ on_siege_won_province = {
 			}
 		}
 	}
+	if = {
+		limit = {
+			province_id = 118
+		}
+		controller = {
+			country_event = {
+				id = flavor_ROM.2
+			}
+		}
+		owner = {
+			country_event = {
+				id = flavor_ROM.1
+			}
+		}
+	}
 }
 
 on_core = {
@@ -66,5 +96,11 @@ on_core = {
 			is_part_of_hre = no
 		}
 		set_in_empire = yes
+	}
+}
+
+on_new_monarch = {
+	events = {
+		itloc_serican.3
 	}
 }

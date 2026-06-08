@@ -21,19 +21,3 @@ discovered_by = serican_group
 discovered_by = iranic_group
 discovered_by = eastern
 discovered_by = baltic_group
-1482.7.1 = { controller = REB revolt = { type = revolutionary_rebels size = 2 } }
-1484.5.1 = { controller = GRA revolt = { size = 1 } }
-1492.1.2 = { controller = CAS add_core = CAS }
-1502.2.1 = { religion = Catholic }
-1516.1.23 = { 
-	controller = SPA
-	add_core = SPA
-}
-1570.10.28 = { 
-	culture = castillian
-}
-1808.6.6 = { controller = REB revolt = { type = pretender_rebels size = 0 } }
-1811.1.1 = { controller = SPA revolt = { size = 1 } }
-1812.10.1 = { controller = REB revolt = { type = pretender_rebels size = 1 } }
-1813.12.11 = { controller = SPA revolt = { size = 1 } }
-add_core = ACC

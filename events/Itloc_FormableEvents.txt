@@ -3,8 +3,8 @@
 # # The Return of the Nomarch
 # province_event = {
 # 	id = formables.1
-# 	title = formables.1t
-# 	desc = formables.1d
+# 	title = formables.1.title
+# 	desc = formables.1.desc
 # 	picture = RELIGIOUS_CONVERSION_eventPicture
 
 	

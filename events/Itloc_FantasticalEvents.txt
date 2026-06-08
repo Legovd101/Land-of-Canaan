@@ -1,0 +1,117 @@
+namespace = itloc_fantastical
+
+# The Man in the Funny Hat
+country_event = {
+	id = itloc_fantastical.1
+	title = itloc_fantastical.1.title
+	desc = itloc_fantastical.1.desc
+	picture = RELIGIOUS_CONVERSION_eventPicture
+
+	fire_only_once = yes
+	mean_time_to_happen = {
+		years = 100
+	}
+	trigger = {
+		owns = 118
+		culture_group = latin
+	}
+	
+	option = { # Guards! Sieze them!
+		name = itloc_fantastical.1.a
+	}
+	
+	option = { # Wait! Who are you people?
+		name = itloc_fantastical.1.b
+		country_event = {
+			id = itloc_fantastical.2
+		}
+	}
+}
+
+# The Man in the Funny Hat
+country_event = {
+	id = itloc_fantastical.2
+	title = itloc_fantastical.2.title
+	desc = itloc_fantastical.2.desc
+	picture = RELIGIOUS_CONVERSION_eventPicture
+
+	is_triggered_only = yes
+	
+	option = { # Clearly some lunatic has convinced himself that he is Consul. Sieze these men!
+		name = itloc_fantastical.2.a
+		ai_chance = {
+			factor = 1
+		}
+	}
+	
+	option = { # But... *I* am the Pontifex Maximus! Also, what is this “Ecclesia of Rome?”
+		name = itloc_fantastical.2.b
+		country_event = {
+			id = itloc_fantastical.3
+		}
+		ai_chance = {
+			factor = 2
+		}
+	}
+}
+
+# The Man in the Funny Hat
+country_event = {
+	id = itloc_fantastical.3
+	title = itloc_fantastical.3.title
+	desc = itloc_fantastical.3.desc
+	picture = RELIGIOUS_CONVERSION_eventPicture
+
+	is_triggered_only = yes
+	
+	option = { # You're insane! Guards!
+		name = itloc_fantastical.3.a
+	}
+	
+	option = { # Hmm... your cult may establish itself over *there.*
+		name = itloc_fantastical.3.b
+		random_owned_province = {
+			limit = {
+				region = italy_region
+			}
+			add_core = PAP
+			cede_province = PAP
+			change_religion = catholic
+		}
+		PAP = {
+			define_ruler = {
+				name = "Pius II"
+				adm = 3
+				dip = 3
+				mil = 4
+			}
+		}
+	}
+	
+	option = { # Your appearance is clearly a sign! Praise be to Deus and his son Iesus!
+		name = itloc_fantastical.3.c
+		118 = {
+			change_religion = catholic
+		}
+		change_religion = catholic
+		add_stability = -1
+	}
+	
+	option = { # These men must have been sent by the gods! Make him Consul at once!
+		name = itloc_fantastical.3.d
+		118 = {
+			change_religion = catholic
+		}
+		change_religion = catholic
+		add_stability = -3
+		change_tag = PAP
+		change_government = theocracy
+		add_government_reform = papacy_reform
+		define_ruler = {
+			name = "Pius II"
+			adm = 3
+			dip = 3
+			mil = 4
+		}
+	}
+}

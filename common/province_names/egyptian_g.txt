@@ -33,9 +33,9 @@
 2317 = { "Shmun" "Shmun" } # Hermopolis
 
 # Al-Wahat
-1233 = { "Kenmet" "Kenmet" } # Kharga
+1233 = { "Tanmes" "Tanmes" } # Tamiya
 4323 = { "Tiyakhu" "Tiyakhu" } # Farafra
-2318 = { "Tast" "Tast" } # Bahariya
+2318 = { "Pekusa" "Pekusa" } # Faqus
 
 # Said
 360 = { "Waset" "Waset" } # Thebes

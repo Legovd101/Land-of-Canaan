@@ -4,10 +4,9 @@
 ### Modified 10/14/2025 2:36:58 PM ###
 # Shewa
 # 1213 Shewa - 10/14/2025 2:36:58 PM 
-add_core = ETH
 add_core = SOA
-owner = ETH
-controller = ETH
+owner = SOA
+controller = SOA
 base_tax = 3
 base_production = 3
 base_manpower = 3

@@ -4,7 +4,6 @@
 ### Modified 10/14/2025 2:38:15 PM ###
 # Syracuse
 # 2982 Syracuse - 10/14/2025 2:38:15 PM 
-add_core = NAP
 owner = SIC
 controller = SIC
 base_tax = 4

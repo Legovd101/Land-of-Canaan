@@ -435,7 +435,7 @@
  venetia_area_adj: "Venets"
 
  western_sicily_area: "Western Sicily"
- western_sicily_area: "Eastern Sicily"
+ western_sicily_area_adj: "Western Sicilian"
 
 # SOUTH GERMANY
  austria_proper_area: "Baiern"
@@ -682,6 +682,15 @@
  yashilkul_area: "Yashilkul"
  yashilkul_area_adj: "Yashilkul"
 
+ turgay_area: "Turgay"
+ turgay_area_adj: "Turgay"
+
+ taraz_area: "Taraz"
+ taraz_area_adj: "Taraz"
+
+ kypshak_area: "Kypshak"
+ kypshak_area_adj: "Kypshak"
+
 # KHORASAN
  balkh_area: "Balkh"
  balkh_area_adj: "Balkhi"
@@ -718,3 +727,28 @@
 
  vakhsh_area: "Vakhþ"
  vakhsh_area: "Vakhþi"
+
+# EGYPT
+ alexandria_area: "Alexandreia"
+ alexandria_area_adj: "Alexandreian"
+
+ clysma_area: "Peklousma"
+ clysma_area_adj: "Peklousman"
+
+ sinai_area: "Biau"
+ sinai_area_adj: "Biauan"
+
+ lower_egypt_area: "Tsakhet"
+ lower_egypt_area: "Tsakheti"
+
+ middle_egypt_area: "Heptanomis"
+ middle_egypt_area_adj: "Heptanomitan"
+
+ abydos_area: "Abedju"
+ abydos_area_adj: "Abedi"
+
+ luxor_area: "Ipat"
+ luxor_area_adj: "Ipati"
+
+ aswan_area: "Swenett"
+ aswan_area_adj: "Swenetti"

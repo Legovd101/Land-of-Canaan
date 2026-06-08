@@ -89,7 +89,12 @@ country_decisions = {
 					type = all
 					OR = {
 						is_empty = yes
-						country_or_non_sovereign_subject_holds = ROOT
+						owner = {
+							OR = {
+								tag = ROOT
+								is_subject_of = ROOT
+							}
+						}
 					}
 				}
 			}
@@ -97,16 +102,33 @@ country_decisions = {
 				type = all
 				OR = {
 					is_empty = yes
-					country_or_non_sovereign_subject_holds = ROOT
+					owner = {
+						OR = {
+							tag = ROOT
+							is_subject_of = ROOT
+						}
+					}
 				}
 			}
 			central_asia_region = {
 				type = all
 				country_or_non_sovereign_subject_holds = ROOT
+					owner = {
+						OR = {
+							tag = ROOT
+							is_subject_of = ROOT
+						}
+					}
 			}
 			crimea_region = {
 				type = all
 				country_or_non_sovereign_subject_holds = ROOT
+					owner = {
+						OR = {
+							tag = ROOT
+							is_subject_of = ROOT
+						}
+					}
 			}
 			1816 = { country_or_non_sovereign_subject_holds = ROOT } # beijing		
 			# khorasan_region = {

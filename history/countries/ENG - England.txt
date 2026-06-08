@@ -3,7 +3,5 @@ add_government_reform = english_monarchy
 mercantilism = 25
 technology_group = adventurer
 primary_culture = anglosaxon
-add_accepted_culture = gascon
-add_accepted_culture = normand
 religion = tivahus
 capital = 170 # London

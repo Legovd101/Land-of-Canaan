@@ -4,7 +4,6 @@
 ### Modified 10/14/2025 2:36:58 PM ###
 # Trapani
 # 4736 Trapani - 10/14/2025 2:36:58 PM 
-add_core = NAP
 owner = SIC
 controller = SIC
 base_tax = 2

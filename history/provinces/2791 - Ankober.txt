@@ -4,10 +4,9 @@
 ### Modified 10/14/2025 2:36:58 PM ###
 # Ankober
 # 2791 Ankober - 10/14/2025 2:36:58 PM 
-add_core = ETH
 add_core = SOA
-owner = ETH
-controller = ETH
+owner = SOA
+controller = SOA
 base_tax = 1
 base_production = 1
 base_manpower = 1

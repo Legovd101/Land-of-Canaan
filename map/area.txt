@@ -1381,9 +1381,9 @@ gulf_of_arabia_area = {  #3
 	color = { 19 219 75 }
 	2320 2321 2324 
 }
-alexandria_area = {  #3
+alexandria_area = {  #4
 
-	358 3290 4317 
+	358 3290 4317 3289 
 }
 delta_area = {  #5
 
@@ -1422,6 +1422,10 @@ lower_nubia_area = {  #5
 
 	2322 2323 3282 3283 3287 
 }
+bahari_area = {}
+vostani_area = {}
+al_wahat_area = {}
+said_area = {}
 ########################################
 # North Africa						   #
 ########################################

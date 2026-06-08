@@ -1,13 +1,17 @@
 ﻿l_english:
 
- # Replacement
+# Replacement
  PROV148: "Thessaloniki"
  PROV_ADJ148: "Thessalonican"
  PROV151: "Byzantion"
  PROV_ADJ151: "Byzantine"
+ PROV1233: "Tamiya"
+ PROV_ADJ1233: "Tamiyan"
+ PROV2318: "Faqus"
+ PROV_ADJ2318: "Faqusian"
 
 
- # FEP Iran
+# FEP Iran
  PROV3004: "Salyan"
  PROV_ADJ3004: "Salyani"
  PROV3005: "Ahar"
@@ -163,7 +167,7 @@
  PROV3080: "Bisah"
  PROV_ADJ3080: "Bisahi"
 
- # More Anatolian Provinces https://steamcommunity.com/sharedfiles/filedetails/?id=3192362510
+# More Anatolian Provinces https://steamcommunity.com/sharedfiles/filedetails/?id=3192362510
  PROV3081: "Miletopolis"
  PROV_ADJ3081: "Miletopolian"
  PROV3082: "Kydonies"
@@ -235,7 +239,7 @@
  PROV3115: "Taurus"
  PROV_ADJ3115: "Taurian"
 
- # More Balkan Provinces https://steamcommunity.com/sharedfiles/filedetails/?id=3095765556
+# More Balkan Provinces https://steamcommunity.com/sharedfiles/filedetails/?id=3095765556
  PROV3116: "Arcadia"
  PROV_ADJ3116: "Arcadian"
  PROV3117: "Messenia"
@@ -309,7 +313,7 @@
  PROV3151: "Rhaedestus"
  PROV_ADJ3151: "Rhaedestian"
 
- # More Iberian Provinces https://steamcommunity.com/sharedfiles/filedetails/?id=3062207759
+# More Iberian Provinces https://steamcommunity.com/sharedfiles/filedetails/?id=3062207759
  PROV3152: "Baix Urgell"
  PROV_ADJ3152: "Baix Urgellina"
  PROV3153: "Tortosa"
@@ -532,3 +536,69 @@
  PROV_ADJ3259: "Kargalyan"
  PROV3260: "Almaty"
  PROV_ADJ3260: "Almatian"
+
+# Cassidy's Egypt and Sudan
+PROV3261: "Baltim"
+PROV_ADJ3261: "Baltimi"
+PROV3262: "Burullus"
+PROV_ADJ3262: "Burullusi"
+PROV3263: "Katia"
+PROV_ADJ3263: "Katian"
+PROV3264: "Pelusium"
+PROV_ADJ3264: "Pelusian"
+PROV3265: "Giza"
+PROV_ADJ3265: "Gizan"
+PROV3266: "Mallawi"
+PROV_ADJ3266: "Mallawian"
+PROV3267: "Dairut"
+PROV_ADJ3267: "Dairuti"
+PROV3268: "El Quseyya"
+PROV_ADJ3268: "Quseyyan"
+PROV3269: "Sohag"
+PROV_ADJ3269: "Sohagi"
+PROV3270: "Abu Tesht"
+PROV_ADJ3270: "Abu Teshti"
+PROV3271: "Dishna"
+PROV_ADJ3271: "Dishnan"
+PROV3272: "Qena"
+PROV_ADJ3272: "Qenan"
+PROV3273: "Edfu"
+PROV_ADJ3273: "Edfuan"
+PROV3274: "Luxor"
+PROV_ADJ3274: "Luxorian"
+PROV3275: "Philae"
+PROV_ADJ3275: "Philaean"
+PROV3276: "Arish"
+PROV_ADJ3276: "Arishi"
+PROV3277: "El Tor"
+PROV_ADJ3277: "Torian"
+PROV3278: "Nekhel"
+PROV_ADJ3278: "Nekheli"
+PROV3279: "Rafah"
+PROV_ADJ3279: "Rafahi"
+PROV3280: "Resyr"
+PROV_ADJ3280: "Resyrian"
+PROV3281: "Egyptian Desert"
+PROV_ADJ3281: "Desert"
+PROV3282: "Ariteñan"
+PROV_ADJ3282: "Ariteñani"
+PROV3283: "Hene"
+PROV_ADJ3283: "Henean"
+PROV3284: "Napata"
+PROV_ADJ3284: "Napatan"
+PROV3285: "Banganarti"
+PROV_ADJ3285: "Banganartian"
+PROV3286: "Jubayt"
+PROV_ADJ3286: "Jubayti"
+PROV3287: "Hayya"
+PROV_ADJ3287: "Hayyan"
+PROV3288: "Egyptian Desert"
+PROV_ADJ3288: "Desert"
+PROV3289: "Egyptian Desert"
+PROV_ADJ3289: "Desert"
+PROV3290: "Marina"
+PROV_ADJ3290: "Marinan"
+PROV3291: "Egyptian Desert"
+PROV_ADJ3291: "Desert"
+PROV3292: "Inessa"
+PROV_ADJ3292: "Inessian"

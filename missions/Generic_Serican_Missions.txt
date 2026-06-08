@@ -11,7 +11,7 @@ serican_1_2 = {
 	generic = yes
 	ai = yes
 	has_country_shield = yes
-	potential = { tag = SRK } 
+	potential = { tag = SRC } 
 
 }
 serican_2 = {
@@ -46,6 +46,7 @@ serican_2 = {
 					add_casus_belli = {
 						type = cb_vassalize_mission
 						target = PREV
+						months = 240
 					}
 				}
 			}
@@ -57,7 +58,7 @@ serican_2_2 = {
 	generic = yes
 	ai = yes
 	has_country_shield = yes
-	potential = { tag = SRK } 
+	potential = { tag = SRC } 
 
 	seri_order_orontes = {
 		icon = mission_build_up_to_force_limit
@@ -207,7 +208,7 @@ serican_3_2 = {
 	generic = yes
 	ai = yes
 	has_country_shield = yes
-	potential = { tag = SRK } 
+	potential = { tag = SRC } 
 
 	seri_eastern_threats = {
 		icon = mission_build_up_to_force_limit
@@ -258,7 +259,7 @@ serican_4_2 = {
 	generic = yes
 	ai = yes
 	has_country_shield = yes
-	potential = { tag = SRK } 
+	potential = { tag = SRC } 
 
 	seri_mastery_marmara = {
 		icon = mission_build_up_to_force_limit
@@ -477,6 +478,6 @@ serican_5_2 = {
 	generic = yes
 	ai = yes
 	has_country_shield = yes
-	potential = { tag = SRK } 
+	potential = { tag = SRC } 
 
 }

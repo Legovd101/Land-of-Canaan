@@ -159,7 +159,7 @@ keme_3 = {
 		trigger = { army_size_percentage = 1.0 }
 		effect = {
 			delta_area = { add_permanent_claim = ROOT }
-			bahari_area = { add_permanent_claim = ROOT }
+			# bahari_area = { add_permanent_claim = ROOT }
 		}
 	}
 	keme_enduring_and_beautiful = {
@@ -169,8 +169,8 @@ keme_3 = {
 		provinces_to_highlight = { province_id = 361 }
 		trigger = { owns_core_province = 361 }
 		effect = {
-			said_area = { add_permanent_claim = ROOT }
-			vostani_area = { add_permanent_claim = ROOT }
+			# said_area = { add_permanent_claim = ROOT }
+			# vostani_area = { add_permanent_claim = ROOT }
 		}
 	}
 	keme_king_of_nile = {
@@ -179,42 +179,46 @@ keme_3 = {
 		required_missions = { keme_enduring_and_beautiful keme_destiny_of_delta keme_city_of_the_sea }
 		provinces_to_highlight = {
 			OR = {
-				area = vostani_area
-				area = said_area
+				# area = vostani_area
+				# area = said_area
 			}
 			NOT = {
 				OR = {
 					owned_by = ROOT
 					owned_by = QES
 					owned_by = CYR
+					owned_by = ETH
 				}
 			}
 		}
 		trigger = {
-			vostani_area = {
-				type = all
-				OR = {
-					owned_by = ROOT
-					owned_by = QES
-					owned_by = CYR
-				}
-			}
-			said_area = {
-				type = all
-				OR = {
-					owned_by = ROOT
-					owned_by = QES
-					owned_by = CYR
-				}
-			}
-			al_wahat_area = {
-				type = all
-				OR = {
-					owned_by = ROOT
-					owned_by = QES
-					owned_by = CYR
-				}
-			}
+			# vostani_area = {
+			# 	type = all
+			# 	OR = {
+			# 		owned_by = ROOT
+			# 		owned_by = QES
+			# 		owned_by = CYR
+			# 		owned_by = ETH
+			# 	}
+			# }
+			# said_area = {
+			# 	type = all
+			# 	OR = {
+			# 		owned_by = ROOT
+			# 		owned_by = QES
+			# 		owned_by = CYR
+			# 		owned_by = ETH
+			# 	}
+			# }
+			# al_wahat_area = {
+			# 	type = all
+			# 	OR = {
+			# 		owned_by = ROOT
+			# 		owned_by = QES
+			# 		owned_by = CYR
+			# 		owned_by = ETH
+			# 	}
+			# }
 		}
 		effect = { }
 	}

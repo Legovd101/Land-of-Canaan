@@ -4,8 +4,8 @@
 ### Modified 10/14/2025 2:37:31 PM ###
 # Qus
 # 360 Qus - 10/14/2025 2:37:31 PM 
-owner = MSR
-controller = MSR
+owner = IPU
+controller = IPU
 base_tax = 1
 base_production = 1
 base_manpower = 1
@@ -32,4 +32,4 @@ discovered_by = uralic_group
 discovered_by = indian
 discovered_by = east_african
 discovered_by = cushitic_group
-add_core = MSR
+add_core = IPU

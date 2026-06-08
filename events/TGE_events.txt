@@ -3511,6 +3511,7 @@ country_event = {
 							province_id = 209
 							province_id = 4374
 							province_id = 1231
+							province_id = 3284
 						}
 					}
 					
@@ -3803,6 +3804,7 @@ country_event = {
 							province_id = 663 
 							province_id = 697 
 							province_id = 802
+							province_id = 3279
 						}
 					}
 					
