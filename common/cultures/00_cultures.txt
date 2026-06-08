@@ -10626,6 +10626,8 @@ gaulish = {
 	}
 	carnutian = {
 	}
+	united_gallic = {
+	}
 	parisian = {
 		primary = PAS
 	}
