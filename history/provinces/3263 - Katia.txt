@@ -23,3 +23,6 @@ religion = kemetism
 controller = AMK
 is_city = no
 trade_goods = spices
+base_tax = 2
+base_manpower = 1
+base_production = 3

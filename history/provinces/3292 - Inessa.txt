@@ -18,3 +18,6 @@ discovered_by = ottoman
 discovered_by = thraco_illyrian
 discovered_by = serican_group
 discovered_by = iranic_group
+base_tax = 2
+base_manpower = 2
+base_production = 1

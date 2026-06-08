@@ -23,3 +23,6 @@ add_core = TMT
 culture = old_egyptian
 religion = kemetism
 trade_goods = spices
+base_tax = 2
+base_manpower = 3
+base_production = 1

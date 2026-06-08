@@ -23,3 +23,6 @@ is_city = no
 culture = old_egyptian
 religion = kemetism
 trade_goods = livestock
+base_tax = 1
+base_manpower = 1
+base_production = 1
