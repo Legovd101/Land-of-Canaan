@@ -1,0 +1,73 @@
+country_decisions = {
+unite_the_gaulish_tribes = {
+        major = yes
+        potential = {
+            normal_or_historical_nations = yes
+            was_never_end_game_tag_trigger = yes
+            NOT = {
+                OR = {
+                    has_country_flag = united_the_gallic_tribes 
+                    primary_culture = united_gallic
+                }
+            }
+            OR = {
+                culture = andecavian
+                culture = santonian
+                culture = lemovican
+                culture = petrocori
+                culture = biturigian
+                culture = carnutian
+                culture = parisian
+            }
+        }
+        provinces_to_highlight = {
+            OR = {
+                culture = andecavian
+                culture = santonian
+                culture = lemovican
+                culture = petrocori
+                culture = biturigian
+                culture = carnutian
+                culture = parisian
+            }
+        }
+        allow = {
+            is_at_war = no
+            owns_all_provinces = {
+                OR = {
+					culture = andecavian
+					culture = santonian
+					culture = lemovican
+					culture = petrocori
+					culture = biturigian
+					culture = carnutian
+					culture = parisian
+                }
+            }
+        }
+        effect = {
+            set_country_flag = united_the_gallic_tribes
+            change_primary_culture = united_gallic
+            every_owned_province = {
+                limit = {
+                    OR = {
+						culture = andecavian
+						culture = santonian
+						culture = lemovican
+						culture = petrocori
+						culture = biturigian
+						culture = carnutian
+						culture = parisian
+                    }
+                }
+                change_culture = united_gallic
+            }
+            add_prestige = 20
+        }
+        ai_will_do = {
+            factor = 1
+        }
+        ai_importance = 400
+	}
+
+}
