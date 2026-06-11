@@ -4,7 +4,6 @@
 ### Modified 10/14/2025 2:36:58 PM ###
 # Tripoli
 # 354 Tripoli - 10/14/2025 2:36:58 PM 
-add_core = TRP
 add_core = FZA
 owner = FZA
 controller = FZA

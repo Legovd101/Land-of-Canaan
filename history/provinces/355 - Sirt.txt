@@ -5,7 +5,6 @@
 # Sirt
 # 355 Sirt - 10/14/2025 2:36:58 PM 
 add_core = FZA
-add_core = TRP
 owner = FZA
 controller = FZA
 base_tax = 1
