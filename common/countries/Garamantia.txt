@@ -1,11 +1,8 @@
 #Country Name: Please see filename.
-
-graphical_culture = africangfx
-
-color = { 144 174 32 } 
-revolutionary_colors = { 5  1  8 }
-
-historical_idea_groups = {
+graphical_culture = muslimgfx
+color = { 144 174 32 }
+revolutionary_colors = { 5 1 8 }
+historical_idea_groups = { 
 	defensive_ideas
 	offensive_ideas
 	trade_ideas
@@ -15,8 +12,7 @@ historical_idea_groups = {
 	diplomatic_ideas
 	economic_ideas
 }
-
-historical_units = {
+historical_units = { 
 	ottoman_yaya
 	ottoman_musellem
 	ottoman_azab
@@ -35,8 +31,7 @@ historical_units = {
 	ottoman_new_model
 	ottoman_lancer
 }
-
-monarch_names = {
+monarch_names = { 
 	"Massinissa #3" = 20
 	"Micipsa #3" = 20
 	"Syphax #2" = 20
@@ -46,7 +41,6 @@ monarch_names = {
 	"Juba #3" = 10
 	"Gauda #1" = 10
 	"Bomilcar #1" = 10
-
 	"Zilalsen #0" = 0
 	"Zekyus #0" = 0
 	"Zanifer #0" = 0
@@ -78,13 +72,11 @@ monarch_names = {
 	"Baga #0" = 0
 	"Vaxan #0" = 0
 	"Vexillan #0" = 0
-
 	"Dihya #0" = -1
 	"Tinish #0" = -1
 	"Tabaken #0" = -1
 }
-
-leader_names = {
+leader_names = { 
 	Massinissa
 	Syphax
 	Adherbal
@@ -96,16 +88,7 @@ leader_names = {
 	Gildun
 	Vexillan
 }
-
-ship_names = {
-	"Ifran" "Numidia" "Gadir"
-	"Tingis"
-	"Amexlan"
-	"Zilil"
-	"Cartennae"
-	"Iol" "Icosia"
-	"Tamazga"
-	"Baga"
-	"Tabarka" "Masuna"
-	"Dihya" "Tin Hizri"
+ship_names = { 
+	"Ifran" "Numidia" "Gadir" "Tingis" "Amexlan" "Zilil" "Cartennae" "Iol" "Icosia" "Tamazga"
+	"Baga" "Tabarka" "Masuna" "Dihya" "Tin Hizri" 
 }

@@ -5,15 +5,14 @@
 # Tataouine
 # 353 Tataouine - 10/14/2025 2:36:58 PM 
 add_core = TRP
-add_core = FZA
-owner = FZA
-controller = FZA
+owner = TRP
+controller = TRP
 base_tax = 1
 base_production = 1
 base_manpower = 1
 trade_goods = grain
-culture = cyrenaican
-religion = dionysian
+culture = phoenician
+religion = canaanite
 capital = "Tataouine"
 is_city = yes
 discovered_by = western

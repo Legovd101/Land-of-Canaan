@@ -4,13 +4,12 @@
 ### Modified 10/14/2025 2:36:58 PM ###
 # Fezzan
 # 2448 Fezzan - 10/14/2025 2:36:58 PM 
-add_core = FZA
-owner = FZA
-controller = FZA
+owner = GAR
+controller = GAR
 base_tax = 1
 base_production = 1
 base_manpower = 1
-trade_goods = ivory
+trade_goods = slaves
 culture = garamantian
 religion = buddhism
 capital = "Murzuk"
@@ -27,3 +26,4 @@ discovered_by = ottoman
 discovered_by = thraco_illyrian
 discovered_by = serican_group
 discovered_by = iranic_group
+add_core = GAR

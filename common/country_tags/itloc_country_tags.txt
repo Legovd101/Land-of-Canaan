@@ -230,7 +230,7 @@ BRN = "countries/Bern.txt"
 ILN = "countries/Ilanz.txt"
 
  ## Other
-SKN = "countries/Asikoina.txt" # Aquitani
+SIK = "countries/Asikoina.txt" # Aquitani
 ILS = "countries/Ilas.txt" # Hellenic
 
  # Eparrik/Britain

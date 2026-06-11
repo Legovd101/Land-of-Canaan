@@ -1,0 +1,7 @@
+religion = buddhism
+capital = 3308
+technology_group = latin_group
+primary_culture = garamantian
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1

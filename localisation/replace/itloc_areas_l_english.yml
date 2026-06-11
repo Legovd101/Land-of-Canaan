@@ -352,8 +352,11 @@
  djerba_area: "Meninga"
  djerba_area_adj: "Meningisk"
 
- fezzan_area: "Fezzan"
+ fezzan_area: "Ifezzan"
  fezzan_area_adj: "Fezzen"
+
+ garamantia_area: "Ighermantiya"
+ garamantia_area_adj: "Ighermantiya"
 
  hautes_plaines_area: "Aras"
  hautes_plaines_area_adj: "Arsen"
@@ -375,6 +378,12 @@
 
  ouled_nail_area: "Debéskra"
  ouled_nail_area_adj: "Debéskranu"
+
+ sirte_area: "Syrtís"
+ sirte_area_adj: "Syrtian"
+
+ sokna_area: "Isuknen"
+ sokna_area_adj: "Isuknian"
 
  southern_morocco_area: "Agadir"
  southern_morocco_area_adj: "Agden"

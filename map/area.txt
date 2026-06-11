@@ -1429,25 +1429,37 @@ said_area = {}
 ########################################
 # North Africa						   #
 ########################################
-tripolitania_area = {  #4
-
-	354 2451 2452 355 
-}
-cyrenaica_area = {  #5
+cyrenaica_area = {  #4
 
 	356 357 2325 2326 
 }
+tripolitania_area = {  #5
+
+	354 2451 3294 3295 3296
+}
 fezzan_area = {  #4
 
-	2448 2449 2474 4567 
+	2450 3315 3306 3307
+}
+garamantia_area = { #4
+
+	2448 2449 2474 3308 
+}
+sirte_area = { #5
+
+	355 3293 3300 3301 3302
+}
+sokna_area = { #5
+
+	4567 3303 3304 3305 3314
 }
 tunisia_area = {  #5
 
 	341 2454 2455 2473 4566 
 }
-djerba_area = {  #3
+djerba_area = {  #4
 
-	353 2453 2954 
+	353 2453 2954 2452 
 }
 algiers_area = {  #3
 
@@ -1471,7 +1483,7 @@ ouled_nail_area = {  #3
 }
 north_saharan_area = {  #5
 
-	352 2450 2456 2457 2472 
+	352 2456 2457 2472 
 }
 tafilalt_area = {  #3
 

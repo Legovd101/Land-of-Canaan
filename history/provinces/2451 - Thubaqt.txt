@@ -5,12 +5,11 @@
 # Thubaqt
 # 2451 Thubaqt - 10/14/2025 2:36:58 PM 
 add_core = TRP
-add_core = FZA
-owner = FZA
-controller = FZA
+owner = TRP
+controller = TRP
 base_tax = 1
 base_production = 1
-base_manpower = 1
+base_manpower = 3
 trade_goods = cloth
 culture = cyrenaican
 religion = dionysian

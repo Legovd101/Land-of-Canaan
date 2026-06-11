@@ -5,8 +5,8 @@
 # Armagnac
 # 175 Armagnac - 10/14/2025 2:36:58 PM 
 add_core = GUY
-owner = SKN
-controller = SKN
+owner = SIK
+controller = SIK
 base_tax = 5
 base_production = 5
 base_manpower = 5
@@ -28,4 +28,4 @@ discovered_by = ottoman
 discovered_by = thraco_illyrian
 discovered_by = serican_group
 discovered_by = iranic_group
-add_core = SKN
+add_core = SIK

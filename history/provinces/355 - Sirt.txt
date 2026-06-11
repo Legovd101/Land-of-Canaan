@@ -4,9 +4,8 @@
 ### Modified 10/14/2025 2:36:58 PM ###
 # Sirt
 # 355 Sirt - 10/14/2025 2:36:58 PM 
-add_core = FZA
-owner = FZA
-controller = FZA
+owner = TRP
+controller = TRP
 base_tax = 1
 base_production = 1
 base_manpower = 1
@@ -28,3 +27,4 @@ discovered_by = serican_group
 discovered_by = iranic_group
 discovered_by = eastern
 discovered_by = baltic_group
+add_core = TRP
