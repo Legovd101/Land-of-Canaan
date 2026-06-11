@@ -4,11 +4,11 @@
  itloc_serican.1.a: "May all fear the Western Dragon!"
  itloc_serican.1.b: "Awwww, but *I* wanted to be the dragon!"
  here_be_dragons_tt: "[western_dragon.GetName] will be much stronger than the other captaincies. Be careful when fighting them!"
- shifting_alliances: "Shifting Alliances"
+
  itloc_serican.2.title: "The Dragon of the West"
  itloc_serican.2.desc: "As of late, [Root.Monarch.GetTitle] [Root.Monarch.GetName] has gaind a vigour not previously seen amidst the other captaincies. Could this be the start of a new era for Anatolia?"
  itloc_serican.2.a: "All shall fear the Western Dragon!"
- dragon_of_the_west: "Dragon of the West"
+
  itloc_serican.3.title: "The Death of a Dragon"
  itloc_serican.3.desc: "The Great Western Dragon has died. As they are buried, already there seem to be treacherous warlords eager to take their place..."
  itloc_serican.3.a: "Back, ye filthy animals, back!"

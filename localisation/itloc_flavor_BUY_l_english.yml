@@ -3,30 +3,34 @@
  flavor_BUY.1.desc: "REPLACE_ME"
  flavor_BUY.1.a: "The four Kas agree: the time for action is now!"
  BUY_intro_tt: "REPLACE_ME"
- invasion_of_bactria: "Invasion of Bactria"
- desc_invasion_of_bactria: ""
+
  flavor_BUY.2.title: "Breaching the Iaxartes"
  flavor_BUY.2.desc: "REPLACE_ME"
  flavor_BUY.2.a: "War Were Declared!"
  BUY_invasion_of_bactria_tt: "REPLACE_ME"
+
  flavor_BUY.3.title: "An Offer of Peace?"
  flavor_BUY.3.desc: "REPLACE_ME"
  flavor_BUY.3.a: "Let us send them an ultimatum!"
  treaty_of_marakanda_win_tt: "Marakanda will be cut down to size and split among us and Oseo"
  flavor_BUY.3.b: "I can handle my own peace treaty!"
+
  flavor_BUY.4.title: "Treaty of Marakanda"
  flavor_BUY.4.desc: "REPLACE_ME"
  flavor_BUY.4.a: "Fine!"
  flavor_BUY.4.b: "Do they think us fools?"
+
  flavor_BUY.5.title: "An Offer of Peace?"
  flavor_BUY.5.desc: "REPLACE_ME"
  flavor_BUY.5.a: "Let us send them an ultimatum!"
  treaty_of_marakanda_lose_tt: "Buyeo and Oseo will be forced to join the Empire, and Bukephala will regain their cores."
  flavor_BUY.5.b: "I can handle my own peace treaty!"
+
  flavor_BUY.6.title: "Treaty of Marakanda"
  flavor_BUY.6.desc: "REPLACE_ME"
  flavor_BUY.6.a: "Fine!"
  flavor_BUY.6.b: "Do they think us fools?"
+
  flavor_BUY.7.title: "The Second Sacking of Marakanda"
  flavor_BUY.7.desc: "Our men have breached the walls of Marakanda, and are itching for wealth to take back with them."
  flavor_BUY.7.a: "Let the looting be gentle."

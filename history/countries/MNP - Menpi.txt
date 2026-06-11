@@ -1,5 +1,5 @@
-religion = totemism
 capital = 361
+religion = totemism
 technology_group = ottoman
 government_rank = 1
 primary_culture = mikmaq
@@ -13,7 +13,8 @@ add_government_reform = feudalism_reform
 		dynasty = "Onamagig"
 		adm = 3
 		dip = 5
-		mil = 1
+		mil = 6
 	}
+	add_ruler_personality = legendary_conqueror_personality
 }
 

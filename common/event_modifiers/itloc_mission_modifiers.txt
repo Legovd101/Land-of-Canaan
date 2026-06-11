@@ -11,3 +11,20 @@ naval_buildup = {
 	navy_tradition = 0.1
 	naval_maintenance_modifier = -0.3
 }
+kemetic_restoration = {
+	local_unrest = -4
+	min_local_autonomy = -15
+	local_prosperity_growth = 0.15
+}
+social_upheaval = {
+	local_unrest = 5
+	development_cost = 0.5
+}
+royal_cult = {
+	global_missionary_strength = 0.02
+	global_autonomy = -0.04
+}
+eastern_glories = {
+	artillery_cost = -0.2
+	artillery_levels_available_vs_fort = 1
+}

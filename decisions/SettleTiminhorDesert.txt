@@ -1,0 +1,65 @@
+country_decisions = {
+	settle_the_deserts_of_timinhor = {
+		potential = {
+			OR = {
+				owns = 3290
+				owns = 358
+				owns = 4317
+				owns = 1233
+				owns = 359
+				owns = 4323
+			}
+		}
+		provinces_to_highlight = {
+			OR = {
+				province_id = 3290
+				province_id = 358
+				province_id = 4317
+				province_id = 1233
+				province_id = 359
+				province_id = 4323
+			}
+		}
+		allow = {
+			is_at_war = no
+			3290 = {
+				owned_by = ROOT
+				development = 10
+			}
+			358 = {
+				owned_by = ROOT
+				development = 10
+			}
+			4317 = {
+				owned_by = ROOT
+				development = 10
+			}
+			1233 = {
+				owned_by = ROOT
+				development = 10
+			}
+			359 = {
+				owned_by = ROOT
+				development = 10
+			}
+			4323 = {
+				owned_by = ROOT
+				development = 10
+			}
+		}
+		effect = {
+			3289 = {
+				add_siberian_construction = 100
+				add_base_manpower = 1
+				add_base_tax = 1
+				add_base_production = 1
+			}
+			add_prestige = 10
+		}
+		ai_will_do = {
+			factor = 1
+		}
+		ai_importance = 400
+	}
+
+}

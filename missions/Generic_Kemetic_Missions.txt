@@ -2,185 +2,317 @@ keme_1 = {
 	slot = 1
 	generic = no
 	ai = yes
-	potential = {
-		culture_group = egyptian_g
-	}
+	has_country_shield = yes
+	potential = { culture_group = egyptian_g } 
 
 	keme_naval_buildup = {
-		icon = mission_build_up_to_force_limit
+		icon = imperial_navy
 		position = 2
-		required_missions = {  }
-		provinces_to_highlight = { has_port = yes country_or_non_sovereign_subject_holds = ROOT}
-		trigger = { navy_size_percentage = 1.0 }
+		provinces_to_highlight = {
+			has_port = yes
+			country_or_non_sovereign_subject_holds = ROOT
+		}
+
+		trigger = { navy_size_percentage = 1.0 } 
+
 		effect = {
 			add_country_modifier = {
-				name = naval_buildup
+				name = "naval_buildup"
 				duration = -1
 			}
 		}
 	}
+
 	keme_kemetic_domination = {
-		icon = mission_build_up_to_force_limit
+		icon = mission_occupy_alexandria
 		position = 3
-		required_missions = { keme_naval_buildup }
-		provinces_to_highlight = { }
-		trigger = {
-			358 = {
-				is_strongest_trade_power = ROOT
-			}
-		}
+		required_missions = { keme_naval_buildup } 
+		provinces_to_highlight = {  } 
+
+		trigger = { 358 = { is_strongest_trade_power = ROOT }  } 
+
 		effect = {
-			capital_scope = {
-				add_prosperity = 20
-			}
+			capital_scope = { add_prosperity = 20 } 
 			add_country_modifier = {
-				name = boom_economy
+				name = "boom_economy"
 				duration = -1
 			}
 		}
 	}
 }
-
 keme_1_2 = {
 	slot = 1
 	generic = no
 	ai = yes
-	potential = {
-		tag = KEM
-	}
+	has_country_shield = yes
+	potential = { tag = KEM } 
 
 	keme_renovate_temple_complexes = {
-		icon = mission_build_up_to_force_limit
+		icon = mission_land_of_churches
 		position = 7
-		required_missions = { keme_establish_royal_canon }
-		provinces_to_highlight = { }
-		trigger = { }
-		effect = { }
+		required_missions = { keme_establish_royal_canon } 
+		provinces_to_highlight = {  } 
+
+		trigger = {
+			num_of_owned_provinces_with = {
+				value = 10
+				has_tax_building_trigger = yes
+			}
+		}
+
+		effect = {
+			add_country_modifier = {
+				name = "royal_cult"
+				duration = -1
+			}
+		}
 	}
+
 	keme_eastern_glories = {
-		icon = mission_build_up_to_force_limit
+		icon = mission_cannons_firing
 		position = 8
-		required_missions = { keme_renovate_temple_complexes }
-		provinces_to_highlight = { }
-		trigger = { }
-		effect = { }
+		required_missions = { keme_renovate_temple_complexes } 
+		provinces_to_highlight = {  } 
+
+		trigger = { cannon = 1 } 
+
+		effect = {
+			add_country_modifier = {
+				name = "eastern_glories"
+				duration = -1
+			}
+		}
 	}
+
 	keme_industrial_might = {
-		icon = mission_build_up_to_force_limit
+		icon = mission_industrialize_bengal
 		position = 9
-		required_missions = { keme_eastern_glories }
-		provinces_to_highlight = { }
-		trigger = { }
-		effect = { }
+		required_missions = { keme_eastern_glories } 
+		provinces_to_highlight = {  } 
+
+		trigger = { metalworking = 1 } 
+
+		effect = {
+			add_country_modifier = {
+				name = "production_improvements"
+				duration = -1
+			}
+		}
 	}
 }
-
 keme_2 = {
 	slot = 2
 	generic = no
 	ai = yes
-	potential = {
-		culture_group = egyptian_g
-	}
+	has_country_shield = yes
+	potential = { culture_group = egyptian_g } 
 
 	keme_city_of_the_sea = {
-		icon = mission_build_up_to_force_limit
+		icon = mission_marathi_fiefs
 		position = 2
-		required_missions = { keme_pharaonic_goals }
-		provinces_to_highlight = { }
-		trigger = { }
-		effect = { }
+		required_missions = { keme_pharaonic_goals } 
+		provinces_to_highlight = { province_id = 359 } 
+
+		trigger = { owns_core_province = 359 } 
+
+		effect = {
+			359 = {
+				add_building = canal_system
+				add_base_tax = 2
+				add_province_modifier = {
+					name = "kemetic_restoration"
+					duration = 36500
+				}
+			}
+		}
 	}
+
 	keme_legacy_of_necho = {
-		icon = mission_build_up_to_force_limit
+		icon = colonize_the_cape
 		position = 3
-		required_missions = { keme_naval_buildup }
-		provinces_to_highlight = { }
-		trigger = { }
-		effect = { }
+		required_missions = { keme_naval_buildup } 
+		provinces_to_highlight = {  } 
+
+		trigger = {
+			has_discovered = 1460
+			has_discovered = 1469
+		}
+
+		effect = {
+			if = {
+				limit = { 1111 = { is_empty = yes }  } 
+				1111 = { add_siberian_construction = 100 } 
+			}
+			if = {
+				limit = { 1177 = { is_empty = yes }  } 
+				1177 = { add_siberian_construction = 100 } 
+			}
+		}
 	}
 }
-
 keme_2_2 = {
 	slot = 2
 	generic = no
 	ai = yes
-	potential = {
-		tag = KEM
-	}
+	has_country_shield = yes
+	potential = { tag = KEM } 
 
 	keme_empower_nomarchs = {
-		icon = mission_build_up_to_force_limit
+		icon = mission_se_along_the_river
 		position = 5
-		required_missions = { keme_thirty_fifth_dynasty }
-		provinces_to_highlight = { }
-		trigger = { }
-		effect = { }
+		required_missions = { keme_thirty_fifth_dynasty } 
+		provinces_to_highlight = {
+			OR = {
+				area = middle_egypt_area
+				area = abydos_area
+				area = luxor_area
+			}
+		}
+
+		trigger = {
+			OR = {
+				nome = 5
+				development_in_provinces = {
+					value = 100
+					OR = {
+						area = middle_egypt_area
+						area = abydos_area
+						area = luxor_area
+					}
+				}
+			}
+		}
+
+		effect = {
+			add_casus_belli = {
+				type = cb_vassalize_mission
+				target = QES
+				months = 600
+			}
+		}
 	}
+
 	keme_establish_royal_canon = {
-		icon = mission_build_up_to_force_limit
+		icon = mission_interfaith_relations
 		position = 6
-		required_missions = { keme_empower_nomarchs }
-		provinces_to_highlight = { }
-		trigger = { }
-		effect = { }
+		required_missions = { keme_empower_nomarchs } 
+		provinces_to_highlight = {
+			owned_by = ROOT
+			NOT = { has_owner_religion = yes } 
+		}
+
+		trigger = { all_owned_province = { has_owner_religion = yes }  } 
+
+		effect = {
+			add_country_modifier = {
+				name = "eth_better_vassal_handling"
+				duration = -1
+			}
+		}
 	}
+
 	keme_revitalize_economy = {
-		icon = mission_build_up_to_force_limit
+		icon = mission_arabian_sea_trade
 		position = 8
-		required_missions = { keme_renovate_temple_complexes }
-		provinces_to_highlight = { }
-		trigger = { }
-		effect = { }
+		required_missions = { keme_renovate_temple_complexes } 
+		provinces_to_highlight = {  } 
+
+		trigger = {
+			num_of_owned_provinces_with = {
+				value = 5
+				has_trade_building_trigger = yes
+			}
+		}
+
+		effect = {
+			every_owned_province = {
+				limit = { has_trade_building_trigger = yes } 
+				add_base_production = 2
+			}
+			every_province = {
+				limit = {
+					superregion = india_superregion
+					has_port = yes
+					province_has_center_of_trade_of_level = 1
+				}
+				add_permanent_claim = ROOT
+			}
+		}
 	}
+
 	keme_follow_the_spices = {
-		icon = mission_build_up_to_force_limit
+		icon = mission_arabian_sea_trade
 		position = 10
-		required_missions = { keme_revitalize_economy }
-		provinces_to_highlight = { }
-		trigger = { }
-		effect = { }
+		required_missions = { keme_revitalize_economy } 
+		provinces_to_highlight = {  } 
+
+		trigger = {
+			num_of_owned_provinces_with = {
+				value = 5
+				province_has_center_of_trade_of_level = 2
+				superregion = india_superregion
+			}
+		}
+
+		effect = { west_india_region = { add_permanent_claim = ROOT }  } 
 	}
 }
-
 keme_3 = {
 	slot = 3
 	generic = no
 	ai = yes
-	potential = {
-		culture_group = egyptian_g
-	}
+	has_country_shield = yes
+	potential = { culture_group = egyptian_g } 
 
 	keme_pharaonic_goals = {
-		icon = mission_build_up_to_force_limit
+		icon = mission_restore_faith_in_the_throne
 		position = 1
-		required_missions = {  }
-		provinces_to_highlight = { }
-		trigger = { army_size_percentage = 1.0 }
+		provinces_to_highlight = {  } 
+
+		trigger = { army_size_percentage = 1.0 } 
+
 		effect = {
-			delta_area = { add_permanent_claim = ROOT }
-			# bahari_area = { add_permanent_claim = ROOT }
+			delta_area = { add_permanent_claim = ROOT } 
+			lower_egypt_area = { add_permanent_claim = ROOT } 
+			middle_egypt_area = { add_permanent_claim = ROOT } 
 		}
 	}
+
 	keme_enduring_and_beautiful = {
-		icon = mission_build_up_to_force_limit
+		icon = mam_city_thousand_minarets
 		position = 2
-		required_missions = { keme_pharaonic_goals }
-		provinces_to_highlight = { province_id = 361 }
-		trigger = { owns_core_province = 361 }
+		required_missions = { keme_pharaonic_goals } 
+		provinces_to_highlight = { province_id = 361 } 
+
+		trigger = { owns_core_province = 361 } 
+
 		effect = {
-			# said_area = { add_permanent_claim = ROOT }
-			# vostani_area = { add_permanent_claim = ROOT }
+			361 = {
+				add_building = canal_system
+				add_base_tax = 2
+				add_province_modifier = {
+					name = "kemetic_restoration"
+					duration = 36500
+				}
+			}
+			abydos_area = { add_permanent_claim = ROOT } 
+			luxor_area = { add_permanent_claim = ROOT } 
 		}
 	}
+
 	keme_king_of_nile = {
-		icon = mission_build_up_to_force_limit
+		icon = mission_pol_breadbasket_europe
 		position = 3
-		required_missions = { keme_enduring_and_beautiful keme_destiny_of_delta keme_city_of_the_sea }
+		required_missions = {
+			keme_enduring_and_beautiful
+			keme_destiny_of_delta
+			keme_city_of_the_sea
+		}
 		provinces_to_highlight = {
 			OR = {
-				# area = vostani_area
-				# area = said_area
+				area = abydos_area
+				area = luxor_area
+				area = aswan_area
 			}
 			NOT = {
 				OR = {
@@ -191,174 +323,358 @@ keme_3 = {
 				}
 			}
 		}
+
 		trigger = {
-			# vostani_area = {
-			# 	type = all
-			# 	OR = {
-			# 		owned_by = ROOT
-			# 		owned_by = QES
-			# 		owned_by = CYR
-			# 		owned_by = ETH
-			# 	}
-			# }
-			# said_area = {
-			# 	type = all
-			# 	OR = {
-			# 		owned_by = ROOT
-			# 		owned_by = QES
-			# 		owned_by = CYR
-			# 		owned_by = ETH
-			# 	}
-			# }
-			# al_wahat_area = {
-			# 	type = all
-			# 	OR = {
-			# 		owned_by = ROOT
-			# 		owned_by = QES
-			# 		owned_by = CYR
-			# 		owned_by = ETH
-			# 	}
-			# }
+			abydos_area = {
+				type = all
+				OR = {
+					owned_by = ROOT
+					owned_by = QES
+					owned_by = CYR
+					owned_by = ETH
+				}
+			}
+			luxor_area = {
+				type = all
+				OR = {
+					owned_by = ROOT
+					owned_by = QES
+					owned_by = CYR
+					owned_by = ETH
+				}
+			}
+			aswan_area = {
+				type = all
+				OR = {
+					owned_by = ROOT
+					owned_by = QES
+					owned_by = CYR
+					owned_by = ETH
+				}
+			}
 		}
-		effect = { }
+
+		effect = {
+			every_province = {
+				limit = {
+					OR = {
+						area = abydos_area
+						area = luxor_area
+						area = aswan_area
+					}
+				}
+				if = {
+					limit = { owned_by = ROOT } 
+					add_province_modifier = {
+						name = "kemetic_restoration"
+						duration = 36500
+					}
+				}
+				else = { add_core = ROOT } 
+			}
+		}
 	}
+
 	keme_thirty_fifth_dynasty = {
-		icon = mission_build_up_to_force_limit
+		icon = mission_egyptian_mamluk_soldier
 		position = 4
-		required_missions = { keme_king_of_nile }
-		provinces_to_highlight = { }
-		trigger = { tag = KEM }
-		effect = { swap_non_generic_missions = yes }
+		required_missions = { keme_king_of_nile } 
+		provinces_to_highlight = {  } 
+
+		trigger = { tag = KEM } 
+
+		effect = { swap_non_generic_missions = yes } 
 	}
 }
-
 keme_3_2 = {
 	slot = 3
 	generic = no
 	ai = yes
-	potential = {
-		tag = KEM
-	}
+	has_country_shield = yes
+	potential = { tag = KEM } 
 
 	keme_follow_the_nile = {
-		icon = mission_build_up_to_force_limit
+		icon = mission_pow_just_around_the_riverbend
 		position = 7
-		required_missions = { keme_breadbasket_of_mediterranean }
-		provinces_to_highlight = { }
-		trigger = { }
-		effect = { }
+		required_missions = { keme_establish_royal_canon } 
+		provinces_to_highlight = {  } 
+
+		trigger = { QES = { is_subject_of = ROOT }  } 
+
+		effect = {
+			create_march = QES
+			horn_of_africa_region = { add_permanent_claim = ROOT } 
+		}
 	}
+
 	keme_land_of_gold = {
-		icon = mission_build_up_to_force_limit
+		icon = mission_zambezi_gold
 		position = 8
-		required_missions = { keme_follow_the_nile }
-		provinces_to_highlight = { }
-		trigger = { }
-		effect = { }
+		required_missions = { keme_follow_the_nile } 
+		provinces_to_highlight = {  } 
+
+		trigger = {
+			2772 = {
+				OR = {
+					is_strongest_trade_power = QES
+					is_strongest_trade_power = ROOT
+				}
+			}
+		}
+
+		effect = {  } 
 	}
 }
-
 keme_4 = {
 	slot = 4
 	generic = no
 	ai = yes
-	potential = {
-		culture_group = egyptian_g
-	}
+	has_country_shield = yes
+	potential = { culture_group = egyptian_g } 
 
 	keme_destiny_of_delta = {
-		icon = mission_build_up_to_force_limit
+		icon = mission_control_the_ganges_delta
 		position = 2
-		required_missions = { keme_pharaonic_goals }
-		provinces_to_highlight = { }
-		trigger = { }
-		effect = { }
+		required_missions = { keme_pharaonic_goals } 
+		provinces_to_highlight = {
+			OR = {
+				province_id = 362
+				province_id = 363
+			}
+		}
+
+		trigger = {
+			owns_core_province = 362
+			owns_core_province = 363
+		}
+
+		effect = {
+			362 = {
+				add_building = canal_system
+				add_base_tax = 2
+				add_province_modifier = {
+					name = "kemetic_restoration"
+					duration = 36500
+				}
+			}
+			363 = {
+				add_building = canal_system
+				add_base_tax = 2
+				add_province_modifier = {
+					name = "kemetic_restoration"
+					duration = 36500
+				}
+			}
+		}
 	}
 }
-
 keme_4_2 = {
 	slot = 4
 	generic = no
 	ai = yes
-	potential = {
-		tag = KEM
-	}
+	has_country_shield = yes
+	potential = { tag = KEM } 
 
 	keme_seat_of_tinayu = {
-		icon = mission_build_up_to_force_limit
+		icon = mission_conquer_alexandria
 		position = 5
-		required_missions = { keme_thirty_fifth_dynasty }
-		provinces_to_highlight = { }
-		trigger = { }
-		effect = { }
+		required_missions = { keme_thirty_fifth_dynasty } 
+		provinces_to_highlight = { province_id = 358 } 
+
+		trigger = { owns = 358 } 
+
+		effect = {
+			358 = {
+				change_culture = old_egyptian
+				add_province_modifier = {
+					name = "social_upheaval"
+					duration = 1825
+				}
+			}
+			abydos_area = { add_permanent_claim = ROOT } 
+			luxor_area = { add_permanent_claim = ROOT } 
+		}
 	}
+
 	keme_breadbasket_of_mediterranean = {
-		icon = mission_build_up_to_force_limit
+		icon = mission_northumberland_coast
 		position = 6
-		required_missions = { keme_seat_of_tinayu }
-		provinces_to_highlight = { }
-		trigger = { }
-		effect = { }
+		required_missions = { keme_seat_of_tinayu } 
+		provinces_to_highlight = { area = delta_area } 
+
+		trigger = {
+			development_in_provinces = {
+				value = 50
+				area = delta_area
+			}
+		}
+
+		effect = {
+			delta_area = {
+				add_province_modifier = {
+					name = "pol_breadbasket_europe_modifier"
+					duration = -1
+				}
+			}
+			add_casus_belli = {
+				type = cb_vassalize_mission
+				target = KNA
+				months = 600
+			}
+		}
 	}
+
 	keme_western_nome = {
 		icon = mission_build_up_to_force_limit
 		position = 8
-		required_missions = { keme_breadbasket_of_mediterranean }
-		provinces_to_highlight = { }
-		trigger = { }
-		effect = { }
+		required_missions = { keme_breadbasket_of_mediterranean } 
+		provinces_to_highlight = { area = cyrenaica_area } 
+
+		trigger = {
+			cyrenaica_area = {
+				type = all
+				owned_by = ROOT
+			}
+			NOT = { exists = CYR } 
+		}
+
+		effect = { country_event = { id = itloc_kemetic.1 }  } 
 	}
+
 	keme_control_silphium_supplies = {
-		icon = mission_build_up_to_force_limit
+		icon = mission_dominate_home_trade_node
 		position = 9
-		required_missions = { keme_western_nome }
-		provinces_to_highlight = { }
-		trigger = { }
-		effect = { }
+		required_missions = { keme_western_nome } 
+		provinces_to_highlight = {
+			OR = {
+				province_id = 356
+				province_id = 357
+			}
+		}
+
+		trigger = {
+			356 = { grown_by_development = 10 } 
+			357 = { grown_by_development = 10 } 
+		}
+
+		effect = {
+			greek_islands_area = { add_permanent_claim = ROOT } 
+			morea_area = { add_permanent_claim = ROOT } 
+			attica_area = { add_permanent_claim = ROOT } 
+			aegean_archipelago_area = { add_permanent_claim = ROOT } 
+		}
 	}
-	keme_tiouoti_ouer = {
-		icon = mission_build_up_to_force_limit
+
+	keme_tiowoti_wer = {
+		icon = reclaim_the_aegean
 		position = 10
-		required_missions = { keme_control_silphium_supplies }
-		provinces_to_highlight = { }
-		trigger = { }
-		effect = { }
+		required_missions = { keme_control_silphium_supplies } 
+		provinces_to_highlight = {
+			OR = {
+				area = greek_islands_area
+				area = morea_area
+				area = attica_area
+				area = aegean_archipelago_area
+			}
+		}
+
+		trigger = {
+			greek_islands_area = {
+				type = all
+				country_or_non_sovereign_subject_holds = ROOT
+			}
+			morea_area = {
+				type = all
+				country_or_non_sovereign_subject_holds = ROOT
+			}
+			attica_area = {
+				type = all
+				country_or_non_sovereign_subject_holds = ROOT
+			}
+			aegean_archipelago_area = {
+				type = all
+				country_or_non_sovereign_subject_holds = ROOT
+			}
+		}
+
+		effect = {
+			greek_islands_area = {
+				add_province_modifier = {
+					name = "production_improvements"
+					duration = -1
+				}
+			}
+		}
 	}
 }
-
 keme_5 = {
 	slot = 5
 	generic = no
 	ai = yes
-	potential = {
-		culture_group = egyptian_g
-	}
+	has_country_shield = yes
+	potential = { culture_group = egyptian_g } 
 
 }
-
 keme_5_2 = {
 	slot = 5
 	generic = no
 	ai = yes
-	potential = {
-		tag = KEM
-	}
+	has_country_shield = yes
+	potential = { tag = KEM } 
 
 	keme_canaanite_conquest = {
-		icon = mission_build_up_to_force_limit
+		icon = jerusalem
 		position = 7
-		required_missions = { keme_breadbasket_of_mediterranean }
-		provinces_to_highlight = { }
-		trigger = { }
-		effect = { }
+		required_missions = { keme_breadbasket_of_mediterranean } 
+		provinces_to_highlight = {
+			OR = {
+				area = palestine_area
+				area = syria_area
+			}
+		}
+
+		trigger = {
+			palestine_area = {
+				type = all
+				country_or_non_sovereign_subject_holds = ROOT
+			}
+			syria_area = {
+				type = all
+				country_or_non_sovereign_subject_holds = ROOT
+			}
+		}
+
+		effect = {
+			tripolis_area = { add_permanent_claim = ROOT } 
+			aleppo_area = { add_permanent_claim = ROOT } 
+			add_permanent_claim = 321
+			add_permanent_claim = 3113
+			create_march = KNA
+		}
 	}
+
 	keme_surian_subjugation = {
-		icon = mission_build_up_to_force_limit
+		icon = mission_fall_of_constantinople
 		position = 9
-		required_missions = { keme_canaanite_conquest }
-		provinces_to_highlight = { }
-		trigger = { }
-		effect = { }
+		required_missions = { keme_canaanite_conquest } 
+		provinces_to_highlight = {
+			OR = {
+				area = tripolis_area
+				area = aleppo_area
+			}
+		}
+
+		trigger = {
+			tripolis_area = {
+				type = all
+				country_or_non_sovereign_subject_holds = ROOT
+			}
+			aleppo_area = {
+				type = all
+				country_or_non_sovereign_subject_holds = ROOT
+			}
+		}
+
+		effect = { country_event = { id = itloc_kemetic.3 }  } 
 	}
 }
-

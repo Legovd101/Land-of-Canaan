@@ -10,44 +10,77 @@
 357 = { "Kurena" "Kurena" } # Cyrene
 356 = { "Khes-per" "Khes-per" } # Hesperis
 
-# Delta
+# Alexandria
 358 = { "Raqudit" "Raqudit" } # Alexandria
+3289 = { "Payu-nefer" "Payu-nefer" } # Menouf
+4317 = { "Temai en Kheru" "Temai en Kheru" } # Damanhur
+3290 = { "Rukaš-per" "Rukaš-per" } # Leukaspis 
+
+# Delta
 362 = { "Rašdi" "Rašdi" } # Rosetta/Bolbitine
 363 = { "Tamiati" "Tamiati" } # Damietta
-
-# Bahari
-361 = { "Men-Nefer" "Men-Nefer" } # Memphis
+3262 = { "Nikedju" "Nikedju" } # Burullus
+3261 = { "Temet" "Temet" } # Baltim
 2316 = { "Tanitad" "Tanitad" } # Tanta
+
+# Peklousma
 4316 = { "Per-Bastet" "Per-Bastet" } # Bubastis
-4317 = { "Temai en Kheru" "Temai en Kheru" } # Damanhur
+2315 = { "Peklousma" "Peklousma" } # Clysma
+3280 = { "Resyr" "Resyr" } # "Western Coast"
+3263 = { "Keti" "Keti" } # Katia
+3264 = { "Per-Amun" "Per-Amun" } # Pelusium
+
+# Biau
+3279 = { "Repukhu" "Repukhu" } # Rafah
+3276 = { "Ren-khuru" "Ren-khuru" } # Rhinocorura
+3277 = { "Retju" "Retju" } # Raithu
+365 = { "Biau" "Biau" } # Sinai
+
+# Tsakheti
+3265 = { "Tipersis" "Tipersis" } # Giza
+361 = { "Men-Nefer" "Men-Nefer" } # Memphis
+2318 = { "Pekusa" "Pekusa" } # Faqus
+1233 = { "Tanmes" "Tanmes" } # Tamiya
 
 # Red Sea Hills
-365 = { "Biau" "Biau" } # Sinai
-2315 = { "Peklousma" "Peklousma" } # Clysma
 2320 = { "Iabty" "Iabty" } # "Eastern"
 2321 = { "Šas Kheret" "Šas Kheret" } # Berenice
+2324 = { "Per-Anpu" "Per-Anpu" } # "House of Anubis"
 
-# Vostani
+# Heptanomis
 359 = { "Epiom" "Epiom" } # Fayyum
 4318 = { "Petpeh" "Petpeh" } # Atfih
-2317 = { "Shmun" "Shmun" } # Hermopolis
-
-# Al-Wahat
-1233 = { "Tanmes" "Tanmes" } # Tamiya
+2317 = { "Šmun" "Šmun" } # Hermopolis
 4323 = { "Tiyakhu" "Tiyakhu" } # Farafra
-2318 = { "Pekusa" "Pekusa" } # Faqus
+3266 = { "Manlaw" "Manlaw" } # Mallawi
 
-# Said
-360 = { "Waset" "Waset" } # Thebes
+# Abedju
 2319 = { "Ipu" "Ipu" } # Manfalut
 4320 = { "Abedju" "Abedju" } # Abydos
+3267 = { "Terut" "Terut" } # Dairut
+3268 = { "Kus" "Kus" } # El Quseyya
+3269 = { "Bumpayu" "Bumpayu" } # Sohag
+
+# Ipat
+360 = { "Waset" "Waset" } # Thebes
+3270 = { "Per-Djodj" "Per-Djodj" } # Abu Tesht
+3271 = { "Tešni" "Tešni" } # Dishna
+3272 = { "Šabt" "Šabt" } # Qena
+3274 = { "Nut" "Nut" } # Luxor
+
+# Swenett
 4319 = { "Snit" "Snit" } # Esna
 1231 = { "Swenett" "Swenett" } # Aswan
+3273 = { "Wetjeset-hor" "Wetjeset-hor" } # Edfu
+3275 = { "Payu-rek" "Payu-rek" } # Philae
+1234 = { "Prim" "Prim" } # Primis
 
 # Lower Nubia
-1234 = { "Prim" "Prim" } # Primis
 2322 = { "Buhen" "Buhen" } # Buhen
 2323 = { "Iken" "Iken" } # Iken, from https://commons.wikimedia.org/wiki/File:Ancient_Egypt_map-hiero_(ms).svg
+3283 = { "Khene" "Khene" } # "Great Chief"
+3287 = { "Khiyu" "Khiyu" } # Hayya
+3282 = { "Re-tjenu" "Re-tjenu" } # Ariteñan, fictional
 
 ## MASHRIQ/MESOPOTAMIA 
 

@@ -1,0 +1,73 @@
+# namespace = itloc_kemetic
+
+# The Western Nome
+country_event = {
+	id = itloc_kemetic.1
+	title = itloc_kemetic.1.title
+	desc = itloc_kemetic.1.desc
+	picture = COURT_eventPicture
+
+	is_triggered_only = yes
+	
+	option = {
+		name = itloc_kemetic.1.a
+		every_owned_province = {
+			limit = {
+				NOT = { area = cyrenaica_area }
+			}
+			remove_core = CYR
+		}
+		release = CYR
+		create_march = CYR
+	}
+	
+	option = {
+		name = itloc_kemetic.1.b
+		cyrenaica_area = {
+			add_core = ROOT
+		}
+	}
+}
+
+# The Return of the Nomarch
+country_event = {
+	id = itloc_kemetic.2
+	title = itloc_kemetic.2.title
+	desc = itloc_kemetic.2.desc
+	picture = COURT_eventPicture
+
+	is_triggered_only = yes
+	
+	option = { # It's time to take a serious look at our administration.
+		name = itloc_kemetic.2.a
+		custom_tooltip = nome_tt
+	}
+}
+
+# The Northern Nome
+country_event = {
+	id = itloc_kemetic.3
+	title = itloc_kemetic.3.title
+	desc = itloc_kemetic.3.desc
+	picture = COURT_eventPicture
+
+	is_triggered_only = yes
+	
+	option = {
+		name = itloc_kemetic.3.a
+		tripolis_area = { add_core = SYR }
+		aleppo_area = { add_core = SYR }
+		release = SYR
+		create_march = SYR
+	}
+	
+	option = {
+		name = itloc_kemetic.3.b
+		tripolis_area = {
+			add_core = ROOT
+		}
+		aleppo_area = {
+			add_core = ROOT
+		}
+	}
+}

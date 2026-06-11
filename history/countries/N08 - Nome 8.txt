@@ -1,0 +1,6 @@
+capital = 360
+technology_group = kemetic
+government_rank = 1
+religion = kemetism
+primary_culture = old_egyptian
+government = monarchy

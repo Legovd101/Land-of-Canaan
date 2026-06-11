@@ -1819,8 +1819,8 @@ nome = {
 	}
 	can_marry = {
 	}
-	forcelimit_to_overlord = 0.5
-	naval_forcelimit_to_overlord = 0.5		
+	forcelimit_to_overlord = 0.1
+	naval_forcelimit_to_overlord = 0.1	
 	manpower_to_overlord = 0.5
 	sailors_to_overlord = 0.5
 }

@@ -259,6 +259,29 @@ KNM = "countries/Kenmet.txt"
 TST = "countries/Tast.txt"
 AMK = "countries/AmKhent.txt"
 
+ ## Nomes
+N01 = "countries/Nome 1.txt"
+N02 = "countries/Nome 2.txt"
+N03 = "countries/Nome 3.txt"
+N04 = "countries/Nome 4.txt"
+N05 = "countries/Nome 5.txt"
+N06 = "countries/Nome 6.txt"
+N07 = "countries/Nome 7.txt"
+N08 = "countries/Nome 8.txt"
+N09 = "countries/Nome 9.txt"
+N10 = "countries/Nome 10.txt"
+N11 = "countries/Nome 11.txt"
+N12 = "countries/Nome 12.txt"
+N13 = "countries/Nome 13.txt"
+N14 = "countries/Nome 14.txt"
+N15 = "countries/Nome 15.txt"
+N16 = "countries/Nome 16.txt"
+N17 = "countries/Nome 17.txt"
+N18 = "countries/Nome 18.txt"
+N19 = "countries/Nome 19.txt"
+N20 = "countries/Nome 20.txt"
+N21 = "countries/Nome 21.txt"
+
  ## Other
 MNP = "countries/Menpi.txt" # Mi'kmaq :3
 HRM = "countries/Hermopolis.txt" # Hellenic
@@ -266,7 +289,7 @@ QES = "countries/Qes.txt" # Meroitic
 MSR = "countries/Misiranadu.txt" # Tamil
 
  # Italia
- ## Itulus (Italic)
+ ## Romana (Latin)
 UMB = "countries/Ombre.txt" # Umbri
 SAF = "countries/Safinim.txt" # Samnite
 OPC = "countries/Opicem.txt" # Opici/Oscan

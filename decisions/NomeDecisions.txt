@@ -1,0 +1,754 @@
+country_decisions = {
+	show_hide_nomes = {
+		potential = {
+			tag = KEM
+			ai = no
+		}
+		provinces_to_highlight = {
+		}
+		allow = {
+		}
+		effect = {
+			if = {
+				limit = { has_country_flag = show_nome_decisions }
+				clr_country_flag = show_nome_decisions
+			}
+			else = {
+				set_country_flag = show_nome_decisions
+			}
+		}
+		ai_will_do = {
+			factor = 0
+		}
+		ai_importance = 0
+	}
+
+	nome_01 = {
+		potential = {
+			OR = {
+				has_country_flag = show_nome_decisions
+				ai = yes
+			}
+			NOT = { exists = N01 }
+		}
+		provinces_to_highlight = {
+			province_id = 1234
+		}
+		allow = {
+			owns_core_province = 1234
+		}
+		effect = {
+			1234 = {
+				add_core = N01
+				remove_core = ROOT
+			}
+			release = N01
+			N01 = {
+				change_religion = ROOT
+			}
+			create_subject = {
+				subject_type = nome
+				subject = N01
+			}
+		}
+		ai_will_do = {
+			factor = 0
+		}
+		ai_importance = 0
+	}
+
+	nome_02 = {
+		potential = {
+			OR = {
+				has_country_flag = show_nome_decisions
+				ai = yes
+			}
+			NOT = { exists = N02 }
+		}
+		provinces_to_highlight = {
+			province_id = 3275
+		}
+		allow = {
+			owns_core_province = 3275
+		}
+		effect = {
+			3275 = {
+				add_core = N02
+				remove_core = ROOT
+			}
+			release = N02
+			N02 = {
+				change_religion = ROOT
+			}
+			create_subject = {
+				subject_type = nome
+				subject = N02
+			}
+		}
+		ai_will_do = {
+			factor = 0
+		}
+		ai_importance = 0
+	}
+
+	nome_03 = {
+		potential = {
+			OR = {
+				has_country_flag = show_nome_decisions
+				ai = yes
+			}
+			NOT = { exists = N03 }
+		}
+		provinces_to_highlight = {
+			province_id = 1231
+		}
+		allow = {
+			owns_core_province = 1231
+		}
+		effect = {
+			1231 = {
+				add_core = N03
+				remove_core = ROOT
+			}
+			release = N03
+			N03 = {
+				change_religion = ROOT
+			}
+			create_subject = {
+				subject_type = nome
+				subject = N03
+			}
+		}
+		ai_will_do = {
+			factor = 0
+		}
+		ai_importance = 0
+	}
+
+	nome_04 = {
+		potential = {
+			OR = {
+				has_country_flag = show_nome_decisions
+				ai = yes
+			}
+			NOT = { exists = N04 }
+		}
+		provinces_to_highlight = {
+			province_id = 3273
+		}
+		allow = {
+			owns_core_province = 3273
+		}
+		effect = {
+			3273 = {
+				add_core = N04
+				remove_core = ROOT
+			}
+			release = N04
+			N04 = {
+				change_religion = ROOT
+			}
+			create_subject = {
+				subject_type = nome
+				subject = N04
+			}
+		}
+		ai_will_do = {
+			factor = 0
+		}
+		ai_importance = 0
+	}
+
+	nome_05 = {
+		potential = {
+			OR = {
+				has_country_flag = show_nome_decisions
+				ai = yes
+			}
+			NOT = { exists = N05 }
+		}
+		provinces_to_highlight = {
+			province_id = 4319
+		}
+		allow = {
+			owns_core_province = 4319
+		}
+		effect = {
+			4319 = {
+				add_core = N05
+				remove_core = ROOT
+			}
+			release = N05
+			N05 = {
+				change_religion = ROOT
+			}
+			create_subject = {
+				subject_type = nome
+				subject = N05
+			}
+		}
+		ai_will_do = {
+			factor = 0
+		}
+		ai_importance = 0
+	}
+
+	nome_06 = {
+		potential = {
+			OR = {
+				has_country_flag = show_nome_decisions
+				ai = yes
+			}
+			NOT = { exists = N06 }
+		}
+		provinces_to_highlight = {
+			province_id = 3274
+		}
+		allow = {
+			owns_core_province = 3274
+		}
+		effect = {
+			3274 = {
+				add_core = N06
+				remove_core = ROOT
+			}
+			release = N06
+			N06 = {
+				change_religion = ROOT
+			}
+			create_subject = {
+				subject_type = nome
+				subject = N06
+			}
+		}
+		ai_will_do = {
+			factor = 0
+		}
+		ai_importance = 0
+	}
+
+	nome_07 = {
+		potential = {
+			OR = {
+				has_country_flag = show_nome_decisions
+				ai = yes
+			}
+			NOT = { exists = N07 }
+		}
+		provinces_to_highlight = {
+			province_id = 3272
+		}
+		allow = {
+			owns_core_province = 3272
+		}
+		effect = {
+			3272 = {
+				add_core = N07
+				remove_core = ROOT
+			}
+			release = N07
+			N07 = {
+				change_religion = ROOT
+			}
+			create_subject = {
+				subject_type = nome
+				subject = N07
+			}
+		}
+		ai_will_do = {
+			factor = 0
+		}
+		ai_importance = 0
+	}
+
+	nome_08 = {
+		potential = {
+			OR = {
+				has_country_flag = show_nome_decisions
+				ai = yes
+			}
+			NOT = { exists = N08 }
+		}
+		provinces_to_highlight = {
+			province_id = 360
+		}
+		allow = {
+			owns_core_province = 360
+		}
+		effect = {
+			360 = {
+				add_core = N08
+				remove_core = ROOT
+			}
+			release = N08
+			N08 = {
+				change_religion = ROOT
+			}
+			create_subject = {
+				subject_type = nome
+				subject = N08
+			}
+		}
+		ai_will_do = {
+			factor = 0
+		}
+		ai_importance = 0
+	}
+
+	nome_09 = {
+		potential = {
+			OR = {
+				has_country_flag = show_nome_decisions
+				ai = yes
+			}
+			NOT = { exists = N09 }
+		}
+		provinces_to_highlight = {
+			province_id = 3271
+		}
+		allow = {
+			owns_core_province = 3271
+		}
+		effect = {
+			3271 = {
+				add_core = N09
+				remove_core = ROOT
+			}
+			release = N09
+			N09 = {
+				change_religion = ROOT
+			}
+			create_subject = {
+				subject_type = nome
+				subject = N09
+			}
+		}
+		ai_will_do = {
+			factor = 0
+		}
+		ai_importance = 0
+	}
+
+	nome_10 = {
+		potential = {
+			OR = {
+				has_country_flag = show_nome_decisions
+				ai = yes
+			}
+			NOT = { exists = N10 }
+		}
+		provinces_to_highlight = {
+			province_id = 3270
+		}
+		allow = {
+			owns_core_province = 3270
+		}
+		effect = {
+			3270 = {
+				add_core = N10
+				remove_core = ROOT
+			}
+			release = N10
+			N10 = {
+				change_religion = ROOT
+			}
+			create_subject = {
+				subject_type = nome
+				subject = N10
+			}
+		}
+		ai_will_do = {
+			factor = 0
+		}
+		ai_importance = 0
+	}
+
+	nome_11 = {
+		potential = {
+			OR = {
+				has_country_flag = show_nome_decisions
+				ai = yes
+			}
+			NOT = { exists = N11 }
+		}
+		provinces_to_highlight = {
+			province_id = 3269
+		}
+		allow = {
+			owns_core_province = 3269
+		}
+		effect = {
+			3269 = {
+				add_core = N11
+				remove_core = ROOT
+			}
+			release = N11
+			N11 = {
+				change_religion = ROOT
+			}
+			create_subject = {
+				subject_type = nome
+				subject = N11
+			}
+		}
+		ai_will_do = {
+			factor = 0
+		}
+		ai_importance = 0
+	}
+
+	nome_12 = {
+		potential = {
+			OR = {
+				has_country_flag = show_nome_decisions
+				ai = yes
+			}
+			NOT = { exists = N12 }
+		}
+		provinces_to_highlight = {
+			province_id = 4320
+		}
+		allow = {
+			owns_core_province = 4320
+		}
+		effect = {
+			4320 = {
+				add_core = N12
+				remove_core = ROOT
+			}
+			release = N12
+			N12 = {
+				change_religion = ROOT
+			}
+			create_subject = {
+				subject_type = nome
+				subject = N12
+			}
+		}
+		ai_will_do = {
+			factor = 0
+		}
+		ai_importance = 0
+	}
+
+	nome_13 = {
+		potential = {
+			OR = {
+				has_country_flag = show_nome_decisions
+				ai = yes
+			}
+			NOT = { exists = N13 }
+		}
+		provinces_to_highlight = {
+			province_id = 2319
+		}
+		allow = {
+			owns_core_province = 2319
+		}
+		effect = {
+			2319 = {
+				add_core = N13
+				remove_core = ROOT
+			}
+			release = N13
+			N13 = {
+				change_religion = ROOT
+			}
+			create_subject = {
+				subject_type = nome
+				subject = N13
+			}
+		}
+		ai_will_do = {
+			factor = 0
+		}
+		ai_importance = 0
+	}
+
+	nome_14 = {
+		potential = {
+			OR = {
+				has_country_flag = show_nome_decisions
+				ai = yes
+			}
+			NOT = { exists = N14 }
+		}
+		provinces_to_highlight = {
+			province_id = 3268
+		}
+		allow = {
+			owns_core_province = 3268
+		}
+		effect = {
+			3268 = {
+				add_core = N14
+				remove_core = ROOT
+			}
+			release = N14
+			N14 = {
+				change_religion = ROOT
+			}
+			create_subject = {
+				subject_type = nome
+				subject = N14
+			}
+		}
+		ai_will_do = {
+			factor = 0
+		}
+		ai_importance = 0
+	}
+
+	nome_15 = {
+		potential = {
+			OR = {
+				has_country_flag = show_nome_decisions
+				ai = yes
+			}
+			NOT = { exists = N15 }
+		}
+		provinces_to_highlight = {
+			province_id = 3267
+		}
+		allow = {
+			owns_core_province = 3267
+		}
+		effect = {
+			3267 = {
+				add_core = N15
+				remove_core = ROOT
+			}
+			release = N15
+			N11 = {
+				change_religion = ROOT
+			}
+			create_subject = {
+				subject_type = nome
+				subject = N15
+			}
+		}
+		ai_will_do = {
+			factor = 0
+		}
+		ai_importance = 0
+	}
+
+	nome_16 = {
+		potential = {
+			OR = {
+				has_country_flag = show_nome_decisions
+				ai = yes
+			}
+			NOT = { exists = N16 }
+		}
+		provinces_to_highlight = {
+			province_id = 3266
+		}
+		allow = {
+			owns_core_province = 3266
+		}
+		effect = {
+			3266 = {
+				add_core = N16
+				remove_core = ROOT
+			}
+			release = N16
+			N16 = {
+				change_religion = ROOT
+			}
+			create_subject = {
+				subject_type = nome
+				subject = N16
+			}
+		}
+		ai_will_do = {
+			factor = 0
+		}
+		ai_importance = 0
+	}
+
+	nome_17 = {
+		potential = {
+			OR = {
+				has_country_flag = show_nome_decisions
+				ai = yes
+			}
+			NOT = { exists = N17 }
+		}
+		provinces_to_highlight = {
+			province_id = 4318
+		}
+		allow = {
+			owns_core_province = 4318
+		}
+		effect = {
+			4318 = {
+				add_core = N17
+				remove_core = ROOT
+			}
+			release = N17
+			N17 = {
+				change_religion = ROOT
+			}
+			create_subject = {
+				subject_type = nome
+				subject = N17
+			}
+		}
+		ai_will_do = {
+			factor = 0
+		}
+		ai_importance = 0
+	}
+
+	nome_18 = {
+		potential = {
+			OR = {
+				has_country_flag = show_nome_decisions
+				ai = yes
+			}
+			NOT = { exists = N18 }
+		}
+		provinces_to_highlight = {
+			province_id = 2317
+		}
+		allow = {
+			owns_core_province = 2317
+		}
+		effect = {
+			2317 = {
+				add_core = N18
+				remove_core = ROOT
+			}
+			release = N18
+			N18 = {
+				change_religion = ROOT
+			}
+			create_subject = {
+				subject_type = nome
+				subject = N18
+			}
+		}
+		ai_will_do = {
+			factor = 0
+		}
+		ai_importance = 0
+	}
+
+	nome_19 = {
+		potential = {
+			OR = {
+				has_country_flag = show_nome_decisions
+				ai = yes
+			}
+			NOT = { exists = N19 }
+		}
+		provinces_to_highlight = {
+			province_id = 4323
+		}
+		allow = {
+			owns_core_province = 4323
+		}
+		effect = {
+			4323 = {
+				add_core = N19
+				remove_core = ROOT
+			}
+			release = N19
+			N19 = {
+				change_religion = ROOT
+			}
+			create_subject = {
+				subject_type = nome
+				subject = N19
+			}
+		}
+		ai_will_do = {
+			factor = 0
+		}
+		ai_importance = 0
+	}
+
+	nome_20 = {
+		potential = {
+			OR = {
+				has_country_flag = show_nome_decisions
+				ai = yes
+			}
+			NOT = { exists = N20 }
+		}
+		provinces_to_highlight = {
+			province_id = 359
+		}
+		allow = {
+			owns_core_province = 359
+		}
+		effect = {
+			359 = {
+				add_core = N20
+				remove_core = ROOT
+			}
+			release = N20
+			N20 = {
+				change_religion = ROOT
+			}
+			create_subject = {
+				subject_type = nome
+				subject = N20
+			}
+		}
+		ai_will_do = {
+			factor = 0
+		}
+		ai_importance = 0
+	}
+
+	nome_21 = {
+		potential = {
+			OR = {
+				has_country_flag = show_nome_decisions
+				ai = yes
+			}
+			NOT = { exists = N21 }
+		}
+		provinces_to_highlight = {
+			OR = {
+				province_id = 2320
+				province_id = 2321
+				province_id = 2324
+			}
+		}
+		allow = {
+			owns_core_province = 2320
+			owns_core_province = 2321
+			owns_core_province = 2324
+		}
+		effect = {
+			2320 = {
+				add_core = N21
+				remove_core = ROOT
+			}
+			2321 = {
+				add_core = N21
+				remove_core = ROOT
+			}
+			2324 = {
+				add_core = N21
+				remove_core = ROOT
+			}
+			release = N21
+			N21 = {
+				change_religion = ROOT
+			}
+			create_subject = {
+				subject_type = nome
+				subject = N21
+			}
+		}
+		ai_will_do = {
+			factor = 0
+		}
+		ai_importance = 0
+	}
+
+}

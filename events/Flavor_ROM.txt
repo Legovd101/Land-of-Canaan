@@ -11,7 +11,7 @@ country_event = {
 				is_ruler_commanding_unit = yes
 			}
 		}
-		desc = flavor_BUY.1.desc.a
+		desc = flavor_ROM.1.desc.a
 	}
 	desc = {
 		trigger = {
@@ -21,7 +21,7 @@ country_event = {
 				}
 			}
 		}
-		desc = flavor_BUY.1.desc.b
+		desc = flavor_ROM.1.desc.b
 	}
 
 	is_triggered_only = yes

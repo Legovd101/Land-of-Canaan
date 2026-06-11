@@ -78,6 +78,9 @@ country_decisions = {
 				add_base_tax = 1
 				add_base_production = 1
 			}
+			country_event = {
+				id = itloc_kemetic.2
+			}
 			egypt_region = {
 				limit = {
 					NOT = { owned_by = ROOT }

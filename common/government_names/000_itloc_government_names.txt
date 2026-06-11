@@ -166,7 +166,7 @@ irish_king = {
 }
 
 
-pagan_egyptian_monarchy = {
+egyptian_monarchy = {
 	rank = {
 		1 = NOMOS
 		2 = METOURO
