@@ -8,6 +8,7 @@ country_decisions = {
 				owns = 1233
 				owns = 359
 				owns = 4323
+				3289 = { is_empty = yes }
 			}
 		}
 		provinces_to_highlight = {
