@@ -464,18 +464,131 @@
 4269 = { "Phoínikon Komí" "Phoínikon Komí" }
 2328 = { "Ioúla" "Ioúla" }
 
+## EGYPT 
+
+# Cyrenaica
+2325 = { "Ammonía" "Ammonía" } # Ammonia
+2326 = { "Pétra Megáli" "Pétra Megáli" } # Petra Megale
+357 = { "Kyréne" "Kyréne" } # Cyrene
+356 = { "Hesperís" "Hesperís" } # Hesperis
+
+# Alexandria
+358 = { "Alexándreia" "Alexándreia" } # Alexandria
+3289 = { "Onouphis Ano" "Onouphis Ano" } # Menouf
+4317 = { "Hermoupólis Mikrá" "Hermoupólis Mikrá" } # Damanhur
+3290 = { "Leukáspis" "Leukáspis" } # Leukaspis 
+
+# Delta
+362 = { "Bolbitíni" "Bolbitíni" } # Rosetta/Bolbitine
+363 = { "Tamíathis" "Tamíathis" } # Damietta
+3262 = { "Sebennios" "Sebennios" } # Burullus
+3261 = { "Tamétha" "Tamétha" } # Baltim
+2316 = { "Tanítad" "Tanítad" } # Tanta
+
+# Peklousma
+4316 = { "Boúbastis" "Boúbastis" } # Bubastis
+2315 = { "Klýsma" "Klýsma" } # Clysma
+3280 = { "Rasýri" "Rasýri" } # "Western Coast"
+3263 = { "Katía" "Katía" } # Katia
+3264 = { "Peloúsion" "Peloúsion" } # Pelusium
+
+# Biau
+3279 = { "Rhaphía" "Rhaphía" } # Rafah
+3276 = { "Rhinokóroura" "Rhinokóroura" } # Rhinocorura
+3277 = { "Raíthou" "Raíthou" } # Raithu
+365 = { "Boía" "Boía" } # Sinai
+
+# Tsakheti
+3265 = { "Phylaké" "Phylaké" } # Giza
+361 = { "Mémphis" "Mémphis" } # Memphis
+2318 = { "Phákousa" "Phákousa" } # Faqus
+1233 = { "Tamauis" "Tamauis" } # Tamiya
+
+# Red Sea Hills
+2320 = { "Iapýthos" "Iapýthos" } # "Eastern"
+2321 = { "Bereníki" "Bereníki" } # Berenice
+2324 = { "Prána" "Prána" } # "House of Anubis"
+
+# Heptanomis
+359 = { "Arsinói" "Arsinói" } # Fayyum
+4318 = { "Boúsiris" "Boúsiris" } # Atfih
+2317 = { "Hermoúpolis" "Hermoúpolis" } # Hermopolis
+4323 = { "Pharaópolis" "Pharaópolis" } # Farafra
+3266 = { "Maniláua" "Maniláua" } # Mallawi
+
+# Abedju
+2319 = { "Lykópolis" "Lykópolis" } # Manfalut
+4320 = { "Ábydos" "Ábydos" } # Abydos
+3267 = { "Derytós" "Derytós" } # Dairut
+3268 = { "Kós" "Kós" } # El Quseyya
+3269 = { "Tmoúpaei" "Tmoúpaei" } # Sohag
+
+# Ipat
+360 = { "Thebai Hekatómpyloi" "Thebai Hekatómpyloi" } # Thebes
+3270 = { "Pampanis" "Pampanis" } # Abu Tesht
+3271 = { "Téssen" "Téssen" } # Dishna
+3272 =  { "Kainí" "Kainí" } # Qena
+3274 = { "Dióspolis" "Dióspolis" } # Luxor
+
+# Swenett
+4319 = { "Latópolis" "Latópolis" } # Esna
+1231 = { "Syené" "Syené" } # Aswan
+3273 = { "Apollinòpolis" "Apollinòpolis" } # Edfu
+3275 = { "Philaí" "Philaí" } # Philae
+1234 = { "Prímis" "Prímis" } # Primis
+
+# Lower Nubia
+2322 = { "Bohón" "Bohón" } # Buhen
+2323 = { "Mirgíssa" "Mirgíssa" } # Iken, from https://commons.wikimedia.org/wiki/File:Ancient_Egypt_map-hiero_(ms).svg
+3283 = { "Chenoúpolis" "Chenoúpolis" } # "Great Chief"
+3287 = { "Koúna" "Koúna" } # Hayya
+3282 = { "Retíana" "Retíana" } # Ariteñan, fictional
+
+## MAGHREB 
+
+# Syrtís
+3293 = { "Autómala" "Autómala" } # El Agheila
+355 = { "Syrtís" "Syrtís" } # Syrte
+3300 = { "Maráda" "Maráda" } # Maradah
+3301 = { "Zála" "Zála" } # Zella
+3302 = { "Gerísa" "Gerísa" } # Ghirza
+
+# Tripolitania
+3294 = { "Toárcha" "Toárcha" } # Tawergha
+2451 = { "Thoubáktis" "Thoubáktis" } # Thubactis/Thubaqt
+3295 = { "Léptis Megále" "Léptis Megále" } # Al-Khums/Leptis Magna
+354 = { "Oía" "Oía" } # Tripoli/Oea
+3296 = { "Sabrátha" "Sabrátha" } # Sabratha
+
+# Meninga
+2452 = { "Soúar" "Soúar" } # Zuwarah
+2954 = { "Menínx" "Menínx" } # Djerba
+353 = { "Gergís" "Gergís" } # Zarzis
+2453 = { "Taphroúria" "Taphroúria" } # Sfax/Taparura
+
+# Ifezzan
+2450 = { "Kydámos" "Kydámos" } # Ghadames
+3307 = { "Thaliápolis" "Thaliápolis" } # Nalut/Lalut/Tala
+3306 = { "Bérrhi" "Bérrhi" } # Fictional
+3315 = { "Zendána" "Zendána" } # Zintan
+
+# Isuknen
+4567 = { "Sába" "Sába" } # Sabha
+3314 = { "Toubák" "Toubák" } # Tabaqah
+3304 = { "Chárion" "Chárion" } # Gharyan
+3305 = { "Esoúchna" "Esoúchna" } # Sokna
+3303 = { "Ódana" "Ódana" } # Waddan
+
+# Isuknen
+2449 = { "Choúna" "Choúna" } # Hun
+2448 = { "Morsócha" "Morsócha" } # Murzuk
+3308 = { "Gárama" "Gárama" } # Germa
+2474 = { "Empéris" "Empéris" } # "Desert Merchants"
+
 
 285 = "Theodosia"
 340 = "Constantina"
 352 = "Justiniania"
-357 = "Darnis"
-358 = "Aleksandreia"
-360 = "Kaine"
-363 = "Tamiathis"
-1231 = "Syene"
-1233 = "Megale"
-2319 = "Lytkopolis"
-2326 = "Petra Megale"
 2348 = "Chios"
 2447 = "Tamatarha"
 149 = { "Adrianople" "Adrianople" }
