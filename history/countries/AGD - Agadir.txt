@@ -6,7 +6,7 @@
 primary_culture = shilha
 technology_group = latin_group
 # Specific Effects #
-religion = buddhism
+religion = amazighism
 government = tribal
 add_government_reform = steppe_horde
 government_rank = 1

@@ -392,6 +392,24 @@ semitic_religions = {
 		}
 		heretic = { SUMER }
 	}
+
+	amazighism = {
+		color = { 12 24 117 }
+		icon = 44 #placeholder
+		province = {
+			hostile_attrition = 2
+		}
+		country = {
+			cavalry_shock = 1.5
+			own_territory_dice_roll_bonus = 1
+		}
+		country_as_secondary = {
+			cavalry_shock = 0.75
+			morale_damage_received = -0.025
+		}
+		heretic = { BEAR_SPIRIT SNAKE_CLAN }
+		personal_deity = yes
+	}
 }
 
 nilotic_religions = {

@@ -19,6 +19,6 @@ base_manpower = 3
 base_production = 1
 culture = garamantian
 trade_goods = livestock
-religion = buddhism
+religion = amazighism
 controller = FZA
 is_city = no

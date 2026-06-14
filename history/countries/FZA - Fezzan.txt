@@ -7,7 +7,7 @@ government = monarchy
 add_government_reform = feudalism_reform
 government_rank = 1
 primary_culture = garamantian
-religion = buddhism
+religion = amazighism
 technology_group = ottoman
 capital = 3305
 # Specific Effects #

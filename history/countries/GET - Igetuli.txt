@@ -5,7 +5,7 @@
 # GET (Igetuli)
 government_rank = 1
 primary_culture = gaetuli
-religion = buddhism
+religion = amazighism
 technology_group = latin_group
 capital = 336
 # Specific Effects #

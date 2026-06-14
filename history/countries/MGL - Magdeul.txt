@@ -6,7 +6,7 @@
 primary_culture = shilha
 technology_group = latin_group
 # Specific Effects #
-religion = buddhism
+religion = amazighism
 government = republic
 add_government_reform = oligarchy_reform
 government_rank = 1

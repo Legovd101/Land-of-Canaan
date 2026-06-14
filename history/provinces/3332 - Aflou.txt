@@ -19,6 +19,6 @@ base_manpower = 2
 base_production = 3
 culture = gaetuli
 trade_goods = slaves
-religion = buddhism
+religion = amazighism
 controller = GET
 is_city = no

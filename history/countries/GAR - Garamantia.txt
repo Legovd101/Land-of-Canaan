@@ -1,4 +1,4 @@
-religion = buddhism
+religion = amazighism
 capital = 3308
 technology_group = latin_group
 primary_culture = garamantian
