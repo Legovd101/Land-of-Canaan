@@ -3,7 +3,7 @@
 ########################################
 ### Modified 11/29/2025 12:31:05 AM ###
 # MUT (Maritanya)
-primary_culture = mauritanian
+primary_culture = mauretanian
 technology_group = latin_group
 # Specific Effects #
 religion = vandalic

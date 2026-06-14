@@ -23,6 +23,7 @@ discovered_by = latin_group
 discovered_by = adventurer
 discovered_by = celtic_group
 discovered_by = eastern
+discovered_by = slavic_group
 discovered_by = baltic_group
 discovered_by = nomad_group
 discovered_by = uralic_group

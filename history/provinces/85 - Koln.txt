@@ -18,6 +18,7 @@ religion = new_gothic
 capital = "Köln"
 is_city = yes
 discovered_by = eastern
+discovered_by = slavic_group
 discovered_by = baltic_group
 discovered_by = western
 discovered_by = latin_group

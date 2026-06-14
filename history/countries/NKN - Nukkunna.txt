@@ -1,6 +1,6 @@
 religion = svetlodrizi
 capital = 2963
-technology_group = eastern
+technology_group = slavic_group
 primary_culture = lusatian
 government = theocracy
 add_government_reform = leading_clergy_reform

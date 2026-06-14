@@ -1,6 +1,6 @@
 religion = pyrrhonism
 capital = 4699
-technology_group = eastern
+technology_group = slavic_group
 primary_culture = greek
 government = monarchy
 add_government_reform = feudalism_reform

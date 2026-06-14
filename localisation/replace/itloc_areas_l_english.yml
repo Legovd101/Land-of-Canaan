@@ -349,14 +349,17 @@
  barbary_coast_area: "Deben" # Portus Divinus
  barbary_coast_area_adj: "Debensk"
 
- djerba_area: "Meninga"
+ djerba_area: "Meninga" # Meninx
  djerba_area_adj: "Meningisk"
 
- fezzan_area: "Ifezzan"
+ fezzan_area: "Ifezzan" # Fezzan
  fezzan_area_adj: "Fezzen"
 
- garamantia_area: "Ighermantiya"
+ garamantia_area: "Ighermantiya" # Garamantia
  garamantia_area_adj: "Ighermantiya"
+
+ hadrumetum_area: "Atrimen"
+ hadrumetum_area: "Atrimensk"
 
  hautes_plaines_area: "Aras"
  hautes_plaines_area_adj: "Arsen"
@@ -367,8 +370,17 @@
  macaronesia_area: "Kanerya Ginsula"
  macaronesia_area_adj: "Ginsulai"
 
- marrekesh_area: "Maritanya"
- marrekesh_area_adj: "Maritanyu"
+ marrekesh_area: "Amurakuc"
+ marrekesh_area_adj: "Amuraken"
+
+ massylia_area: "Maisilja"
+ massylia_area: "Maisilisk"
+
+ mauretania_area: "Maritanya"
+ mauretania_area_adj: "Maritanyu"
+
+ mzab_area: "Mozabya"
+ mzab_area: "Mozabu"
 
  north_saharan_area: "Leyo"
  north_saharan_area_adj: "Leyonu"
@@ -376,8 +388,8 @@
  northern_morocco_area: "Dingidana"
  northern_morocco_area_adj: "Dingidansk"
 
- ouled_nail_area: "Debéskra"
- ouled_nail_area_adj: "Debéskranu"
+ ouled_nail_area: "Lemdeya"
+ ouled_nail_area_adj: "Lemdeyen"
 
  sirte_area: "Syrtís"
  sirte_area_adj: "Syrtian"

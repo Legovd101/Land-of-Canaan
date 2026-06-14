@@ -137,4 +137,37 @@ From;To;Type;Through;start_x;start_y;stop_x;stop_y;Comment
 2449;2448;sea;3313;-1;-1;-1;-1;Jufra-Fezzan
 2448;2474;sea;1794;-1;-1;-1;-1;Fezzan-Tajarhi
 2474;2475;sea;1794;-1;-1;-1;-1;Tajarhi-Djado
+2472;3317;sea;3334;-1;-1;-1;-1;Ghadames-El Borma
+2472;2457;sea;3334;-1;-1;-1;-1;Ghadames-Mzab
+3330;2457;sea;3334;-1;-1;-1;-1;El Allia-Mzab
+3330;3329;sea;3334;-1;-1;-1;-1;El Allia-Debila
+3330;3331;sea;3335;-1;-1;-1;-1;El Allia-Guettara
+3318;3329;sea;3333;-1;-1;-1;-1;Nefta-Debila
+3318;3307;sea;3333;-1;-1;-1;-1;Nefta-Nalut
+3318;3319;sea;3333;-1;-1;-1;-1;Nefta-Gabés
+3318;2456;sea;3333;-1;-1;-1;-1;Nefta-Touggourt
+2456;352;sea;3333;-1;-1;-1;-1;Touggourt-Gafsa
+2456;351;sea;3336;-1;-1;-1;-1;Touggourt-Biskra
+3331;350;sea;3336;-1;-1;-1;-1;Guettara-Laghouat
+2459;350;sea;3336;-1;-1;-1;-1;Titteri-Laghouat
+2459;2458;sea;3336;-1;-1;-1;-1;Titteri-Hodna
+3328;2458;sea;3336;-1;-1;-1;-1;Sétif-Hodna
+2459;3339;sea;3336;-1;-1;-1;-1;Titteri-Medea
+3332;350;sea;3336;-1;-1;-1;-1;Aflou-Laghouat
+3339;2462;sea;3350;-1;-1;-1;-1;Medea-Ouarsenis
+336;2462;sea;3350;-1;-1;-1;-1;Tlemcen-Ouarsenis
+336;2463;sea;3350;-1;-1;-1;-1;Tlemcen-Kasdir
+3342;2463;sea;3350;-1;-1;-1;-1;Sfissifa-Kasdir
+3342;3349;sea;3351;-1;-1;-1;-1;Sfissifa-Badla
+3342;349;sea;3351;-1;-1;-1;-1;Sfissifa-Figuig
+349;346;sea;3351;-1;-1;-1;-1;Figuig-Tafilalt
+3349;2460;sea;3351;-1;-1;-1;-1;Badla-Saoura
+346;2460;sea;3351;-1;-1;-1;-1;Tafilalt-Saoura
+2464;2460;sea;3353;-1;-1;-1;-1;Ouarzazate-Saoura
+1127;2460;sea;3353;-1;-1;-1;-1;Tuat-Saoura
+1127;2466;sea;3353;-1;-1;-1;-1;Tuat-Draa
+348;2466;sea;3352;-1;-1;-1;-1;Sus-Draa
+2464;4568;sea;3352;-1;-1;-1;-1;Ouarzazate-Demnate
+1127;3348;sea;3353;-1;-1;-1;-1;Tuat-Sali
+1128;3348;sea;3353;-1;-1;-1;-1;Taudeni-Sali
 -1;-1;;-1;-1;-1;-1;-1;-1;

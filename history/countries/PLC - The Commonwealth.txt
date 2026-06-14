@@ -5,7 +5,7 @@ add_accepted_culture = lithuanian
 add_accepted_culture = pruthenian
 add_accepted_culture = byelorussian
 religion = catholic
-technology_group = eastern
+technology_group = slavic_group
 capital = 262 # Krakow
 
 1444.10.1 = {

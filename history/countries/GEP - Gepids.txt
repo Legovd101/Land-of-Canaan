@@ -1,6 +1,6 @@
 religion = old_gothic
 capital = 158
-technology_group = eastern
+technology_group = slavic_group
 primary_culture = gepid
 government = theocracy
 add_government_reform = leading_clergy_reform

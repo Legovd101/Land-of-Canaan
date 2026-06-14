@@ -17,6 +17,7 @@ capital = "Auch"
 is_city = yes
 add_local_autonomy = 25
 discovered_by = eastern
+discovered_by = slavic_group
 discovered_by = baltic_group
 discovered_by = western
 discovered_by = latin_group

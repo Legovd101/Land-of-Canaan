@@ -2,7 +2,7 @@ government = monarchy
 add_government_reform = feudalism_reform
 primary_culture = polish
 religion = svetlodrizi
-technology_group = eastern
+technology_group = slavic_group
 capital = 262# Krakow
 fixed_capital = 262# Cannot move capital away from this province & no power cost to move to it
 1530.1.1 = { set_legacy_government = administrative_monarchy }

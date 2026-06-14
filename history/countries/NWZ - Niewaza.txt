@@ -1,6 +1,6 @@
 religion = vajrayana
 capital = 277
-technology_group = eastern
+technology_group = slavic_group
 primary_culture = polish
 government_rank = 1
 government = monarchy

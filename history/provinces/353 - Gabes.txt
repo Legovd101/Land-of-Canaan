@@ -26,4 +26,5 @@ discovered_by = thraco_illyrian
 discovered_by = serican_group
 discovered_by = iranic_group
 discovered_by = eastern
+discovered_by = slavic_group
 discovered_by = baltic_group

@@ -4,8 +4,8 @@
 ### Modified 10/15/2025 8:40:52 AM ###
 # Tadla
 # 2468 Tadla - 10/15/2025 8:40:52 AM 
-owner = PRP
-controller = PRP
+owner = MRK
+controller = MRK
 base_tax = 3
 base_production = 3
 base_manpower = 1
@@ -24,4 +24,4 @@ discovered_by = western
 discovered_by = latin_group
 discovered_by = adventurer
 discovered_by = celtic_group
-add_core = PRP
+add_core = MRK
