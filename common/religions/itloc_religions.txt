@@ -384,7 +384,7 @@ semitic_religions = {
 			harsh_treatment_cost = -0.3
 		}
 		province = {
-			build_cost = -0.15
+			local_build_cost = -0.15
 		}
 		country_as_secondary = {
 			monthly_splendor = 1
@@ -397,7 +397,7 @@ semitic_religions = {
 		color = { 12 24 117 }
 		icon = 44 #placeholder
 		province = {
-			hostile_attrition = 2
+			local_hostile_attrition = 2
 		}
 		country = {
 			cavalry_shock = 1.5

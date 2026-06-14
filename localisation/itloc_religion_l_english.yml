@@ -672,15 +672,15 @@
 
 ###berber pagan (i refuse to organise it like that sorry -aurie)
  amazighism: "Amazigh" #temporary in lieu of better name
- amazighism_desc: "The traditional faith of the Amazigh people. Although it regards other faiths with distrust it doesn't fail to adopt their gods with surpising ease when convenient."
+ amazighism_religion_desc: "The traditional faith of the Amazigh people. Although it regards other faiths with distrust it doesn't fail to adopt their gods with surpising ease when convenient."
  amazighism_rebels_army: "$RELIGION$ Army"
  amazighism_rebels_demand: "Convert $COUNTRYNAME$"
  amazighism_rebels_demand_desc: "The religious rebels fight for the $RELIGION$ religion. They demand that we recognize its supremacy or at the very least cease our efforts to convert them and let them worship in peace."
  amazighism_rebels_desc: "Religious fanatics tend to rise up in provinces controlled by nations of a different faith. They seek to spread their faith and smite all unbelievers."
  amazighism_rebels_name: "$RELIGION$ Zealots"
  amazighism_rebels_title: "Religious"
- baal_hammon: "Baal Hammon"
- baal_hammon_desc: "Lord Hammon, king the gods, of the sky and underworld. As divine dispenser of justice and order his authority is unquestionable, as is the one of rulers who follow him."
+ baal_hammon: "Hammon"
+ baal_hammon_desc: "Baal Hammon, king the gods, of the sky and underworld. As divine dispenser of justice and order his authority is unquestionable, as is the one of rulers who follow him."
  tanit: "Tanit"
  tanit_desc: "The great goddes of wisdom and civilisations past, she inspires in our people a desire for grandeur in achieving even greater feats than those long gone empires, surely ours wouldn't fall."
  ifru: "Ifru"

@@ -17,5 +17,5 @@ base_manpower = 3
 base_production = 1
 culture = tuareg
 trade_goods = livestock
-religion = buddhism
+religion = amazighism
 is_city = no
