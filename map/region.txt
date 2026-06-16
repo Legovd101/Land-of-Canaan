@@ -108,7 +108,7 @@ maghreb_region = {
 	areas = { 
 		fezzan_area tunisia_area djerba_area kabylia_area algiers_area hautes_plaines_area north_saharan_area tafilalt_area sus_area marrekesh_area
 		ouled_nail_area northern_morocco_area southern_morocco_area western_morocco_area tripolitania_area barbary_coast_area macaronesia_area
-		sokna_area garamantia_area sirte_area
+		sokna_area garamantia_area sirte_area hadrumetum_area mzab_area massylia_area mauretania_area
 	}
 }
 mashriq_region = { 

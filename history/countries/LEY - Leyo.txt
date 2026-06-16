@@ -4,7 +4,7 @@
 ### Modified 11/29/2025 12:31:05 AM ###
 # LEY (Leyo)
 government = republic
-add_government_reform = military_dictatorship_reform
+add_government_reform = legionnary_dictatorship
 government_rank = 1
 primary_culture = leyonese
 religion = mithraism

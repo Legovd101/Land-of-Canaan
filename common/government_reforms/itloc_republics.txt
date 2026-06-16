@@ -3,9 +3,9 @@ arctic_admiralty = {
     allow_normal_conversion = no
 	lock_level_when_selected = yes
 	valid_for_nation_designer = no
-	trigger = {
+    potential = {
 		tag = SKU
-	}
+    }
     modifiers = {
         may_explore = yes
         sea_repair = yes
@@ -18,6 +18,34 @@ arctic_admiralty = {
         enables_plutocratic_idea_group = yes
 		enables_aristocratic_idea_group = no
         admirals_become_rulers = yes
+    }
+    has_term_election = no
+    ai = {
+		factor = 10
+	}
+}
+
+legionnary_dictatorship = {
+    icon = "national_assembly"
+    allow_normal_conversion = no
+	lock_level_when_selected = yes
+	valid_for_nation_designer = no
+	potential = {
+		OR = {
+            tag = PMG
+            tag = LEY
+        }
+	}
+    modifiers = {
+        army_tradition_decay = -0.025
+        attrition = -0.15
+        army_tradition_from_battle = 0.1
+        general_cost = -0.1
+    }
+    custom_attributes = {
+        enables_plutocratic_idea_group = yes
+		enables_aristocratic_idea_group = no
+        generals_become_rulers = yes
     }
     has_term_election = no
     ai = {

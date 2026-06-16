@@ -359,7 +359,7 @@
  garamantia_area_adj: "Ighermantiya"
 
  hadrumetum_area: "Atrimen"
- hadrumetum_area: "Atrimensk"
+ hadrumetum_area_adj: "Atrimensk"
 
  hautes_plaines_area: "Aras"
  hautes_plaines_area_adj: "Arsen"
@@ -374,13 +374,13 @@
  marrekesh_area_adj: "Amuraken"
 
  massylia_area: "Maisilja"
- massylia_area: "Maisilisk"
+ massylia_area_adj: "Maisilisk"
 
  mauretania_area: "Maritanya"
  mauretania_area_adj: "Maritanyu"
 
  mzab_area: "Mozabya"
- mzab_area: "Mozabu"
+ mzab_area_adj: "Mozabu"
 
  north_saharan_area: "Leyo"
  north_saharan_area_adj: "Leyonu"

@@ -1,0 +1,24 @@
+# RULES
+# All names here will be either historical names, or reconstructed African Latin toponyms
+# Format: ID = { "Province" "Capital" } # Origin
+
+# RULES
+# -ia -> -ya
+# pp/v -> b
+# c -> k
+
+## Maghreb/Aifryka
+
+# Mozabu
+3317 = { "Amidya" "Amidya" } # "Oasis" 
+2472 = { "Ugren" "Ugren" } # Ouargla
+2457 = { "Mozabopolis" "Mozabopolis" } # "Mzab City"
+3329 = { "Tremina" "Tremina" } # Drimini
+3330 = { "Ubida Balma" "Ubida Balma" } # "Palm Town"
+
+# Leyo
+3318 = { "Nepti" "Nepti" } # Nefta 
+352 = { "Kapsa" "Kapsa" } # Gafsa
+2456 = { "Togertya" "Togertya" } # Touggourt
+351 = { "Beskerya" "Beskerya" } # Biskra
+3331 = { "Gattara" "Gattara" } # Guettara
