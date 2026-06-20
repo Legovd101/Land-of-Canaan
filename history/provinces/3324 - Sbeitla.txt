@@ -21,3 +21,4 @@ culture = vandalo_african
 religion = vandalic
 controller = AFR
 is_city = yes
+trade_goods = cloth

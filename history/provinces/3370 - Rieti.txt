@@ -22,3 +22,4 @@ base_tax = 2
 base_manpower = 1
 base_production = 3
 road_network = yes
+trade_goods = grain

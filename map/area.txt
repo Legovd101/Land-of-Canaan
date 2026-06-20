@@ -450,7 +450,7 @@ tuscany_area = {  #5
 }
 siena_area = {  #4
 
-	117 3368 3373 3374
+	117 3368 3373 3374 3371 
 }
 liguria_area = {  #4
 
@@ -511,7 +511,7 @@ parma_area = {  #3
 }
 central_italy_area = {  #5
 
-	2977 2976 3371 3372 3375
+	2977 2976 3372 3375
 }
 picenum_area = {  #3
 

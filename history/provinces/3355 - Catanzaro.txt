@@ -22,3 +22,4 @@ base_tax = 3
 base_manpower = 4
 base_production = 1
 road_network = yes
+trade_goods = salt
