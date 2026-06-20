@@ -33,3 +33,4 @@ discovered_by = serican_group
 discovered_by = iranic_group
 discovered_by = nomad_group
 discovered_by = uralic_group
+road_network = yes

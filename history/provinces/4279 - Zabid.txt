@@ -28,3 +28,4 @@ discovered_by = uralic_group
 discovered_by = east_african
 discovered_by = cushitic_group
 add_core = IMF
+road_network = yes

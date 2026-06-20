@@ -1,5 +1,5 @@
 religion = jupiterian
-capital = 2985
+capital = 3365
 technology_group = latin_group
 primary_culture = samnite
 government = republic

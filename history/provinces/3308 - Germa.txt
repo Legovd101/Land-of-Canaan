@@ -21,4 +21,4 @@ culture = garamantian
 trade_goods = livestock
 religion = amazighism
 controller = GAR
-is_city = no
+is_city = yes

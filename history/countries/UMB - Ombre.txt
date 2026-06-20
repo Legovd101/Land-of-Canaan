@@ -1,5 +1,5 @@
 religion = jupiterian
-capital = 116
+capital = 2977
 technology_group = latin_group
 primary_culture = umbrian
 government = monarchy

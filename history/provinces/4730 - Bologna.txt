@@ -4,9 +4,8 @@
 ### Modified 10/14/2025 2:36:58 PM ###
 # Bologna
 # 4730 Bologna - 10/14/2025 2:36:58 PM 
-add_core = BLG
-owner = BLG
-controller = BLG
+owner = FER
+controller = FER
 base_tax = 5
 base_production = 4
 base_manpower = 3
@@ -28,3 +27,4 @@ discovered_by = ottoman
 discovered_by = thraco_illyrian
 discovered_by = serican_group
 discovered_by = iranic_group
+add_core = FER

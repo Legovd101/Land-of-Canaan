@@ -31,3 +31,4 @@ discovered_by = east_african
 discovered_by = cushitic_group
 discovered_by = BYZ
 add_core = ASY
+road_network = yes

@@ -30,3 +30,4 @@ discovered_by = thraco_illyrian
 discovered_by = serican_group
 discovered_by = iranic_group
 add_core = BDG
+road_network = yes

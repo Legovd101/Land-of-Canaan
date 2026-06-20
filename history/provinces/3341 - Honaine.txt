@@ -21,4 +21,4 @@ culture = phoenician
 trade_goods = naval_supplies
 religion = canaanite
 controller = TMD
-is_city = no
+is_city = yes

@@ -21,4 +21,4 @@ culture = vandalo_african
 trade_goods = naval_supplies
 religion = vandalic
 controller = CTH
-is_city = no
+is_city = yes

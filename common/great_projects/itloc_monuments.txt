@@ -1024,7 +1024,7 @@ lighthouse_of_alexandria = {
 	}
 }
 
-kaaba_of_najran = {
+kaaba_of_ragmatum = {
 	start = 391
 	date = 300.01.01 #630.01.01 #Muhammad securing Mecca and removing statues and images from Kaaba
 	time = {

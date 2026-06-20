@@ -5,9 +5,8 @@
 # Ravenna
 # 114 Ravenna - 10/14/2025 2:36:58 PM 
 add_core = PAP
-add_core = BLG
-owner = BLG
-controller = BLG
+owner = FER
+controller = FER
 base_tax = 4
 base_production = 5
 base_manpower = 2
@@ -29,3 +28,5 @@ discovered_by = ottoman
 discovered_by = thraco_illyrian
 discovered_by = serican_group
 discovered_by = iranic_group
+add_core = FER
+road_network = yes

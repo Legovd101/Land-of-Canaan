@@ -4,8 +4,8 @@
 ### Modified 10/14/2025 2:36:58 PM ###
 # Avellino
 # 4734 Avellino - 10/14/2025 2:36:58 PM 
-owner = SAF
-controller = SAF
+owner = TAS
+controller = TAS
 base_tax = 4
 base_production = 4
 base_manpower = 3
@@ -27,4 +27,4 @@ discovered_by = ottoman
 discovered_by = thraco_illyrian
 discovered_by = serican_group
 discovered_by = iranic_group
-add_core = SAF
+add_core = TAS

@@ -21,4 +21,4 @@ culture = leyonese
 trade_goods = livestock
 religion = mithraism
 controller = LEY
-is_city = no
+is_city = yes

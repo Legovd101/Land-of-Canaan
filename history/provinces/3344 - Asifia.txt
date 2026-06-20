@@ -21,4 +21,4 @@ culture = mauretanian
 trade_goods = livestock
 religion = vandalic
 controller = MUT
-is_city = no
+is_city = yes

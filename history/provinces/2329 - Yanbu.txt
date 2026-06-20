@@ -29,3 +29,4 @@ discovered_by = east_african
 discovered_by = cushitic_group
 add_core = YTB
 fort_15th = yes
+road_network = yes

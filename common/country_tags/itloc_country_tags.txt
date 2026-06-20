@@ -297,7 +297,7 @@ RSN = "countries/Rasna.txt" # Etruscan/Etrurian
 
  ## Other
 TAS = "countries/Taras.txt" # Hellenic
-KLB = "countries/Kalabri.txt" # Hellenic
+ENO = "countries/Enotria.txt" # Hellenic
 
  # Sápmi/Lowlands
  ## Sámi (Sámi)

@@ -21,4 +21,5 @@ culture = cyrenaican
 trade_goods = fish
 religion = dionysian
 controller = TRP
-is_city = no
+is_city = yes
+road_network = yes

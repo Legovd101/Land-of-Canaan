@@ -26,3 +26,4 @@ discovered_by = nomad_group
 discovered_by = uralic_group
 add_core = XIM
 fort_15th = yes
+road_network = yes

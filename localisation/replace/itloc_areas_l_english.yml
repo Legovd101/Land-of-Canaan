@@ -419,11 +419,11 @@
  apulia_area: "Pule"
  apulia_area_adj: "Puleic"
 
- calabria_area: "Kalabrí"
- calabria_area_adj: "Kalabroí"
+ calabria_area: "Enótria"
+ calabria_area_adj: "Enótrioí"
 
- central_italy_area: "Prutetium"
- central_italy_area_adj: "Prutetii"
+ central_italy_area: "Umbria"
+ central_italy_area_adj: "Umbri"
 
  corsica_sardinia_area: "Nura Balara"
  corsica_sardinia_area_adj: "Nura Balari"
@@ -431,14 +431,29 @@
  emilia_romagna_area: "Vimilia"
  emilia_romagna_area_adj: "Vimilii"
 
+ lazio_area: "Latium"
+ lazio_area_adj: "Latini"
+
  liguria_area: "Ambronis"
  liguria_area_adj: "Ambroni"
 
  lombardy_area: "Medeladunom"
  lombardy_area_adj: "Medelanis"
 
+ lucania_area: "Loukánia"
+ lucania_area_adj: "Loukánioi"
+
+ luni_area: "Luna"
+ luni_area_adj: "Lunal"
+
  naples_area: "Opicem"
  naples_area_adj: "Opical"
+
+ parma_area: "Palmal"
+ parma_area_adj: "Palmal"
+
+ picenum_area: "Picenum"
+ picenum_area_adj: "Picenti"
 
  piedmont_area: "Lombardia"
  piedmont_area_adj: "Lombardii"
@@ -446,8 +461,20 @@
  po_valley_area: "Binauria"
  po_valley_area_adj: "Binaurii"
 
+ samnium_area: "Safinim"
+ samnium_area_adj: "Safineis"
+
+ sardinia_area: "Sardinur"
+ sardinia_area_adj: "Sardini"
+
  sicily_area: "Eastern Sicily"
  sicily_area_adj: "Sicilian"
+
+ siena_area: "Saena"
+ siena_area_adj: "Saeni"
+
+ taranto_area: "Tarántos"
+ taranto_area_adj: "Tarántoi"
 
  tuscany_area: "Rasna"
  tuscany_area_adj: "Rasnal"

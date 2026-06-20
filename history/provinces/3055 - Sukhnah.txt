@@ -19,3 +19,4 @@ discovered_by = nomad_group
 discovered_by = uralic_group
 add_core = PLM
 hre = yes
+road_network = yes

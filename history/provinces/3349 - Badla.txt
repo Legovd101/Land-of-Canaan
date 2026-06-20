@@ -21,4 +21,4 @@ culture = septian
 trade_goods = slaves
 religion = vandalic
 controller = GLD
-is_city = no
+is_city = yes

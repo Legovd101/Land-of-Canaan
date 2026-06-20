@@ -27,7 +27,7 @@ low_countries_region = {
 italy_region = { 
 	areas = { 
 		venetia_area lombardy_area piedmont_area tuscany_area liguria_area corsica_sardinia_area sicily_area naples_area calabria_area apulia_area
-		emilia_romagna_area central_italy_area lazio_area po_valley_area western_sicily_area 
+		emilia_romagna_area central_italy_area lazio_area po_valley_area western_sicily_area siena_area luni_area sardinia_area lucania_area taranto_area parma_area picenum_area samnium_area
 	}
 }
 north_german_region = { 

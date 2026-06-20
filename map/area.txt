@@ -446,15 +446,27 @@ piedmont_area = {  #4
 }
 tuscany_area = {  #5
 
-	115 116 117 2978 2980 
+	115 116 2978 2980 
 }
-liguria_area = {  #3
+siena_area = {  #4
 
-	101 102 2992 
+	117 3368 3373 3374
+}
+liguria_area = {  #4
+
+	101 102 2992 3380
+}
+luni_area = {  #3
+
+	3377 3378 3379
 }
 corsica_sardinia_area = {  #4
 
-	127 1247 2986 4735 
+	1247 3381 3382 3383
+}
+sardinia_area = { #5
+
+	127 2986 4735 3384 3385
 }
 sicily_area = {  #3 # now Eastern Sicily
 
@@ -466,28 +478,48 @@ western_sicily_area = {  #3
 }
 naples_area = {  #3  #Campania
 
-	121 2983 4734 
+	121 3362 3364
 }
 lazio_area = {  #4 Lazio-Umbria
 
-	118 2976 4731 4732 
+	118 4732 3367
 }
-calabria_area = {  #3 (+Lucania)
+calabria_area = {  #4
 
-	123 1934 2984 
+	123 2984 3354 3355
 }
-apulia_area = {  #4
+lucania_area = {  #4
 
-	122 1933 2985 4733 
+	1934 3356 3357 2983 
 }
-emilia_romagna_area = {  #5
+apulia_area = {  #5
+
+	2985 4733 4734 3360 3361
+}
+taranto_area = {  #4
+
+	122 1933 3358 3359
+}
+emilia_romagna_area = {  #3
 
 	color = { 24 222 66 }
-	105 106 113 114 4730 
+	113 114 4730 
 }
-central_italy_area = {  #3
+parma_area = {  #3
 
-	119 120 2977 
+	105 106 3376
+}
+central_italy_area = {  #5
+
+	2977 2976 3371 3372 3375
+}
+picenum_area = {  #3
+
+	119 3369 3370
+}
+samnium_area = {  #5
+
+	4731 120 3363 3365 3366
 }
 ########################################
 # British Isles			 			   #

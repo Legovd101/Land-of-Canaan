@@ -21,4 +21,4 @@ culture = gaetuli
 trade_goods = salt
 religion = amazighism
 controller = GET
-is_city = no
+is_city = yes

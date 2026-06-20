@@ -21,4 +21,4 @@ culture = garamantian
 trade_goods = slaves
 religion = amazighism
 controller = FZA
-is_city = no
+is_city = yes

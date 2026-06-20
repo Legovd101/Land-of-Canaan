@@ -4,8 +4,8 @@
 ### Modified 10/14/2025 2:36:58 PM ###
 # Arezzo
 # 2978 Arezzo - 10/14/2025 2:36:58 PM 
-owner = UMB
-controller = UMB
+owner = TUS
+controller = TUS
 base_tax = 6
 base_production = 6
 base_manpower = 2
@@ -27,4 +27,5 @@ discovered_by = ottoman
 discovered_by = thraco_illyrian
 discovered_by = serican_group
 discovered_by = iranic_group
-add_core = UMB
+add_core = TUS
+road_network = yes

@@ -21,4 +21,4 @@ culture = cyrenaican
 trade_goods = wine
 religion = dionysian
 controller = CTH
-is_city = no
+is_city = yes

@@ -9480,6 +9480,8 @@ illyrian = {
 	daesitiates = {
 		primary = ALB
 	}
+	messapian = {
+	}
 
 	dynasty_names = {
 		Taulantia Dardania Dassaretia Parthinia Penestia Byllionia Ardania Atintania Labeatia

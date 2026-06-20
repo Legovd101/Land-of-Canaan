@@ -41,8 +41,8 @@ spriteTypes = {
 	}
 
 	spriteType = {
-		name = "GFX_great_project_kaaba_of_najran"	
-		texturefile = "gfx//interface//great_projects//great_project_kaaba_of_najran.dds"
+		name = "GFX_great_project_kaaba_of_ragmatum"	
+		texturefile = "gfx//interface//great_projects//great_project_kaaba_of_ragmatum.dds"
 	}
 
 	spriteType = {

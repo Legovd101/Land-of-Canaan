@@ -160,7 +160,7 @@ keme_2_2 = {
 	keme_empower_nomarchs = {
 		icon = mission_se_along_the_river
 		position = 5
-		required_missions = { keme_thirty_fifth_dynasty } 
+		required_missions = { keme_thirty_sixth_dynasty } 
 		provinces_to_highlight = {
 			OR = {
 				area = middle_egypt_area
@@ -375,7 +375,7 @@ keme_3 = {
 		}
 	}
 
-	keme_thirty_fifth_dynasty = {
+	keme_thirty_sixth_dynasty = {
 		icon = mission_egyptian_mamluk_soldier
 		position = 4
 		required_missions = { keme_king_of_nile } 
@@ -478,7 +478,7 @@ keme_4_2 = {
 	keme_seat_of_tinayu = {
 		icon = mission_conquer_alexandria
 		position = 5
-		required_missions = { keme_thirty_fifth_dynasty } 
+		required_missions = { keme_thirty_sixth_dynasty } 
 		provinces_to_highlight = { province_id = 358 } 
 
 		trigger = { owns = 358 } 

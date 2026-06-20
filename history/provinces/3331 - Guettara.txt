@@ -21,4 +21,4 @@ culture = mozabite
 trade_goods = wool
 religion = amazighism
 controller = LEY
-is_city = no
+is_city = yes

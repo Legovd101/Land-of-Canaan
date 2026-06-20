@@ -26,3 +26,4 @@ discovered_by = uralic_group
 discovered_by = east_african
 discovered_by = cushitic_group
 add_core = MNE
+road_network = yes

@@ -27,3 +27,4 @@ discovered_by = uralic_group
 extra_cost = 8
 center_of_trade = 1
 add_core = TLU
+road_network = yes

@@ -28,3 +28,4 @@ discovered_by = thraco_illyrian
 discovered_by = serican_group
 discovered_by = iranic_group
 add_core = AFR
+road_network = yes

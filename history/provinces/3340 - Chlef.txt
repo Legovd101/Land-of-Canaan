@@ -21,4 +21,4 @@ culture = phoenician
 trade_goods = livestock
 religion = canaanite
 controller = HVN
-is_city = no
+is_city = yes

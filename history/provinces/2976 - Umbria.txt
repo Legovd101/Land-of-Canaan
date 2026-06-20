@@ -4,14 +4,13 @@
 ### Modified 10/14/2025 2:36:58 PM ###
 # Perusia
 # 2976 Perusia - 10/14/2025 2:36:58 PM 
-add_core = ROM
-owner = ROM
-controller = ROM
+owner = UMB
+controller = UMB
 base_tax = 3
 base_production = 4
 base_manpower = 1
 trade_goods = wine
-culture = roman
+culture = umbrian
 religion = jupiterian
 capital = "Perugia"
 is_city = yes
@@ -28,3 +27,4 @@ discovered_by = ottoman
 discovered_by = thraco_illyrian
 discovered_by = serican_group
 discovered_by = iranic_group
+add_core = UMB

@@ -34,3 +34,4 @@ discovered_by = uralic_group
 discovered_by = indian
 discovered_by = east_african
 discovered_by = cushitic_group
+road_network = yes

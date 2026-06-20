@@ -24,3 +24,4 @@ discovered_by = uralic_group
 discovered_by = BYZ
 add_core = HVY
 hre = yes
+road_network = yes

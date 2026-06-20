@@ -29,3 +29,4 @@ center_of_trade = 1
 add_local_autonomy = 20
 add_core = BBL
 hre = yes
+road_network = yes

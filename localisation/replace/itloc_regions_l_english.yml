@@ -1,4 +1,4 @@
-l_english:
+﻿l_english:
  low_countries_region: "Sápmi"
  north_german_region: "Nishersk"
  # Sorbian "Niski" for "Low"
@@ -27,7 +27,7 @@ l_english:
  atropatene_region_adj: "Adhari"
  arabia_region: "al-'Arabiyya"
  arabia_region_name: "al-'Arabiyya"
- arabia_region_adj: "Arabi"
+ arabia_region_adj: "'Arabi"
  southeast_america_region: "Potiskja"
  southeast_america_region_name: "Potiskja"
  southeast_america_region_adj: "Potiski"

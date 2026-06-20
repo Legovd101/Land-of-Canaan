@@ -234,6 +234,39 @@ hellenic_religions = {
 		heretic = { SERAPIS }
 		declare_war_in_regency = yes
 	}
+	neopythagorean = {
+		color = { 51 255 255 }
+		icon = 52
+		allowed_conversion = {
+			arean
+			dionysian
+			pyrrhonism
+		}
+		province = {
+			local_missionary_strength = -0.01
+		}
+		country = {
+			advisor_pool = 2
+			adm_advisor_cost = -0.5
+			idea_cost = -0.05
+			global_missionary_strength = 0.01
+		}
+		country_as_secondary = {
+			advisor_pool = 2
+			adm_advisor_cost = -0.33
+		}
+		on_convert = {
+			add_stability = -1
+			add_country_modifier = {
+				name = "conversion_zeal"
+				duration = 3650
+			}
+		}
+		personal_deity = yes
+		heretic = { SERAPIS }
+		misguided_heretic = yes
+	}
+
 }
 
 celtic_religions = {
