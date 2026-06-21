@@ -2,7 +2,7 @@
 owner = BOS
 controller = BOS
 capital = "Marburg"
-trade_goods = wool
+trade_goods = cheese
 culture = bosnian
 religion = svetlodrizi
 base_tax = 4

@@ -2,7 +2,7 @@
 culture = anishinabe
 religion = totemism
 capital = "Makoua"
-trade_goods = unknown
+trade_goods = lumber
 base_tax = 1
 base_production = 1
 base_manpower = 1

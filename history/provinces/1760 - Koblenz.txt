@@ -10,7 +10,12 @@ controller = NSA
 base_tax = 4
 base_production = 4
 base_manpower = 2
-trade_goods = grain
+trade_goods = indigo
+add_permanent_province_modifier = { 
+	name = woad_type
+	duration = -1  
+	desc = woad_type_tooltip
+}
 culture = dutch
 religion = new_gothic
 capital = "Koblenz"

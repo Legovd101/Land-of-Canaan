@@ -2,7 +2,7 @@
 culture = bedouin_arabic
 religion = arab_pagan
 capital = "Kariatan"
-trade_goods = livestock
+trade_goods = dates
 base_tax = 1
 base_production = 1
 base_manpower = 1

@@ -17,9 +17,13 @@ on_startup = {
 	events = {
 		flavor_GDL.1
 		flavor_BUY.1
-		marcin_events.103
+		# marcin_events.103
 		itloc_serican.1
 	}
+	1 = {
+		province_event = { id = prices_marcin.13 days = 365 }
+	}
+
 }
 
 on_war_won = {

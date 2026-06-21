@@ -2,7 +2,7 @@
 owner = CRO
 controller = CRO
 capital = "Baden"
-trade_goods = wine
+trade_goods = cheese
 religion = svetlodrizi
 culture = croatian
 base_tax = 3

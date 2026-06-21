@@ -4,7 +4,12 @@ controller = SOR
 culture = sorbian
 religion = svetlodrizi
 capital = "Erfurt"
-trade_goods = dyes#Woad, also a center for glassmaking
+trade_goods = indigo
+add_permanent_province_modifier = { 
+	name = woad_type
+	duration = -1  
+	desc = woad_type_tooltip
+}
 base_tax = 5
 base_production = 4
 base_manpower = 3

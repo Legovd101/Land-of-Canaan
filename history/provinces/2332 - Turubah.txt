@@ -2,7 +2,7 @@
 culture = hejazi_culture
 religion = arab_pagan
 capital = "Truba"
-trade_goods = livestock
+trade_goods = horses
 base_tax = 1
 base_production = 1
 base_manpower = 1

@@ -1,7 +1,7 @@
 culture = bornean
 religion = hinduism
 capital = "Batulican"
-trade_goods = unknown
+trade_goods = sea_turtle
 base_tax = 2
 base_production = 3
 base_manpower = 1

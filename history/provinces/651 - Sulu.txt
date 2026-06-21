@@ -2,7 +2,7 @@
 culture = filipino
 religion = animism
 capital = "Jolo"
-trade_goods = unknown
+trade_goods = amber
 base_tax = 4
 base_production = 4
 base_manpower = 3

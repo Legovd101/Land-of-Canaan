@@ -2,7 +2,7 @@
 culture = filipino
 religion = animism#Mixed with Islam
 capital = "Manila"
-trade_goods = chinaware#Imported via Tondo, exported to the Archipelago from Manila.
+trade_goods = cloves
 base_tax = 5
 base_production = 5
 base_manpower = 2

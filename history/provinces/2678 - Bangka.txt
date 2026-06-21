@@ -2,7 +2,7 @@
 culture = sumatran
 religion = hinduism
 capital = "Bangka"
-trade_goods = unknown
+trade_goods = tin
 base_tax = 3
 base_production = 3
 base_manpower = 1
