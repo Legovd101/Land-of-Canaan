@@ -1,0 +1,23 @@
+# RULES
+# All names here will be my attempt at reconstructing Modern Ibero-Romance names from Irish
+# Format: ID = { "Province" "Capital" } # Origin
+
+## Iberia 
+
+# Lissabon
+227 = { "Lissabon" "Lissabon" } # Olisippo
+4787 = { "Særadon" "Særadon" } # "Over the River"
+3179 = { "Colibon" "Colibon" } # Colippo
+
+# Dortaga
+4150 = { "Ephorus" "Ephorus" } # Évora
+3178 = { "Cenetos" "Cenetos" } # Sines
+229 = { "Paiula" "Paiula" } # Beja
+230 = { "Suniba" "Suniba" } # Faro
+
+# Dortaga
+1747 = { "Caezeragus" "Caezeragus" } # Évora
+3177 = { "Maia" "Maia" } # Ammaia
+4788 = { "Embrez" "Embrez" } # Plasencia
+3170 = { "Agusemiraen" "Agusemiraen" } # Mérida
+218 = { "Phidarelusaen" "Phidarelusaen" } # Badajoz
