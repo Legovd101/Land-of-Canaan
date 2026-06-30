@@ -2771,7 +2771,7 @@ caucasian = {
 	}
 }
 
-turko_semitic = { #Levantine
+turko_semitic = { #'Arabi
 	graphical_culture = muslimgfx
 	
 	turkish = {
@@ -2942,6 +2942,78 @@ turko_semitic = { #Levantine
 		primary = HED
 		dynasty_names = {
 			Khayratid "Al Abu Risha" Hawashim Husaynid Makramid Suleymanid "al-Mughaydi" Hasanid "Banu Mughayd" "Rufayda"
+		}
+		male_names = {
+			Mani Rabi'a Musa Ibrahim Markhan Watban Nasir Idris "'Abd-Allah" Sa'ud Zayid Abdullah Muhammad
+			'Abdullah Turki Faisal Al-Rahman Khalid Fahd Aziz Abu-Bakr Abu-Bakr Aarif Abdul-Gafur Abdul-Jaleel Abdul-Qadir 
+			Abdul-Wahab Abdul Abdul Abdullah Abdullah Aghlab Akin Ali Ali Alim Aram Azam Bahir Burhanaddin
+			Fadil Fadl Faruk Ghalib Hafiz Halil Hasan Hasan Husam Hussayn Hussayn Ibrahim Abraham Idris 
+			Is'mail Ismail Isa Jabir Jalil Jibril Khaireddin Khalil Mahdi Mahmud Mahmud
+			Mansur Mirza Mubarak Muhammad Muhammad Mukhtar Murad Musa Moses Muslihiddin Muzaffaraddin Najib 
+			Nasr Nizam Qawurd Ramadan Sa'daddin Sadiq Sami Samir Shaiban
+			Shamir Shujah Sulayman Solomon Talib Ubayd Uways Yahya Yahya Ya'qub Jacob Youkhanna John Yusuf 
+			Joseph Zeyd 
+		}
+		female_names = {
+			Nadiyya Adila Amsha Asiya Faghira Habiba Hanifa Jahaira Kamala Layla Maryam Nafisa Nyawela Parand 
+			Parween Paymaneh Paywand Qamara Rafiqa Rasa Rashida Reshawna
+			Saaman Sabba Saghar Sahba Sajida Samira Semeah Setara Shahrbano Shahzadah Shameem Shararah 
+			Sheeftah Sheeva Shogofa Shokouh Shola Sholah Simin Souzan
+			Taliba Tanaz Taneen Yagana Yakta Yasmin Zaynab
+		}
+	}
+	thamudi = {
+		primary = YTB
+		dynasty_names = {
+			Khayratid "Al Abu Risha" Hawashim Husaynid Makramid Suleymanid "al-Mughaydi" Hasanid "Banu Mughayd" "Rufayda"
+		}
+		male_names = {
+			Mani Rabi'a Musa Ibrahim Markhan Watban Nasir Idris "'Abd-Allah" Sa'ud Zayid Abdullah Muhammad
+			'Abdullah Turki Faisal Al-Rahman Khalid Fahd Aziz Abu-Bakr Abu-Bakr Aarif Abdul-Gafur Abdul-Jaleel Abdul-Qadir 
+			Abdul-Wahab Abdul Abdul Abdullah Abdullah Aghlab Akin Ali Ali Alim Aram Azam Bahir Burhanaddin
+			Fadil Fadl Faruk Ghalib Hafiz Halil Hasan Hasan Husam Hussayn Hussayn Ibrahim Abraham Idris 
+			Is'mail Ismail Isa Jabir Jalil Jibril Khaireddin Khalil Mahdi Mahmud Mahmud
+			Mansur Mirza Mubarak Muhammad Muhammad Mukhtar Murad Musa Moses Muslihiddin Muzaffaraddin Najib 
+			Nasr Nizam Qawurd Ramadan Sa'daddin Sadiq Sami Samir Shaiban
+			Shamir Shujah Sulayman Solomon Talib Ubayd Uways Yahya Yahya Ya'qub Jacob Youkhanna John Yusuf 
+			Joseph Zeyd 
+		}
+		female_names = {
+			Nadiyya Adila Amsha Asiya Faghira Habiba Hanifa Jahaira Kamala Layla Maryam Nafisa Nyawela Parand 
+			Parween Paymaneh Paywand Qamara Rafiqa Rasa Rashida Reshawna
+			Saaman Sabba Saghar Sahba Sajida Samira Semeah Setara Shahrbano Shahzadah Shameem Shararah 
+			Sheeftah Sheeva Shogofa Shokouh Shola Sholah Simin Souzan
+			Taliba Tanaz Taneen Yagana Yakta Yasmin Zaynab
+		}
+	}
+	lihyanite = {
+		primary = YTB
+		dynasty_names = {
+			Khayratid "Al Abu Risha" Hawashim Husaynid Makramid Suleymanid "al-Mughaydi" Hasanid "Banu Mughayd" "Rufayda"
+		}
+		male_names = {
+			Mani Rabi'a Musa Ibrahim Markhan Watban Nasir Idris "'Abd-Allah" Sa'ud Zayid Abdullah Muhammad
+			'Abdullah Turki Faisal Al-Rahman Khalid Fahd Aziz Abu-Bakr Abu-Bakr Aarif Abdul-Gafur Abdul-Jaleel Abdul-Qadir 
+			Abdul-Wahab Abdul Abdul Abdullah Abdullah Aghlab Akin Ali Ali Alim Aram Azam Bahir Burhanaddin
+			Fadil Fadl Faruk Ghalib Hafiz Halil Hasan Hasan Husam Hussayn Hussayn Ibrahim Abraham Idris 
+			Is'mail Ismail Isa Jabir Jalil Jibril Khaireddin Khalil Mahdi Mahmud Mahmud
+			Mansur Mirza Mubarak Muhammad Muhammad Mukhtar Murad Musa Moses Muslihiddin Muzaffaraddin Najib 
+			Nasr Nizam Qawurd Ramadan Sa'daddin Sadiq Sami Samir Shaiban
+			Shamir Shujah Sulayman Solomon Talib Ubayd Uways Yahya Yahya Ya'qub Jacob Youkhanna John Yusuf 
+			Joseph Zeyd 
+		}
+		female_names = {
+			Nadiyya Adila Amsha Asiya Faghira Habiba Hanifa Jahaira Kamala Layla Maryam Nafisa Nyawela Parand 
+			Parween Paymaneh Paywand Qamara Rafiqa Rasa Rashida Reshawna
+			Saaman Sabba Saghar Sahba Sajida Samira Semeah Setara Shahrbano Shahzadah Shameem Shararah 
+			Sheeftah Sheeva Shogofa Shokouh Shola Sholah Simin Souzan
+			Taliba Tanaz Taneen Yagana Yakta Yasmin Zaynab
+		}
+	}
+	adnanite = {
+		primary = MKK
+		dynasty_names = {
+			Khayratid "Al Abu Risha" Hawashim Husaynid Makramid Suleymanid "al-Mughaydi" Hasanid "Banu Mughayd" "Rufayda" Quraysh
 		}
 		male_names = {
 			Mani Rabi'a Musa Ibrahim Markhan Watban Nasir Idris "'Abd-Allah" Sa'ud Zayid Abdullah Muhammad
@@ -9840,45 +9912,84 @@ east_semitic = {
 			Nana Allatu Belit Zirrabanit Tiamat
 		}
 	}
+	akkadian = {
+		dynasty_names = {
+			Egibatila Šulgi Šarrugi 
+		}
+		male_names = {
+			Šulgi "Sîn-muballith" Šarrugi "Šamši-Adad"
+			"Naram-Sîn" "Rim-Sîn" Sammuramat "Tukulti-Ninurta"
+			"Šulgi Iddin-Sîn" Kubaba "Ibbi-Sîn"
+			"Šarrugi Maništušu" Enmerkar "Ilu-šuma"
+			"Ammi-saduqa" "Adad-apla-iddina" "Šu-Sîn"
+			"Išme-Dagan" "Puzur-Aššur" "Eriba-Adad"
+			"Aššur-uballith"
+		}
+		female_names = {
+			Zakutu "Naqi'a" "Šerua-ethirat"
+		}
+	}
+	dilmunite = {
+		dynasty_names = {
+			Egibatila Šulgi Šarrugi 
+		}
+		male_names = {
+			Šulgi "Sîn-muballith" Šarrugi "Šamši-Adad"
+			"Naram-Sîn" "Rim-Sîn" Sammuramat "Tukulti-Ninurta"
+			"Šulgi Iddin-Sîn" Kubaba "Ibbi-Sîn"
+			"Šarrugi Maništušu" Enmerkar "Ilu-šuma"
+			"Ammi-saduqa" "Adad-apla-iddina" "Šu-Sîn"
+			"Išme-Dagan" "Puzur-Aššur" "Eriba-Adad"
+			"Aššur-uballith"
+		}
+		female_names = {
+			Zakutu "Naqi'a" "Šerua-ethirat"
+		}
+	}
+	magani = {
+		dynasty_names = {
+			Egibatila Šulgi Šarrugi 
+		}
+		male_names = {
+			Šulgi "Sîn-muballith" Šarrugi "Šamši-Adad"
+			"Naram-Sîn" "Rim-Sîn" Sammuramat "Tukulti-Ninurta"
+			"Šulgi Iddin-Sîn" Kubaba "Ibbi-Sîn"
+			"Šarrugi Maništušu" Enmerkar "Ilu-šuma"
+			"Ammi-saduqa" "Adad-apla-iddina" "Šu-Sîn"
+			"Išme-Dagan" "Puzur-Aššur" "Eriba-Adad"
+			"Aššur-uballith"
+		}
+		female_names = {
+			Zakutu "Naqi'a" "Šerua-ethirat"
+		}
+	}
 	dynasty_names = {
-		Abbarid Adonibaalid Ahiromid Baalhannid Baalid Barcid Bostarid Chelbesid Eshbaalid Eugorid Hannid Hiramid Magoid Mattanid Metallid 
-		Milkiramid Philosirid
-	}
-	male_names = {
-		Abbar Abdmelqart Adonibaal Agbal Ahirom Azimilik Baal Baalhanno Bodashtart Bodmelqart Bomilcar Bostar Boulomenus Carthalo Chelbes 
-		Eshbaal Eugoras Germelqart Hamilcar Hannibal Hanno Hasdrubal Himilco Hiram Mago Maharbal Mattan Metallo Milkherem Milkiram 
-		Paltibaal Philosir
-		Alexios Ioannes Manuel David Basileios Skantarios Andronikos Michael Georgios Aineias 
-		Aristoteles Bartholomaios Chrysanthos Diogenes Dionysos Eirenaios Elpidios Gregorios Hektor 
-		Iason Iosephos Kastor Kreon Matthaios Nestor Nikolaos Nikomedes Orestes Palaemon Pavlos 
-		Pelagios Alexandros
-		Philemon Philippos Prokopios Stefanos Theodoros Timotheos Ambrosios Petros Herakles Hermes 
-		Hippolytos Hypatios Iakobos Jacob Ignatios Ignatius Innokentios Ioannes John Ioannikios 
-		Iordanes Ioseph Joseph Isaakios Isaias Isidoros Ioulianos Julian Ioustinianos Justinian 
-		Ioustinos Justin Kaisarios Caesar
-		Kallinikos Kallistos Komitas Konstantinos Constantine Konstantios Constantius Konstas Constans 
-		Kosmas Cosmas Kyriakos Kyrillos Cyril Kyros Laurentios Laurence Lazaros Leon Leo Leontios 
-		Leontius Loukas Makarios Manuel Markos Marcus
-		Matthaios Matthew Maurikios Maximos Maximus Megistos Magnus Meletios Methodios Michael Michael 
-		Narses Neophytos Nikephoros Niketas Nikodemos Nikolaos Nicholas Niphon Orestes Pamphilios 
-		Pankratios Pantoleon Paschalis
-		Pavlos Paul Pelagios Pelagius Petros Peter Philaretos Philippos Philip Philotheos Phokas 
-		Photios Polykarpos Porphyrios Prokopios Procopius Pyrros Raphail Romanos Roman Sabas Samuel 
-		Samuel Serapion Sebastianos Sebastian Sergios Sergius Stephanos Stephen
-		Staurakios Symeon Simon Symmachos Symmachus Theocharistos Theodoros Theodore Theodosios 
-		Theodosios Theodotos Theodat Theodoulos Theoktistos Theophanes Theophilos Theophylaktos Thomas 
-		Thomas Tiberios Tiberius Traianos Trajan
-		Timotheos Tryphon Valerios Valerius Zacharias Zenobios Zenon
-	}
-	female_names = {
-		Abdosir Arishat Astarte Batnoam Dido Shayna Sophonisba Tamar
-		Agape Photine Sotiria Leontia Margarita Margaret Maria Maria Markia Marcia Martha Martha Melissa Melisende Nikarete 
-		Nikoletta Nonna Parthena Pavlina Paulina Pelagia Petronia Petronia Philippa Philippa Phyllis 
-		Pulcheria Pulcheria Rhodanthe Romane Romylia Sergia Sergia Sibylla Sibylla
-		Simonis Sophia Sophia Stephania Stephania Thekla Theochariste Theodora Theodora Theodosia 
-		Theodosia Theognosia Theoktiste Theophano Thomais Valeria Valeria Viviana Viviana Xene Zenobia 
+		Ahiqarid Aplaid Ashurbanid Ashurbelid Ashurid Attarid Barhadadid Barrekubid Beleshid Hadadid Hazaelid 
+		Iluid Mannukiid Nabuid Nabonid Nergalid Panammuid Pileserid Rammanid Sennacheribid Shamashid 
+		Tabrimmonid Tiglathid Zakurid
 	}
 
+	male_names = {
+		Ahiqar Apla Ashur Ashurbanipal Ashuretililani Ashurnasirpal Ashuruballit Attarshumki
+		Barhadad Barrekub Beleshunu Benhadad Hadadezer Hazael Iluittia Malku Mannukiapli
+		Mardukaplaiddina Menahem Nabonassar Nabopolassar Nabonidus Nabuahheiddina Nabubalatsuikbi
+		Nabukudurriusur Nergalsharezer Panammu Pekah Pileser Pul Qosgabar Rammannirari
+		Resin Sennacherib Shamasheriba Shamashshumukin Shalmaneser Sinsharishkun
+		Tabrimmon Talmai Tiglathpileser Uballit Uzziah Zakir Zakkur
+		Abgar Addai Ananias Azariel Azariah Barshamin Barsuma Elisha Eliakim Eliezer
+		Gamaliel Hananiah Hanun Hoshaiah Iddo Ittai Jacob Jamin Johanan Jonathan
+		Malka Mattai Nathaniel Nebo Nebushallim Neriah Nethaniah Obadiah Pedael
+		Rabbel Rakhilu Samu Samuel Sarhadad Simon Tabbel Timai Tobiah Uriel
+		Yaqim Yeshua Yohanan Yonatan Zabdiel Zabdai Zakkai
+	}
+
+	female_names = {
+		Atalia Atarath Banitu Basia Belti Daqiqtu Elisheba Hannah Huldah
+		Iaddiya Ishtarummi Martha Maryam Milka Naqi'a Nikkalnis Nuria
+		Prisqa Rahimtu Reimat Salome Sappira Sarah Serah Shammuramat
+		Tabat Tashmetum Thekla Tirat Urkaytu Yael Yaltha Yapa Yosheba
+		Zakutu Zenobia
+	}
 }
 
 gallic = {
@@ -11234,5 +11345,46 @@ adriatic = {
 	female_names = {
 		Turkna Tuina Uanta Upsedia Fetiana Fougonta Frema Fugia Maxuma Matrika Moltisa Muskialna
 		Ithuria Iuvantna Ikeveioneia Kanta Kanodiba Katakna Kopa Lessa Loxina Libona Baitonia Boiialna
+	}
+}
+
+sayhadic = {
+	graphical_culture = muslimgfx
+
+	sabaean = {
+		primary = YEM
+	}
+	himyarite = {
+		primary = YEM
+	}
+	sabaean = {
+		primary = YEM
+	}
+	hadramautic = {
+		primary = YEM
+	}
+	dynasty_names = {
+		Abikaribid Abkaribid Amdanid Ammisadiqid Awsanid Dhamaralid Ghaylanid Hamdanid
+		Ilsharahid Karibid Malikikaribid Marthadid Nashid Raydanid Samahid
+		Shahrid Sumhuid Watarid Yadaid Yadhmurid Yaghrid Yarimid Yathaid
+		Yuhabid Yuhanimid
+	}
+
+	male_names = {
+		Abadan Abikarib Abkarib Abshams Amdan Ammisadiq Ammiyatha Awsan
+		Dhamarali Dhamaralay Dhamaryuhab Ghaylan Habasat Hani Karibil
+		Karibel Karibum Malikikarib Marthadum Nashakarib Nashan Sadiqil
+		Samahali Samahyafa Sumuhoali Sumhuyafa Shahr Shahrhilal Shahrum
+		Tubba Watar Wahabathat Wahabil Wahbkarib Yadaab Yadail Bayyin
+		Yadhmurmalik Yadhmurbayyin Yaghrum Yaghrmalik Yaghryuhab Yaqrubmalik
+		Yarimayman Yarimdhubyan Yarimwatar Yashhuril Yathaamar Yathaazib
+		Yathaamarbayyin Yathaamarwatar Yathail Bayyin Yathaamar Yuhanim
+		Yuhaballat Yuhamin Yuharhib Yuhanim Yuharim
+	}
+
+	female_names = {
+		Abshamsat Amatshams Amatathtar Amatwadd Baraqat Dhatbadan Dhatbaadan
+		Dhatsanat Dhatzahran Haywum Malikhalak Samiyat Shaqrat Sumhuyafa
+		Talan Yadirat Yuhanimat
 	}
 }

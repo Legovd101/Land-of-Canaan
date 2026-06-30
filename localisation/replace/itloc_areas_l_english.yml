@@ -266,6 +266,12 @@
  trans_jordan_area: "Transjordan"
  trans_jordan_area_adj: "Transjordanian"
 
+ soriya_area: "Soriya"
+
+ temaniya_area: "Temaniya"
+
+ basuya_area: "Basuya"
+
 # PERSIA
  azerbaijan_area: "Zanjan"
  azerbaijan_area_adj: "Zanjan"
@@ -800,3 +806,71 @@
 
  aswan_area: "Swenett"
  aswan_area_adj: "Swenetti"
+
+# TELMUN
+ qataru_area: "Qataru"
+ qataru_area_adj: "Qatari"
+
+ qulu_area: "Qulu"
+ qulu_area_adj: "Quli"
+
+ shurinnu_area: "Shurinnu"
+ shurinnu_area_adj: "Shurinni"
+
+ makhissen_area: "Makhissen"
+ makhissen_area_adj: "Makhisseni"
+
+ erqitu_area: "Erqitu"
+ erqitu_area_adj: "Erqiti"
+
+ shakhathu_area: "Shakhathu"
+ shakhathu_area_adj: "Shakhathi"
+
+ nambau_area: "Nambau"
+ nambau_area_adj: "Nambi"
+
+ ablu_area: "Ablu"
+ ablu_area_adj: "Abli"
+
+ tannidi_area: "Tannidi"
+ tannidi_area_adj: "Tannidi"
+
+ khapari_area: "Khapari"
+ khapari_area_adj: "Khapari"
+
+ main_area: "Ma'in"
+ main_area_adj: "Ma'ini"
+
+ northern_yemen_area: "Yamnat Shamal"
+ northern_yemen_area_adj: "Yamnat Shamali"
+
+ arba_qawaw_area: "'Arba Qawaw"
+ arba_qawaw_area_adj: "'Arba Qawawi"
+
+ turubah_area: "Turubah"
+ turubah_area_adj: "Turubi"
+
+ al_wajh_area: "Al-Wajh"
+ al_wajh_area_adj: "Al-Wajhi"
+
+ badr_area: "Badr"
+ badr_area_adj: "Badri"
+
+ jeddah_area: "Jeddah"
+ jeddah_area_adj: "Jeddahi"
+
+# MEHLOPLEI
+ hekko_area: "Hekko"
+ hekko_area_adj: "Hekke"
+
+ potema_area: "Potema"
+ potema_area_adj: "Poteme"
+
+ porolis_area: "Porolis"
+ porolis_area_adj: "Porole"
+
+ kentrom_area: "Kentrom"
+ kentrom_area_adj: "Kentrome"
+
+ perehi_area: "Perehi"
+ perehi_area_adj: "Perehe"

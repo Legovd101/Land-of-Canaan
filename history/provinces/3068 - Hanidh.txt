@@ -1,5 +1,5 @@
-owner = MZN
-controller = MZN
+owner = TLM
+controller = TLM
 culture = limenioi
 religion = zoroastrian
 capital = "Hanidh"
@@ -19,5 +19,5 @@ discovered_by = nomad_group
 discovered_by = uralic_group
 discovered_by = east_african
 discovered_by = cushitic_group
-add_core = MZN
 hre = yes
+add_core = TLM

@@ -74,6 +74,13 @@ NEB = "countries/Nebtha.txt"
 PLM = "countries/Palmyra.txt"
 BBL = "countries/Babil.txt"
 BTE = "countries/Beit Elaha.txt"
+TLM = "countries/Telmun.txt"
+KHG = "countries/Khagarra.txt"
+GYL = "countries/Gayla.txt"
+TNA = "countries/Tana.txt"
+GRB = "countries/Garbiya.txt"
+BKT = "countries/Bakhtavar.txt"
+BNR = "countries/Bi Nahrain.txt"
 
  ## Other
 PHR = "countries/Phereidan.txt" # Georgian/Iberian
@@ -363,6 +370,20 @@ YTB = "countries/Yathrib.txt"
 MKK = "countries/Makkah.txt"
 JDD = "countries/Jaddah.txt"
 MNE = "countries/Main.txt"
+
+ ## East Semitic
+MGN = "countries/Magan.txt"
+AKR = "countries/Akkara.txt"
+BTR = "countries/Betanara.txt"
+KNS = "countries/Kanashara.txt"
+BTA = "countries/Bitaliu.txt"
+ALK = "countries/Alu Khapari.txt"
+
+ ## Hemeso (Indo-European)
+KBG = "countries/Kerobog.txt" # Chariot (lit. Horse-box)
+HEK = "countries/Heskes.txt" # Washed-hair
+KDR = "countries/Kodorosa.txt" # White-red
+BOA = "countries/Bloeka.txt" # Blue-eye
 
  ## Other
 BNH = "countries/Banu Hind.txt" # Hindi

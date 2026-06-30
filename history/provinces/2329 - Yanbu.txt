@@ -1,6 +1,6 @@
 #2329 - Yanbu
-owner = YTB
-controller = YTB
+owner = JDD
+controller = JDD
 culture = hejazi_culture
 religion = arab_pagan
 capital = "Yanbu"
@@ -27,6 +27,6 @@ discovered_by = nomad_group
 discovered_by = uralic_group
 discovered_by = east_african
 discovered_by = cushitic_group
-add_core = YTB
+add_core = JDD
 fort_15th = yes
 road_network = yes

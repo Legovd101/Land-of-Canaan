@@ -1,0 +1,103 @@
+#Country Name: Please see filename.
+graphical_culture = muslimgfx
+color = { 95 73 68 }
+historical_idea_groups = { 
+	defensive_ideas
+	religious_ideas
+	offensive_ideas
+	trade_ideas
+	spy_ideas
+	economic_ideas
+	diplomatic_ideas
+	administrative_ideas
+}
+historical_units = { 
+	persian_footsoldier
+	persian_cavalry_charge
+	persian_shamshir
+	qizilbash_cavalry_unit
+	tofongchis_musketeer
+	topchis_artillery
+	afsharid_reformed
+	afsharid_reformed_infantry
+	muslim_mass_infantry
+	muslim_dragoon
+	persian_rifle
+}
+monarch_names = { 
+	"Šulgi #0" = 100
+	"Naram-Sîn #0" = 100
+	"Sîn-muballith #0" = 60
+	"Šargin #0" = 40
+	"Šapur #0" = 40
+	"Šamši-Adad #0" = 40
+	"Ardašir #0" = 40
+	"Kuruš #0" = 40
+	"Naram-Sîn #0" = 20
+	"Rim-Sîn #0" = 20
+	"Sammuramat #0" = -20
+	"Tukulti-Ninurta #0" = 20
+	"Šulgi #0 Iddin-Sîn" = 10
+	"Kubaba #0" = -10
+	"Ibbi-Sîn #0" = 10
+	"Šarrugi #0 Maništušu" = 10
+	"Enmerkar #0" = 10
+	"Ilu-šuma #0" = 10
+	"Ammi-saduqa #0" = 5
+	"Adad-apla-iddina #0" = 5
+	"Šu-Sîn #0" = 1
+	"Išme-Dagan #0" = 0
+	"Puzur-Aššur #0" = 0
+	"Eriba-Adad #0" = 0
+	"Aššur-uballith #0" = 1
+	"Amar-Sîn #0" = 0
+	"Aleksandru #0" = 0
+	"Aššur-bel-kala #0" = 0
+	"Ur-Nammu #0" = 0
+	"Ambi #0" = 0
+	"Andiya #0" = 0
+	"Antu-belet #0" = 0
+	"Arad-Nanna #0" = 0
+	"Bel-iddina #0" = 0
+	"Kidin-Sîn #0" = 0
+	"Damiq-ilišu #0" = 0
+	"D?duša #0" = 0
+	"Erra-imitti #0" = 0
+	"Bur-Sîn #0" = 0
+	"Gimil-Sîn #0" = 0
+	"Gudea #0" = 0
+	"Hammurabi #0" = 0
+	"Ili-ippašra #0" = 0
+	"Iddin-Adad #0" = 0
+	"Ilu-ittiya #0" = 0
+	"Ibni-Adad #0" = 0
+	"Lipit-Ištar #0" = 0
+	"Marduk-apla-iddina #0" = 0
+	"Nur-Adad #0" = 0
+	"Šamaš-mudammiq #0" = 0
+	"Šamaš-šuma-ukin #0" = 0
+	"Zakutu #0" = -10
+	"Naqi'a #0" = -10
+	"Šerua-ethirat #0" = -1
+}
+
+leader_names = { 
+	Adad-apla-iddina Adasi Aššur-b?ni-apli Aššur-d?n Aššur-etel-il?ni Aššur-n?sir-apli
+	Aššur-reša-iši Aššur-uballith Bel-b?ni Damiq-ilišu Erišum Esarhaddon
+	Gimil-Sîn Hammurabi Iddin-Dagan Iddin-Sîn Ibbi-Sîn Ili-padâ
+	Ilu-šuma Išme-Dagan Kurigalzu Maništušu Marduk-z?kir-šumi
+	Nabonidus Nabopolassar Naram-Sîn Ninurta-apil-Ekur Puzur-Aššur
+	Rim-Sîn Šarrugi Šamši-Adad Šamšu-iluna Šulgi Sîn-muballith
+	Tiglath-Pileser Tukulti-Ninurta Ur-Nammu Yahdun-Lim Zimri-Lim
+}
+
+ship_names = { 
+	Anu Apsû Aššur Bel Dagan Dilmun Ea Ekur Enlil
+	Ereškigal Eridu Etemenanki Euphrates Gilgameš Great Bull
+	Hammurabi Ishtar Šarrugi Kur Marduk Moon of Akkad
+	Nanna Nergal Nineveh Nisaba Shamash Sin
+	Sumer Apkallu
+	Marduk Lamassu Ishtar
+	Tigris Tukulti-Ninurta
+	Ur Uruk Ziggurat
+}

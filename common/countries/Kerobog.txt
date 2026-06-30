@@ -1,0 +1,75 @@
+#Country Name: Please see filename.
+graphical_culture = muslimgfx
+color = { 127 115 114 }
+revolutionary_colors = { 1 0 10 }
+historical_idea_groups = { 
+	religious_ideas
+	defensive_ideas
+	trade_ideas
+	offensive_ideas
+	influence_ideas
+	diplomatic_ideas
+	quantity_ideas
+	economic_ideas
+}
+historical_units = { 
+	mamluk_archer
+	mamluk_cavalry_charge
+	mamluk_duel
+	mamluk_musket_charge
+	muslim_mass_infantry
+	muslim_dragoon
+	ali_bey_reformed_infantry
+}
+monarch_names = { 
+	"Momada #4" = 40
+	"Brakata #0" = 30
+	"Ado #0" = 10
+	"Amado #2" = 50
+	"Homeid #1" = 10
+	"Keita #0" = 10
+	"Takaba #0" = 10
+	"Hassan #1" = 10
+	"Abu Talib #0" = 10
+	"Abu Aun Idris #0" = 10
+	"Mushin #0" = 10
+	"Mas'ud #0" = 30
+	"'Abdullah #0" = 20
+	"Zaid #0" = 10
+	"Nami #0" = 10
+	"Sa'ad #0" = 10
+	"Sa'id #0" = 20
+	"'Abdul-Karim #0" = 10
+	"'Abul Muhsin #0" = 10
+	"'Abd al-Ilah #0" = 20
+	"'Ali #2" = 10
+	"Yahya #0" = 10
+	"Mubarak #0" = 10
+	"Masa'id #0" = 10
+	"Djafar #0" = 10
+	"Rajya #0" = -1
+	"Nedei #0" = -1
+	"Koara #0" = -1
+	"Nora #0" = -1
+	"Ada #0" = -1
+	"Monira #0" = -1
+	"Hesei #0" = -1
+	"Betima #0" = -1
+	"Eisia #0" = -1
+}
+leader_names = { 
+	Oseba
+	Taleb
+	Eibram
+	Kalel
+	Saleiha
+	Barad
+	Kamas
+	Mansor
+	Abas
+	Hemod
+}
+ship_names = { 
+	Oseba Taleb Eibram Kalel Saleiha
+	Barad Kamas Mansor Abas Hemod
+}

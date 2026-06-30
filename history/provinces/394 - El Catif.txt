@@ -1,6 +1,6 @@
 #394 - El Catif
-owner = MZN
-controller = MZN
+owner = TLM
+controller = TLM
 culture = limenioi
 religion = mithraism
 capital = "Al-Qatif"
@@ -22,6 +22,6 @@ discovered_by = east_african
 discovered_by = cushitic_group
 extra_cost = 8
 center_of_trade = 1
-add_core = MZN
 hre = yes
+add_core = TLM
 fort_15th = yes

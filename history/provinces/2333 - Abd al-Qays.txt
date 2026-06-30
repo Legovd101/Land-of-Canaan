@@ -1,6 +1,6 @@
 #2333 - Abd al-Qays
-owner = YAS
-controller = YAS
+owner = AKR
+controller = AKR
 culture = gulf_arabic
 religion = zoroastrian
 capital = "Sila"
@@ -20,4 +20,4 @@ discovered_by = nomad_group
 discovered_by = uralic_group
 discovered_by = east_african
 discovered_by = cushitic_group
-add_core = YAS
+add_core = AKR

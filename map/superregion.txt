@@ -119,8 +119,12 @@ near_east_superregion = {
 
 	anatolia_region
 	mashriq_region
-	arabia_region
 	egypt_region
+	arabia_region
+	telmun_area
+	magan_area
+	yamnat_area
+	mehloplei_area
 }
 
 persia_superregion = {

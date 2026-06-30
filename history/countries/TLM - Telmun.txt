@@ -1,0 +1,16 @@
+government = monarchy
+government_rank = 2
+technology_group = muslim
+religion = zoroastrian
+primary_culture = dilmunite
+capital = 396 # Tylos/Telmun
+1444.1.1 = { 
+	monarch = { 
+		name = "Nabu-Ahhe-iddin"
+		dynasty = "Egibatila"
+		culture = akkadian
+		dip = 5
+		mil = 2
+		adm = 6
+	}
+}

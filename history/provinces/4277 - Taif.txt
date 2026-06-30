@@ -1,6 +1,6 @@
 #4277 - Taif
-owner = NAJ
-controller = NAJ
+owner = MKK
+controller = MKK
 culture = hejazi_culture
 religion = arab_pagan
 capital = "Taif"
@@ -27,4 +27,4 @@ discovered_by = nomad_group
 discovered_by = uralic_group
 discovered_by = east_african
 discovered_by = cushitic_group
-add_core = NAJ
+add_core = MKK

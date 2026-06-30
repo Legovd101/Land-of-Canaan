@@ -1,5 +1,5 @@
-owner = GNB
-controller = GNB
+owner = KSM
+controller = KSM
 culture = aramean
 religion = mithraism
 capital = "Bisah"
@@ -17,5 +17,5 @@ discovered_by = iranic_group
 discovered_by = indian
 discovered_by = nomad_group
 discovered_by = uralic_group
-add_core = GNB
 hre = yes
+add_core = KSM

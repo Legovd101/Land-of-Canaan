@@ -14,3 +14,7 @@ discovered_by = nomad_group
 discovered_by = uralic_group
 discovered_by = east_african
 discovered_by = cushitic_group
+add_core = ALK
+owner = ALK
+controller = ALK
+is_city = yes

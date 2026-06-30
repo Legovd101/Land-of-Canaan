@@ -27,7 +27,8 @@ low_countries_region = {
 italy_region = { 
 	areas = { 
 		venetia_area lombardy_area piedmont_area tuscany_area liguria_area corsica_sardinia_area sicily_area naples_area calabria_area apulia_area
-		emilia_romagna_area central_italy_area lazio_area po_valley_area western_sicily_area siena_area luni_area sardinia_area lucania_area taranto_area parma_area picenum_area samnium_area
+		emilia_romagna_area central_italy_area lazio_area po_valley_area western_sicily_area siena_area luni_area sardinia_area lucania_area taranto_area
+		parma_area picenum_area samnium_area 
 	}
 }
 north_german_region = { 
@@ -101,20 +102,21 @@ carpathia_region = {
 }
 egypt_region = { 
 	areas = { 
-		lower_nubia_area cyrenaica_area gulf_of_arabia_area delta_area alexandria_area clysma_area sinai_area lower_egypt_area middle_egypt_area abydos_area luxor_area aswan_area
+		lower_nubia_area cyrenaica_area gulf_of_arabia_area delta_area alexandria_area clysma_area sinai_area lower_egypt_area middle_egypt_area abydos_area
+		luxor_area aswan_area 
 	}
 }
 maghreb_region = { 
 	areas = { 
 		fezzan_area tunisia_area djerba_area kabylia_area algiers_area hautes_plaines_area north_saharan_area tafilalt_area sus_area marrekesh_area
-		ouled_nail_area northern_morocco_area southern_morocco_area western_morocco_area tripolitania_area barbary_coast_area macaronesia_area
-		sokna_area garamantia_area sirte_area hadrumetum_area mzab_area massylia_area mauretania_area
+		ouled_nail_area northern_morocco_area southern_morocco_area western_morocco_area tripolitania_area barbary_coast_area macaronesia_area sokna_area garamantia_area sirte_area
+		hadrumetum_area mzab_area massylia_area mauretania_area 
 	}
 }
 mashriq_region = { 
 	areas = { 
-		syria_area palestine_area al_jazira_area iraq_arabi_area basra_area trans_jordan_area syrian_desert_area aleppo_area chaldea_area mikra_sogdia_area
-		kassima_area seleukia_area nineveh_area tadmor_area tripolis_area 
+		syria_area palestine_area al_jazira_area iraq_arabi_area basra_area trans_jordan_area aleppo_area chaldea_area mikra_sogdia_area seleukia_area
+		nineveh_area tadmor_area tripolis_area kassima_area basuya_area syrian_desert_area soriya_area temaniya_area 
 	}
 }
 anatolia_region = { 
@@ -126,15 +128,14 @@ anatolia_region = {
 }
 persia_region = { 
 	areas = { 
-		farsistan_area isfahan_area kerman_area persian_gulf_coast khuzestan_area
-		mogostan_area fereydunshahr_area dezful_area yazd_area bam_area lamerd_area
-		persepolis_area 
+		farsistan_area isfahan_area kerman_area persian_gulf_coast khuzestan_area mogostan_area fereydunshahr_area dezful_area yazd_area bam_area
+		lamerd_area persepolis_area 
 	}
 }
-atropatene_region = {
-	areas = {
-		urmia_area qom_area tabriz_area kesh_area deylam_area hashtrud_area kermanshah_area hamadan_area shahrizor_area 
-		iraq_e_ajam_area tabarestan_area azerbaijan_area luristan_area 
+atropatene_region = { 
+	areas = { 
+		urmia_area qom_area tabriz_area kesh_area deylam_area hashtrud_area kermanshah_area hamadan_area shahrizor_area iraq_e_ajam_area
+		tabarestan_area azerbaijan_area luristan_area 
 	}
 }
 khorasan_region = { 
@@ -155,8 +156,28 @@ caucasia_region = {
 }
 arabia_region = { 
 	areas = { 
-		tabuk_area medina_area mecca_area asir_area tihama_al_yemen_area upper_yemen_area yemen_area mahra_area hadramut_area bahrain_area
-		oman_area pirate_coast_area dhofar_area mascat_area qasim_area yamamah_area nafud_area 
+		tabuk_area mecca_area turubah_area jeddah_area badr_area medina_area al_wajh_area 
+	}
+}
+mehloplei_area = { 
+	areas = { 
+		nafud_area hekko_area potema_area porolis_area kentrom_area qasim_area perehi_area 
+	}
+}
+telmun_area = { 
+	areas = { 
+		yamamah_area bahrain_area qataru_area erqitu_area shurinnu_area makhissen_area shakhathu_area ablu_area tannidi_area nambau_area
+		khapari_area qulu_area 
+	}
+}
+magan_area = { 
+	areas = { 
+		pirate_coast_area mascat_area oman_area dhofar_area 
+	}
+}
+yamnat_area = { 
+	areas = { 
+		mahra_area hadramut_area upper_yemen_area yemen_area tihama_al_yemen_area arba_qawaw_area northern_yemen_area asir_area main_area 
 	}
 }
 niger_region = { 
@@ -232,8 +253,8 @@ kongo_region = {
 }
 central_asia_region = { 
 	areas = { 
-		nogai_area transcaspia_area kazakhstan_area balchasj_area khiva_area jetysuu_area syr_darya_area kashgaria_area tarim_basin_area
-		shanshan_area kyzylkum_area gurganj_area turgay_area taraz_area kypshak_area
+		nogai_area transcaspia_area kazakhstan_area balchasj_area khiva_area jetysuu_area syr_darya_area kashgaria_area tarim_basin_area shanshan_area
+		kyzylkum_area gurganj_area turgay_area taraz_area kypshak_area 
 	}
 }
 south_africa_region = { 
