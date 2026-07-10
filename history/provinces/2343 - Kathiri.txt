@@ -1,7 +1,7 @@
 #2343 - Kathiri
 owner = YEM
 controller = YEM
-culture = yemeni_culture
+culture = hadramautic
 religion = arab_pagan
 capital = "Say'un"
 trade_goods = camel

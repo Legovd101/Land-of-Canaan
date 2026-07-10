@@ -76,24 +76,15 @@ monarch_names = {
 	"Naqi'a #0" = -10
 	"Šerua-ethirat #0" = -1
 }
-
 leader_names = { 
-	Adad-apla-iddina Adasi Aššur-b?ni-apli Aššur-d?n Aššur-etel-il?ni Aššur-n?sir-apli
-	Aššur-reša-iši Aššur-uballith Bel-b?ni Damiq-ilišu Erišum Esarhaddon
-	Gimil-Sîn Hammurabi Iddin-Dagan Iddin-Sîn Ibbi-Sîn Ili-padâ
-	Ilu-šuma Išme-Dagan Kurigalzu Maništušu Marduk-z?kir-šumi
-	Nabonidus Nabopolassar Naram-Sîn Ninurta-apil-Ekur Puzur-Aššur
-	Rim-Sîn Šarrugi Šamši-Adad Šamšu-iluna Šulgi Sîn-muballith
-	Tiglath-Pileser Tukulti-Ninurta Ur-Nammu Yahdun-Lim Zimri-Lim
+	Adad-apla-iddina Adasi Aššur-b?ni-apli Aššur-d?n Aššur-etel-il?ni Aššur-n?sir-apli Aššur-reša-iši Aššur-uballith Bel-b?ni Damiq-ilišu
+	Erišum Esarhaddon Gimil-Sîn Hammurabi Iddin-Dagan Iddin-Sîn Ibbi-Sîn Ili-padâ Ilu-šuma Išme-Dagan
+	Kurigalzu Maništušu Marduk-z?kir-šumi Nabonidus Nabopolassar Naram-Sîn Ninurta-apil-Ekur Puzur-Aššur Rim-Sîn Šarrugi
+	Šamši-Adad Šamšu-iluna Šulgi Sîn-muballith Tiglath-Pileser Tukulti-Ninurta Ur-Nammu Yahdun-Lim Zimri-Lim 
 }
-
 ship_names = { 
-	Anu Apsû Aššur Bel Dagan Dilmun Ea Ekur Enlil
-	Ereškigal Eridu Etemenanki Euphrates Gilgameš Great Bull
-	Hammurabi Ishtar Šarrugi Kur Marduk Moon of Akkad
-	Nanna Nergal Nineveh Nisaba Shamash Sin
-	Sumer Apkallu
-	Marduk Lamassu Ishtar
-	Tigris Tukulti-Ninurta
-	Ur Uruk Ziggurat
+	Anu Apsû Aššur Bel Dagan Dilmun Ea Ekur Enlil Ereškigal
+	Eridu Etemenanki Euphrates Gilgameš Great Bull Hammurabi Ishtar Šarrugi Kur
+	Marduk Moon of Akkad Nanna Nergal Nineveh Nisaba Shamash Sin
+	Sumer Apkallu Marduk Lamassu Ishtar Tigris Tukulti-Ninurta Ur Uruk Ziggurat
 }

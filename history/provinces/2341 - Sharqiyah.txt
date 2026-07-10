@@ -1,13 +1,13 @@
 #2341 - Sharqiyah
 owner = MGN
 controller = MGN
-culture = omani_culture
-religion = arab_pagan
+culture = magani
+religion = mardukism
 capital = "Masirah"
 trade_goods = copper
-base_tax = 1
+base_tax = 3
 base_production = 1
-base_manpower = 1
+base_manpower = 2
 is_city = yes
 discovered_by = muslim
 discovered_by = kemetic

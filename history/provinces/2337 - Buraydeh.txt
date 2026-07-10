@@ -1,6 +1,6 @@
 #2337 - Buraydeh
-culture = bedouin_arabic
-religion = arab_pagan
+culture = bloekes
+religion = khurramism
 capital = "Buraydeh"
 trade_goods = camel
 base_tax = 1

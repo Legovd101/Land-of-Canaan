@@ -1,5 +1,5 @@
 #401 - Dhofar
-culture = mahri_culture
+culture = hadramautic
 religion = arab_pagan
 capital = "Salalah"
 trade_goods = incense

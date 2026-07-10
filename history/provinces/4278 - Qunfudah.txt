@@ -1,7 +1,7 @@
 #4278 - Qunfudhah
 owner = MNE
 controller = MNE
-culture = hejazi_culture
+culture = minaean
 religion = arab_pagan
 capital = "Qunfudhah"
 trade_goods = incense

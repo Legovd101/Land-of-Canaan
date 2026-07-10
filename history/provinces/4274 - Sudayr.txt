@@ -1,6 +1,6 @@
 #4274 - Sudayr
-culture = bedouin_arabic
-religion = arab_pagan
+culture = dilmunite
+religion = mardukism
 capital = "al-Hauta"
 trade_goods = grain
 base_tax = 2

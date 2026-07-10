@@ -1,0 +1,7 @@
+religion = zoroastrian
+technology_group = muslim
+primary_culture = aramean
+government = tribal
+add_government_reform = steppe_horde
+government_rank = 1
+capital = 5009

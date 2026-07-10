@@ -1,7 +1,7 @@
 religion = arab_pagan
 capital = 385
 technology_group = muslim
-primary_culture = hejazi_culture
+primary_culture = adnanite
 government_rank = 1
-government = monarchy
-add_government_reform = feudalism_reform
+government = theocracy
+add_government_reform = leading_clergy_reform

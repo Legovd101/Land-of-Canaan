@@ -1,7 +1,7 @@
 owner = BTA
 controller = BTA
-culture = gulf_arabic
-religion = mithraism
+culture = dilmunite
+religion = mardukism
 capital = "Jurayban"
 trade_goods = spices#Dates
 base_tax = 1

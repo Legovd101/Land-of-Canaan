@@ -1,12 +1,12 @@
 owner = MZN
 controller = MZN
 culture = limenioi
-religion = arab_pagan
+religion = mardukism
 capital = "Ajman"
 trade_goods = slaves#And pearls
-base_tax = 3
-base_production = 3
-base_manpower = 3
+base_tax = 1
+base_production = 1
+base_manpower = 2
 is_city = yes
 add_core = OMA
 discovered_by = muslim

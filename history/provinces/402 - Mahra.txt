@@ -1,5 +1,5 @@
 #402 - Qishn
-culture = mahri_culture
+culture = hadramautic
 religion = arab_pagan
 capital = "Qishn"
 trade_goods = incense

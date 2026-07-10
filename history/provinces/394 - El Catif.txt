@@ -1,13 +1,13 @@
 #394 - El Catif
 owner = TLM
 controller = TLM
-culture = limenioi
-religion = mithraism
+culture = dilmunite
+religion = zoroastrian
 capital = "Al-Qatif"
 trade_goods = dates
-base_tax = 2
-base_production = 1
-base_manpower = 1
+base_tax = 4
+base_production = 3
+base_manpower = 3
 is_city = yes
 discovered_by = muslim
 discovered_by = kemetic

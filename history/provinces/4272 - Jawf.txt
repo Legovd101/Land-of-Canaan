@@ -1,5 +1,5 @@
 #4172 - Jawf
-culture = bedouin_arabic
+culture = aramean
 religion = zoroastrian
 capital = "Karah"
 trade_goods = livestock
@@ -22,3 +22,4 @@ discovered_by = uralic_group
 owner = GRB
 controller = GRB
 add_core = GRB
+hre = yes

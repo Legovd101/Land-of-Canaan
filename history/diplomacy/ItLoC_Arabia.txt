@@ -1,0 +1,48 @@
+vassal = {
+	first = TLM
+	second = AKR
+	start_date = 1444.1.1
+	end_date = 1579.1.23
+}
+
+vassal = {
+	first = TLM
+	second = BTR
+	start_date = 1444.1.1
+	end_date = 1579.1.23
+}
+
+vassal = {
+	first = TLM
+	second = KNS
+	start_date = 1444.1.1
+	end_date = 1579.1.23
+}
+
+vassal = {
+	first = TLM
+	second = BTA
+	start_date = 1444.1.1
+	end_date = 1579.1.23
+}
+
+vassal = {
+	first = TLM
+	second = KHG
+	start_date = 1444.1.1
+	end_date = 1579.1.23
+}
+
+vassal = {
+	first = TLM
+	second = ALK
+	start_date = 1444.1.1
+	end_date = 1579.1.23
+}
+
+vassal = {
+	first = JDD
+	second = MKK
+	start_date = 1444.1.1
+	end_date = 1579.1.23
+}

@@ -1,0 +1,7 @@
+religion = mazdaki
+capital = 5033
+technology_group = muslim
+primary_culture = keroboges
+government = tribal
+add_government_reform = steppe_horde
+government_rank = 1

@@ -1,5 +1,5 @@
 #2336 - Aflaj
-culture = bedouin_arabic
+culture = sabaean
 religion = arab_pagan
 capital = "Aflaj"
 trade_goods = livestock

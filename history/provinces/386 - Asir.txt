@@ -1,5 +1,5 @@
 #386 - Asir
-culture = hejazi_culture
+culture = minaean
 religion = arab_pagan
 capital = "Bishah"
 trade_goods = coffee

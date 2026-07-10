@@ -70,6 +70,5 @@ leader_names = {
 	Hemod
 }
 ship_names = { 
-	Oseba Taleb Eibram Kalel Saleiha
-	Barad Kamas Mansor Abas Hemod
+	Oseba Taleb Eibram Kalel Saleiha Barad Kamas Mansor Abas Hemod
 }

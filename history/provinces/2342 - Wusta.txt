@@ -2,7 +2,7 @@
 owner = BNH
 controller = BNH
 culture = mahri_culture
-religion = arab_pagan
+religion = hinduism
 capital = "Hasik"#Curia Muria Islands
 trade_goods = incense
 base_tax = 1

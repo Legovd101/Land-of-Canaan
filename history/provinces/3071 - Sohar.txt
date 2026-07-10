@@ -2,7 +2,7 @@
 owner = MZN
 controller = MZN
 culture = limenioi
-religion = arab_pagan
+religion = mardukism
 capital = "Sohar"
 trade_goods = grain#And pearls
 base_tax = 3

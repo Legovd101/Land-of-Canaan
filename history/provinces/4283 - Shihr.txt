@@ -1,7 +1,7 @@
 #4283 - Shihr
 owner = YEM
 controller = YEM
-culture = yemeni_culture
+culture = hadramautic
 religion = arab_pagan
 capital = "As Shihr"
 trade_goods = incense

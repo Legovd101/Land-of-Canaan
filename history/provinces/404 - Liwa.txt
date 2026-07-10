@@ -1,7 +1,7 @@
 #404 - Liwa
 owner = AKR
 controller = AKR
-culture = gulf_arabic
+culture = dilmunite
 religion = zoroastrian
 capital = "Liwa"
 trade_goods = camel

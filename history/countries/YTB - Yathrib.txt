@@ -1,7 +1,7 @@
 religion = zoroastrian
 capital = 384
 technology_group = muslim
-primary_culture = hejazi_culture
+primary_culture = thamudi
 government_rank = 1
 government = monarchy
 add_government_reform = feudalism_reform

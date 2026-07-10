@@ -18,3 +18,6 @@ add_core = MNE
 owner = MNE
 controller = MNE
 is_city = yes
+culture = minaean
+religion = arab_pagan
+trade_goods = camel

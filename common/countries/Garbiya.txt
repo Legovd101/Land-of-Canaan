@@ -1,5 +1,5 @@
 #Country Name: Please see filename.
-graphical_culture = easterngfx
+graphical_culture = muslimgfx
 color = { 255 14 99 }
 historical_idea_groups = { 
 	religious_ideas

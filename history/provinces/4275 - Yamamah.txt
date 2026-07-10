@@ -1,6 +1,6 @@
 #4275 - Al-Yamamah
-culture = bedouin_arabic
-religion = arab_pagan
+culture = dilmunite
+religion = zoroastrian
 capital = "Kharj"
 trade_goods = livestock
 base_tax = 1

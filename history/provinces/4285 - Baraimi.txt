@@ -1,8 +1,8 @@
 #4285 - Al Baraimi Oasis
 owner = MGN
 controller = MGN
-culture = omani_culture
-religion = arab_pagan
+culture = magani
+religion = mardukism
 capital = "Ibri"
 trade_goods = dates
 base_tax = 2

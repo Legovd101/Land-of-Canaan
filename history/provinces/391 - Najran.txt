@@ -1,5 +1,5 @@
 #391 - Najran
-culture = yemeni_culture
+culture = minaean
 religion = arab_pagan
 capital = "Najran"
 trade_goods = cloth

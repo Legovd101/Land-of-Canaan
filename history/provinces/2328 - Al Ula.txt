@@ -1,7 +1,7 @@
 #2328 - Al-Ula
 owner = YTB
 controller = YTB
-culture = nabatean
+culture = thamudi
 religion = zoroastrian
 capital = "Al-Ula"
 trade_goods = salt

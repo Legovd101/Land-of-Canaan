@@ -1,7 +1,7 @@
 owner = MGN
 controller = MGN
-culture = omani_culture
-religion = arab_pagan
+culture = magani
+religion = mardukism
 capital = "Ain"
 trade_goods = lumber
 base_tax = 3

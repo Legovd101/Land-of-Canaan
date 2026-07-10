@@ -1,6 +1,6 @@
 #4273 - Karaitan
-culture = bedouin_arabic
-religion = arab_pagan
+culture = kodoroses
+religion = khurramism
 capital = "Kariatan"
 trade_goods = dates
 base_tax = 1

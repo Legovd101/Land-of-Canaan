@@ -172,4 +172,7 @@ From;To;Type;Through;start_x;start_y;stop_x;stop_y;Comment
 1128;3348;sea;3353;-1;-1;-1;-1;Taudeni-Sali
 96;4383;sea;3353;-1;-1;-1;-1;Zeeland-Den Haag
 97;4383;sea;3353;-1;-1;-1;-1;Amsterdam-Den Haag
+4979;2336;sea;4276;-1;-1;-1;-1;Dalubanu-Aflaj
+2336;2335;sea;1779;-1;-1;-1;-1;Aflaj-Dawasir
+2335;4947;sea;4276;-1;-1;-1;-1;Dawasir-Nuhayyil
 -1;-1;;-1;-1;-1;-1;-1;-1;

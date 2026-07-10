@@ -1,7 +1,7 @@
 #390 - Sana'a
 owner = YEM
 controller = YEM
-culture = yemeni_culture
+culture = sabaean
 religion = arab_pagan
 capital = "Sana'a"
 trade_goods = marble

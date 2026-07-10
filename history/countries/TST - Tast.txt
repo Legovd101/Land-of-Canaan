@@ -3,5 +3,5 @@ technology_group = kemetic
 government_rank = 1
 religion = kemetism
 primary_culture = old_egyptian
-government = tribal
-add_government_reform = steppe_horde
+government = monarchy
+add_government_reform = feudalism_reform

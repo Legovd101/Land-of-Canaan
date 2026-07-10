@@ -1,7 +1,7 @@
 #2329 - Yanbu
 owner = JDD
 controller = JDD
-culture = hejazi_culture
+culture = lihyanite
 religion = arab_pagan
 capital = "Yanbu"
 trade_goods = cloth

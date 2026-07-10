@@ -1,7 +1,7 @@
 #384 - Medina
 owner = YTB
 controller = YTB
-culture = hejazi_culture
+culture = thamudi
 religion = arab_pagan
 capital = "Medina"
 trade_goods = carpet

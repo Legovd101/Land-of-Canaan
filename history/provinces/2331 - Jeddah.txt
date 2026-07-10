@@ -1,13 +1,13 @@
 #2331 - Jeddah
 owner = JDD
 controller = JDD
-culture = hejazi_culture
+culture = lihyanite
 religion = arab_pagan
 capital = "Jiddah"
 trade_goods = apiculture
-base_tax = 2
-base_production = 3
-base_manpower = 1
+base_tax = 4
+base_production = 4
+base_manpower = 2
 is_city = yes
 discovered_by = muslim
 discovered_by = kemetic

@@ -1,6 +1,6 @@
 #2339 - Yabrin
-culture = bedouin_arabic
-religion = arab_pagan
+culture = dilmunite
+religion = zoroastrian
 capital = "Yabrin"
 trade_goods = dates
 base_tax = 1

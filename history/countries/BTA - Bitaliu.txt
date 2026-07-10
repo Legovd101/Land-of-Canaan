@@ -1,0 +1,7 @@
+religion = zoroastrian
+capital = 4274
+technology_group = muslim
+primary_culture = dilmunite
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1

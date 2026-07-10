@@ -1,6 +1,6 @@
 #392 - Al-Arid
-culture = bedouin_arabic
-religion = arab_pagan
+culture = dilmunite
+religion = zoroastrian
 capital = "Diriyah"
 trade_goods = livestock
 base_tax = 1
