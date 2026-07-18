@@ -1,7 +1,7 @@
 #2063 - Etawah
-owner = DLH
-controller = DLH
-culture = kanauji
+owner = BIL
+controller = BIL
+culture = gangeto_greek
 religion = hinduism
 capital = "Etawah"
 trade_goods = indigo
@@ -10,7 +10,6 @@ base_production = 5
 base_manpower = 3
 is_city = yes
 add_core = JNP
-add_core = DLH
 discovered_by = indian
 discovered_by = muslim
 discovered_by = kemetic
@@ -21,3 +20,4 @@ discovered_by = iranic_group
 discovered_by = nomad_group
 discovered_by = uralic_group
 discovered_by = chinese
+add_core = BIL

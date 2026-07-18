@@ -11,8 +11,8 @@ capital = 4448	# Parlakhimidi
 	monarch = {
 		name = "Kolahomi"
 		dynasty = "Gajapati"
-		ADM = 1
-		DIP = 1
-		MIL = 2
+		adm = 1
+		dip = 1
+		mil = 2
 	}
 }

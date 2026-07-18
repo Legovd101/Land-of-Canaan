@@ -1,15 +1,14 @@
 #4408 - Salavata
-owner = CEY
-controller = CEY
-culture = sinhala
-religion = buddhism
+owner = DVJ
+controller = DVJ
+culture = wanniyalaeto
+religion = vedda_animism
 capital = "Salavata"
 trade_goods = ebony
 base_tax = 2
 base_production = 3
 base_manpower = 1
 is_city = yes
-add_core = CEY
 discovered_by = east_african
 discovered_by = cushitic_group
 discovered_by = muslim
@@ -19,3 +18,4 @@ discovered_by = serican_group
 discovered_by = iranic_group
 discovered_by = indian
 discovered_by = chinese
+add_core = DVJ

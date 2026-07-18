@@ -1,0 +1,73 @@
+#Country Name: Please see filename.
+graphical_culture = asiangfx
+color = { 209 152 249 }
+revolutionary_colors = { 5 0 10 }
+historical_score = 250
+historical_idea_groups = { 
+	economic_ideas
+	defensive_ideas
+	diplomatic_ideas
+	offensive_ideas
+	trade_ideas
+	innovativeness_ideas
+	religious_ideas
+	spy_ideas
+}
+historical_units = { 
+	bardiche_infantry
+	eastern_knights
+	slavic_stradioti
+	eastern_militia
+	hungarian_hussar
+	germanized_pike
+	polish_musketeer
+	polish_hussar
+	polish_tercio
+	polish_winged_hussar
+	eastern_skirmisher
+	eastern_uhlan
+	eastern_carabinier
+}
+monarch_names = { 
+	"Lajos #1" = 40
+	"Apor #1" = 40
+	"Mátyás #1" = 40
+	"Béla #4" = 5
+	"Bács #4" = 5
+	"Barót #4" = 5
+	"Dejte #4" = 5
+	"Ellák #4" = 5
+	"Emelev #4" = 5
+	"Enet #4" = 5
+	"Eneth #4" = 5
+	"Erös #4" = 5
+	"Fehér #4" = 5
+	"Gyoma #4" = 5
+	"Bere #4" = 5
+	"Boldizsár #0" = 0
+	"Csák #0" = 0
+	"Csana #0" = 0
+	"Csát #0" = 0
+	"Csátad #0" = 0
+	"Janka #0" = 0
+	"Csató #0" = 0
+	"Keszö #0" = 0
+	"Ferenc #0" = 0
+	"Jenö #0" = 0
+	"Kálmán #1" = 0
+	"Erzsébet #0" = -5
+	"Cheperka #0" = -5
+	"Csaga #0" = -5
+	"Gyung #0" = -5
+	"Ilega #0" = -5
+	"Jánka #0" = -5
+	"Jósza #0" = -5
+}
+leader_names = { 
+	Lajos Apor Mátyás Béla Bács Barót Dejte Ellák Emelev Enet
+	Eneth Erös Fehér Gyoma Bere Boldizsár Csák Csana Csát Csátad
+	Janka Csató Keszö Ferenc Jenö Kálmán 
+}
+ship_names = { 
+	Aranybulla Arpad Magyar "Hunyadi" "Karoly Robert" "Nagy Lajos" Kalman 
+}

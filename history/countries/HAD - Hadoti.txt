@@ -4,27 +4,25 @@ government_rank = 1
 primary_culture = rajput
 religion = hinduism
 technology_group = indian
-capital = 528 # Kota
-fixed_capital = 528 # Cannot move capital away from this province & no power cost to move to it
-
-1384.1.1 = {
-	if = {
-		limit = {
+capital = 4464# Kota
+fixed_capital = 528# Cannot move capital away from this province & no power cost to move to it
+1384.1.1 = { 
+	if = { 
+		limit = { 
 			NOT = { has_dlc = "Dharma" }
 		}
 		add_government_reform = feudalism_reform
 	}
-	monarch = {
+	monarch = { 
 		name = "Hamuj"
 		dynasty = "Hada-Chauhan"
-		DIP = 1
-		ADM = 2
-		MIL = 3
+		dip = 1
+		adm = 2
+		mil = 3
 	}
 }
-
-1384.1.1 = {
-	heir = {
+1384.1.1 = { 
+	heir = { 
 		name = "Birsingh"
 		monarch_name = "Birsingh"
 		dynasty = "Hada-Chauhan"
@@ -36,11 +34,8 @@ fixed_capital = 528 # Cannot move capital away from this province & no power cos
 		mil = 2
 	}
 }
-
- 
-
-1400.1.1 = {
-	monarch = {
+1400.1.1 = { 
+	monarch = { 
 		name = "Birsingh"
 		dynasty = "Hada-Chauhan"
 		adm = 2
@@ -48,9 +43,8 @@ fixed_capital = 528 # Cannot move capital away from this province & no power cos
 		mil = 2
 	}
 }
-
-1400.1.1 = {
-	heir = {
+1400.1.1 = { 
+	heir = { 
 		name = "Biru"
 		monarch_name = "Biru"
 		dynasty = "Hada-Chauhan"
@@ -62,9 +56,8 @@ fixed_capital = 528 # Cannot move capital away from this province & no power cos
 		mil = 2
 	}
 }
-
-1415.1.1 = {
-	monarch = {
+1415.1.1 = { 
+	monarch = { 
 		name = "Biru"
 		dynasty = "Hada-Chauhan"
 		adm = 0
@@ -74,9 +67,8 @@ fixed_capital = 528 # Cannot move capital away from this province & no power cos
 	clear_scripted_personalities = yes
 	add_ruler_personality = naive_personality
 }
-
-1415.1.1 = {
-	heir = {
+1415.1.1 = { 
+	heir = { 
 		name = "Bandu"
 		monarch_name = "Bandu"
 		dynasty = "Hada-Chauhan"
@@ -88,9 +80,8 @@ fixed_capital = 528 # Cannot move capital away from this province & no power cos
 		mil = 0
 	}
 }
-
-1470.1.1 = {
-	monarch = {
+1470.1.1 = { 
+	monarch = { 
 		name = "Bandu"
 		dynasty = "Hada-Chauhan"
 		adm = 3
@@ -98,9 +89,8 @@ fixed_capital = 528 # Cannot move capital away from this province & no power cos
 		mil = 0
 	}
 }
-
-1470.1.1 = {
-	heir = {
+1470.1.1 = { 
+	heir = { 
 		name = "Narayan"
 		monarch_name = "Narayan Das"
 		dynasty = "Hada-Chauhan"
@@ -114,9 +104,8 @@ fixed_capital = 528 # Cannot move capital away from this province & no power cos
 	clear_scripted_personalities = yes
 	add_heir_personality = lawgiver_personality
 }
-
-1491.1.1 = {
-	monarch = {
+1491.1.1 = { 
+	monarch = { 
 		name = "Narayan Das"
 		dynasty = "Hada-Chauhan"
 		adm = 3
@@ -126,9 +115,8 @@ fixed_capital = 528 # Cannot move capital away from this province & no power cos
 	clear_scripted_personalities = yes
 	add_ruler_personality = lawgiver_personality
 }
-
-1491.1.1 = {
-	heir = {
+1491.1.1 = { 
+	heir = { 
 		name = "Suraj Mal"
 		monarch_name = "Suraj Mal"
 		dynasty = "Hada-Chauhan"
@@ -140,9 +128,8 @@ fixed_capital = 528 # Cannot move capital away from this province & no power cos
 		mil = 0
 	}
 }
-
-1527.1.1 = {
-	monarch = {
+1527.1.1 = { 
+	monarch = { 
 		name = "Suraj Mal"
 		dynasty = "Hada-Chauhan"
 		adm = 1
@@ -150,9 +137,8 @@ fixed_capital = 528 # Cannot move capital away from this province & no power cos
 		mil = 0
 	}
 }
-
-1527.1.1 = {
-	heir = {
+1527.1.1 = { 
+	heir = { 
 		name = "Surtan Singh"
 		monarch_name = "Surtan Singh"
 		dynasty = "Hada-Chauhan"
@@ -164,9 +150,8 @@ fixed_capital = 528 # Cannot move capital away from this province & no power cos
 		mil = 0
 	}
 }
-
-1531.1.1 = {
-	monarch = {
+1531.1.1 = { 
+	monarch = { 
 		name = "Surtan Singh"
 		dynasty = "Hada-Chauhan"
 		adm = 2
@@ -174,9 +159,8 @@ fixed_capital = 528 # Cannot move capital away from this province & no power cos
 		mil = 0
 	}
 }
-
-1531.1.1 = {
-	heir = {
+1531.1.1 = { 
+	heir = { 
 		name = "Surjan Singh"
 		monarch_name = "Surjan Singh"
 		dynasty = "Hada-Chauhan"
@@ -188,9 +172,8 @@ fixed_capital = 528 # Cannot move capital away from this province & no power cos
 		mil = 2
 	}
 }
-
-1544.1.1 = {
-	monarch = {
+1544.1.1 = { 
+	monarch = { 
 		name = "Surjan Singh"
 		dynasty = "Hada-Chauhan"
 		adm = 2
@@ -198,9 +181,8 @@ fixed_capital = 528 # Cannot move capital away from this province & no power cos
 		mil = 2
 	}
 }
-
-1544.1.1 = {
-	heir = {
+1544.1.1 = { 
+	heir = { 
 		name = "Bhoj Singh"
 		monarch_name = "Bhoj Singh"
 		dynasty = "Hada-Chauhan"
@@ -212,9 +194,8 @@ fixed_capital = 528 # Cannot move capital away from this province & no power cos
 		mil = 2
 	}
 }
-
-1585.1.1 = {
-	monarch = {
+1585.1.1 = { 
+	monarch = { 
 		name = "Bhoj Singh"
 		dynasty = "Hada-Chauhan"
 		adm = 2
@@ -222,9 +203,8 @@ fixed_capital = 528 # Cannot move capital away from this province & no power cos
 		mil = 2
 	}
 }
-
-1585.1.1 = {
-	heir = {
+1585.1.1 = { 
+	heir = { 
 		name = "Ratan Singh"
 		monarch_name = "Ratan Singh"
 		dynasty = "Hada-Chauhan"
@@ -236,9 +216,8 @@ fixed_capital = 528 # Cannot move capital away from this province & no power cos
 		mil = 4
 	}
 }
-
-1608.1.1 = {
-	monarch = {
+1608.1.1 = { 
+	monarch = { 
 		name = "Ratan Singh"
 		dynasty = "Hada-Chauhan"
 		adm = 3
@@ -246,9 +225,8 @@ fixed_capital = 528 # Cannot move capital away from this province & no power cos
 		mil = 4
 	}
 }
-
-1608.1.1 = {
-	heir = {
+1608.1.1 = { 
+	heir = { 
 		name = "Chatra Singh"
 		monarch_name = "Chatra Singh"
 		dynasty = "Hada-Chauhan"
@@ -260,9 +238,8 @@ fixed_capital = 528 # Cannot move capital away from this province & no power cos
 		mil = 2
 	}
 }
-
-1632.1.1 = {
-	monarch = {
+1632.1.1 = { 
+	monarch = { 
 		name = "Chatra Singh"
 		dynasty = "Hada-Chauhan"
 		adm = 2
@@ -270,9 +247,8 @@ fixed_capital = 528 # Cannot move capital away from this province & no power cos
 		mil = 2
 	}
 }
-
-1632.1.1 = {
-	heir = {
+1632.1.1 = { 
+	heir = { 
 		name = "Bao Singh"
 		monarch_name = "Bao Singh"
 		dynasty = "Hada-Chauhan"
@@ -284,9 +260,8 @@ fixed_capital = 528 # Cannot move capital away from this province & no power cos
 		mil = 2
 	}
 }
-
-1658.1.1 = {
-	monarch = {
+1658.1.1 = { 
+	monarch = { 
 		name = "Bao Singh"
 		dynasty = "Hada-Chauhan"
 		adm = 3
@@ -294,9 +269,8 @@ fixed_capital = 528 # Cannot move capital away from this province & no power cos
 		mil = 2
 	}
 }
-
-1658.1.1 = {
-	heir = {
+1658.1.1 = { 
+	heir = { 
 		name = "Anirudh Singh"
 		monarch_name = "Anirudh Singh"
 		dynasty = "Hada-Chauhan"
@@ -308,9 +282,8 @@ fixed_capital = 528 # Cannot move capital away from this province & no power cos
 		mil = 2
 	}
 }
-
-1682.1.1 = {
-	monarch = {
+1682.1.1 = { 
+	monarch = { 
 		name = "Anirudh Singh"
 		dynasty = "Hada-Chauhan"
 		adm = 1
@@ -318,9 +291,8 @@ fixed_capital = 528 # Cannot move capital away from this province & no power cos
 		mil = 2
 	}
 }
-
-1682.1.1 = {
-	heir = {
+1682.1.1 = { 
+	heir = { 
 		name = "Budh Singh"
 		monarch_name = "Budh Singh"
 		dynasty = "Hada-Chauhan"
@@ -332,9 +304,8 @@ fixed_capital = 528 # Cannot move capital away from this province & no power cos
 		mil = 1
 	}
 }
-
-1696.1.1 = {
-	monarch = {
+1696.1.1 = { 
+	monarch = { 
 		name = "Anirudh Singh"
 		dynasty = "Hada-Chauhan"
 		adm = 3
@@ -342,9 +313,8 @@ fixed_capital = 528 # Cannot move capital away from this province & no power cos
 		mil = 1
 	}
 }
-
-1696.1.1 = {
-	heir = {
+1696.1.1 = { 
+	heir = { 
 		name = "Dalel Singh"
 		monarch_name = "Dalel Singh"
 		dynasty = "Hada-Chauhan"
@@ -356,9 +326,8 @@ fixed_capital = 528 # Cannot move capital away from this province & no power cos
 		mil = 1
 	}
 }
-
-1735.1.1 = {
-	monarch = {
+1735.1.1 = { 
+	monarch = { 
 		name = "Dalel Singh"
 		dynasty = "Hada-Chauhan"
 		adm = 1
@@ -366,9 +335,8 @@ fixed_capital = 528 # Cannot move capital away from this province & no power cos
 		mil = 1
 	}
 }
-
-1735.1.1 = {
-	heir = {
+1735.1.1 = { 
+	heir = { 
 		name = "Umaid Singh"
 		monarch_name = "Umaid Singh"
 		dynasty = "Hada-Chauhan"
@@ -380,9 +348,8 @@ fixed_capital = 528 # Cannot move capital away from this province & no power cos
 		mil = 4
 	}
 }
-
-1749.1.1 = {
-	monarch = {
+1749.1.1 = { 
+	monarch = { 
 		name = "Umaid Singh"
 		dynasty = "Hada-Chauhan"
 		adm = 3
@@ -390,9 +357,8 @@ fixed_capital = 528 # Cannot move capital away from this province & no power cos
 		mil = 4
 	}
 }
-
-1749.1.1 = {
-	heir = {
+1749.1.1 = { 
+	heir = { 
 		name = "Ajit Singh"
 		monarch_name = "Ajit Singh"
 		dynasty = "Hada-Chauhan"
@@ -404,9 +370,8 @@ fixed_capital = 528 # Cannot move capital away from this province & no power cos
 		mil = 0
 	}
 }
-
-1770.1.1 = {
-	monarch = {
+1770.1.1 = { 
+	monarch = { 
 		name = "Ajit Singh"
 		dynasty = "Hada-Chauhan"
 		adm = 2
@@ -414,11 +379,9 @@ fixed_capital = 528 # Cannot move capital away from this province & no power cos
 		mil = 0
 	}
 }
-
 #Again
-
-1770.1.1 = {
-	heir = {
+1770.1.1 = { 
+	heir = { 
 		name = "Umaid Singh"
 		monarch_name = "Umaid Singh"
 		dynasty = "Hada-Chauhan"
@@ -430,9 +393,8 @@ fixed_capital = 528 # Cannot move capital away from this province & no power cos
 		mil = 4
 	}
 }
-
-1773.1.1 = {
-	monarch = {
+1773.1.1 = { 
+	monarch = { 
 		name = "Umaid Singh"
 		dynasty = "Hada-Chauhan"
 		adm = 3
@@ -440,9 +402,8 @@ fixed_capital = 528 # Cannot move capital away from this province & no power cos
 		mil = 4
 	}
 }
-
-1773.1.1 = {
-	heir = {
+1773.1.1 = { 
+	heir = { 
 		name = "Bishen Singh"
 		monarch_name = "Bishen Singh"
 		dynasty = "Hada-Chauhan"
@@ -454,9 +415,8 @@ fixed_capital = 528 # Cannot move capital away from this province & no power cos
 		mil = 1
 	}
 }
-
-1804.1.1 = {
-	monarch = {
+1804.1.1 = { 
+	monarch = { 
 		name = "Bishen Singh"
 		dynasty = "Hada-Chauhan"
 		adm = 1
@@ -464,7 +424,6 @@ fixed_capital = 528 # Cannot move capital away from this province & no power cos
 		mil = 1
 	}
 }
-
-1818.2.10 = {
+1818.2.10 = { 
 	government_rank = 2
 }

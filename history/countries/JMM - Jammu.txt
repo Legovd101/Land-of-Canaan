@@ -1,0 +1,7 @@
+capital = 4449
+technology_group = indian
+government_rank = 1
+religion = astartism
+primary_culture = panjabi
+government = monarchy
+add_government_reform = feudalism_reform

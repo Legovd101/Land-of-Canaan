@@ -1,0 +1,7 @@
+government = monarchy
+add_government_reform = indian_sultanate_reform
+technology_group = indian
+religion = hinduism
+primary_culture = marathi
+capital = 4442 # Washim/Vatsagulma
+fixed_capital = 4442 # Cannot move capital away from this province & no power cost to move to it

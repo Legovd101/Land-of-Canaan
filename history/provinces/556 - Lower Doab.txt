@@ -1,6 +1,6 @@
 #556 - Lower Doab
-owner = JNP
-controller = JNP
+owner = BIL
+controller = BIL
 culture = avadhi
 religion = hinduism
 capital = "Allahabad"
@@ -9,7 +9,6 @@ base_tax = 6
 base_production = 6
 base_manpower = 2
 is_city = yes
-add_core = JNP
 add_brahmins_or_church_effect = yes
 discovered_by = indian
 discovered_by = muslim
@@ -22,3 +21,4 @@ discovered_by = uralic_group
 discovered_by = chinese
 extra_cost = 16
 center_of_trade = 2
+add_core = BIL

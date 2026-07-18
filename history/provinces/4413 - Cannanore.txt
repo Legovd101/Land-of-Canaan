@@ -2,7 +2,7 @@
 owner = KLT
 controller = KLT
 culture = malayalam
-religion = hinduism
+religion = arab_pagan
 capital = "Cannanore"
 trade_goods = spices
 base_tax = 3
@@ -24,3 +24,4 @@ discovered_by = iranic_group
 discovered_by = chinese
 extra_cost = 8
 center_of_trade = 1
+fort_15th = yes

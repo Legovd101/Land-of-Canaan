@@ -11,9 +11,9 @@ capital = 580
 	monarch = {
 		name = "Tarabya"
 		dynasty = "Kale"
-		ADM = 2
-		DIP = 2
-		MIL = 2
+		adm = 2
+		dip = 2
+		mil = 2
 	}
 }
 
@@ -21,8 +21,8 @@ capital = 580
 	monarch = {
 		name = "Kyetaungnyo"
 		dynasty = "Kale"
-		ADM = 2
-		DIP = 2
-		MIL = 2
+		adm = 2
+		dip = 2
+		mil = 2
 	}
 }

@@ -1,0 +1,16 @@
+religion = gangetic
+capital = 558
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 2
+technology_group = ottoman
+primary_culture = gangeto_greek
+1428.1.1 = { 
+	monarch = { 
+		name = "Sámo"
+		dynasty = "Nikephórides"
+		adm = 3
+		dip = 2
+		mil = 1
+	}
+}

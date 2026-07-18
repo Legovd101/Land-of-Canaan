@@ -10,9 +10,9 @@ capital = 566	# Gargaon
 	monarch = {
 		name = "Sudangpha"
 		dynasty = "Ahom"
-		ADM = 0
-		DIP = 0
-		MIL = 3
+		adm = 0
+		dip = 0
+		mil = 3
 	}
 }
 
@@ -24,9 +24,9 @@ capital = 566	# Gargaon
 		birth_date = 1370.1.1
 		death_Date = 1422.1.1
 		claim = 95
-		ADM = 1
-		DIP = 1
-		MIL = 1
+		adm = 1
+		dip = 1
+		mil = 1
 	}
 }
 
@@ -34,9 +34,9 @@ capital = 566	# Gargaon
 	monarch = {
 		name = "Sujangpha"
 		dynasty = "Ahom"
-		ADM = 1
-		DIP = 1
-		MIL = 1
+		adm = 1
+		dip = 1
+		mil = 1
 	}
 }
 
@@ -48,9 +48,9 @@ capital = 566	# Gargaon
 		birth_date = 1400.1.1
 		death_Date = 1439.1.1
 		claim = 95
-		ADM = 2
-		DIP = 0
-		MIL = 2
+		adm = 2
+		dip = 0
+		mil = 2
 	}
 }
 
@@ -58,9 +58,9 @@ capital = 566	# Gargaon
 	monarch = {
 		name = "Siphakpha"
 		dynasty = "Ahom"
-		ADM = 2
-		DIP = 0
-		MIL = 2
+		adm = 2
+		dip = 0
+		mil = 2
 	}
 }
 
@@ -72,9 +72,9 @@ capital = 566	# Gargaon
 		birth_date = 1420.1.1
 		death_Date = 1488.1.1
 		claim = 95
-		ADM = 4
-		DIP = 2
-		MIL = 3
+		adm = 4
+		dip = 2
+		mil = 3
 	}
 }
 
@@ -82,9 +82,9 @@ capital = 566	# Gargaon
 	monarch = {
 		name = "Susenphâ"
 		dynasty = "Ahom"
-		ADM = 4
-		DIP = 2
-		MIL = 3
+		adm = 4
+		dip = 2
+		mil = 3
 	}
 }
 
@@ -96,9 +96,9 @@ capital = 566	# Gargaon
 		birth_date = 1450.1.1
 		death_Date = 1493.1.1
 		claim = 95
-		ADM = 2
-		DIP = 1
-		MIL = 2
+		adm = 2
+		dip = 1
+		mil = 2
 	}
 }
 
@@ -106,9 +106,9 @@ capital = 566	# Gargaon
 	monarch = {
 		name = "Suhenphâ"
 		dynasty = "Ahom"
-		ADM = 2
-		DIP = 1
-		MIL = 2
+		adm = 2
+		dip = 1
+		mil = 2
 	}
 }
 
@@ -116,9 +116,9 @@ capital = 566	# Gargaon
 	monarch = {
 		name = "Supimphâ"
 		dynasty = "Ahom"
-		ADM = 2
-		DIP = 1
-		MIL = 2
+		adm = 2
+		dip = 1
+		mil = 2
 	}
 }
 
@@ -130,9 +130,9 @@ capital = 566	# Gargaon
 		birth_date = 1490.1.1
 		death_Date = 1539.1.1
 		claim = 95
-		ADM = 0
-		DIP = 0
-		MIL = 1
+		adm = 0
+		dip = 0
+		mil = 1
 	}
 }
 
@@ -140,9 +140,9 @@ capital = 566	# Gargaon
 	monarch = {
 		name = "Suhungmung"
 		dynasty = "Ahom"
-		ADM = 0
-		DIP = 0
-		MIL = 1
+		adm = 0
+		dip = 0
+		mil = 1
 	}
 }
 
@@ -154,9 +154,9 @@ capital = 566	# Gargaon
 		birth_date = 1497.1.1
 		death_Date = 1552.1.1
 		claim = 95
-		ADM = 3
-		DIP = 2
-		MIL = 2
+		adm = 3
+		dip = 2
+		mil = 2
 	}
 }
 
@@ -164,9 +164,9 @@ capital = 566	# Gargaon
 	monarch = {
 		name = "Suklenmung"
 		dynasty = "Ahom"
-		ADM = 3
-		DIP = 2
-		MIL = 2
+		adm = 3
+		dip = 2
+		mil = 2
 	}
 }
 
@@ -178,9 +178,9 @@ capital = 566	# Gargaon
 		birth_date = 1530.1.1
 		death_Date = 1603.1.1
 		claim = 95
-		ADM = 3
-		DIP = 3
-		MIL = 2
+		adm = 3
+		dip = 3
+		mil = 2
 	}
 }
 		
@@ -189,9 +189,9 @@ capital = 566	# Gargaon
 	monarch = {
 		name = "Sukhamphâ"
 		dynasty = "Ahom"
-		ADM = 3
-		DIP = 3
-		MIL = 2
+		adm = 3
+		dip = 3
+		mil = 2
 	}
 }
 
@@ -203,9 +203,9 @@ capital = 566	# Gargaon
 		birth_date = 1570.1.1
 		death_Date = 1641.1.1
 		claim = 95
-		ADM = 3
-		DIP = 3
-		MIL = 1
+		adm = 3
+		dip = 3
+		mil = 1
 	}
 }
 
@@ -213,9 +213,9 @@ capital = 566	# Gargaon
 	monarch = {
 		name = "Susengphâ"
 		dynasty = "Ahom"
-		ADM = 3
-		DIP = 3
-		MIL = 1
+		adm = 3
+		dip = 3
+		mil = 1
 	}
 }
 
@@ -227,9 +227,9 @@ capital = 566	# Gargaon
 		birth_date = 1600.1.1
 		death_Date = 1644.1.1
 		claim = 95
-		ADM = 0
-		DIP = 0
-		MIL = 0
+		adm = 0
+		dip = 0
+		mil = 0
 	}
 }
 
@@ -237,9 +237,9 @@ capital = 566	# Gargaon
 	monarch = {
 		name = "Suramphâ"
 		dynasty = "Ahom"
-		ADM = 0
-		DIP = 0
-		MIL = 0
+		adm = 0
+		dip = 0
+		mil = 0
 	}
 }
 
@@ -251,9 +251,9 @@ capital = 566	# Gargaon
 		birth_date = 1641.1.1
 		death_Date = 1648.1.1
 		claim = 95
-		ADM = 0
-		DIP = 1
-		MIL = 0
+		adm = 0
+		dip = 1
+		mil = 0
 	}
 }
 
@@ -261,9 +261,9 @@ capital = 566	# Gargaon
 	monarch = {
 		name = "Sutyinphâ"
 		dynasty = "Ahom"
-		ADM = 0
-		DIP = 1
-		MIL = 0
+		adm = 0
+		dip = 1
+		mil = 0
 	}
 }
 
@@ -275,9 +275,9 @@ capital = 566	# Gargaon
 		birth_date = 1640.1.1
 		death_Date = 1663.9.1
 		claim = 95
-		ADM = 0
-		DIP = 0
-		MIL = 2
+		adm = 0
+		dip = 0
+		mil = 2
 	}
 }
 
@@ -285,9 +285,9 @@ capital = 566	# Gargaon
 	monarch = {
 		name = "Sutamla"
 		dynasty = "Ahom"
-		ADM = 0
-		DIP = 0
-		MIL = 2
+		adm = 0
+		dip = 0
+		mil = 2
 	}
 }
 
@@ -295,9 +295,9 @@ capital = 566	# Gargaon
 	monarch = {
 		name = "Supungmung"
 		dynasty = "Ahom"
-		ADM = 2
-		DIP = 2
-		MIL = 2
+		adm = 2
+		dip = 2
+		mil = 2
 	}
 }
 
@@ -305,9 +305,9 @@ capital = 566	# Gargaon
 	monarch = {
 		name = "Sunyatphâ"
 		dynasty = "Ahom"
-		ADM = 3
-		DIP = 1
-		MIL = 2
+		adm = 3
+		dip = 1
+		mil = 2
 	}
 }
 
@@ -315,9 +315,9 @@ capital = 566	# Gargaon
 	monarch = {
 		name = "Suklamphâ"
 		dynasty = "Ahom"
-		ADM = 1
-		DIP = 1
-		MIL = 2
+		adm = 1
+		dip = 1
+		mil = 2
 	}
 }
 
@@ -325,9 +325,9 @@ capital = 566	# Gargaon
 	monarch = {
 		name = "Suhung"
 		dynasty = "Ahom"
-		ADM = 0
-		DIP = 0
-		MIL = 0
+		adm = 0
+		dip = 0
+		mil = 0
 	}
 }
 
@@ -335,9 +335,9 @@ capital = 566	# Gargaon
 	monarch = {
 		name = "Gobar"
 		dynasty = "Ahom"
-		ADM = 0
-		DIP = 0
-		MIL = 0
+		adm = 0
+		dip = 0
+		mil = 0
 	}
 }
 
@@ -345,9 +345,9 @@ capital = 566	# Gargaon
 	monarch = {
 		name = "Sujinphâ"
 		dynasty = "Ahom"
-		ADM = 0
-		DIP = 0
-		MIL = 0
+		adm = 0
+		dip = 0
+		mil = 0
 	}
 }
 
@@ -355,9 +355,9 @@ capital = 566	# Gargaon
 	monarch = {
 		name = "Sudalphâ"
 		dynasty = "Ahom"
-		ADM = 0
-		DIP = 1
-		MIL = 1
+		adm = 0
+		dip = 1
+		mil = 1
 	}
 }
 
@@ -365,9 +365,9 @@ capital = 566	# Gargaon
 	monarch = {
 		name = "Sulikphâ"
 		dynasty = "Ahom"
-		ADM = 0
-		DIP = 0
-		MIL = 1
+		adm = 0
+		dip = 0
+		mil = 1
 	}
 }
 
@@ -375,9 +375,9 @@ capital = 566	# Gargaon
 	monarch = {
 		name = "Supatphâ"
 		dynasty = "Ahom"
-		ADM = 1
-		DIP = 2
-		MIL = 1
+		adm = 1
+		dip = 2
+		mil = 1
 	}
 }
 
@@ -389,9 +389,9 @@ capital = 566	# Gargaon
 		birth_date = 1660.1.1
 		death_Date = 1714.2.1
 		claim = 95
-		ADM = 2
-		DIP = 2
-		MIL = 2
+		adm = 2
+		dip = 2
+		mil = 2
 	}
 }
 
@@ -399,9 +399,9 @@ capital = 566	# Gargaon
 	monarch = {
 		name = "Sukrungphâ"
 		dynasty = "Ahom"
-		ADM = 2
-		DIP = 2
-		MIL = 2
+		adm = 2
+		dip = 2
+		mil = 2
 	}
 }
 
@@ -413,9 +413,9 @@ capital = 566	# Gargaon
 		birth_date = 1690.1.1
 		death_Date = 1744.1.1
 		claim = 95
-		ADM = 0
-		DIP = 1
-		MIL = 1
+		adm = 0
+		dip = 1
+		mil = 1
 	}
 }
 
@@ -423,9 +423,9 @@ capital = 566	# Gargaon
 	monarch = {
 		name = "Sutanphâ"
 		dynasty = "Ahom"
-		ADM = 0
-		DIP = 1
-		MIL = 1
+		adm = 0
+		dip = 1
+		mil = 1
 	}
 }
 
@@ -437,9 +437,9 @@ capital = 566	# Gargaon
 		birth_date = 1700.1.1
 		death_Date = 1751.1.1
 		claim = 95
-		ADM = 1
-		DIP = 2
-		MIL = 1
+		adm = 1
+		dip = 2
+		mil = 1
 	}
 }
 
@@ -447,9 +447,9 @@ capital = 566	# Gargaon
 	monarch = {
 		name = "Sunenphâ"
 		dynasty = "Ahom"
-		ADM = 1
-		DIP = 2
-		MIL = 1
+		adm = 1
+		dip = 2
+		mil = 1
 	}
 }
 
@@ -461,9 +461,9 @@ capital = 566	# Gargaon
 		birth_date = 1740.1.1
 		death_Date = 1769.1.1
 		claim = 95
-		ADM = 1
-		DIP = 2
-		MIL = 2
+		adm = 1
+		dip = 2
+		mil = 2
 	}
 }
 
@@ -471,9 +471,9 @@ capital = 566	# Gargaon
 	monarch = {
 		name = "Suramphâ"
 		dynasty = "Ahom"
-		ADM = 1
-		DIP = 2
-		MIL = 2
+		adm = 1
+		dip = 2
+		mil = 2
 	}
 }
 
@@ -485,9 +485,9 @@ capital = 566	# Gargaon
 		birth_date = 1751.1.1
 		death_date = 1780.12.1
 		claim = 95
-		ADM = 1
-		DIP = 2
-		MIL = 2 
+		adm = 1
+		dip = 2
+		mil = 2 
 	}
 }
 
@@ -495,9 +495,9 @@ capital = 566	# Gargaon
 	monarch = {
 		name = "Suyeophâ"
 		dynasty = "Ahom"
-		ADM = 1
-		DIP = 2
-		MIL = 2
+		adm = 1
+		dip = 2
+		mil = 2
 	}
 }
 
@@ -509,9 +509,9 @@ capital = 566	# Gargaon
 		birth_date = 1760.1.1
 		death_Date = 1794.12.20
 		claim = 95
-		ADM = 0
-		DIP = 0
-		MIL = 1
+		adm = 0
+		dip = 0
+		mil = 1
 	}
 }
 
@@ -519,9 +519,9 @@ capital = 566	# Gargaon
 	monarch = {
 		name = "Suhitpangphâ"
 		dynasty = "Ahom"
-		ADM = 0
-		DIP = 0
-		MIL = 1
+		adm = 0
+		dip = 0
+		mil = 1
 	}
 }
 
@@ -533,9 +533,9 @@ capital = 566	# Gargaon
 		birth_date = 1770.1.1
 		death_Date = 1810.1.1
 		claim = 95
-		ADM = 1
-		DIP = 1
-		MIL = 0
+		adm = 1
+		dip = 1
+		mil = 0
 	}
 }
 
@@ -543,9 +543,9 @@ capital = 566	# Gargaon
 	monarch = {
 		name = "Suklingphâ"
 		dynasty = "Ahom"
-		ADM = 1
-		DIP = 1
-		MIL = 0
+		adm = 1
+		dip = 1
+		mil = 0
 	}
 }
 
@@ -557,9 +557,9 @@ capital = 566	# Gargaon
 		birth_date = 1790.1.1
 		death_Date = 1818.1.1
 		claim = 95
-		ADM = 1
-		DIP = 0
-		MIL = 2
+		adm = 1
+		dip = 0
+		mil = 2
 	}
 }
 
@@ -567,9 +567,9 @@ capital = 566	# Gargaon
 	monarch = {
 		name = "Sudinpha"
 		dynasty = "Ahom"
-		ADM = 1
-		DIP = 0
-		MIL = 2
+		adm = 1
+		dip = 0
+		mil = 2
 	}
 }
 
@@ -581,9 +581,9 @@ capital = 566	# Gargaon
 		birth_date = 1800.1.1
 		death_Date = 1847.1.1
 		claim = 95
-		ADM = 2
-		DIP = 2
-		MIL = 3
+		adm = 2
+		dip = 2
+		mil = 3
 	}
 }
 
@@ -591,8 +591,8 @@ capital = 566	# Gargaon
 	monarch = {
 		name = "Brajnatha"
 		dynasty = "Ahom"
-		ADM = 2
-		DIP = 2
-		MIL = 3
+		adm = 2
+		dip = 2
+		mil = 3
 	}
 }

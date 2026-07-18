@@ -24,3 +24,4 @@ discovered_by = serican_group
 discovered_by = iranic_group
 #1561.11.28
 add_core = KRZ
+discovered_by = uralic_group

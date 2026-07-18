@@ -1333,7 +1333,7 @@ guiTypes = {
 				windowType = {
 					name ="datewidget"
 					backGround=""
-					position = { x=10 y =401}
+					position = { x=-500 y =401}
 					size = { x=200 y =200}
 					moveable = 0
 					dontRender = ""
@@ -1445,6 +1445,32 @@ guiTypes = {
 						name = "day_up"
 						position = { x = 215 y = 109 }
 						quadTextureSprite ="GFX_arrow_right_small"
+					}
+				}
+
+				windowType = {
+					name ="itloc_summary"
+					backGround=""
+					position = { x=10 y =401}
+					size = { x=200 y =200}
+					moveable = 0
+					dontRender = ""
+					horizontalBorder= ""
+					verticalBorder= ""
+					upsound = ""
+					downsound = ""
+					fullscreen=no
+					Orientation = "UPPER_LEFT"
+
+					instantTextBoxType = {
+						name = "itloc_summary_text"
+						position = { x = 6 y = 9 }
+						font = "vic_18"
+						borderSize = {x = 0 y = 0}
+						text = "itloc_summary_block"
+						maxWidth = 260
+						maxHeight = 30
+						format = centre
 					}
 				}
 
@@ -1659,13 +1685,13 @@ guiTypes = {
 
 				instantTextBoxType = {
 					name = "year_label"
-					position = { x = -150 y = 18 }
-					maxWidth = 300
+					position = { x = -175 y = 18 }
+					maxWidth = 350
 					maxHeight = 30
 					font = "vic_22"
 					borderSize = {x = 4 y = 4}
 					text = "FE_THE_WORLD_1453"
-					maxWidth = 300
+					maxWidth = 350
 					maxHeight = 30
 					format = centre
 					Orientation = "UPPER_LEFT"

@@ -1,15 +1,14 @@
 #523 - Oudh
-owner = JNP
-controller = JNP
-culture = avadhi
-religion = hinduism
+owner = BIL
+controller = BIL
+culture = tangut
+religion = mahayana
 capital = "Lucknow"
 trade_goods = glass#Center for the production of "Mughal Glass"
 base_tax = 4
 base_production = 4
 base_manpower = 2
 is_city = yes
-add_core = JNP
 add_core = DLH
 add_core = ODH
 discovered_by = indian
@@ -21,3 +20,4 @@ discovered_by = ottoman
 discovered_by = serican_group
 discovered_by = iranic_group
 discovered_by = chinese
+add_core = BIL

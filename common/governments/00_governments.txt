@@ -1268,6 +1268,8 @@ theocracy = {
 				egyptian_government_reform
 				blood_theocracy_reform
 				turkoman_ottoman_institutions
+				#ItLoC
+				beit_abba_reform
 			}
 		}
 		internal_vs_external_mission = {

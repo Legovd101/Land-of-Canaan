@@ -19,9 +19,9 @@ religious_school = maliki_school
 	monarch = {
 		name = "Abu Walid"
 		dynasty = "Saadi"
-		ADM = 2
-		DIP = 3
-		MIL = 3
+		adm = 2
+		dip = 3
+		mil = 3
 	}
 	add_piety = 1.0
 }
@@ -30,9 +30,9 @@ religious_school = maliki_school
 	monarch = {
 		name = "Muhammad al-Qaim"
 		dynasty = "Saadi"
-		ADM = 4
-		DIP = 5
-		MIL = 4
+		adm = 4
+		dip = 5
+		mil = 4
 	}
 	add_piety = 1.0
 }
@@ -45,9 +45,9 @@ religious_school = maliki_school
 		birth_date = 1486.1.1
 		death_date = 1557.1.1
 		claim = 95
-		ADM = 4
-		DIP = 3
-		MIL = 5
+		adm = 4
+		dip = 3
+		mil = 5
 	}
 }
 
@@ -55,9 +55,9 @@ religious_school = maliki_school
 	monarch = {
 		name = "Ahmad al-Araj"
 		dynasty = "Saadi"
-		ADM = 4
-		DIP = 3
-		MIL = 5
+		adm = 4
+		dip = 3
+		mil = 5
 	}
 	add_piety = 1.0
 }
@@ -70,9 +70,9 @@ religious_school = maliki_school
 		birth_date = 1490.1.1
 		death_date = 1557.10.23
 		claim = 95
-		ADM = 4
-		DIP = 4
-		MIL = 5
+		adm = 4
+		dip = 4
+		mil = 5
 	}
 }
 
@@ -80,9 +80,9 @@ religious_school = maliki_school
 	monarch = {
 		name = "Mohammed ash-Sheikh"
 		dynasty = "Saadi"
-		ADM = 4
-		DIP = 4
-		MIL = 5
+		adm = 4
+		dip = 4
+		mil = 5
 	}
 	add_piety = 1.0
 }
@@ -95,9 +95,9 @@ religious_school = maliki_school
 		birth_date = 1527.6.1
 		death_date = 1574.1.21
 		claim = 95
-		ADM = 6
-		DIP = 3
-		MIL = 4
+		adm = 6
+		dip = 3
+		mil = 4
 	}
 }
 
@@ -105,9 +105,9 @@ religious_school = maliki_school
 	monarch = {
 		name = "Abdallah al-Ghalib"
 		dynasty = "Saadi"
-		ADM = 6
-		DIP = 3
-		MIL = 4
+		adm = 6
+		dip = 3
+		mil = 4
 	}
 }
 
@@ -115,9 +115,9 @@ religious_school = maliki_school
 	monarch = {
 		name = "Moulay Ali Cherif"
 		dynasty = "Alaouite"
-		ADM = 4
-		DIP = 4
-		MIL = 5
+		adm = 4
+		dip = 4
+		mil = 5
 	}
 	add_piety = 1.0
 }
@@ -130,9 +130,9 @@ religious_school = maliki_school
 		birth_date = 1490.1.1
 		death_date = 1668.8.2
 		claim = 95
-		ADM = 3
-		DIP = 4
-		MIL = 5
+		adm = 3
+		dip = 4
+		mil = 5
 	}
 }
 
@@ -140,9 +140,9 @@ religious_school = maliki_school
 	monarch = {
 		name = "Muhammad ibn Sharif"
 		dynasty = "Alaouite"
-		ADM = 3
-		DIP = 4
-		MIL = 5
+		adm = 3
+		dip = 4
+		mil = 5
 	}
 	add_piety = 1.0
 }
@@ -151,9 +151,9 @@ religious_school = maliki_school
 	monarch = {
 		name = "ar-Rashid"
 		dynasty = "Alaouite"
-		ADM = 4
-		DIP = 3
-		MIL = 5
+		adm = 4
+		dip = 3
+		mil = 5
 	}
 }
 

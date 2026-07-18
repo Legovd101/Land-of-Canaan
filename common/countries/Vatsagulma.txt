@@ -1,0 +1,97 @@
+#Country Name: See the Name of this File.
+graphical_culture = indiangfx
+color = { 103 157 137 }
+revolutionary_colors = { 0 9 0 }
+historical_idea_groups = { 
+	offensive_ideas
+	administrative_ideas
+	economic_ideas
+	quantity_ideas
+	aristocracy_ideas
+	trade_ideas
+	spy_ideas
+	diplomatic_ideas
+}
+historical_units = { 
+	indian_footsoldier
+	rajput_hill_fighters
+	indian_arquebusier
+	mughal_musketeer
+	rajput_musketeer
+	mughal_mansabdar
+	indian_elephant
+	bhonsle_infantry
+	indian_shock_cavalry
+	maharathan_cavalry
+	maharathan_guerilla_warfare
+	sikh_rifle
+	tipu_sultan_rocket
+}
+monarch_names = {
+	"Shivaji #0" = 100
+	"Shahaji #0" = 60
+	"Sambhaji #0" = 40
+	"Rajaram #0" = 40
+	"Maloji #0" = 20
+	"Venkoji #0" = 20
+	"Jijabai #0" = -20
+	"Shahu #0" = 20
+	"Shivaji #0 Shahaji" = 10
+	"Tarabai #0" = -10
+	"Pratapsingh #0" = 10
+	"Sambhaji #0 Rajaram" = 10
+	"Ramchandra #0" = 10
+	"Yesaji #0" = 10
+	"Santaji #0" = 5
+	"Dhanaji #0" = 5
+	"Raghuji #0" = 1
+	"Khanderao #0" = 0
+	"Mahadji #0" = 0
+	"Bajirao #0" = 1
+	"Balaji #0" = 0
+	"Madhavrao #0" = 0
+	"Nanasaheb #0" = 0
+	"Trimbakrao #0" = 0
+	"Murarrao #0" = 0
+	"Parshuram #0" = 0
+	"Haripant #0" = 0
+	"Krishnaji #0" = 0
+	"Narayanrao #0" = 0
+	"Ranoji #0" = 0
+	"Tukoji #0" = 0
+	"Malharrao #0" = 0
+	"Yashwantrao #0" = 0
+	"Appasaheb #0" = 0
+	"Chimaji #0" = 0
+	"Viswasrao #0" = 0
+	"Gangadhar #0" = 0
+	"Govindrao #0" = 0
+	"Anandrao #0" = 0
+	"Shripatrao #0" = 0
+	"Janardan #0" = 0
+	"Raghunathrao #0" = 0
+	"Gangabai #0" = -10
+	"Kashibai #0" = -10
+	"Ahilyabai #0" = -1
+}
+
+leader_names = {
+	Shivaji Shahaji Sambhaji Rajaram Shahu Bajirao Balaji
+	Madhavrao Raghunathrao Malharrao Tukoji Ranoji Mahadji
+	Santaji Dhanaji Yesaji Murarrao Trimbakrao Haripant
+	Krishnaji Govindrao Janardan Appasaheb Chimaji
+	Parshuram Narayanrao Viswasrao Yashwantrao Shripatrao
+}
+
+ship_names = {
+	Sindhudurg Vijaydurg Raigad Pratapgad Rajgad Torna
+	Sinhagad Purandar Panhala Shivneri Lohagad
+	Bhavani Tulja Bhavani Jagadamba Mahalakshmi
+	Sahyadri Konkan Godavari Krishna Bhima Narmada
+	Maratha Swarajya Hindavi Swarajya
+	Garuda Simha Vyaghra Vajra
+	Shivaji Raigad
+	Maharashtra Sahyadri
+	Konkan Bhavani
+	
+}

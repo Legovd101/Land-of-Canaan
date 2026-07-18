@@ -28,3 +28,4 @@ discovered_by = GOL
 discovered_by = AST
 discovered_by = QAS
 is_city = no
+discovered_by = uralic_group

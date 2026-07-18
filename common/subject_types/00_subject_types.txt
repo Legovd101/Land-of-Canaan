@@ -1786,8 +1786,7 @@ soyurghal_subject_type = {
 }
 
 # Completely scripted subject type (no code used). Add any number of these. Check common/new_diplomatic_actions for how to make visible in game.
-dummy =
-{
+dummy = {
 	copy_from = default
 }
 

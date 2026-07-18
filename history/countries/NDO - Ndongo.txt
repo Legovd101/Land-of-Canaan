@@ -16,9 +16,9 @@ capital = 1171
 	monarch = {
 		name = "a-Nzinga"
 		dynasty = "Ngola"
-		DIP = 3
-		ADM = 2
-		MIL = 3
+		dip = 3
+		adm = 2
+		mil = 3
 	}
 }
 
@@ -26,9 +26,9 @@ capital = 1171
 	monarch = {
 		name = "Kiluanji Inene"
 		dynasty = "Ngola"
-		DIP = 3
-		ADM = 2
-		MIL = 3
+		dip = 3
+		adm = 2
+		mil = 3
 	}
 }
 
@@ -36,9 +36,9 @@ capital = 1171
 	monarch = {
 		name = "Ndambi a"
 		dynasty = "Ngola"
-		DIP = 3
-		ADM = 2
-		MIL = 3
+		dip = 3
+		adm = 2
+		mil = 3
 	}
 }
 
@@ -46,9 +46,9 @@ capital = 1171
 	monarch = {
 		name = "Kiluanji Kia Ndambi"
 		dynasty = "Ngola"
-		DIP = 3
-		ADM = 2
-		MIL = 3
+		dip = 3
+		adm = 2
+		mil = 3
 	}
 }
 
@@ -56,9 +56,9 @@ capital = 1171
 	monarch = {
 		name = "Kilombo kia Kasenda"
 		dynasty = "Ngola"
-		DIP = 3
-		ADM = 2
-		MIL = 3
+		dip = 3
+		adm = 2
+		mil = 3
 	}
 }
 
@@ -66,9 +66,9 @@ capital = 1171
 	monarch = {
 		name = "Mbandi Kiluanji"
 		dynasty = "Ngola"
-		DIP = 3
-		ADM = 2
-		MIL = 3
+		dip = 3
+		adm = 2
+		mil = 3
 	}
 }
 
@@ -76,9 +76,9 @@ capital = 1171
 	monarch = {
 		name = "Nzinga Mbandi"
 		dynasty = "Ngola"
-		DIP = 3
-		ADM = 2
-		MIL = 3
+		dip = 3
+		adm = 2
+		mil = 3
 	}
 }
 
@@ -87,9 +87,9 @@ capital = 1171
 		name = "Ana #1 de Sousa"
 		dynasty = "Guterres"
 		female = yes
-		DIP = 5
-		ADM = 5
-		MIL = 5
+		dip = 5
+		adm = 5
+		mil = 5
 	}
 	religion = catholic
 }
@@ -102,9 +102,9 @@ capital = 1171
 		name = "Barbara"
 		dynasty = "Guterres"
 		female = yes
-		DIP = 3
-		ADM = 2
-		MIL = 3
+		dip = 3
+		adm = 2
+		mil = 3
 	}
 }
 
@@ -113,9 +113,9 @@ capital = 1171
 		name = "Njinga Mona"
 		dynasty = "Guterres"
 		female = yes
-		DIP = 3
-		ADM = 2
-		MIL = 3
+		dip = 3
+		adm = 2
+		mil = 3
 	}
 }
 
@@ -123,9 +123,9 @@ capital = 1171
 	monarch = {
 		name = "Joao"
 		dynasty = "Guterres"
-		DIP = 3
-		ADM = 2
-		MIL = 3
+		dip = 3
+		adm = 2
+		mil = 3
 	}
 }
 
@@ -134,9 +134,9 @@ capital = 1171
 		name = "Njinga Mona"
 		dynasty = "Guterres"
 		female = yes
-		DIP = 3
-		ADM = 2
-		MIL = 3
+		dip = 3
+		adm = 2
+		mil = 3
 	}
 }
 
@@ -144,9 +144,9 @@ capital = 1171
 	monarch = {
 		name = "Francisco"
 		dynasty = "Guterres"
-		DIP = 3
-		ADM = 2
-		MIL = 3
+		dip = 3
+		adm = 2
+		mil = 3
 	}
 }
 
@@ -155,9 +155,9 @@ capital = 1171
 		name = "Veronica"
 		dynasty = "Guterres"
 		female = yes
-		DIP = 3
-		ADM = 2
-		MIL = 3
+		dip = 3
+		adm = 2
+		mil = 3
 	}
 }
 
@@ -165,9 +165,9 @@ capital = 1171
 	monarch = {
 		name = "Afonso"
 		dynasty = "Guterres"
-		DIP = 3
-		ADM = 2
-		MIL = 3
+		dip = 3
+		adm = 2
+		mil = 3
 	}
 }
 
@@ -176,9 +176,9 @@ capital = 1171
 		name = "Ana"
 		dynasty = "Guterres"
 		female = yes
-		DIP = 3
-		ADM = 2
-		MIL = 3
+		dip = 3
+		adm = 2
+		mil = 3
 	}
 }
 
@@ -187,9 +187,9 @@ capital = 1171
 		name = "Veronica"
 		dynasty = "Guterres"
 		female = yes
-		DIP = 3
-		ADM = 2
-		MIL = 3
+		dip = 3
+		adm = 2
+		mil = 3
 	}
 }
 
@@ -198,9 +198,9 @@ capital = 1171
 		name = "Ana"
 		dynasty = "Guterres"
 		female = yes
-		DIP = 3
-		ADM = 2
-		MIL = 3
+		dip = 3
+		adm = 2
+		mil = 3
 	}
 }
 
@@ -208,8 +208,8 @@ capital = 1171
 	monarch = {
 		name = "Francisco"
 		dynasty = "Guterres"
-		DIP = 3
-		ADM = 2
-		MIL = 3
+		dip = 3
+		adm = 2
+		mil = 3
 	}
 }

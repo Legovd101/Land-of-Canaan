@@ -9,9 +9,9 @@ capital = 2687	# Pakuan
 	monarch = {
 		name = "Mangkubumi Suradipati"
 		dynasty = "Sunda"
-		ADM = 4
-		DIP = 3
-		MIL = 3
+		adm = 4
+		dip = 3
+		mil = 3
 	}
 }
 
@@ -19,9 +19,9 @@ capital = 2687	# Pakuan
 	monarch = {
 		name = "Sri Baduga Maharaja"
 		dynasty = "Sunda"
-		ADM = 5
-		DIP = 5
-		MIL = 4
+		adm = 5
+		dip = 5
+		mil = 4
 	}
 }
 
@@ -29,9 +29,9 @@ capital = 2687	# Pakuan
 	monarch = {
 		name = "Prabu Surawisesa Jayaperkosa"
 		dynasty = "Sunda"
-		ADM = 1
-		DIP = 1
-		MIL = 1
+		adm = 1
+		dip = 1
+		mil = 1
 	}
 }
 
@@ -39,9 +39,9 @@ capital = 2687	# Pakuan
 	monarch = {
 		name = "Ratu Dewata"
 		dynasty = "Sunda"
-		ADM = 2
-		DIP = 2
-		MIL = 2
+		adm = 2
+		dip = 2
+		mil = 2
 	}
 }
 
@@ -49,9 +49,9 @@ capital = 2687	# Pakuan
 	monarch = {
 		name = "Ratu Sakti"
 		dynasty = "Sunda"
-		ADM = 2
-		DIP = 2
-		MIL = 1
+		adm = 2
+		dip = 2
+		mil = 1
 	}
 }
 
@@ -59,9 +59,9 @@ capital = 2687	# Pakuan
 	monarch = {
 		name = "Nilakendra"
 		dynasty = "Sunda"
-		ADM = 1
-		DIP = 1
-		MIL = 2
+		adm = 1
+		dip = 1
+		mil = 2
 	}
 }
 
@@ -69,8 +69,8 @@ capital = 2687	# Pakuan
 	monarch = {
 		name = "Mulya"
 		dynasty = "Sunda"
-		ADM = 1
-		DIP = 0
-		MIL = 0
+		adm = 1
+		dip = 0
+		mil = 0
 	}
 }

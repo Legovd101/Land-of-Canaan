@@ -1,0 +1,6 @@
+religion = buddhism
+capital = 4469
+technology_group = indian
+primary_culture = hungarian
+government = tribal
+government_rank = 1

@@ -1,9 +1,9 @@
 #538 - Karur
-owner = VIJ
-controller = VIJ
+owner = HOY
+controller = HOY
 capital = "Karur"
 culture = tamil
-religion = hinduism
+religion = ajivika
 trade_goods = incense#Sandalwood
 base_tax = 2
 base_production = 2
@@ -21,3 +21,4 @@ discovered_by = ottoman
 discovered_by = serican_group
 discovered_by = iranic_group
 discovered_by = chinese
+add_core = HOY

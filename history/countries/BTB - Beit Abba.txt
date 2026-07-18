@@ -1,0 +1,31 @@
+religion = astartism
+capital = 507
+government_rank = 2
+technology_group = muslim
+primary_culture = aramean
+government = theocracy
+add_government_reform = beit_abba_reform
+
+1430.1.1 = {
+	monarch = {
+		name = "Abba"
+		adm = 2
+		dip = 3
+		mil = 1
+		culture = aramean
+	}
+}
+
+add_accepted_culture = panjabi
+historical_friend = KSH
+historical_friend = JBN
+historical_friend = JMM
+historical_friend = KGR
+historical_friend = TRN
+historical_friend = SNG
+historical_friend = JNG
+historical_friend = KHP
+historical_friend = BHN
+historical_friend = DRA
+historical_friend = SRH
+historical_friend = GTP

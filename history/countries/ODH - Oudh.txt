@@ -13,9 +13,9 @@ religious_school = jafari_school
 	monarch = {
 		name = "Muhammad Sa'adat Khan"
 		dynasty = "Awadhi"
-		ADM = 5
-		DIP = 6
-		MIL = 5
+		adm = 5
+		dip = 6
+		mil = 5
 	}
 }
 
@@ -27,9 +27,9 @@ religious_school = jafari_school
 		birth_date = 1708.1.1
 		death_date = 1754.10.5
 		claim = 95
-		ADM = 2
-		DIP = 3
-		MIL = 3
+		adm = 2
+		dip = 3
+		mil = 3
 	}
 }
 
@@ -37,9 +37,9 @@ religious_school = jafari_school
 	monarch = {
 		name = "Muhammad Safdar Jang"
 		dynasty = "Awadhi"
-		ADM = 2
-		DIP = 3
-		MIL = 3
+		adm = 2
+		dip = 3
+		mil = 3
 	}
 }
 
@@ -51,9 +51,9 @@ religious_school = jafari_school
 		birth_date = 1732.1.19
 		death_date = 1775.1.26
 		claim = 95
-		ADM = 1
-		DIP = 1
-		MIL = 0
+		adm = 1
+		dip = 1
+		mil = 0
 	}
 }
 
@@ -61,9 +61,9 @@ religious_school = jafari_school
 	monarch = {
 		name = "Shujah ad-Daula"
 		dynasty = "Awadhi"
-		ADM = 1
-		DIP = 1
-		MIL = 0
+		adm = 1
+		dip = 1
+		mil = 0
 	}
 }
 
@@ -75,9 +75,9 @@ religious_school = jafari_school
 		birth_date = 1748.9.23
 		death_date = 1797.1.1
 		claim = 95
-		ADM = 0
-		DIP = 0
-		MIL = 2
+		adm = 0
+		dip = 0
+		mil = 2
 	}
 }
 
@@ -85,9 +85,9 @@ religious_school = jafari_school
 	monarch = {
 		name = "Asaf ad-Daula"
 		dynasty = "Awadhi"
-		ADM = 0
-		DIP = 0
-		MIL = 2
+		adm = 0
+		dip = 0
+		mil = 2
 	}
 }
 
@@ -99,9 +99,9 @@ religious_school = jafari_school
 		birth_date = 1748.9.23
 		death_date = 1798.1.1
 		claim = 95
-		ADM = 3
-		DIP = 2
-		MIL = 2
+		adm = 3
+		dip = 2
+		mil = 2
 	}
 }
 
@@ -109,9 +109,9 @@ religious_school = jafari_school
 	monarch = {
 		name = "Wazir 'Ali Khan"
 		dynasty = "Awadhi"
-		ADM = 3
-		DIP = 2
-		MIL = 2
+		adm = 3
+		dip = 2
+		mil = 2
 	}
 }
 
@@ -123,9 +123,9 @@ religious_school = jafari_school
 		birth_date = 1752.1.1
 		death_date = 1814.7.11
 		claim = 95
-		ADM = 1
-		DIP = 2
-		MIL = 1
+		adm = 1
+		dip = 2
+		mil = 1
 	}
 }
 
@@ -133,9 +133,9 @@ religious_school = jafari_school
 	monarch = {
 		name = "Sa'adat 'Ali Khan"
 		dynasty = "Awadhi"
-		ADM = 1
-		DIP = 2
-		MIL = 1
+		adm = 1
+		dip = 2
+		mil = 1
 	}
 }
 
@@ -147,9 +147,9 @@ religious_school = jafari_school
 		birth_date = 1769.1.1
 		death_date = 1827.1.1
 		claim = 95
-		ADM = 2
-		DIP = 2
-		MIL = 3
+		adm = 2
+		dip = 2
+		mil = 3
 	}
 }
 		
@@ -158,8 +158,8 @@ religious_school = jafari_school
 	monarch = {
 		name = "Ghazi ud-Din Haidar"
 		dynasty = "Awadhi"
-		ADM = 2
-		DIP = 2
-		MIL = 3
+		adm = 2
+		dip = 2
+		mil = 3
 	}
 }

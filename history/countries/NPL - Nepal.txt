@@ -9,9 +9,9 @@ capital = 557	# Kathmandu
 	monarch = {
 		name = "Jayajyotimalla"
 		dynasty = "Malla"
-		ADM = 0
-		DIP = 1
-		MIL = 2
+		adm = 0
+		dip = 1
+		mil = 2
 	}
 }
 
@@ -19,9 +19,9 @@ capital = 557	# Kathmandu
 	monarch = {
 		name = "Jayajyoti"
 		dynasty = "Malla"
-		ADM = 0
-		DIP = 1
-		MIL = 2
+		adm = 0
+		dip = 1
+		mil = 2
 	}
 }
 
@@ -33,9 +33,9 @@ capital = 557	# Kathmandu
 		birth_date = 1395.6.1
 		death_date = 1482.3.1
 		claim = 95
-		ADM = 0
-		DIP = 1
-		MIL = 2
+		adm = 0
+		dip = 1
+		mil = 2
 	}
 }
 
@@ -45,9 +45,9 @@ capital = 557	# Kathmandu
 	monarch = {
 		name = "Jayayaksha"
 		dynasty = "Malla"
-		ADM = 0
-		DIP = 1
-		MIL = 2
+		adm = 0
+		dip = 1
+		mil = 2
 	}
 }
 
@@ -59,9 +59,9 @@ capital = 557	# Kathmandu
 		birth_date = 1460.1.1
 		death_date = 1520.1.1
 		claim = 95
-		ADM = 0
-		DIP = 3
-		MIL = 2
+		adm = 0
+		dip = 3
+		mil = 2
 	}
 }
 
@@ -72,9 +72,9 @@ capital = 557	# Kathmandu
 	monarch = {
 		name = "Ratna"
 		dynasty = "Malla"
-		ADM = 0
-		DIP = 3
-		MIL = 2
+		adm = 0
+		dip = 3
+		mil = 2
 	}
 }
 
@@ -86,9 +86,9 @@ capital = 557	# Kathmandu
 		birth_date = 1482.3.1
 		death_date = 1530.1.1
 		claim = 95
-		ADM = 2
-		DIP = 2
-		MIL = 2
+		adm = 2
+		dip = 2
+		mil = 2
 	}
 }
 
@@ -96,9 +96,9 @@ capital = 557	# Kathmandu
 	monarch = {
 		name = "Surya"
 		dynasty = "Malla"
-		ADM = 2
-		DIP = 2
-		MIL = 2
+		adm = 2
+		dip = 2
+		mil = 2
 	}
 }
 
@@ -110,9 +110,9 @@ capital = 557	# Kathmandu
 		birth_date = 1510.1.1
 		death_date = 1538.1.1
 		claim = 95
-		ADM = 2
-		DIP = 2
-		MIL = 2
+		adm = 2
+		dip = 2
+		mil = 2
 	}
 }
 
@@ -120,9 +120,9 @@ capital = 557	# Kathmandu
 	monarch = {
 		name = "Amara"
 		dynasty = "Malla"
-		ADM = 2
-		DIP = 2
-		MIL = 2
+		adm = 2
+		dip = 2
+		mil = 2
 	}
 }
 
@@ -134,9 +134,9 @@ capital = 557	# Kathmandu
 		birth_date = 1518.1.1
 		death_date = 1560.1.1
 		claim = 95
-		ADM = 2
-		DIP = 2
-		MIL = 2
+		adm = 2
+		dip = 2
+		mil = 2
 	}
 }
 
@@ -144,9 +144,9 @@ capital = 557	# Kathmandu
 	monarch = {
 		name = "Narendra"
 		dynasty = "Malla"
-		ADM = 2
-		DIP = 2
-		MIL = 2
+		adm = 2
+		dip = 2
+		mil = 2
 	}
 }
 
@@ -158,9 +158,9 @@ capital = 557	# Kathmandu
 		birth_date = 1538.1.1
 		death_date = 1574.1.1
 		claim = 95
-		ADM = 2
-		DIP = 2
-		MIL = 2
+		adm = 2
+		dip = 2
+		mil = 2
 	}
 }
 
@@ -168,9 +168,9 @@ capital = 557	# Kathmandu
 	monarch = {
 		name = "Mahnedra"
 		dynasty = "Malla"
-		ADM = 2
-		DIP = 2
-		MIL = 2
+		adm = 2
+		dip = 2
+		mil = 2
 	}
 }
 
@@ -182,9 +182,9 @@ capital = 557	# Kathmandu
 		birth_date = 1550.1.1
 		death_date = 1583.1.1
 		claim = 95
-		ADM = 2
-		DIP = 2
-		MIL = 2
+		adm = 2
+		dip = 2
+		mil = 2
 	}
 }
 
@@ -192,9 +192,9 @@ capital = 557	# Kathmandu
 	monarch = {
 		name = "Sadashiva"
 		dynasty = "Malla"
-		ADM = 2
-		DIP = 2
-		MIL = 2
+		adm = 2
+		dip = 2
+		mil = 2
 	}
 }
 
@@ -206,9 +206,9 @@ capital = 557	# Kathmandu
 		birth_date = 1563.1.1
 		death_date = 1620.1.1
 		claim = 95
-		ADM = 2
-		DIP = 2
-		MIL = 2
+		adm = 2
+		dip = 2
+		mil = 2
 	}
 }
 
@@ -216,9 +216,9 @@ capital = 557	# Kathmandu
 	monarch = {
 		name = "Shivasimha"
 		dynasty = "Malla"
-		ADM = 2
-		DIP = 2
-		MIL = 2
+		adm = 2
+		dip = 2
+		mil = 2
 	}
 }
 
@@ -230,9 +230,9 @@ capital = 557	# Kathmandu
 		birth_date = 1583.1.1
 		death_date = 1641.1.1
 		claim = 95
-		ADM = 2
-		DIP = 2
-		MIL = 2
+		adm = 2
+		dip = 2
+		mil = 2
 	}
 }
 
@@ -240,9 +240,9 @@ capital = 557	# Kathmandu
 	monarch = {
 		name = "Laksminarasimha"
 		dynasty = "Malla"
-		ADM = 2
-		DIP = 2
-		MIL = 2
+		adm = 2
+		dip = 2
+		mil = 2
 	}
 }
 
@@ -254,9 +254,9 @@ capital = 557	# Kathmandu
 		birth_date = 1620.1.1
 		death_date = 1674.1.1
 		claim = 95
-		ADM = 2
-		DIP = 2
-		MIL = 2
+		adm = 2
+		dip = 2
+		mil = 2
 	}
 }
 
@@ -264,9 +264,9 @@ capital = 557	# Kathmandu
 	monarch = {
 		name = "Pratapa"
 		dynasty = "Malla"
-		ADM = 2
-		DIP = 2
-		MIL = 2
+		adm = 2
+		dip = 2
+		mil = 2
 	}
 }
 
@@ -278,9 +278,9 @@ capital = 557	# Kathmandu
 		birth_date = 1641.1.1
 		death_date = 1680.1.1
 		claim = 95
-		ADM = 2
-		DIP = 2
-		MIL = 2
+		adm = 2
+		dip = 2
+		mil = 2
 	}
 }
 
@@ -288,9 +288,9 @@ capital = 557	# Kathmandu
 	monarch = {
 		name = "Jayanripendra"
 		dynasty = "Malla"
-		ADM = 2
-		DIP = 2
-		MIL = 2
+		adm = 2
+		dip = 2
+		mil = 2
 	}
 }
 
@@ -302,9 +302,9 @@ capital = 557	# Kathmandu
 		birth_date = 1674.1.1
 		death_date = 1687.1.1
 		claim = 95
-		ADM = 2
-		DIP = 2
-		MIL = 2
+		adm = 2
+		dip = 2
+		mil = 2
 	}
 }
 
@@ -312,9 +312,9 @@ capital = 557	# Kathmandu
 	monarch = {
 		name = "Parthivendra"
 		dynasty = "Malla"
-		ADM = 2
-		DIP = 2
-		MIL = 2
+		adm = 2
+		dip = 2
+		mil = 2
 	}
 }
 
@@ -326,9 +326,9 @@ capital = 557	# Kathmandu
 		birth_date = 1667.1.1
 		death_date = 1700.1.1
 		claim = 95
-		ADM = 2
-		DIP = 2
-		MIL = 2
+		adm = 2
+		dip = 2
+		mil = 2
 	}
 }
 
@@ -336,9 +336,9 @@ capital = 557	# Kathmandu
 	monarch = {
 		name = "Bhupendra"
 		dynasty = "Malla"
-		ADM = 2
-		DIP = 2
-		MIL = 2
+		adm = 2
+		dip = 2
+		mil = 2
 	}
 }
 
@@ -350,9 +350,9 @@ capital = 557	# Kathmandu
 		birth_date = 1687.1.1
 		death_date = 1714.1.1
 		claim = 95
-		ADM = 2
-		DIP = 2
-		MIL = 2
+		adm = 2
+		dip = 2
+		mil = 2
 	}
 }
 
@@ -360,9 +360,9 @@ capital = 557	# Kathmandu
 	monarch = {
 		name = "Bhaskara"
 		dynasty = "Malla"
-		ADM = 2
-		DIP = 2
-		MIL = 2
+		adm = 2
+		dip = 2
+		mil = 2
 	}
 }
 
@@ -374,9 +374,9 @@ capital = 557	# Kathmandu
 		birth_date = 1695.1.1
 		death_date = 1722.1.1
 		claim = 95
-		ADM = 2
-		DIP = 2
-		MIL = 2
+		adm = 2
+		dip = 2
+		mil = 2
 	}
 }
 
@@ -384,9 +384,9 @@ capital = 557	# Kathmandu
 	monarch = {
 		name = "Mahendrasimha"
 		dynasty = "Malla"
-		ADM = 2
-		DIP = 2
-		MIL = 2
+		adm = 2
+		dip = 2
+		mil = 2
 	}
 }
 
@@ -398,9 +398,9 @@ capital = 557	# Kathmandu
 		birth_date = 1700.1.1
 		death_date = 1735.1.1
 		claim = 95
-		ADM = 2
-		DIP = 2
-		MIL = 2
+		adm = 2
+		dip = 2
+		mil = 2
 	}
 }
 
@@ -408,9 +408,9 @@ capital = 557	# Kathmandu
 	monarch = {
 		name = "Jagajjaya"
 		dynasty = "Malla"
-		ADM = 2
-		DIP = 2
-		MIL = 2
+		adm = 2
+		dip = 2
+		mil = 2
 	}
 }
 
@@ -422,9 +422,9 @@ capital = 557	# Kathmandu
 		birth_date = 1710.1.1
 		death_date = 1768.9.25
 		claim = 95
-		ADM = 1
-		DIP = 0
-		MIL = 0
+		adm = 1
+		dip = 0
+		mil = 0
 	}
 }
 
@@ -432,9 +432,9 @@ capital = 557	# Kathmandu
 	monarch = {
 		name = "Jayaprasaka"
 		dynasty = "Malla"
-		ADM = 1
-		DIP = 0
-		MIL = 0
+		adm = 1
+		dip = 0
+		mil = 0
 	}
 }
 
@@ -446,9 +446,9 @@ capital = 557	# Kathmandu
 	monarch = {
 		name = "Prithvi Narayana"
 		dynasty = "Shah"
-		ADM = 5
-		DIP = 4
-		MIL = 6
+		adm = 5
+		dip = 4
+		mil = 6
 	}
 }
 
@@ -460,9 +460,9 @@ capital = 557	# Kathmandu
 		birth_date = 1751.1.1
 		death_date = 1777.11.17
 		claim = 95
-		ADM = 2
-		DIP = 0
-		MIL = 4
+		adm = 2
+		dip = 0
+		mil = 4
 	}
 }
 
@@ -472,9 +472,9 @@ capital = 557	# Kathmandu
 	monarch = {
 		name = "Pratapa Simha"
 		dynasty = "Shah"
-		ADM = 2
-		DIP = 0
-		MIL = 4
+		adm = 2
+		dip = 0
+		mil = 4
 	}
 }
 
@@ -486,9 +486,9 @@ capital = 557	# Kathmandu
 		birth_date = 1775.1.11
 		death_date = 1805.1.1
 		claim = 95
-		ADM = 1
-		DIP = 0
-		MIL = 5
+		adm = 1
+		dip = 0
+		mil = 5
 	}
 }
 
@@ -496,9 +496,9 @@ capital = 557	# Kathmandu
 	monarch = {
 		name = "Rana Bahadur"
 		dynasty = "Shah"
-		ADM = 1
-		DIP = 0
-		MIL = 5
+		adm = 1
+		dip = 0
+		mil = 5
 	}
 }
 
@@ -510,9 +510,9 @@ capital = 557	# Kathmandu
 		birth_date = 1777.11.17
 		death_date = 1816.11.20
 		claim = 95
-		ADM = 1
-		DIP = 1
-		MIL = 2
+		adm = 1
+		dip = 1
+		mil = 2
 	}
 }
 
@@ -520,9 +520,9 @@ capital = 557	# Kathmandu
 	monarch = {
 		name = "Girvan Yuddha Bikram"
 		dynasty = "Shah"
-		ADM = 1
-		DIP = 1
-		MIL = 2
+		adm = 1
+		dip = 1
+		mil = 2
 	}
 }
 
@@ -534,9 +534,9 @@ capital = 557	# Kathmandu
 		birth_date = 1813.1.1
 		death_date = 1881.1.1
 		claim = 95
-		ADM = 2
-		DIP = 3
-		MIL = 1
+		adm = 2
+		dip = 3
+		mil = 1
 	}
 }
 
@@ -544,9 +544,9 @@ capital = 557	# Kathmandu
 	monarch = {
 		name = "Rajendra Bikram"
 		dynasty = "Shah"
-		ADM = 2
-		DIP = 3
-		MIL = 1
+		adm = 2
+		dip = 3
+		mil = 1
 	}
 }
 

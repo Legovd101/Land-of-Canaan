@@ -15,8 +15,8 @@ capital = 3305
 	monarch = { 
 		name = "Philip"
 		dynasty = "Nikodemid"
-		MIL = 3
-		ADM = 4
-		DIP = 1
+		mil = 3
+		adm = 4
+		dip = 1
 	}
 }

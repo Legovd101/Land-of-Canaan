@@ -6,3 +6,4 @@ discovered_by = eastern
 discovered_by = slavic_group
 discovered_by = baltic_group
 discovered_by = SKU
+discovered_by = uralic_group

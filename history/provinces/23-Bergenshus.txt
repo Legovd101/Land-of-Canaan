@@ -19,3 +19,4 @@ discovered_by = baltic_group
 extra_cost = 16
 center_of_trade = 2
 add_core = BRI
+discovered_by = uralic_group

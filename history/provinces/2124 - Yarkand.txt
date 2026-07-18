@@ -1,7 +1,6 @@
 # 2124 - Yarkand
-owner = KAS
-controller = KAS
-add_core = KAS
+owner = MRU
+controller = MRU
 culture = uyghur
 religion = vajrayana
 capital = "Yarkant"
@@ -18,3 +17,4 @@ extra_cost = 8
 center_of_trade = 1
 discovered_by = BUY
 discovered_by = OSE
+add_core = MRU

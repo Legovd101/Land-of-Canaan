@@ -7,3 +7,4 @@ discovered_by = latin_group
 discovered_by = adventurer
 discovered_by = celtic_group
 is_city = no
+discovered_by = uralic_group

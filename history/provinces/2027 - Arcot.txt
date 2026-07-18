@@ -21,3 +21,4 @@ discovered_by = nomad_group
 discovered_by = uralic_group
 add_brahmins_or_church_effect = yes
 add_local_autonomy = 25
+fort_15th = yes

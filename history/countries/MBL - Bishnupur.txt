@@ -12,9 +12,9 @@ capital = 4471	# Bishnupur
 	monarch = {
 		name = "Uday"
 		dynasty = "Malla"
-		ADM = 1
-		DIP = 0
-		MIL = 3
+		adm = 1
+		dip = 0
+		mil = 3
 	}
 }
 
@@ -26,9 +26,9 @@ capital = 4471	# Bishnupur
 		birth_date = 1434.1.1
 		death_Date = 1501.1.1
 		claim = 95
-		ADM = 2
-		DIP = 2
-		MIL = 2
+		adm = 2
+		dip = 2
+		mil = 2
 	}
 }
 
@@ -36,9 +36,9 @@ capital = 4471	# Bishnupur
 	monarch = {
 		name = "Chandra"
 		dynasty = "Malla"
-		ADM = 2
-		DIP = 2
-		MIL = 2
+		adm = 2
+		dip = 2
+		mil = 2
 	}
 }
 
@@ -50,9 +50,9 @@ capital = 4471	# Bishnupur
 		birth_date = 1480.1.1
 		death_Date = 1554.1.1
 		claim = 95
-		ADM = 3
-		DIP = 2
-		MIL = 2
+		adm = 3
+		dip = 2
+		mil = 2
 	}
 }
 
@@ -60,9 +60,9 @@ capital = 4471	# Bishnupur
 	monarch = {
 		name = "Bir"
 		dynasty = "Malla"
-		ADM = 3
-		DIP = 2
-		MIL = 2
+		adm = 3
+		dip = 2
+		mil = 2
 	}
 }
 
@@ -74,9 +74,9 @@ capital = 4471	# Bishnupur
 		birth_date = 1501.1.1
 		death_Date = 1565.1.1
 		claim = 95
-		ADM = 1
-		DIP = 2
-		MIL = 3
+		adm = 1
+		dip = 2
+		mil = 3
 	}
 }
 
@@ -84,9 +84,9 @@ capital = 4471	# Bishnupur
 	monarch = {
 		name = "Dhari"
 		dynasty = "Malla"
-		ADM = 1
-		DIP = 2
-		MIL = 3
+		adm = 1
+		dip = 2
+		mil = 3
 	}
 }
 
@@ -98,9 +98,9 @@ capital = 4471	# Bishnupur
 		birth_date = 1554.1.1
 		death_Date = 1620.1.1
 		claim = 95
-		ADM = 3
-		DIP = 1
-		MIL = 4
+		adm = 3
+		dip = 1
+		mil = 4
 	}
 }
 
@@ -108,9 +108,9 @@ capital = 4471	# Bishnupur
 	monarch = {
 		name = "Hambir"
 		dynasty = "Malla"
-		ADM = 3
-		DIP = 1
-		MIL = 4 # a really big cannon
+		adm = 3
+		dip = 1
+		mil = 4 # a really big cannon
 	}
 }
 
@@ -122,9 +122,9 @@ capital = 4471	# Bishnupur
 		birth_date = 1554.1.1
 		death_Date = 1626.1.1
 		claim = 95
-		ADM = 1
-		DIP = 0
-		MIL = 0
+		adm = 1
+		dip = 0
+		mil = 0
 	}
 }
 
@@ -132,9 +132,9 @@ capital = 4471	# Bishnupur
 	monarch = {
 		name = "Dhari Hambir"
 		dynasty = "Malla"
-		ADM = 1
-		DIP = 0
-		MIL = 0
+		adm = 1
+		dip = 0
+		mil = 0
 	}
 }
 
@@ -146,9 +146,9 @@ capital = 4471	# Bishnupur
 		birth_date = 1620.1.1
 		death_Date = 1656.1.1
 		claim = 95
-		ADM = 3
-		DIP = 1
-		MIL = 3
+		adm = 3
+		dip = 1
+		mil = 3
 	}
 }
 
@@ -156,9 +156,9 @@ capital = 4471	# Bishnupur
 	monarch = {
 		name = "Raghunath"
 		dynasty = "Malla"
-		ADM = 3
-		DIP = 1
-		MIL = 3
+		adm = 3
+		dip = 1
+		mil = 3
 	}
 }
 
@@ -170,9 +170,9 @@ capital = 4471	# Bishnupur
 		birth_date = 1626.1.1
 		death_Date = 1682.1.1
 		claim = 95
-		ADM = 1
-		DIP = 0
-		MIL = 3
+		adm = 1
+		dip = 0
+		mil = 3
 	}
 }
 
@@ -180,9 +180,9 @@ capital = 4471	# Bishnupur
 	monarch = {
 		name = "Bir Singha"
 		dynasty = "Malla"
-		ADM = 1
-		DIP = 0
-		MIL = 3
+		adm = 1
+		dip = 0
+		mil = 3
 	}
 }
 
@@ -194,9 +194,9 @@ capital = 4471	# Bishnupur
 		birth_date = 1656.1.1
 		death_Date = 1702.1.1
 		claim = 95
-		ADM = 3
-		DIP = 3
-		MIL = 3
+		adm = 3
+		dip = 3
+		mil = 3
 	}
 }
 
@@ -204,9 +204,9 @@ capital = 4471	# Bishnupur
 	monarch = {
 		name = "Durjan Singha"
 		dynasty = "Malla"
-		ADM = 3
-		DIP = 3
-		MIL = 3
+		adm = 3
+		dip = 3
+		mil = 3
 	}
 }
 
@@ -218,9 +218,9 @@ capital = 4471	# Bishnupur
 		birth_date = 1680.1.1
 		death_Date = 1712.1.1
 		claim = 95
-		ADM = 2
-		DIP = 2
-		MIL = 3
+		adm = 2
+		dip = 2
+		mil = 3
 	}
 }
 
@@ -228,9 +228,9 @@ capital = 4471	# Bishnupur
 	monarch = {
 		name = "Raghunath II"
 		dynasty = "Malla"
-		ADM = 2
-		DIP = 2
-		MIL = 3
+		adm = 2
+		dip = 2
+		mil = 3
 	}
 }
 
@@ -242,9 +242,9 @@ capital = 4471	# Bishnupur
 		birth_date = 1680.1.1
 		death_Date = 1748.1.1
 		claim = 95
-		ADM = 1
-		DIP = 2
-		MIL = 1
+		adm = 1
+		dip = 2
+		mil = 1
 	}
 }
 
@@ -252,9 +252,9 @@ capital = 4471	# Bishnupur
 	monarch = {
 		name = "Gopal Singha"
 		dynasty = "Malla"
-		ADM = 1
-		DIP = 2
-		MIL = 1
+		adm = 1
+		dip = 2
+		mil = 1
 	}
 }
 
@@ -266,9 +266,9 @@ capital = 4471	# Bishnupur
 		birth_date = 1730.1.1
 		death_Date = 1801.1.1
 		claim = 95
-		ADM = 1
-		DIP = 1
-		MIL = 0
+		adm = 1
+		dip = 1
+		mil = 0
 	}
 }
 
@@ -276,9 +276,9 @@ capital = 4471	# Bishnupur
 	monarch = {
 		name = "Chaitanya"
 		dynasty = "Malla"
-		ADM = 1
-		DIP = 1
-		MIL = 0
+		adm = 1
+		dip = 1
+		mil = 0
 	}
 }
 
@@ -292,9 +292,9 @@ capital = 4471	# Bishnupur
 		birth_date = 1748.1.1
 		death_Date = 1809.1.1
 		claim = 95
-		ADM = 1
-		DIP = 1
-		MIL = 0 # tried to rob the treasury, died in prison
+		adm = 1
+		dip = 1
+		mil = 0 # tried to rob the treasury, died in prison
 	}
 }
 
@@ -302,9 +302,9 @@ capital = 4471	# Bishnupur
 	monarch = {
 		name = "Madhav"
 		dynasty = "Malla"
-		ADM = 1
-		DIP = 1
-		MIL = 0
+		adm = 1
+		dip = 1
+		mil = 0
 	}
 }
 
@@ -316,9 +316,9 @@ capital = 4471	# Bishnupur
 		birth_date = 1801.1.1
 		death_Date = 1876.1.1
 		claim = 95
-		ADM = 0
-		DIP = 0
-		MIL = 0
+		adm = 0
+		dip = 0
+		mil = 0
 	}
 }
 
@@ -326,8 +326,8 @@ capital = 4471	# Bishnupur
 	monarch = {
 		name = "Gopal Singha II"
 		dynasty = "Malla"
-		ADM = 0
-		DIP = 0
-		MIL = 0
+		adm = 0
+		dip = 0
+		mil = 0
 	}
 }

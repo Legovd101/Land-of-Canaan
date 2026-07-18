@@ -1,0 +1,26 @@
+beit_abba_reform = {
+	icon = "parliament_hall"
+	allow_normal_conversion = no
+	# legacy_equivalent = papal_government
+	lock_level_when_selected = yes
+	valid_for_nation_designer = yes
+	nation_designer_cost = 0
+	potential = {
+		have_had_reform = beit_abba_reform
+	}
+	trigger = {
+		have_had_reform = beit_abba_reform
+	}
+	modifiers = {
+		global_trade_power = 0.1
+		warscore_cost_vs_other_religion = -0.2
+		stability_cost_to_declare_war = -1
+	}
+	custom_attributes = {
+		
+	}
+	can_form_trade_league = yes
+	ai = {
+		factor = 0.5 #generic
+	}
+}

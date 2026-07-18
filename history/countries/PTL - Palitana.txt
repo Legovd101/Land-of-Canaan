@@ -16,9 +16,9 @@ capital = 2051	# Gohilvad
 	monarch = {
 		name = "Banaji"
 		dynasty = "Gohil"
-		ADM = 2
-		DIP = 3
-		MIL = 3
+		adm = 2
+		dip = 3
+		mil = 3
 	}
 }
 
@@ -26,9 +26,9 @@ capital = 2051	# Gohilvad
 	monarch = {
 		name = "Savaji"
 		dynasty = "Gohil"
-		ADM = 1
-		DIP = 1
-		MIL = 3
+		adm = 1
+		dip = 1
+		mil = 3
 	}
 }
 
@@ -36,9 +36,9 @@ capital = 2051	# Gohilvad
 	monarch = {
 		name = "Hadaji"
 		dynasty = "Gohil"
-		ADM = 2
-		DIP = 1
-		MIL = 1
+		adm = 2
+		dip = 1
+		mil = 1
 	}
 }
 
@@ -46,9 +46,9 @@ capital = 2051	# Gohilvad
 	monarch = {
 		name = "Kandhaji"
 		dynasty = "Gohil"
-		ADM = 2
-		DIP = 2
-		MIL = 2
+		adm = 2
+		dip = 2
+		mil = 2
 	}
 }
 
@@ -56,9 +56,9 @@ capital = 2051	# Gohilvad
 	monarch = {
 		name = "Nonghanji"
 		dynasty = "Gohil"
-		ADM = 4
-		DIP = 0
-		MIL = 3
+		adm = 4
+		dip = 0
+		mil = 3
 	}
 }
 
@@ -67,9 +67,9 @@ capital = 2051	# Gohilvad
 	monarch = {
 		name = "Arjanji"
 		dynasty = "Gohil"
-		ADM = 2
-		DIP = 3
-		MIL = 0
+		adm = 2
+		dip = 3
+		mil = 0
 	}
 }
 
@@ -77,9 +77,9 @@ capital = 2051	# Gohilvad
 	monarch = {
 		name = "Kandhaji"
 		dynasty = "Gohil"
-		ADM = 3
-		DIP = 0
-		MIL = 3
+		adm = 3
+		dip = 0
+		mil = 3
 	}
 }
 
@@ -87,9 +87,9 @@ capital = 2051	# Gohilvad
 	monarch = {
 		name = "Savaji"
 		dynasty = "Gohil"
-		ADM = 2
-		DIP = 1
-		MIL = 1
+		adm = 2
+		dip = 1
+		mil = 1
 	}
 }
 
@@ -97,9 +97,9 @@ capital = 2051	# Gohilvad
 	monarch = {
 		name = "Sartanji"
 		dynasty = "Gohil"
-		ADM = 2
-		DIP = 2
-		MIL = 2
+		adm = 2
+		dip = 2
+		mil = 2
 	}
 }
 
@@ -107,9 +107,9 @@ capital = 2051	# Gohilvad
 	monarch = {
 		name = "Kandhaji"
 		dynasty = "Gohil"
-		ADM = 2
-		DIP = 2
-		MIL = 3
+		adm = 2
+		dip = 2
+		mil = 3
 	}
 }
 
@@ -117,9 +117,9 @@ capital = 2051	# Gohilvad
 	monarch = {
 		name = "Prithvaraji"
 		dynasty = "Gohil"
-		ADM = 2
-		DIP = 3
-		MIL = 1
+		adm = 2
+		dip = 3
+		mil = 1
 	}
 }
 
@@ -127,9 +127,9 @@ capital = 2051	# Gohilvad
 	monarch = {
 		name = "Nonghanji"
 		dynasty = "Gohil"
-		ADM = 1
-		DIP = 1
-		MIL = 1
+		adm = 1
+		dip = 1
+		mil = 1
 	}
 }
 
@@ -137,9 +137,9 @@ capital = 2051	# Gohilvad
 	monarch = {
 		name = "Sartanji"
 		dynasty = "Gohil"
-		ADM = 2
-		DIP = 2
-		MIL = 3
+		adm = 2
+		dip = 2
+		mil = 3
 	}
 }
 
@@ -147,9 +147,9 @@ capital = 2051	# Gohilvad
 	monarch = {
 		name = "Kandhaji"
 		dynasty = "Gohil"
-		ADM = 2
-		DIP = 2
-		MIL = 2
+		adm = 2
+		dip = 2
+		mil = 2
 	}
 }
 
@@ -157,9 +157,9 @@ capital = 2051	# Gohilvad
 	monarch = {
 		name = "Unadji"
 		dynasty = "Gohil"
-		ADM = 2
-		DIP = 3
-		MIL = 1
+		adm = 2
+		dip = 3
+		mil = 1
 	}
 }
 
@@ -167,8 +167,8 @@ capital = 2051	# Gohilvad
 	monarch = {
 		name = "Kandhaji"
 		dynasty = "Gohil"
-		ADM = 2
-		DIP = 2
-		MIL = 1
+		adm = 2
+		dip = 2
+		mil = 1
 	}
 }

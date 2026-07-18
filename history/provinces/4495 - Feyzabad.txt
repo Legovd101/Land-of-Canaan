@@ -1,8 +1,8 @@
 #4495 - Feyzabad
-owner = JNP
-controller = JNP
-culture = avadhi
-religion = hinduism
+owner = BIL
+controller = BIL
+culture = tangut
+religion = mahayana
 capital = "Feyzabad"
 trade_goods = apiculture
 base_tax = 3
@@ -10,7 +10,6 @@ base_production = 3
 base_manpower = 2
 is_city = yes
 add_brahmins_or_church_effect = yes
-add_core = JNP
 add_core = DLH
 add_core = ODH
 discovered_by = indian
@@ -22,3 +21,4 @@ discovered_by = ottoman
 discovered_by = serican_group
 discovered_by = iranic_group
 discovered_by = chinese
+add_core = BIL

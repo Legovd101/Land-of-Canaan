@@ -1,0 +1,14 @@
+date_tick = {
+    export_to_variable = { which = year value = trigger_value:is_year }
+    change_variable = { which = year value = -311 }
+	if = {
+		limit = {
+			NOT = { check_variable = { which = year value = 0 } }
+		}
+		set_variable = { which = year_ce which = year }
+		multiply_variable = { which = year_ce value = -1 }
+	}
+	else = {
+		set_variable = { which = year_ce value = 0 }
+	}
+}

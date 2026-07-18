@@ -1,15 +1,14 @@
 #547 - Bastar
-owner = JPR
-controller = JPR
+owner = KLH
+controller = KLH
 culture = gondi
-religion = hinduism
+religion = gondi_animism
 capital = "Jagdalpur"
 trade_goods = tropical_wood
 base_tax = 1
 base_production = 1
 base_manpower = 2
 is_city = yes
-add_core = JPR
 discovered_by = indian
 discovered_by = nomad_group
 discovered_by = uralic_group
@@ -19,3 +18,4 @@ discovered_by = ottoman
 discovered_by = serican_group
 discovered_by = iranic_group
 discovered_by = chinese
+add_core = KLH

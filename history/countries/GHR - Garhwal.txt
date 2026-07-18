@@ -2,7 +2,7 @@ government = monarchy
 add_government_reform = feudalism_reform
 government_rank = 1
 technology_group = indian
-primary_culture = pahari
+primary_culture = nepali
 religion = hinduism
 capital = 511	# Garhwal
 
@@ -10,9 +10,9 @@ capital = 511	# Garhwal
 	monarch = {
 		name = "Sundar Pal"
 		dynasty = "Parmar"
-		DIP = 0
-		ADM = 1
-		MIL = 2
+		dip = 0
+		adm = 1
+		mil = 2
 	}
 }
 
@@ -24,9 +24,9 @@ capital = 511	# Garhwal
 		birth_Date = 1420.1.1
 		death_Date = 1500.1.1
 		claim = 95
-		DIP = 2
-		ADM = 2
-		MIL = 1
+		dip = 2
+		adm = 2
+		mil = 1
 	}
 }
 
@@ -34,9 +34,9 @@ capital = 511	# Garhwal
 	monarch = {
 		name = "Hansdeo Pal"
 		dynasty = "Parmar"
-		DIP = 2
-		ADM = 2
-		MIL = 1
+		dip = 2
+		adm = 2
+		mil = 1
 	}
 }
 
@@ -48,9 +48,9 @@ capital = 511	# Garhwal
 		birth_Date = 1430.1.1
 		death_Date = 1548.1.1
 		claim = 95
-		DIP = 2
-		ADM = 2
-		MIL = 1
+		dip = 2
+		adm = 2
+		mil = 1
 	}
 }
 
@@ -58,9 +58,9 @@ capital = 511	# Garhwal
 	monarch = {
 		name = "Bijai Pal"
 		dynasty = "Parmar"
-		DIP = 2
-		ADM = 3
-		MIL = 2
+		dip = 2
+		adm = 3
+		mil = 2
 	}
 }
 
@@ -72,9 +72,9 @@ capital = 511	# Garhwal
 		birth_Date = 1500.1.1
 		death_Date = 1575.1.1
 		claim = 95
-		DIP = 4
-		ADM = 5
-		MIL = 3
+		dip = 4
+		adm = 5
+		mil = 3
 	}
 }
 
@@ -82,9 +82,9 @@ capital = 511	# Garhwal
 	monarch = {
 		name = "Sahaj Pal"
 		dynasty = "Parmar"
-		DIP = 4
-		ADM = 5
-		MIL = 3
+		dip = 4
+		adm = 5
+		mil = 3
 	}
 }
 
@@ -96,9 +96,9 @@ capital = 511	# Garhwal
 		birth_Date = 1530.1.1
 		death_Date = 1591.1.1
 		claim = 95
-		DIP = 3
-		ADM = 2
-		MIL = 3
+		dip = 3
+		adm = 2
+		mil = 3
 	}
 }
 
@@ -106,9 +106,9 @@ capital = 511	# Garhwal
 	monarch = {
 		name = "Balbhadra Shah"
 		dynasty = "Parmar"
-		DIP = 3
-		ADM = 2
-		MIL = 3
+		dip = 3
+		adm = 2
+		mil = 3
 	}
 }
 
@@ -120,9 +120,9 @@ capital = 511	# Garhwal
 		birth_Date = 1560.1.1
 		death_Date = 1611.1.1
 		claim = 95
-		DIP = 1
-		ADM = 2
-		MIL = 5
+		dip = 1
+		adm = 2
+		mil = 5
 	}
 }
 
@@ -130,9 +130,9 @@ capital = 511	# Garhwal
 	monarch = {
 		name = "Man Shah I"
 		dynasty = "Parmar"
-		DIP = 1
-		ADM = 2
-		MIL = 5
+		dip = 1
+		adm = 2
+		mil = 5
 	}
 }
 
@@ -144,9 +144,9 @@ capital = 511	# Garhwal
 		birth_Date = 1560.1.1
 		death_Date = 1622.1.1
 		claim = 95
-		DIP = 3
-		ADM = 1
-		MIL = 2
+		dip = 3
+		adm = 1
+		mil = 2
 	}
 }
 
@@ -154,9 +154,9 @@ capital = 511	# Garhwal
 	monarch = {
 		name = "Shyam Shah"
 		dynasty = "Parmar"
-		DIP = 3
-		ADM = 1
-		MIL = 2
+		dip = 3
+		adm = 1
+		mil = 2
 	}
 }
 
@@ -168,9 +168,9 @@ capital = 511	# Garhwal
 		birth_Date = 1580.1.1
 		death_Date = 1631.1.1
 		claim = 95
-		DIP = 2
-		ADM = 1
-		MIL = 4
+		dip = 2
+		adm = 1
+		mil = 4
 	}
 }
 
@@ -178,9 +178,9 @@ capital = 511	# Garhwal
 	monarch = {
 		name = "Mahipat Shah"
 		dynasty = "Parmar"
-		DIP = 2
-		ADM = 1
-		MIL = 4
+		dip = 2
+		adm = 1
+		mil = 4
 	}
 }
 
@@ -192,9 +192,9 @@ capital = 511	# Garhwal
 		birth_Date = 1600.1.1
 		death_Date = 1665.1.1
 		claim = 95
-		DIP = 4
-		ADM = 1
-		MIL = 1
+		dip = 4
+		adm = 1
+		mil = 1
 	}
 }
 
@@ -202,9 +202,9 @@ capital = 511	# Garhwal
 	monarch = {
 		name = "Prithvi Shah Naktirani"
 		dynasty = "Parmar"
-		DIP = 4
-		ADM = 1
-		MIL = 1
+		dip = 4
+		adm = 1
+		mil = 1
 	}
 }
 
@@ -216,9 +216,9 @@ capital = 511	# Garhwal
 		birth_Date = 1630.1.1
 		death_Date = 1716.1.1
 		claim = 95
-		DIP = 4
-		ADM = 3
-		MIL = 3
+		dip = 4
+		adm = 3
+		mil = 3
 	}
 }
 
@@ -226,9 +226,9 @@ capital = 511	# Garhwal
 	monarch = {
 		name = "Fateh Shah"
 		dynasty = "Parmar"
-		DIP = 4
-		ADM = 3
-		MIL = 3
+		dip = 4
+		adm = 3
+		mil = 3
 	}
 }
 
@@ -240,9 +240,9 @@ capital = 511	# Garhwal
 		birth_Date = 1660.1.1
 		death_Date = 1717.1.1
 		claim = 95
-		DIP = 0
-		ADM = 0
-		MIL = 0
+		dip = 0
+		adm = 0
+		mil = 0
 	}
 }
 
@@ -250,9 +250,9 @@ capital = 511	# Garhwal
 	monarch = {
 		name = "Upendra Shah"
 		dynasty = "Parmar"
-		DIP = 0
-		ADM = 0
-		MIL = 0
+		dip = 0
+		adm = 0
+		mil = 0
 	}
 }
 
@@ -264,9 +264,9 @@ capital = 511	# Garhwal
 		birth_Date = 1690.1.1
 		death_Date = 1772.1.1
 		claim = 95
-		DIP = 4
-		ADM = 1
-		MIL = 0
+		dip = 4
+		adm = 1
+		mil = 0
 	}
 }
 
@@ -274,9 +274,9 @@ capital = 511	# Garhwal
 	monarch = {
 		name = "Pradip Shah"
 		dynasty = "Parmar"
-		DIP = 4
-		ADM = 1
-		MIL = 0
+		dip = 4
+		adm = 1
+		mil = 0
 	}
 }
 
@@ -288,9 +288,9 @@ capital = 511	# Garhwal
 		birth_Date = 1700.1.1
 		death_Date = 1780.1.1
 		claim = 95
-		DIP = 0
-		ADM = 1
-		MIL = 4
+		dip = 0
+		adm = 1
+		mil = 4
 	}
 }
 
@@ -298,9 +298,9 @@ capital = 511	# Garhwal
 	monarch = {
 		name = "Lalit Shah"
 		dynasty = "Parmar"
-		DIP = 0
-		ADM = 1
-		MIL = 4
+		dip = 0
+		adm = 1
+		mil = 4
 	}
 }
 
@@ -312,9 +312,9 @@ capital = 511	# Garhwal
 		birth_Date = 1760.1.1
 		death_Date = 1785.1.1
 		claim = 95
-		DIP = 0
-		ADM = 2
-		MIL = 0
+		dip = 0
+		adm = 2
+		mil = 0
 	}
 }
 
@@ -322,9 +322,9 @@ capital = 511	# Garhwal
 	monarch = {
 		name = "Jaikarat Shah"
 		dynasty = "Parmar"
-		DIP = 0
-		ADM = 2
-		MIL = 0
+		dip = 0
+		adm = 2
+		mil = 0
 	}
 }
 
@@ -336,9 +336,9 @@ capital = 511	# Garhwal
 		birth_Date = 1770.1.1
 		death_Date = 1815.1.1
 		claim = 95
-		DIP = 0
-		ADM = 2
-		MIL = 2
+		dip = 0
+		adm = 2
+		mil = 2
 	}
 }
 
@@ -346,9 +346,9 @@ capital = 511	# Garhwal
 	monarch = {
 		name = "Pradyuman Shah"
 		dynasty = "Parmar"
-		DIP = 0
-		ADM = 2
-		MIL = 2
+		dip = 0
+		adm = 2
+		mil = 2
 	}
 }
 
@@ -360,9 +360,9 @@ capital = 511	# Garhwal
 		birth_Date = 1784.1.1
 		death_Date = 1859.1.1
 		claim = 95
-		DIP = 3
-		ADM = 1
-		MIL = 2
+		dip = 3
+		adm = 1
+		mil = 2
 	}
 }
 
@@ -372,8 +372,8 @@ capital = 511	# Garhwal
 	monarch = {
 		name = "Sudarshan Shah"
 		dynasty = "Parmar"
-		DIP = 3
-		ADM = 1
-		MIL = 2
+		dip = 3
+		adm = 1
+		mil = 2
 	}
 }

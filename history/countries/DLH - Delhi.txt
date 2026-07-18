@@ -10,9 +10,9 @@ religious_school = hanafi_school
 	monarch = { 
 		name = "Mohammed Shah IV"
 		dynasty = "Sayyid"
-		ADM = 1
-		DIP = 1
-		MIL = 1
+		adm = 1
+		dip = 1
+		mil = 1
 	}
 	clear_scripted_personalities = yes
 	add_ruler_personality = babbling_buffoon_personality
@@ -25,18 +25,18 @@ religious_school = hanafi_school
 		birth_date = 1420.1.1
 		death_Date = 1451.4.20
 		claim = 95
-		ADM = 1
-		DIP = 0
-		MIL = 0
+		adm = 1
+		dip = 0
+		mil = 0
 	}
 }
 1445.1.1 = { 
 	monarch = { 
 		name = "Aladdin Alam Shah"
 		dynasty = "Sayyid"
-		ADM = 1
-		DIP = 0
-		MIL = 0
+		adm = 1
+		dip = 0
+		mil = 0
 	}
 	clear_scripted_personalities = yes
 	add_ruler_personality = babbling_buffoon_personality
@@ -46,9 +46,9 @@ religious_school = hanafi_school
 		name = "Bahlûl"
 		dynasty = "Lodi"
 		culture = afghani
-		ADM = 4
-		DIP = 5
-		MIL = 6
+		adm = 4
+		dip = 5
+		mil = 6
 		leader = { name = "Bahlûl Lodi" type = general fire = 4 shock = 4 manuever = 4 siege = 1 }
 	}
 	clear_scripted_personalities = yes
@@ -65,9 +65,9 @@ religious_school = hanafi_school
 		birth_date = 1450.1.1
 		death_Date = 1517.11.21
 		claim = 95
-		ADM = 0
-		DIP = 1
-		MIL = 3
+		adm = 0
+		dip = 1
+		mil = 3
 		leader = { name = "Sikandar Shâh" type = general fire = 3 shock = 3 manuever = 4 siege = 0 }
 	}
 }
@@ -76,9 +76,9 @@ religious_school = hanafi_school
 		name = "Sikandar Shâh"
 		dynasty = "Lodi"
 		culture = afghani
-		ADM = 0
-		DIP = 1
-		MIL = 3
+		adm = 0
+		dip = 1
+		mil = 3
 		leader = { name = "Sikandar Shâh" type = general fire = 3 shock = 3 manuever = 4 siege = 0 }
 	}
 	clear_scripted_personalities = yes
@@ -95,9 +95,9 @@ religious_school = hanafi_school
 		birth_date = 1489.1.1
 		death_Date = 1526.4.21
 		claim = 95
-		ADM = 0
-		DIP = 0
-		MIL = 0
+		adm = 0
+		dip = 0
+		mil = 0
 		leader = { name = "Ibrâhîm Shâh" type = general fire = 0 shock = 1 manuever = 1 siege = 0 }
 	}
 }
@@ -106,9 +106,9 @@ religious_school = hanafi_school
 		name = "Ibrâhîm Shâh"
 		dynasty = "Lodi"
 		culture = afghani
-		ADM = 0
-		DIP = 0
-		MIL = 0
+		adm = 0
+		dip = 0
+		mil = 0
 		leader = { name = "Ibrâhîm Shâh" type = general fire = 0 shock = 1 manuever = 1 siege = 0 }
 	}
 	clear_scripted_personalities = yes
@@ -123,18 +123,18 @@ religious_school = hanafi_school
 	monarch = { 
 		name = "Ibrâhîm Shâh"
 		dynasty = "Suri"
-		ADM = 2
-		DIP = 3
-		MIL = 1
+		adm = 2
+		dip = 3
+		mil = 1
 	}
 }
 1556.9.1 = { 
 	monarch = { 
 		name = "Hemu"
 		dynasty = "Rewari"
-		ADM = 5
-		DIP = 3
-		MIL = 5
+		adm = 5
+		dip = 3
+		mil = 5
 		leader = { name = "Hemu" type = general fire = 3 shock = 4 manuever = 2 siege = 1 }
 	}
 	religion = hinduism

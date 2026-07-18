@@ -14,9 +14,9 @@ capital = 2254 #Bono-Manso
 	monarch = {
 		name = "Nana Yaw Awere"
 		dynasty = "Bonomanhene"
-		DIP = 2
-		ADM  = 1
-		MIL = 2
+		dip = 2
+		adm  = 1
+		mil = 2
 	}
 }
 
@@ -24,9 +24,9 @@ capital = 2254 #Bono-Manso
 	monarch = {
 		name = "Nana Boadi Akim"
 		dynasty = "Bonomanhene"
-		DIP = 2
-		ADM  = 1
-		MIL = 2
+		dip = 2
+		adm  = 1
+		mil = 2
 	}
 }
 
@@ -34,9 +34,9 @@ capital = 2254 #Bono-Manso
 	monarch = {
 		name = "Nana Akrofi Brempong"
 		dynasty = "Bonomanhene"
-		DIP = 2
-		ADM  = 1
-		MIL = 2
+		dip = 2
+		adm  = 1
+		mil = 2
 	}
 }
 
@@ -44,9 +44,9 @@ capital = 2254 #Bono-Manso
 	monarch = {
 		name = "Nana Nananom Owusu Bore"
 		dynasty = "Bonomanhene"
-		DIP = 2
-		ADM  = 1
-		MIL = 2
+		dip = 2
+		adm  = 1
+		mil = 2
 	}
 }
 
@@ -56,9 +56,9 @@ capital = 2254 #Bono-Manso
 	monarch = {
 		name = "Kosounou"
 		dynasty = "Gyaamanhene"
-		DIP = 2
-		ADM  = 1
-		MIL = 2
+		dip = 2
+		adm  = 1
+		mil = 2
 	}
 }
 
@@ -66,9 +66,9 @@ capital = 2254 #Bono-Manso
 	monarch = {
 		name = "Biri Kofin Panyin"
 		dynasty = "Gyaamanhene"
-		DIP = 2
-		ADM  = 1
-		MIL = 2
+		dip = 2
+		adm  = 1
+		mil = 2
 	}
 }
 
@@ -76,9 +76,9 @@ capital = 2254 #Bono-Manso
 	monarch = {
 		name = "Abo Kofi"
 		dynasty = "Gyaamanhene"
-		DIP = 2
-		ADM  = 1
-		MIL = 2
+		dip = 2
+		adm  = 1
+		mil = 2
 	}
 }
 
@@ -86,9 +86,9 @@ capital = 2254 #Bono-Manso
 	monarch = {
 		name = "Kofi Sono"
 		dynasty = "Gyaamanhene"
-		DIP = 2
-		ADM  = 1
-		MIL = 2
+		dip = 2
+		adm  = 1
+		mil = 2
 	}
 }
 
@@ -96,9 +96,9 @@ capital = 2254 #Bono-Manso
 	monarch = {
 		name = "Agyeman"
 		dynasty = "Gyaamanhene"
-		DIP = 2
-		ADM  = 1
-		MIL = 2
+		dip = 2
+		adm  = 1
+		mil = 2
 	}
 }
 
@@ -106,9 +106,9 @@ capital = 2254 #Bono-Manso
 #	monarch = {
 #		name = "Biri Kofi Kadyo"
 #		dynasty = "Gyaamanhene"
-#		DIP = 2
-#		ADM  = 1
-#		MIL = 2
+#		dip = 2
+#		adm  = 1
+#		mil = 2
 #	}
 #}
 
@@ -117,9 +117,9 @@ capital = 2254 #Bono-Manso
 #	monarch = {
 #		name = "Kwadwo Adinkra Kadyo"
 #		dynasty = "Gyaamanhene"
-#		DIP = 2
-#		ADM  = 1
-#		MIL = 2
+#		dip = 2
+#		adm  = 1
+#		mil = 2
 #	}
 #}
 
@@ -128,8 +128,8 @@ capital = 2254 #Bono-Manso
 	monarch = {
 		name = "Kyereme Kofi"
 		dynasty = "Tekyimanhene"
-		DIP = 2
-		ADM  = 1
-		MIL = 2
+		dip = 2
+		adm  = 1
+		mil = 2
 	}
 }

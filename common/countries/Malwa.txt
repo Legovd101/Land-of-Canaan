@@ -25,64 +25,68 @@ historical_units = {
 	indian_rifle
 	tipu_sultan_rocket
 }
-monarch_names = { 
-	"Dilavar Khan #0" = 10
-	"Alp Khan Hushang #0" = 10
-	"Ghazni Khan #0" = 10
-	"Nasir Shah #0" = 10
-	"Salim Shah #0" = 10
-	"Baz Bahadur #0" = 10
-	"Mali Rao #0" = 10
-	"Ahalya Bai #0" = 10
-	"Mahmud Shah #0" = 20
-	"Ghiyath Shah #0" = 10
-	"Qadir Shah #0" = 10
-	"Shaja'at Khan #0" = 10
-	"Bahadur #0" = 10
-	"Mahmud  #0" = 0
-	"Ferishta #0" = 0
-	"Ghiyas-ud-din #0" = 0
-	"Qadir #0" = 0
-	"Mohammed #0" = 0
-	"Baz #0" = 0
-	"Salim #0" = 0
-	"Nasir #0" = 0
-	"Amir #0" = 0
-	"Hoshang #0" = 0
-	"Qudsia #0" = -5
-	"Hajjah #0" = -5
-	"Shahjahan Begum #0" = -5
+monarch_names = {
+	"Siyaka #0" = 100
+	"Munja #0" = 60
+	"Bhoja #0" = 40
+	"Udayaditya #0" = 40
+	"Lakshmadeva #0" = 20
+	"Naravarman #0" = 20
+	"Lilavati #0" = -20
+	"Yashovarman #0" = 20
+	"Siyaka #0 Bhoja" = 10
+	"Arundhati #0" = -10
+	"Devapala #0" = 10
+	"Munja #0 Udayaditya" = 10
+	"Jagaddeva #0" = 10
+	"Jayavarman #0" = 10
+	"Vindhyavarman #0" = 5
+	"Subhatavarman #0" = 5
+	"Arjunavarman #0" = 1
+	"Devaditya #0" = 0
+	"Mahipala #0" = 0
+	"Harshavarman #0" = 1
+	"Ballala #0" = 0
+	"Anantavarman #0" = 0
+	"Trailokyavarman #0" = 0
+	"Ranadhira #0" = 0
+	"Jayasimha #0" = 0
+	"Vikramaditya #0" = 0
+	"Someshvara #0" = 0
+	"Kirtivarman #0" = 0
+	"Trailokyamalla #0" = 0
+	"Amarasimha #0" = 0
+	"Yashapala #0" = 0
+	"Dharmapala #0" = 0
+	"Vijayasimha #0" = 0
+	"Narasimha #0" = 0
+	"Mahadeva #0" = 0
+	"Shridhara #0" = 0
+	"Ranapala #0" = 0
+	"Virasimha #0" = 0
+	"Bhavadeva #0" = 0
+	"Lakhanapala #0" = 0
+	"Keshavadeva #0" = 0
+	"Hemaraja #0" = 0
+	"Padmavati #0" = -10
+	"Ratnavati #0" = -10
+	"Vijayadevi #0" = -1
 }
-leader_names = { 
-	Mori
-	Haji
-	Uzbek
-	Gilani
-	Paramara
-	Bahadur
-	Gauri
-	Jurjani
-	Khan
-	Malik
-	Sultan
-	Khorasani
-	Farooqi
-	Changezi
-	Turani
-	Latif
-	Bhilala
-	Solanki
-	Chattari
-	Kanjar
-	Ghuri
-	Naru
-	Chudasama
-	Pahore
-	Tomara
-	Solanki
+
+leader_names = {
+	Siyaka Munja Bhoja Udayaditya Lakshmadeva Naravarman
+	Yashovarman Devapala Jagaddeva Jayavarman Vindhyavarman
+	Subhatavarman Arjunavarman Harshavarman Mahipala
+	Vikramaditya Jayasimha Someshvara Kirtivarman
+	Dharmapala Amarasimha Vijayasimha Narasimha
+	Ranadhira Virasimha Shridhara Bhavadeva
 }
-ship_names = { 
-	Alia Betwa Chambal Dhasan Fatimah Ghambir Jalsena "Kala Jahazi" Khan "Lal Jahazi"
-	Mahi Narmada Nausena "Nav ka Yudh" Niknaz "Nila Jahazi" Niloufa Sagar Salima Suhalia
-	Shameena Shipra Yasmine 
+
+ship_names = {
+	Narmada Shipra Chambal Kalisindh Parvati Vindhya Malava
+	Dhara Ujjayini Mandapa Avanti Mahakala Kalabhairava Garuda
+	Hamsa Makara Sharabha Simha Vrishabha Airavata Uccaihshravas
+	Sudarshana Vajra Chakra Padma Kamalini Ratnakara Meghaduta
+	Chandraprabha Suryaprabha Tejas Vikrama Jayashri Vijaya
+	Abhaya Ajita Durjaya
 }

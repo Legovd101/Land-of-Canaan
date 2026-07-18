@@ -1,0 +1,23 @@
+capital = 4457
+technology_group = ottoman
+government = monarchy
+add_government_reform = nayankara_reform
+government_rank = 1
+primary_culture = aegyptian
+religion = ptolemaic
+technology_group = ottoman
+secondary_religion = hinduism
+
+1430.1.1 = {
+	monarch = {
+		name = "Koinos"
+		dynasty = "Kleopatrides"
+		adm = 2
+		dip = 3
+		mil = 1
+		culture = aegyptian
+	}
+}
+
+add_accepted_culture = gujarati
+add_accepted_culture = saurashtri

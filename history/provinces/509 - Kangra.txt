@@ -2,7 +2,7 @@
 owner = KGR
 controller = KGR
 culture = pahari
-religion = hinduism
+religion = astartism
 capital = "Kangra"
 trade_goods = cotton
 base_tax = 2

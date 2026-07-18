@@ -2,7 +2,7 @@
 owner = KUS
 controller = KUS
 culture = sindhi
-religion = hinduism
+religion = pyrrhonism
 capital = "Nasirpur"
 trade_goods = cotton
 base_tax = 3

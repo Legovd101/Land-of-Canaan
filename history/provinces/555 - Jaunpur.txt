@@ -1,15 +1,14 @@
 #555 - Jaunpur
-owner = JNP
-controller = JNP
-culture = avadhi
-religion = hinduism
+owner = BIL
+controller = BIL
+culture = tangut
+religion = mahayana
 capital = "Jaunpur"
 trade_goods = carpet
 base_tax = 6
 base_production = 6
 base_manpower = 2
 is_city = yes
-add_core = JNP
 discovered_by = indian
 discovered_by = nomad_group
 discovered_by = uralic_group
@@ -19,4 +18,5 @@ discovered_by = ottoman
 discovered_by = serican_group
 discovered_by = iranic_group
 discovered_by = chinese
+add_core = BIL
 fort_15th = yes

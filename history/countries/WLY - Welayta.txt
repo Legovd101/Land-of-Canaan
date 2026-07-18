@@ -225,9 +225,9 @@ unlock_cult = islam_cult
 		birth_date = 1800.1.1
 		death_date = 1845.1.1
 		claim = 90
-		ADM = 2
-		DIP = 1
-		MIL = 3
+		adm = 2
+		dip = 1
+		mil = 3
 	}
 }
 government_rank = 1

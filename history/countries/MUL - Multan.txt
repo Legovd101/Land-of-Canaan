@@ -11,9 +11,9 @@ religious_school = hanafi_school
 	monarch = { 
 		name = "Qutbudin"
 		dynasty = "Langa"
-		ADM = 0
-		DIP = 0
-		MIL = 3
+		adm = 0
+		dip = 0
+		mil = 3
 	}
 }
 1437.1.1 = { 
@@ -24,18 +24,18 @@ religious_school = hanafi_school
 		birth_date = 1400.1.1
 		death_date = 1480.1.1
 		claim = 95
-		ADM = 2
-		DIP = 0
-		MIL = 1
+		adm = 2
+		dip = 0
+		mil = 1
 	}
 }
 1460.1.1 = { 
 	monarch = { 
 		name = "Hussain I"
 		dynasty = "Langa"
-		ADM = 2
-		DIP = 0
-		MIL = 1
+		adm = 2
+		dip = 0
+		mil = 1
 	}
 }
 1460.1.1 = { 
@@ -46,18 +46,18 @@ religious_school = hanafi_school
 		birth_date = 1450.1.1
 		death_date = 1500.1.1
 		claim = 95
-		ADM = 1
-		DIP = 3
-		MIL = 2
+		adm = 1
+		dip = 3
+		mil = 2
 	}
 }
 1480.1.1 = { 
 	monarch = { 
 		name = "Firuzshah"
 		dynasty = "Langa"
-		ADM = 1
-		DIP = 3
-		MIL = 2
+		adm = 1
+		dip = 3
+		mil = 2
 	}
 }
 1480.1.1 = { 
@@ -68,18 +68,18 @@ religious_school = hanafi_school
 		birth_date = 1460.1.1
 		death_date = 1518.1.1
 		claim = 95
-		ADM = 0
-		DIP = 2
-		MIL = 3
+		adm = 0
+		dip = 2
+		mil = 3
 	}
 }
 1500.1.1 = { 
 	monarch = { 
 		name = "Mahmud"
 		dynasty = "Langa"
-		ADM = 0
-		DIP = 2
-		MIL = 3
+		adm = 0
+		dip = 2
+		mil = 3
 	}
 }
 1500.1.1 = { 
@@ -90,18 +90,18 @@ religious_school = hanafi_school
 		birth_date = 1480.1.1
 		death_date = 1555.1.1
 		claim = 95
-		ADM = 0
-		DIP = 0
-		MIL = 1
+		adm = 0
+		dip = 0
+		mil = 1
 	}
 }
 1518.1.1 = { 
 	monarch = { 
 		name = "Hussain II"
 		dynasty = "Langa"
-		ADM = 0
-		DIP = 0
-		MIL = 1
+		adm = 0
+		dip = 0
+		mil = 1
 	}
 }
 #Mirranis
@@ -112,9 +112,9 @@ religious_school = hanafi_school
 	monarch = { 
 		name = "Ghazi Khan Mirrani"
 		dynasty = "Mirrani"
-		ADM = 0
-		DIP = 0
-		MIL = 3
+		adm = 0
+		dip = 0
+		mil = 3
 	}
 }
 government_rank = 1

@@ -1,7 +1,7 @@
 #2069 - Kumaon
 owner = KMN
 controller = KMN
-culture = pahari
+culture = nepali
 religion = hinduism
 capital = "Champawat"
 trade_goods = naval_supplies

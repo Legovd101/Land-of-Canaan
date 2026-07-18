@@ -1,6 +1,6 @@
 #514 - Marwar
-owner = MAW
-controller = MAW
+owner = JSL
+controller = JSL
 culture = rajput
 religion = hinduism
 add_rajputs_or_marathas_or_nobles_effect = yes
@@ -21,3 +21,4 @@ discovered_by = iranic_group
 discovered_by = nomad_group
 discovered_by = uralic_group
 discovered_by = chinese
+add_core = JSL

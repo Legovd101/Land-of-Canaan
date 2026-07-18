@@ -18,63 +18,63 @@ religious_school = maliki_school
 1442.1.1 = {
 	monarch = {
 		name = "Hassan"
-		ADM = 2
-		DIP = 1
-		MIL = 2
+		adm = 2
+		dip = 1
+		mil = 2
 	}
 }
 
 1500.1.1 = {
 	monarch = {
 		name = "Bahayou"
-		ADM = 2
-		DIP = 2
-		MIL = 3
+		adm = 2
+		dip = 2
+		mil = 3
 	}
 }
 
 1580.1.1 = {
 	monarch = {
 		name = "Bakir"
-		ADM = 2
-		DIP = 2
-		MIL = 2
+		adm = 2
+		dip = 2
+		mil = 2
 	}
 }
 
 1650.1.1 = {
 	monarch = {
 		name = "Bahayou"
-		ADM = 2
-		DIP = 2
-		MIL = 2
+		adm = 2
+		dip = 2
+		mil = 2
 	}
 }
 
 1690.1.1 = {
 	monarch = {
 		name = "Abu Zakariya"
-		ADM = 3
-		DIP = 2
-		MIL = 2
+		adm = 3
+		dip = 2
+		mil = 2
 	}
 }
 
 1760.1.1 = {
 	monarch = {
 		name = "Dahman"
-		ADM = 2
-		DIP = 3
-		MIL = 1
+		adm = 2
+		dip = 3
+		mil = 1
 	}
 }
 
 1786.1.1 = {
 	monarch = {
 		name = "Abd al-Aziz"
-		ADM = 2
-		DIP = 3
-		MIL = 2
+		adm = 2
+		dip = 3
+		mil = 2
 	}
 }
 

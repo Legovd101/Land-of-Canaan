@@ -10,9 +10,9 @@ fixed_capital = 542 # Cannot move capital away from this province & no power cos
 	monarch = {
 		name = "Quli Qutb-ul-Mulk"
 		dynasty = "Qutb Shahi"
-		DIP = 3
-		ADM = 5
-		MIL = 6
+		dip = 3
+		adm = 5
+		mil = 6
 	}
 	government_rank = 1
 }
@@ -29,9 +29,9 @@ fixed_capital = 542 # Cannot move capital away from this province & no power cos
 		birth_date = 1500.1.1
 		death_date = 1550.1.22
 		claim = 95
-		ADM = 3
-		DIP = 3
-		MIL = 2
+		adm = 3
+		dip = 3
+		mil = 2
 	}
 }
 
@@ -39,9 +39,9 @@ fixed_capital = 542 # Cannot move capital away from this province & no power cos
 	monarch = {
 		name = "Jamshid Quli"
 		dynasty = "Qutb Shahi"
-		DIP = 3
-		ADM = 3
-		MIL = 2
+		dip = 3
+		adm = 3
+		mil = 2
 	}
 }
 
@@ -53,9 +53,9 @@ fixed_capital = 542 # Cannot move capital away from this province & no power cos
 		birth_date = 1543.1.1
 		death_date = 1550.7.22
 		claim = 95
-		ADM = 1
-		DIP = 0
-		MIL = 0
+		adm = 1
+		dip = 0
+		mil = 0
 	}
 }
 
@@ -63,9 +63,9 @@ fixed_capital = 542 # Cannot move capital away from this province & no power cos
 	monarch = {
 		name = "Subhan Quli"
 		dynasty = "Qutb Shahi"
-		DIP = 0
-		ADM = 1
-		MIL = 0
+		dip = 0
+		adm = 1
+		mil = 0
 	}
 }
 
@@ -77,9 +77,9 @@ fixed_capital = 542 # Cannot move capital away from this province & no power cos
 		birth_date = 1530.1.1
 		death_date = 1580.6.6
 		claim = 95
-		ADM = 4
-		DIP = 4
-		MIL = 6
+		adm = 4
+		dip = 4
+		mil = 6
 	}
 }
 
@@ -87,9 +87,9 @@ fixed_capital = 542 # Cannot move capital away from this province & no power cos
 	monarch = {
 		name = "Ibrahim Quli"
 		dynasty = "Qutb Shahi"
-		DIP = 4
-		ADM = 4
-		MIL = 6
+		dip = 4
+		adm = 4
+		mil = 6
 	}
 }
 
@@ -101,9 +101,9 @@ fixed_capital = 542 # Cannot move capital away from this province & no power cos
 		birth_date = 1565.1.1
 		death_date = 1612.1.11
 		claim = 95
-		ADM = 1
-		DIP = 4
-		MIL = 1
+		adm = 1
+		dip = 4
+		mil = 1
 	}
 }
 
@@ -111,9 +111,9 @@ fixed_capital = 542 # Cannot move capital away from this province & no power cos
 	monarch = {
 		name = "Muhammad I"
 		dynasty = "Qutb Shahi"
-		DIP = 1
-		ADM = 4
-		MIL = 1
+		dip = 1
+		adm = 4
+		mil = 1
 	}
 }
 
@@ -125,9 +125,9 @@ fixed_capital = 542 # Cannot move capital away from this province & no power cos
 		birth_date = 1580.6.6
 		death_date = 1626.1.31
 		claim = 95
-		ADM = 2
-		DIP = 3
-		MIL = 3
+		adm = 2
+		dip = 3
+		mil = 3
 	}
 }
 
@@ -135,9 +135,9 @@ fixed_capital = 542 # Cannot move capital away from this province & no power cos
 	monarch = {
 		name = "Muhammad II"
 		dynasty = "Qutb Shahi"
-		DIP = 0
-		ADM = 3
-		MIL = 3
+		dip = 0
+		adm = 3
+		mil = 3
 	}
 }
 
@@ -149,9 +149,9 @@ fixed_capital = 542 # Cannot move capital away from this province & no power cos
 		birth_date = 1620.1.1
 		death_date = 1672.4.21
 		claim = 95
-		ADM = 3
-		DIP = 3
-		MIL = 0
+		adm = 3
+		dip = 3
+		mil = 0
 	}
 }
 
@@ -159,9 +159,9 @@ fixed_capital = 542 # Cannot move capital away from this province & no power cos
 	monarch = {
 		name = "Abd Allah"
 		dynasty = "Qutb Shahi"
-		DIP = 3
-		ADM = 3
-		MIL = 0
+		dip = 3
+		adm = 3
+		mil = 0
 	}
 }
 
@@ -177,9 +177,9 @@ fixed_capital = 542 # Cannot move capital away from this province & no power cos
 		birth_date = 1640.1.1
 		death_date = 1687.10.1
 		claim = 95
-		ADM = 2
-		DIP = 0
-		MIL = 0
+		adm = 2
+		dip = 0
+		mil = 0
 	}
 }
 
@@ -192,9 +192,9 @@ fixed_capital = 542 # Cannot move capital away from this province & no power cos
 	monarch = {
 		name = "Abu'l-Hasan"
 		dynasty = "Qutb Shahi"
-		DIP = 0
-		ADM = 2
-		MIL = 0
+		dip = 0
+		adm = 2
+		mil = 0
 	}
 }
 

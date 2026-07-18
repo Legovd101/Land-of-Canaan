@@ -88,48 +88,14 @@ monarch_names = {
 }
 
 leader_names = {
-	Ahluwalia
-	Ramgarhia
-	Kamboh
-	Khatri
-	Naru
-	Minha
-	Bahadur
-	Bara
-	Khan
-	Das
-	Dev
-	Gahunia
-	Parmanand
-	Samma
-	Shergill
-	Singh
-	Sodhi
-	Sohal
-	Soomrah
-	Chattar
-	Rathore
-	Mian
-	Rai
-	Chauhan
-	Bhatia
-	Suleria
-	Lal
-	Khokhar
-	Jivan
-	Makhdum
-	Bhatta
-	Pakhral
-	Kisthwaria
-	Chandral
-	Jamwal
-	Saran
-	Naga
-	Pundir
-	Katoch
-	Gami
-	Bhangalia
-	Pahore
+	Ahluwalia Ramgarhia Kamboh Khatri Naru
+	Minha Bahadur Bara Khan Das Dev Gahunia
+	Parmanand Samma Shergill Singh Sodhi
+	Sohal Soomrah Chatta Rathore Mian Rai
+	Chauhan Bhatia Suleria Lal Khokhar Jivan
+	Makhdum Bhatta Pakhral Kisthwaria Chandral
+	Jamwal Saran Naga Pundir Katoch Gami
+	Bhangalia Pahore
 }
 
 ship_names = {

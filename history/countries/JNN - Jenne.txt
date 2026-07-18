@@ -14,9 +14,9 @@ religious_school = maliki_school
 	monarch = { 
 		name = "Ansa Mani Sourya"
 		dynasty = "Konboro"
-		DIP = 2
-		ADM = 1
-		MIL = 2
+		dip = 2
+		adm = 1
+		mil = 2
 	}
 }
 #Could have been a ruler at the time of the Songhai invasion - or just a random figure. It's hard to make it out from the Tarik. 
@@ -34,108 +34,108 @@ religious_school = maliki_school
 	monarch = { 
 		name = "Abd Allah"
 		dynasty = "Jenne-Koi"
-		DIP = 2
-		ADM = 1
-		MIL = 2
+		dip = 2
+		adm = 1
+		mil = 2
 	}
 }
 1598.1.1 = { 
 	monarch = { 
 		name = "Muhammad Kinba"
 		dynasty = "Jenne-Koi"
-		DIP = 2
-		ADM = 1
-		MIL = 2
+		dip = 2
+		adm = 1
+		mil = 2
 	}
 }
 1614.1.1 = { 
 	monarch = { 
 		name = "Abu Bakr"
 		dynasty = "Jenne-Koi"
-		DIP = 2
-		ADM = 1
-		MIL = 2
+		dip = 2
+		adm = 1
+		mil = 2
 	}
 }
 1617.1.1 = { 
 	monarch = { 
 		name = "Muhammad Kinba"
 		dynasty = "Jenne-Koi"
-		DIP = 2
-		ADM = 1
-		MIL = 2
+		dip = 2
+		adm = 1
+		mil = 2
 	}
 } #Rstored by the Arma pasha Ahmad ben Yusuf. 
 1620.9.13 = { 
 	monarch = { 
 		name = "Abu Bakr II"
 		dynasty = "Jenne-Koi"
-		DIP = 2
-		ADM = 1
-		MIL = 2
+		dip = 2
+		adm = 1
+		mil = 2
 	}
 }
 1627.1.1 = { 
 	monarch = { 
 		name = "Muhammad Kunburu"
 		dynasty = "Jenne-Koi"
-		DIP = 2
-		ADM = 1
-		MIL = 2
+		dip = 2
+		adm = 1
+		mil = 2
 	}
 }
 1628.6.1 = { 
 	monarch = { 
 		name = "Abu Bakr III"
 		dynasty = "Jenne-Koi"
-		DIP = 2
-		ADM = 1
-		MIL = 2
+		dip = 2
+		adm = 1
+		mil = 2
 	}
 }
 1632.11.26 = { 
 	monarch = { 
 		name = "Muhammad Kunburu"
 		dynasty = "Jenne-Koi"
-		DIP = 2
-		ADM = 1
-		MIL = 2
+		dip = 2
+		adm = 1
+		mil = 2
 	}
 } #Restored
 1634.6.26 = { 
 	monarch = { 
 		name = "Abd Allah II"
 		dynasty = "Jenne-Koi"
-		DIP = 2
-		ADM = 1
-		MIL = 2
+		dip = 2
+		adm = 1
+		mil = 2
 	}
 }
 1642.1.3 = { 
 	monarch = { 
 		name = "Muhammad Kunburu"
 		dynasty = "Jenne-Koi"
-		DIP = 2
-		ADM = 1
-		MIL = 2
+		dip = 2
+		adm = 1
+		mil = 2
 	}
 } #Re-restored
 1643.3.24 = { 
 	monarch = { 
 		name = "Isma'il"
 		dynasty = "Jenne-Koi"
-		DIP = 2
-		ADM = 1
-		MIL = 2
+		dip = 2
+		adm = 1
+		mil = 2
 	}
 }
 1652.1.1 = { 
 	monarch = { 
 		name = "Anakba'ali"
 		dynasty = "Jenne-Koi"
-		DIP = 2
-		ADM = 1
-		MIL = 2
+		dip = 2
+		adm = 1
+		mil = 2
 	}
 }
 #Last Jenne-koi mentionned in the Tariqs. 
@@ -144,9 +144,9 @@ religious_school = maliki_school
 	monarch = { 
 		name = "Amadu"
 		dynasty = "Seku"
-		DIP = 2
-		ADM = 4
-		MIL = 4
+		dip = 2
+		adm = 4
+		mil = 4
 	}
 }
 government_rank = 1

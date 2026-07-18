@@ -1,6 +1,6 @@
 #4457 - Cambay/Khambhat
-owner = IDR
-controller = IDR
+owner = SRA
+controller = SRA
 culture = gujarati
 religion = hinduism
 capital = "Khambhat"
@@ -24,4 +24,5 @@ discovered_by = uralic_group
 discovered_by = chinese
 extra_cost = 24
 center_of_trade = 3
-add_core = IDR
+add_core = SRA
+fort_15th = yes

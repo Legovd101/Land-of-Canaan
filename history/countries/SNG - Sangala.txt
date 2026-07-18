@@ -1,0 +1,7 @@
+capital = 2076
+technology_group = ottoman
+government_rank = 1
+religion = astartism
+primary_culture = indoi
+government = monarchy
+add_government_reform = feudalism_reform

@@ -11,9 +11,9 @@ capital = 584	# Ava
 	monarch = {
 		name = "Thadominbya"
 		dynasty = "Ava"
-		ADM = 4
-		DIP = 4
-		MIL = 3
+		adm = 4
+		dip = 4
+		mil = 3
 	}
 }
 
@@ -25,9 +25,9 @@ capital = 584	# Ava
 		birth_date = 1345.12.7
 		death_date = 1400.4.1
 		claim = 95
-		ADM = 3
-		DIP = 3
-		MIL = 4
+		adm = 3
+		dip = 3
+		mil = 4
 	}
 }
 
@@ -35,9 +35,9 @@ capital = 584	# Ava
 	monarch = {
 		name = "Swasawke"
 		dynasty = "Ava"
-		ADM = 3
-		DIP = 3
-		MIL = 3
+		adm = 3
+		dip = 3
+		mil = 3
 	}
 }
 
@@ -49,9 +49,9 @@ capital = 584	# Ava
 		birth_date = 1368.12.22
 		death_date = 1400.11.25
 		claim = 95
-		ADM = 3
-		DIP = 3
-		MIL = 3
+		adm = 3
+		dip = 3
+		mil = 3
 	}
 }
 
@@ -59,9 +59,9 @@ capital = 584	# Ava
 	monarch = {
 		name = "Tarabya"
 		dynasty = "Ava"
-		ADM = 3
-		DIP = 3
-		MIL = 3
+		adm = 3
+		dip = 3
+		mil = 3
 	}
 }
 
@@ -73,9 +73,9 @@ capital = 584	# Ava
 		birth_date = 1373.10.13
 		death_date = 1422.2.1
 		claim = 95
-		ADM = 4
-		DIP = 3
-		MIL = 5
+		adm = 4
+		dip = 3
+		mil = 5
 	}
 }
 
@@ -83,9 +83,9 @@ capital = 584	# Ava
 	monarch = {
 		name = "Minkhaung"
 		dynasty = "Ava"
-		ADM = 4
-		DIP = 3
-		MIL = 5
+		adm = 4
+		dip = 3
+		mil = 5
 	}
 }
 
@@ -97,9 +97,9 @@ capital = 584	# Ava
 		birth_date = 1394.6.3
 		death_date = 1425.8.1
 		claim = 95
-		ADM = 2
-		DIP = 2
-		MIL = 3
+		adm = 2
+		dip = 2
+		mil = 3
 	}
 }
 
@@ -107,9 +107,9 @@ capital = 584	# Ava
 	monarch = {
 		name = "Thihathu"
 		dynasty = "Ava"
-		ADM = 2
-		DIP = 2
-		MIL = 3
+		adm = 2
+		dip = 2
+		mil = 3
 	}
 }
 
@@ -121,9 +121,9 @@ capital = 584	# Ava
 		birth_date = 1418.4.18
 		death_date = 1425.11.1
 		claim = 95
-		ADM = 3
-		DIP = 2
-		MIL = 2
+		adm = 3
+		dip = 2
+		mil = 2
 	}
 }
 
@@ -131,9 +131,9 @@ capital = 584	# Ava
 	monarch = {
 		name = "Minhlange"
 		dynasty = "Ava"
-		ADM = 3
-		DIP = 2
-		MIL = 2
+		adm = 3
+		dip = 2
+		mil = 2
 	}
 }
 
@@ -145,9 +145,9 @@ capital = 584	# Ava
 		birth_date = 1385.10.10
 		death_date = 1426.5.20
 		claim = 95
-		ADM = 3
-		DIP = 3
-		MIL = 3
+		adm = 3
+		dip = 3
+		mil = 3
 	}
 }
 
@@ -155,9 +155,9 @@ capital = 584	# Ava
 	monarch = {
 		name = "Kale Kyetaungnyo"
 		dynasty = "Ava"
-		ADM = 3
-		DIP = 3
-		MIL = 3
+		adm = 3
+		dip = 3
+		mil = 3
 	}
 }
 
@@ -169,9 +169,9 @@ capital = 584	# Ava
 		birth_date = 1379.10.20
 		death_date = 1439.5.1
 		claim = 95
-		ADM = 3
-		DIP = 3
-		MIL = 3
+		adm = 3
+		dip = 3
+		mil = 3
 	}
 }
 
@@ -179,9 +179,9 @@ capital = 584	# Ava
 	monarch = {
 		name = "Mohnyin Thado"
 		dynasty = "Ava"
-		ADM = 3
-		DIP = 3
-		MIL = 3
+		adm = 3
+		dip = 3
+		mil = 3
 	}
 }
 
@@ -193,9 +193,9 @@ capital = 584	# Ava
 		birth_date = 1410.12.18
 		death_date = 1442.1.1
 		claim = 95
-		ADM = 3
-		DIP = 2
-		MIL = 2
+		adm = 3
+		dip = 2
+		mil = 2
 	}
 }
 
@@ -203,9 +203,9 @@ capital = 584	# Ava
 	monarch = {
 		name = "Minyekyawswa"
 		dynasty = "Ava"
-		ADM = 3
-		DIP = 2
-		MIL = 2
+		adm = 3
+		dip = 2
+		mil = 2
 	}
 }
 
@@ -217,9 +217,9 @@ capital = 584	# Ava
 		birth_date = 1413.6.7
 		death_date = 1468.7.24
 		claim = 95
-		ADM = 4
-		DIP = 3
-		MIL = 3
+		adm = 4
+		dip = 3
+		mil = 3
 	}
 }
 
@@ -227,9 +227,9 @@ capital = 584	# Ava
 	monarch = {
 		name = "Narapati"
 		dynasty = "Ava"
-		ADM = 4
-		DIP = 3
-		MIL = 3
+		adm = 4
+		dip = 3
+		mil = 3
 	}
 }
 
@@ -241,9 +241,9 @@ capital = 584	# Ava
 		birth_date = 1431.5.1
 		death_date = 1480.8.1
 		claim = 95
-		ADM = 2
-		DIP = 2
-		MIL = 2
+		adm = 2
+		dip = 2
+		mil = 2
 	}
 }
 
@@ -251,9 +251,9 @@ capital = 584	# Ava
 	monarch = {
 		name = "Thihathura"
 		dynasty = "Ava"
-		ADM = 2
-		DIP = 2
-		MIL = 2
+		adm = 2
+		dip = 2
+		mil = 2
 	}
 }
 
@@ -265,9 +265,9 @@ capital = 584	# Ava
 		birth_date = 1446.10.9
 		death_date = 1501.4.7
 		claim = 95
-		ADM = 2
-		DIP = 2
-		MIL = 2
+		adm = 2
+		dip = 2
+		mil = 2
 	}
 }
 
@@ -275,9 +275,9 @@ capital = 584	# Ava
 	monarch = {
 		name = "Minkhaung"
 		dynasty = "Ava"
-		ADM = 2
-		DIP = 2
-		MIL = 2
+		adm = 2
+		dip = 2
+		mil = 2
 	}
 }
 
@@ -289,9 +289,9 @@ capital = 584	# Ava
 		birth_date = 1476.9.22
 		death_date = 1527.3.25
 		claim = 95
-		ADM = 2
-		DIP = 3
-		MIL = 1
+		adm = 2
+		dip = 3
+		mil = 1
 	}
 }
 
@@ -299,9 +299,9 @@ capital = 584	# Ava
 	monarch = {
 		name = "Narapati II"
 		dynasty = "Ava"
-		ADM = 2
-		DIP = 3
-		MIL = 1
+		adm = 2
+		dip = 3
+		mil = 1
 	}
 }
 
@@ -311,9 +311,9 @@ capital = 584	# Ava
 	monarch = {
 		name = "Sao Hung Pha"
 		dynasty = "Mohnyin"
-		ADM = 2
-		DIP = 2
-		MIL = 2
+		adm = 2
+		dip = 2
+		mil = 2
 	}
 }
 
@@ -325,9 +325,9 @@ capital = 584	# Ava
 		birth_date = 1497.8.1
 		death_date = 1545.9.1
 		claim = 95
-		ADM = 2
-		DIP = 2
-		MIL = 2
+		adm = 2
+		dip = 2
+		mil = 2
 	}
 }
 
@@ -335,9 +335,9 @@ capital = 584	# Ava
 	monarch = {
 		name = "Sao Hkun Mong"
 		dynasty = "Mohnyin"
-		ADM = 2
-		DIP = 2
-		MIL = 2
+		adm = 2
+		dip = 2
+		mil = 2
 	}
 }
 
@@ -349,9 +349,9 @@ capital = 584	# Ava
 		birth_date = 1516.5.1
 		death_date = 1551.10.1
 		claim = 95
-		ADM = 2
-		DIP = 1
-		MIL = 1
+		adm = 2
+		dip = 1
+		mil = 1
 	}
 }
 
@@ -359,9 +359,9 @@ capital = 584	# Ava
 	monarch = {
 		name = "Narapati III"
 		dynasty = "Mohnyin"
-		ADM = 1
-		DIP = 2
-		MIL = 2
+		adm = 1
+		dip = 2
+		mil = 2
 	}
 }
 
@@ -373,9 +373,9 @@ capital = 584	# Ava
 		birth_date = 1495.1.1
 		death_date = 1555.1.22
 		claim = 95
-		ADM = 1
-		DIP = 2
-		MIL = 1
+		adm = 1
+		dip = 2
+		mil = 1
 	}
 }
 
@@ -383,9 +383,9 @@ capital = 584	# Ava
 	monarch = {
 		name = "Narapati IV"
 		dynasty = "Mohnyin"
-		ADM = 1
-		DIP = 2
-		MIL = 1
+		adm = 1
+		dip = 2
+		mil = 1
 	}
 }
 

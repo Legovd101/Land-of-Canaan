@@ -24,51 +24,77 @@ historical_units = {
 	indian_rifle
 	tipu_sultan_rocket
 }
-monarch_names = { 
-	"Nasir al-Din Mahmud #0" = 20
-	"Qadir #0" = 20
-	"Fath al-Din Jalal #0" = 20
-	"Nasir #0" = 20
-	"Hamid #0" = 20
-	"Saadat #0" = 0
-	"Safdarjung #0" = 0
-	"Hyder #0" = 0
-	"Birjis Qadra #0" = 0
-	"Ali #0" = 0
-	"Iqbal #0" = 0
-	"Alauddin #0" = 0
-	"Bhi #0" = 0
-	"Malik #0" = 0
-	"Narendra #0" = 0
-	"Bismillah #0" = 0
-	"Obaid #0" = 0
-	"Hazrat Mahal #0" = -1
-	"Farzana #0" = -1
-	"Fakhr-un-Nisa #0" = -1
+monarch_names = {
+	"Chandragupta #0" = 100
+	"Samudragupta #0" = 60
+	"Vikramaditya #0" = 40
+	"Harshavardhana #0" = 40
+	"Ashoka #0" = 20
+	"Skandagupta #0" = 20
+	"Devi #0" = -20
+	"Kumaragupta #0" = 20
+	"Chandragupta #0 Samudragupta" = 10
+	"Yashomati #0" = -10
+	"Pushyamitra #0" = 10
+	"Vikramaditya #0 Harsha" = 10
+	"Bhaskaravarman #0" = 10
+	"Rajyavardhana #0" = 10
+	"Dharmapala #0" = 5
+	"Narendra #0" = 5
+	"Ajatashatru #0" = 1
+	"Ajaya #0" = 0
+	"Amaradeva #0" = 0
+	"Anantavarman #0" = 1
+	"Aryavarman #0" = 0
+	"Bhanu #0" = 0
+	"Bhavadeva #0" = 0
+	"Chandradeva #0" = 0
+	"Devadatta #0" = 0
+	"Dhruvasena #0" = 0
+	"Gajendra #0" = 0
+	"Govinda #0" = 0
+	"Harideva #0" = 0
+	"Hemachandra #0" = 0
+	"Indravarman #0" = 0
+	"Ishanadeva #0" = 0
+	"Jayadeva #0" = 0
+	"Jitendra #0" = 0
+	"Kamaladeva #0" = 0
+	"Kartikeya #0" = 0
+	"Lalitaditya #0" = 0
+	"Mahendra #0" = 0
+	"Narasimha #0" = 0
+	"Padmanabha #0" = 0
+	"Rajendra #0" = 0
+	"Ravivarman #0" = 0
+	"Shashanka #0" = 0
+	"Somadeva #0" = 0
+	"Vasudeva #0" = 0
+	"Vidyadhara #0" = 0
+	"Vijayaditya #0" = 0
+	"Vishnugupta #0" = 0
+	"Yashovarman #0" = 0
+	"Rajyashri #0" = -10
+	"Padmavati #0" = -10
+	"Vasumati #0" = -1
 }
-leader_names = { 
-	Afridi
-	Ghori
-	Sahgal
-	Bahadur
-	Bangash
-	Satsangi
-	Hindustani
-	Khan
-	Karrani
-	Yousafzai
-	Chand
-	Awadhi
-	"ud Daula" Khilji
-	Lodi
-	Pundir
-	Sharqi
-	Sarwar
-	Uzbek
-	Siddiqui
+
+leader_names = {
+	Ajaya Ajatashatru Amaradeva Anantavarman Aryavarman
+	Ashoka Bhanu Bhaskaravarman Bhavadeva Chandragupta
+	Chandradeva Devadatta Dharmapala Dhruvasena Gajendra
+	Govinda Harideva Harshavardhana Hemachandra Indravarman
+	Ishanadeva Jayadeva Jitendra Kamaladeva Kartikeya
+	Kumaragupta Lalitaditya Mahendra Narasimha Narendra
+	Padmanabha Pushyamitra Rajendra Rajyavardhana Ravivarman
+	Samudragupta Shashanka Skandagupta Somadeva Vasudeva
+	Vidyadhara Vijayaditya Vikramaditya Vishnugupta Yashovarman
 }
-ship_names = { 
-	Betwa Devi Durga Ganga Gandak Gayatri Ghagra Gomti Jalsena "Kala Jahazi"
-	Ken Lakshmi "Lal Jahazi" Nausena "Nav ka Yudh" "Nila Jahazi" Parvati Radha Ramganga Ratri
-	Sagar Sarasvati Satlaj Sita Yamuna 
+
+ship_names = {
+	Garuda Hamsa Makara Matsya Kurma Varaha Nandi Airavata Uccaihshravas
+	Sudarshana Vajra Chakra Padma Shankha Kaustubha Nandaka Sharnga Pinaka Trishula
+	Agni Surya Chandra Soma Indra Varuna Vayu Mitra Rudra Vishnu Shiva Brahma
+	Sarasvati Lakshmi Durga Ganga Yamuna Sarayu Sindhu Narmada Godavari Kaveri
+	Himalaya Vindhya Meru Mandara Amrita Vijaya Jaya Abhaya Tejas Ojas
 }

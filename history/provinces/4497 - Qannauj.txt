@@ -1,15 +1,14 @@
 #4497 - Qannauj
-owner = JNP
-controller = JNP
-culture = avadhi
-religion = hinduism
+owner = BIL
+controller = BIL
+culture = tangut
+religion = mahayana
 capital = "Qannauj"
 trade_goods = grain
 base_tax = 4
 base_production = 4
 base_manpower = 2
 is_city = yes
-add_core = JNP
 add_core = DLH
 add_core = ODH
 discovered_by = indian
@@ -24,3 +23,4 @@ discovered_by = iranic_group
 discovered_by = chinese
 extra_cost = 8
 center_of_trade = 1
+add_core = BIL

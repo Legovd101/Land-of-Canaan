@@ -18,9 +18,9 @@ capital = 4480	# Mahi Kantha - Idar
 	monarch = {
 		name = "Bhan"
 		dynasty = "Rathore"
-		DIP = 2
-		MIL = 3
-		ADM = 2
+		dip = 2
+		mil = 3
+		adm = 2
 	}
 }
 
@@ -28,9 +28,9 @@ capital = 4480	# Mahi Kantha - Idar
 	monarch = {
 		name = "Surajmal"
 		dynasty = "Rathore"
-		DIP = 2
-		MIL = 3
-		ADM = 2
+		dip = 2
+		mil = 3
+		adm = 2
 	}
 }
 
@@ -38,9 +38,9 @@ capital = 4480	# Mahi Kantha - Idar
 	monarch = {
 		name = "Raimalji"
 		dynasty = "Rathore"
-		DIP = 2
-		MIL = 3
-		ADM = 2
+		dip = 2
+		mil = 3
+		adm = 2
 	}
 }
 
@@ -48,9 +48,9 @@ capital = 4480	# Mahi Kantha - Idar
 	monarch = {
 		name = "Bhim"
 		dynasty = "Rathore"
-		DIP = 2
-		MIL = 3
-		ADM = 2
+		dip = 2
+		mil = 3
+		adm = 2
 	}
 }
 
@@ -58,9 +58,9 @@ capital = 4480	# Mahi Kantha - Idar
 	monarch = {
 		name = "Bharmal"
 		dynasty = "Rathore"
-		DIP = 2
-		MIL = 3
-		ADM = 2
+		dip = 2
+		mil = 3
+		adm = 2
 	}
 }
 
@@ -68,9 +68,9 @@ capital = 4480	# Mahi Kantha - Idar
 	monarch = {
 		name = "Punjaji"
 		dynasty = "Rathore"
-		DIP = 2
-		MIL = 3
-		ADM = 2
+		dip = 2
+		mil = 3
+		adm = 2
 	}
 }
 
@@ -79,9 +79,9 @@ capital = 4480	# Mahi Kantha - Idar
 	monarch = {
 		name = "Viramdev"
 		dynasty = "Rathore"
-		DIP = 2
-		MIL = 3
-		ADM = 2
+		dip = 2
+		mil = 3
+		adm = 2
 	}
 }
 
@@ -89,9 +89,9 @@ capital = 4480	# Mahi Kantha - Idar
 	monarch = {
 		name = "Kalianmal"
 		dynasty = "Rathore"
-		DIP = 2
-		MIL = 3
-		ADM = 2
+		dip = 2
+		mil = 3
+		adm = 2
 	}
 }
 
@@ -99,9 +99,9 @@ capital = 4480	# Mahi Kantha - Idar
 	monarch = {
 		name = "Jagannath"
 		dynasty = "Rathore"
-		DIP = 2
-		MIL = 3
-		ADM = 2
+		dip = 2
+		mil = 3
+		adm = 2
 	}
 }
 
@@ -109,9 +109,9 @@ capital = 4480	# Mahi Kantha - Idar
 	monarch = {
 		name = "Punja"
 		dynasty = "Rathore"
-		DIP = 2
-		MIL = 3
-		ADM = 2
+		dip = 2
+		mil = 3
+		adm = 2
 	}
 }
 
@@ -119,9 +119,9 @@ capital = 4480	# Mahi Kantha - Idar
 	monarch = {
 		name = "Arjundas"
 		dynasty = "Rathore"
-		DIP = 2
-		MIL = 3
-		ADM = 2
+		dip = 2
+		mil = 3
+		adm = 2
 	}
 }
 
@@ -129,9 +129,9 @@ capital = 4480	# Mahi Kantha - Idar
 	monarch = {
 		name = "Gopinath"
 		dynasty = "Rathore"
-		DIP = 2
-		MIL = 3
-		ADM = 2
+		dip = 2
+		mil = 3
+		adm = 2
 	}
 }
 
@@ -139,9 +139,9 @@ capital = 4480	# Mahi Kantha - Idar
 	monarch = {
 		name = "Karansingh"
 		dynasty = "Rathore"
-		DIP = 2
-		MIL = 3
-		ADM = 2
+		dip = 2
+		mil = 3
+		adm = 2
 	}
 }
 
@@ -149,9 +149,9 @@ capital = 4480	# Mahi Kantha - Idar
 	monarch = {
 		name = "Chandrasing"
 		dynasty = "Rathore"
-		DIP = 2
-		MIL = 3
-		ADM = 2
+		dip = 2
+		mil = 3
+		adm = 2
 	}
 }
 
@@ -160,9 +160,9 @@ capital = 4480	# Mahi Kantha - Idar
 	monarch = {
 		name = "Anand Singh"
 		dynasty = "Rathore"
-		DIP = 1
-		MIL = 5
-		ADM = 1
+		dip = 1
+		mil = 5
+		adm = 1
 	}
 }
 
@@ -174,9 +174,9 @@ capital = 4480	# Mahi Kantha - Idar
 		birth_date = 1736.1.1
 		death_Date = 1791.1.1
 		claim = 95
-		DIP = 2
-		MIL = 3
-		ADM = 1
+		dip = 2
+		mil = 3
+		adm = 1
 	}
 }
 
@@ -184,9 +184,9 @@ capital = 4480	# Mahi Kantha - Idar
 	monarch = {
 		name = "Shiv Singh"
 		dynasty = "Rathore"
-		DIP = 2
-		MIL = 3
-		ADM = 2
+		dip = 2
+		mil = 3
+		adm = 2
 	}
 }
 
@@ -198,9 +198,9 @@ capital = 4480	# Mahi Kantha - Idar
 		birth_date = 1755.1.1
 		death_Date = 1833.1.1
 		claim = 95
-		DIP = 2
-		MIL = 3
-		ADM = 4
+		dip = 2
+		mil = 3
+		adm = 4
 	}
 }
 
@@ -208,9 +208,9 @@ capital = 4480	# Mahi Kantha - Idar
 	monarch = {
 		name = "Bhawani"
 		dynasty = "Rathore"
-		DIP = 3
-		MIL = 3
-		ADM = 4
+		dip = 3
+		mil = 3
+		adm = 4
 	}
 }
 

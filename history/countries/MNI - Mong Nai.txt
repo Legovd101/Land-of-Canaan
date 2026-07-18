@@ -10,9 +10,9 @@ capital = 588
 	monarch = {
 		name = "Twet Nga Lu"
 		dynasty = "Mong Nai"
-		ADM = 2
-		DIP = 2
-		MIL = 2
+		adm = 2
+		dip = 2
+		mil = 2
 	}
 }
 
@@ -20,9 +20,9 @@ capital = 588
 	monarch = {
 		name = "Hkun Kyaw Sam"
 		dynasty = "Mong Nai"
-		ADM = 2
-		DIP = 2
-		MIL = 2
+		adm = 2
+		dip = 2
+		mil = 2
 	}
 }
 

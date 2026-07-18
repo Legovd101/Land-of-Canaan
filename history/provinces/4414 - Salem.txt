@@ -1,9 +1,9 @@
 #4414 - Salem
-owner = VIJ
-controller = VIJ
+owner = HOY
+controller = HOY
 capital = "Salem"
 culture = tamil
-religion = hinduism
+religion = ajivika
 trade_goods = elephants
 base_tax = 3
 base_production = 3
@@ -20,3 +20,4 @@ discovered_by = ottoman
 discovered_by = serican_group
 discovered_by = iranic_group
 discovered_by = chinese
+add_core = HOY

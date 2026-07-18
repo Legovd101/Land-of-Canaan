@@ -20,3 +20,4 @@ is_city = no
 owner = FIN
 controller = FIN
 add_core = FIN
+discovered_by = uralic_group

@@ -1,8 +1,8 @@
 #2035 - Gulbarga
-owner = BIJ
-controller = BIJ
+owner = HOY
+controller = HOY
 culture = kannada
-religion = hinduism
+religion = jain
 capital = "Gulbarga"
 trade_goods = grain
 base_tax = 4
@@ -18,4 +18,4 @@ discovered_by = ottoman
 discovered_by = serican_group
 discovered_by = iranic_group
 discovered_by = chinese
-add_core = BIJ
+add_core = HOY

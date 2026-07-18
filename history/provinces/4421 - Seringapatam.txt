@@ -2,7 +2,7 @@
 owner = MYS
 controller = MYS
 culture = kannada
-religion = hinduism
+religion = ajivika
 capital = "Seringapatam"
 trade_goods = cotton
 base_tax = 4

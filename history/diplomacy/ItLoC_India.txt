@@ -1,0 +1,157 @@
+# Holy Alliance - Beit Abba
+
+alliance = {
+	first = BTB
+	second = SRH
+	trade_league = 1
+	start_date = 1440.1.1
+	end_date = 1581.1.1
+}
+
+alliance = {
+	first = BTB
+	second = DRA
+	trade_league = 1
+	start_date = 1440.1.1
+	end_date = 1581.1.1
+}
+
+alliance = {
+	first = BTB
+	second = BHN
+	trade_league = 1
+	start_date = 1440.1.1
+	end_date = 1581.1.1
+}
+
+alliance = {
+	first = BTB
+	second = KHP
+	trade_league = 1
+	start_date = 1440.1.1
+	end_date = 1581.1.1
+}
+
+alliance = {
+	first = BTB
+	second = JNG
+	trade_league = 1
+	start_date = 1440.1.1
+	end_date = 1581.1.1
+}
+
+alliance = {
+	first = BTB
+	second = SNG
+	trade_league = 1
+	start_date = 1440.1.1
+	end_date = 1581.1.1
+}
+
+alliance = {
+	first = BTB
+	second = TRN
+	trade_league = 1
+	start_date = 1440.1.1
+	end_date = 1581.1.1
+}
+
+alliance = {
+	first = BTB
+	second = KGR
+	trade_league = 1
+	start_date = 1440.1.1
+	end_date = 1581.1.1
+}
+
+alliance = {
+	first = BTB
+	second = JMM
+	trade_league = 1
+	start_date = 1440.1.1
+	end_date = 1581.1.1
+}
+
+alliance = {
+	first = BTB
+	second = JBN
+	trade_league = 1
+	start_date = 1440.1.1
+	end_date = 1581.1.1
+}
+
+alliance = {
+	first = BTB
+	second = GTP
+	trade_league = 1
+	start_date = 1440.1.1
+	end_date = 1581.1.1
+}
+
+alliance = {
+	first = BTB
+	second = KSH
+	trade_league = 1
+	start_date = 1440.1.1
+	end_date = 1581.1.1
+}
+
+# Hoysalas
+
+march = {
+	first = HOY
+	second = AHM
+	start_date = 1444.1.1
+	end_date = 1581.1.1
+}
+
+march = {
+	first = HOY
+	second = VTS
+	start_date = 1444.1.1
+	end_date = 1581.1.1
+}
+
+march = {
+	first = HOY
+	second = MHU
+	start_date = 1444.1.1
+	end_date = 1581.1.1
+}
+
+march = {
+	first = HOY
+	second = KLH
+	start_date = 1444.1.1
+	end_date = 1581.1.1
+}
+
+march = {
+	first = HOY
+	second = GRJ
+	start_date = 1444.1.1
+	end_date = 1581.1.1
+}
+
+# Anti-Tibetan Coalition
+
+alliance = {
+	first = LWA
+	second = KTU
+	start_date = 1440.1.1
+	end_date = 1502.1.1
+}
+
+alliance = {
+	first = LWA
+	second = GRK
+	start_date = 1440.1.1
+	end_date = 1502.1.1
+}
+
+alliance = {
+	first = LWA
+	second = BHU
+	start_date = 1440.1.1
+	end_date = 1502.1.1
+}

@@ -1,7 +1,7 @@
 #2089 - Chaul (Chaul+Janjira+Kolaba)
-owner = BIJ
-controller = BIJ
-culture = marathi
+owner = SML
+controller = SML
+culture = konkani
 religion = hinduism
 capital = "Chaul"
 trade_goods = cloth
@@ -10,7 +10,6 @@ base_production = 4
 base_manpower = 2
 add_local_autonomy = 75
 is_city = yes
-add_core = BIJ
 add_core = VIJ
 add_rajputs_or_marathas_or_nobles_effect = yes
 discovered_by = indian
@@ -27,3 +26,5 @@ discovered_by = east_african
 discovered_by = cushitic_group
 extra_cost = 16
 center_of_trade = 2
+add_core = SML
+fort_15th = yes

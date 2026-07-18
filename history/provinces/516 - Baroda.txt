@@ -1,6 +1,6 @@
 #516 - Baroda (Baroda)
-owner = CMP
-controller = CMP
+owner = SRA
+controller = SRA
 culture = gujarati
 religion = hinduism
 capital = "Baroda"
@@ -21,4 +21,4 @@ discovered_by = iranic_group
 discovered_by = chinese
 discovered_by = east_african
 discovered_by = cushitic_group
-add_core = CMP
+add_core = SRA

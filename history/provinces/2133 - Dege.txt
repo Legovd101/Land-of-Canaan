@@ -1,9 +1,8 @@
 # 2133 - Dege
-owner = KAM
-controller = KAM
-add_core = KAM
+owner = TIB
+controller = TIB
 culture = tibetan
-religion = vajrayana
+religion = bon
 capital = "Dege"
 trade_goods = wool
 base_tax = 1
@@ -16,3 +15,4 @@ discovered_by = uralic_group
 discovered_by = indian
 extra_cost = 8
 center_of_trade = 1
+add_core = TIB

@@ -12,9 +12,9 @@ capital = 4493	#Sirmur
 	monarch = {
 		name = "Bir"
 		dynasty = "Plassia"
-		ADM = 2
-		DIP = 3
-		MIL = 2
+		adm = 2
+		dip = 3
+		mil = 2
 	}
 }
 
@@ -22,9 +22,9 @@ capital = 4493	#Sirmur
 	monarch = {
 		name = "Dip"
 		dynasty = "Plassia"
-		ADM = 2
-		DIP = 3
-		MIL = 2
+		adm = 2
+		dip = 3
+		mil = 2
 	}
 }
 
@@ -33,9 +33,9 @@ capital = 4493	#Sirmur
 	monarch = {
 		name = "Karam"
 		dynasty = "Plassia"
-		ADM = 4
-		DIP = 3
-		MIL = 3
+		adm = 4
+		dip = 3
+		mil = 3
 	}
 }
 
@@ -43,9 +43,9 @@ capital = 4493	#Sirmur
 	monarch = {
 		name = "Mandhata"
 		dynasty = "Plassia"
-		ADM = 3
-		DIP = 1
-		MIL = 1
+		adm = 3
+		dip = 1
+		mil = 1
 	}
 }
 
@@ -53,9 +53,9 @@ capital = 4493	#Sirmur
 	monarch = {
 		name = "Sobhang"
 		dynasty = "Plassia"
-		ADM = 2
-		DIP = 2
-		MIL = 3
+		adm = 2
+		dip = 2
+		mil = 3
 	}
 }
 
@@ -63,9 +63,9 @@ capital = 4493	#Sirmur
 	monarch = {
 		name = "Budh"
 		dynasty = "Plassia"
-		ADM = 1
-		DIP = 3
-		MIL = 3
+		adm = 1
+		dip = 3
+		mil = 3
 	}
 }
 
@@ -73,9 +73,9 @@ capital = 4493	#Sirmur
 	monarch = {
 		name = "Mat"
 		dynasty = "Plassia"
-		ADM = 3
-		DIP = 3
-		MIL = 1
+		adm = 3
+		dip = 3
+		mil = 1
 	}
 }
 
@@ -83,9 +83,9 @@ capital = 4493	#Sirmur
 	monarch = {
 		name = "Hari"
 		dynasty = "Plassia"
-		ADM = 1
-		DIP = 0
-		MIL = 0
+		adm = 1
+		dip = 0
+		mil = 0
 	}
 }
 
@@ -93,9 +93,9 @@ capital = 4493	#Sirmur
 	monarch = {
 		name = "Bijay"
 		dynasty = "Plassia"
-		ADM = 1
-		DIP = 3
-		MIL = 3
+		adm = 1
+		dip = 3
+		mil = 3
 	}
 }
 
@@ -103,9 +103,9 @@ capital = 4493	#Sirmur
 	monarch = {
 		name = "Pratap"
 		dynasty = "Plassia"
-		ADM = 2
-		DIP = 1
-		MIL = 1
+		adm = 2
+		dip = 1
+		mil = 1
 	}
 }
 
@@ -113,9 +113,9 @@ capital = 4493	#Sirmur
 	monarch = {
 		name = "Kirat"
 		dynasty = "Plassia"
-		ADM = 2
-		DIP = 2
-		MIL = 1
+		adm = 2
+		dip = 2
+		mil = 1
 	}
 }
 
@@ -123,9 +123,9 @@ capital = 4493	#Sirmur
 	monarch = {
 		name = "Jagat"
 		dynasty = "Plassia"
-		ADM = 2
-		DIP = 3
-		MIL = 0
+		adm = 2
+		dip = 3
+		mil = 0
 	}
 }
 
@@ -133,9 +133,9 @@ capital = 4493	#Sirmur
 	monarch = {
 		name = "Dharam"
 		dynasty = "Plassia"
-		ADM = 1
-		DIP = 0
-		MIL = 3
+		adm = 1
+		dip = 0
+		mil = 3
 	}
 }
 
@@ -143,9 +143,9 @@ capital = 4493	#Sirmur
 	monarch = {
 		name = "Karam II"
 		dynasty = "Plassia"
-		ADM = 0
-		DIP = 3
-		MIL = 2
+		adm = 0
+		dip = 3
+		mil = 2
 	}
 }
 
@@ -153,8 +153,8 @@ capital = 4493	#Sirmur
 	monarch = {
 		name = "Ratan"
 		dynasty = "Plassia"
-		ADM = 1
-		DIP = 3
-		MIL = 1
+		adm = 1
+		dip = 3
+		mil = 1
 	}
 }

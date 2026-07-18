@@ -13,9 +13,9 @@ capital = 4452	# Ratanpur
 	monarch = {
 		name = "Kamaldeva"
 		dynasty = "Haihaya"
-		ADM = 3
-		DIP = 1
-		MIL = 3
+		adm = 3
+		dip = 1
+		mil = 3
 	}
 }
 
@@ -23,9 +23,9 @@ capital = 4452	# Ratanpur
 	monarch = {
 		name = "Shankersai"
 		dynasty = "Haihaya"
-		ADM = 3
-		DIP = 2
-		MIL = 3
+		adm = 3
+		dip = 2
+		mil = 3
 	}
 }
 
@@ -33,9 +33,9 @@ capital = 4452	# Ratanpur
 	monarch = {
 		name = "Mohansai"
 		dynasty = "Haihaya"
-		ADM = 2
-		DIP = 2
-		MIL = 3
+		adm = 2
+		dip = 2
+		mil = 3
 	}
 }
 
@@ -43,9 +43,9 @@ capital = 4452	# Ratanpur
 	monarch = {
 		name = "Dadusai"
 		dynasty = "Haihaya"
-		ADM = 3
-		DIP = 1
-		MIL = 2
+		adm = 3
+		dip = 1
+		mil = 2
 	}
 }
 
@@ -53,9 +53,9 @@ capital = 4452	# Ratanpur
 	monarch = {
 		name = "Purosottamasai"
 		dynasty = "Haihaya"
-		ADM = 2
-		DIP = 1
-		MIL = 2
+		adm = 2
+		dip = 1
+		mil = 2
 	}
 }
 
@@ -63,9 +63,9 @@ capital = 4452	# Ratanpur
 	monarch = {
 		name = "Baharsai"
 		dynasty = "Haihaya"
-		ADM = 2
-		DIP = 2
-		MIL = 2
+		adm = 2
+		dip = 2
+		mil = 2
 	}
 }
 
@@ -73,9 +73,9 @@ capital = 4452	# Ratanpur
 	monarch = {
 		name = "Kalyansai"
 		dynasty = "Haihaya"
-		ADM = 2
-		DIP = 1
-		MIL = 1
+		adm = 2
+		dip = 1
+		mil = 1
 	}
 }
 
@@ -83,9 +83,9 @@ capital = 4452	# Ratanpur
 	monarch = {
 		name = "Lakshmansai"
 		dynasty = "Haihaya"
-		ADM = 2
-		DIP = 1
-		MIL = 1
+		adm = 2
+		dip = 1
+		mil = 1
 	}
 }
 
@@ -94,9 +94,9 @@ capital = 4452	# Ratanpur
 	monarch = {
 		name = "Shankarsai"
 		dynasty = "Haihaya"
-		ADM = 2
-		DIP = 1
-		MIL = 2
+		adm = 2
+		dip = 1
+		mil = 2
 	}
 }
 
@@ -105,9 +105,9 @@ capital = 4452	# Ratanpur
 	monarch = {
 		name = "Kumud"
 		dynasty = "Haihaya"
-		ADM = 3
-		DIP = 3
-		MIL = 1
+		adm = 3
+		dip = 3
+		mil = 1
 	}
 }
 
@@ -115,9 +115,9 @@ capital = 4452	# Ratanpur
 	monarch = {
 		name = "Tribhubansai"
 		dynasty = "Haihaya"
-		ADM = 1
-		DIP = 1
-		MIL = 1
+		adm = 1
+		dip = 1
+		mil = 1
 	}
 }
 
@@ -126,9 +126,9 @@ capital = 4452	# Ratanpur
 	monarch = {
 		name = "Jagmohansai"
 		dynasty = "Haihaya"
-		ADM = 2
-		DIP = 2
-		MIL = 1
+		adm = 2
+		dip = 2
+		mil = 1
 	}
 }
 
@@ -136,9 +136,9 @@ capital = 4452	# Ratanpur
 	monarch = {
 		name = "Adlisai"
 		dynasty = "Haihaya"
-		ADM = 1
-		DIP = 1
-		MIL = 2
+		adm = 1
+		dip = 1
+		mil = 2
 	}
 }
 
@@ -146,9 +146,9 @@ capital = 4452	# Ratanpur
 	monarch = {
 		name = "Ranjitsai"
 		dynasty = "Haihaya"
-		ADM = 2
-		DIP = 1
-		MIL = 2
+		adm = 2
+		dip = 1
+		mil = 2
 	}
 }
 
@@ -156,9 +156,9 @@ capital = 4452	# Ratanpur
 	monarch = {
 		name = "Taktasingh"
 		dynasty = "Haihaya"
-		ADM = 1
-		DIP = 0
-		MIL = 1
+		adm = 1
+		dip = 0
+		mil = 1
 	}
 }
 
@@ -166,9 +166,9 @@ capital = 4452	# Ratanpur
 	monarch = {
 		name = "Rajsinghdeva"
 		dynasty = "Haihaya"
-		ADM = 1
-		DIP = 1
-		MIL = 1
+		adm = 1
+		dip = 1
+		mil = 1
 	}
 }
 
@@ -176,9 +176,9 @@ capital = 4452	# Ratanpur
 	monarch = {
 		name = "Sardarsingh"
 		dynasty = "Haihaya"
-		ADM = 2
-		DIP = 1
-		MIL = 2
+		adm = 2
+		dip = 1
+		mil = 2
 	}
 }
 
@@ -186,9 +186,9 @@ capital = 4452	# Ratanpur
 	monarch = {
 		name = "Raghunatsingh"
 		dynasty = "Haihaya"
-		ADM = 3
-		DIP = 2
-		MIL = 0
+		adm = 3
+		dip = 2
+		mil = 0
 	}
 }
 
@@ -200,9 +200,9 @@ capital = 4452	# Ratanpur
 		birth_date = 1720.1.1
 		death_Date = 1787.1.1
 		claim = 95
-		ADM = 2
-		DIP = 0
-		MIL = 1
+		adm = 2
+		dip = 0
+		mil = 1
 	}
 }
 

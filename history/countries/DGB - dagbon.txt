@@ -14,9 +14,9 @@ capital = 2256 #Yendi
 	monarch = {
 		name = "Bierigudeera"
 		dynasty = "Naa"
-		DIP = 2
-		ADM = 1
-		MIL = 2
+		dip = 2
+		adm = 1
+		mil = 2
 	}
 }
 
@@ -24,9 +24,9 @@ capital = 2256 #Yendi
 	monarch = {
 		name = "Darigudeera"
 		dynasty = "Naa"
-		DIP = 2
-		ADM = 1
-		MIL = 2
+		dip = 2
+		adm = 1
+		mil = 2
 	}
 }
 
@@ -34,9 +34,9 @@ capital = 2256 #Yendi
 	monarch = {
 		name = "Zolgu"
 		dynasty = "Naa"
-		DIP = 2
-		ADM = 1
-		MIL = 2
+		dip = 2
+		adm = 1
+		mil = 2
 	}
 }
 
@@ -44,9 +44,9 @@ capital = 2256 #Yendi
 	monarch = {
 		name = "Zongma"
 		dynasty = "Naa"
-		DIP = 2
-		ADM = 1
-		MIL = 2
+		dip = 2
+		adm = 1
+		mil = 2
 	}
 }
 
@@ -54,9 +54,9 @@ capital = 2256 #Yendi
 	monarch = {
 		name = "Ningmitooni"
 		dynasty = "Naa"
-		DIP = 2
-		ADM = 1
-		MIL = 2
+		dip = 2
+		adm = 1
+		mil = 2
 	}
 }
 
@@ -66,9 +66,9 @@ capital = 2256 #Yendi
 	monarch = {
 		name = "Dimani"
 		dynasty = "Naa"
-		DIP = 2
-		ADM = 1
-		MIL = 2
+		dip = 2
+		adm = 1
+		mil = 2
 	}
 }
 
@@ -76,9 +76,9 @@ capital = 2256 #Yendi
 	monarch = {
 		name = "Yanzoe"
 		dynasty = "Naa"
-		DIP = 2
-		ADM = 1
-		MIL = 2
+		dip = 2
+		adm = 1
+		mil = 2
 	}
 }
 
@@ -86,9 +86,9 @@ capital = 2256 #Yendi
 	monarch = {
 		name = "Darizegu"
 		dynasty = "Naa"
-		DIP = 2
-		ADM = 1
-		MIL = 2
+		dip = 2
+		adm = 1
+		mil = 2
 	}
 }
 
@@ -96,9 +96,9 @@ capital = 2256 #Yendi
 	monarch = {
 		name = "Luro"
 		dynasty = "Naa"
-		DIP = 2
-		ADM = 1
-		MIL = 2
+		dip = 2
+		adm = 1
+		mil = 2
 	}
 }
 
@@ -106,9 +106,9 @@ capital = 2256 #Yendi
 	monarch = {
 		name = "Titugri"
 		dynasty = "Naa"
-		DIP = 2
-		ADM = 1
-		MIL = 2
+		dip = 2
+		adm = 1
+		mil = 2
 	}
 }
 
@@ -116,9 +116,9 @@ capital = 2256 #Yendi
 	monarch = {
 		name = "Zagli"
 		dynasty = "Naa"
-		DIP = 2
-		ADM = 1
-		MIL = 2
+		dip = 2
+		adm = 1
+		mil = 2
 	}
 }
 
@@ -126,9 +126,9 @@ capital = 2256 #Yendi
 	monarch = {
 		name = "Zokuli"
 		dynasty = "Naa"
-		DIP = 2
-		ADM = 1
-		MIL = 2
+		dip = 2
+		adm = 1
+		mil = 2
 	}
 }
 
@@ -136,9 +136,9 @@ capital = 2256 #Yendi
 	monarch = {
 		name = "Gungobili"
 		dynasty = "Naa"
-		DIP = 2
-		ADM = 1
-		MIL = 2
+		dip = 2
+		adm = 1
+		mil = 2
 	}
 }
 
@@ -146,9 +146,9 @@ capital = 2256 #Yendi
 	monarch = {
 		name = "Zangina"
 		dynasty = "Naa"
-		DIP = 4
-		ADM = 4
-		MIL = 2
+		dip = 4
+		adm = 4
+		mil = 2
 	}
 } #Recorded to be a very successful trader
 
@@ -156,9 +156,9 @@ capital = 2256 #Yendi
 	monarch = {
 		name = "Andani Sigli"
 		dynasty = "Naa"
-		DIP = 2
-		ADM = 1
-		MIL = 2
+		dip = 2
+		adm = 1
+		mil = 2
 	}
 }
 
@@ -166,9 +166,9 @@ capital = 2256 #Yendi
 	monarch = {
 		name = "Binbiegu"
 		dynasty = "Naa"
-		DIP = 2
-		ADM = 1
-		MIL = 2
+		dip = 2
+		adm = 1
+		mil = 2
 	}
 }
 
@@ -176,9 +176,9 @@ capital = 2256 #Yendi
 	monarch = {
 		name = "Gariba"
 		dynasty = "Naa"
-		DIP = 2
-		ADM = 1
-		MIL = 2
+		dip = 2
+		adm = 1
+		mil = 2
 	}
 }
 
@@ -186,9 +186,9 @@ capital = 2256 #Yendi
 	monarch = {
 		name = "Nasalan Ziblim"
 		dynasty = "Naa"
-		DIP = 2
-		ADM = 1
-		MIL = 2
+		dip = 2
+		adm = 1
+		mil = 2
 	}
 }
 
@@ -196,9 +196,9 @@ capital = 2256 #Yendi
 	monarch = {
 		name = "Ziblim"
 		dynasty = "Naa"
-		DIP = 2
-		ADM = 1
-		MIL = 2
+		dip = 2
+		adm = 1
+		mil = 2
 	}
 }
 
@@ -207,9 +207,9 @@ capital = 2256 #Yendi
 	monarch = {
 		name = "Ziblim Kulunku"
 		dynasty = "Naa"
-		DIP = 2
-		ADM = 1
-		MIL = 2
+		dip = 2
+		adm = 1
+		mil = 2
 	}
 }
 
@@ -217,9 +217,9 @@ capital = 2256 #Yendi
 	monarch = {
 		name = "Andani II Jangbariga"
 		dynasty = "Naa"
-		DIP = 2
-		ADM = 1
-		MIL = 2
+		dip = 2
+		adm = 1
+		mil = 2
 	}
 }
 
@@ -227,9 +227,9 @@ capital = 2256 #Yendi
 	monarch = {
 		name = "Suman Zoli"
 		dynasty = "Naa"
-		DIP = 2
-		ADM = 1
-		MIL = 2
+		dip = 2
+		adm = 1
+		mil = 2
 	}
 }
 
@@ -239,8 +239,8 @@ capital = 2256 #Yendi
 	monarch = {
 		name = "Yakubu"
 		dynasty = "Naa"
-		DIP = 2
-		ADM = 1
-		MIL = 2
+		dip = 2
+		adm = 1
+		mil = 2
 	}
 }

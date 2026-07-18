@@ -1,6 +1,6 @@
 #2028 - Mahur
-owner = CHD
-controller = CHD
+owner = MHU
+controller = MHU
 culture = telegu
 religion = hinduism
 capital = "Mahur"
@@ -18,4 +18,5 @@ discovered_by = ottoman
 discovered_by = serican_group
 discovered_by = iranic_group
 discovered_by = chinese
-add_core = CHD
+add_core = MHU
+fort_15th = yes

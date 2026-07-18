@@ -1,6 +1,6 @@
 #515 - Girnar
-owner = JGD
-controller = JGD
+owner = SRA
+controller = SRA
 culture = saurashtri
 religion = hinduism
 capital = "Girnar"
@@ -9,7 +9,6 @@ base_tax = 3
 base_production = 3
 base_manpower = 2
 is_city = yes
-add_core = JGD
 discovered_by = indian
 discovered_by = muslim
 discovered_by = kemetic
@@ -22,4 +21,4 @@ discovered_by = uralic_group
 discovered_by = chinese
 discovered_by = east_african
 discovered_by = cushitic_group
-fort_15th = yes
+add_core = SRA

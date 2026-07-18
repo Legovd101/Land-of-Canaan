@@ -12,9 +12,9 @@ capital = 2049	# Khurda
 	monarch = {
 		name = "Adi"
 		dynasty = "Bhanj"
-		ADM = 2
-		DIP = 3
-		MIL = 2
+		adm = 2
+		dip = 3
+		mil = 2
 	}
 }
 
@@ -26,9 +26,9 @@ capital = 2049	# Khurda
 		birth_date = 1444.1.1
 		death_Date = 1520.1.1
 		claim = 95
-		ADM = 3
-		DIP = 3
-		MIL = 2
+		adm = 3
+		dip = 3
+		mil = 2
 	}
 }
 
@@ -36,9 +36,9 @@ capital = 2049	# Khurda
 	monarch = {
 		name = "Santai"
 		dynasty = "Bhanj"
-		ADM = 3
-		DIP = 3
-		MIL = 2
+		adm = 3
+		dip = 3
+		mil = 2
 	}
 }
 
@@ -50,9 +50,9 @@ capital = 2049	# Khurda
 		birth_date = 1480.1.1
 		death_Date = 1560.1.1
 		claim = 95
-		ADM = 1
-		DIP = 0
-		MIL = 1
+		adm = 1
+		dip = 0
+		mil = 1
 	}
 }
 
@@ -60,9 +60,9 @@ capital = 2049	# Khurda
 	monarch = {
 		name = "Chhakai"
 		dynasty = "Bhanj"
-		ADM = 1
-		DIP = 0
-		MIL = 1
+		adm = 1
+		dip = 0
+		mil = 1
 	}
 }
 
@@ -74,9 +74,9 @@ capital = 2049	# Khurda
 		birth_date = 1520.1.1
 		death_Date = 1578.1.1
 		claim = 95
-		ADM = 1
-		DIP = 2
-		MIL = 0
+		adm = 1
+		dip = 2
+		mil = 0
 	}
 }
 
@@ -84,9 +84,9 @@ capital = 2049	# Khurda
 	monarch = {
 		name = "Lakshman"
 		dynasty = "Bhanj"
-		ADM = 1
-		DIP = 2
-		MIL = 0
+		adm = 1
+		dip = 2
+		mil = 0
 	}
 }
 
@@ -96,9 +96,9 @@ capital = 2049	# Khurda
 	monarch = {
 		name = "Ramachendra"
 		dynasty = "Bhuyavamsha"
-		ADM = 1
-		DIP = 0
-		MIL = 0
+		adm = 1
+		dip = 0
+		mil = 0
 	}
 }
 
@@ -110,9 +110,9 @@ capital = 2049	# Khurda
 		birth_date = 1578.1.1
 		death_Date = 1628.1.1
 		claim = 95
-		ADM = 2
-		DIP = 2
-		MIL = 2
+		adm = 2
+		dip = 2
+		mil = 2
 	}
 }
 
@@ -120,9 +120,9 @@ capital = 2049	# Khurda
 	monarch = {
 		name = "Purusottam"
 		dynasty = "Bhuyavamsha"
-		ADM = 2
-		DIP = 2
-		MIL = 2
+		adm = 2
+		dip = 2
+		mil = 2
 	}
 }
 
@@ -134,9 +134,9 @@ capital = 2049	# Khurda
 		birth_date = 1607.1.1
 		death_Date = 1653.1.1
 		claim = 95
-		ADM = 2
-		DIP = 0
-		MIL = 3
+		adm = 2
+		dip = 0
+		mil = 3
 	}
 }
 
@@ -144,9 +144,9 @@ capital = 2049	# Khurda
 	monarch = {
 		name = "Narasimha"
 		dynasty = "Bhuyavamsha"
-		ADM = 2
-		DIP = 0
-		MIL = 3
+		adm = 2
+		dip = 0
+		mil = 3
 	}
 }
 
@@ -158,9 +158,9 @@ capital = 2049	# Khurda
 		birth_date = 1628.1.1
 		death_Date = 1662.1.1
 		claim = 95
-		ADM = 2
-		DIP = 2
-		MIL = 2
+		adm = 2
+		dip = 2
+		mil = 2
 	}
 }
 
@@ -168,9 +168,9 @@ capital = 2049	# Khurda
 	monarch = {
 		name = "Balabhadra"
 		dynasty = "Bhuyavamsha"
-		ADM = 2
-		DIP = 2
-		MIL = 2
+		adm = 2
+		dip = 2
+		mil = 2
 	}
 }
 
@@ -182,9 +182,9 @@ capital = 2049	# Khurda
 		birth_date = 1628.1.1
 		death_Date = 1690.1.1
 		claim = 95
-		ADM = 0
-		DIP = 3
-		MIL = 1
+		adm = 0
+		dip = 3
+		mil = 1
 	}
 }
 
@@ -192,9 +192,9 @@ capital = 2049	# Khurda
 	monarch = {
 		name = "Mukunda"
 		dynasty = "Bhuyavamsha"
-		ADM = 0
-		DIP = 3
-		MIL = 1
+		adm = 0
+		dip = 3
+		mil = 1
 	}
 }
 
@@ -206,9 +206,9 @@ capital = 2049	# Khurda
 		birth_date = 1628.1.1
 		death_Date = 1720.1.1
 		claim = 95
-		ADM = 1
-		DIP = 3
-		MIL = 0
+		adm = 1
+		dip = 3
+		mil = 0
 	}
 }
 
@@ -216,9 +216,9 @@ capital = 2049	# Khurda
 	monarch = {
 		name = "Dibyasingha"
 		dynasty = "Bhuyavamsha"
-		ADM = 1
-		DIP = 3
-		MIL = 0
+		adm = 1
+		dip = 3
+		mil = 0
 	}
 }
 
@@ -230,9 +230,9 @@ capital = 2049	# Khurda
 		birth_date = 1690.1.1
 		death_Date = 1725.1.1
 		claim = 95
-		ADM = 3
-		DIP = 3
-		MIL = 1
+		adm = 3
+		dip = 3
+		mil = 1
 	}
 }
 
@@ -240,9 +240,9 @@ capital = 2049	# Khurda
 	monarch = {
 		name = "Harekrushna"
 		dynasty = "Bhuyavamsha"
-		ADM = 3
-		DIP = 3
-		MIL = 1
+		adm = 3
+		dip = 3
+		mil = 1
 	}
 }
 
@@ -254,9 +254,9 @@ capital = 2049	# Khurda
 		birth_date = 1700.1.1
 		death_Date = 1732.1.1
 		claim = 95
-		ADM = 1
-		DIP = 2
-		MIL = 1
+		adm = 1
+		dip = 2
+		mil = 1
 	}
 }
 
@@ -264,9 +264,9 @@ capital = 2049	# Khurda
 	monarch = {
 		name = "Gopinath"
 		dynasty = "Bhuyavamsha"
-		ADM = 1
-		DIP = 2
-		MIL = 1
+		adm = 1
+		dip = 2
+		mil = 1
 	}
 }
 
@@ -278,9 +278,9 @@ capital = 2049	# Khurda
 		birth_date = 1700.1.1
 		death_Date = 1743.1.1
 		claim = 95
-		ADM = 2
-		DIP = 1
-		MIL = 0
+		adm = 2
+		dip = 1
+		mil = 0
 	}
 }
 
@@ -288,9 +288,9 @@ capital = 2049	# Khurda
 	monarch = {
 		name = "Ramachendra II"
 		dynasty = "Bhuyavamsha"
-		ADM = 2
-		DIP = 1
-		MIL = 0
+		adm = 2
+		dip = 1
+		mil = 0
 	}
 }
 
@@ -306,9 +306,9 @@ capital = 2049	# Khurda
 		birth_date = 1732.1.1
 		death_Date = 1780.1.1
 		claim = 95
-		ADM = 2
-		DIP = 1
-		MIL = 1
+		adm = 2
+		dip = 1
+		mil = 1
 	}
 }
 
@@ -316,9 +316,9 @@ capital = 2049	# Khurda
 	monarch = {
 		name = "Birakishore"
 		dynasty = "Bhuyavamsha"
-		ADM = 2
-		DIP = 1
-		MIL = 1
+		adm = 2
+		dip = 1
+		mil = 1
 	}
 }
 
@@ -330,9 +330,9 @@ capital = 2049	# Khurda
 		birth_date = 1743.1.1
 		death_Date = 1795.1.1
 		claim = 95
-		ADM = 1
-		DIP = 1
-		MIL = 0
+		adm = 1
+		dip = 1
+		mil = 0
 	}
 }
 
@@ -340,9 +340,9 @@ capital = 2049	# Khurda
 	monarch = {
 		name = "Dibyasingha"
 		dynasty = "Bhuyavamsha"
-		ADM = 1
-		DIP = 1
-		MIL = 0
+		adm = 1
+		dip = 1
+		mil = 0
 	}
 }
 
@@ -354,9 +354,9 @@ capital = 2049	# Khurda
 		birth_date = 1743.1.1
 		death_Date = 1817.1.1
 		claim = 95
-		ADM = 0
-		DIP = 0
-		MIL = 0
+		adm = 0
+		dip = 0
+		mil = 0
 	}
 }
 
@@ -364,8 +364,8 @@ capital = 2049	# Khurda
 	monarch = {
 		name = "Mukunda II"
 		dynasty = "Bhuyavamsha"
-		ADM = 0
-		DIP = 0
-		MIL = 0
+		adm = 0
+		dip = 0
+		mil = 0
 	}
 }

@@ -28,3 +28,5 @@ discovered_by = indian
 discovered_by = east_african
 discovered_by = cushitic_group
 add_core = ANZ
+
+fort_15th = yes

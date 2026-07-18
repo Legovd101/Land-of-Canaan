@@ -1,0 +1,14 @@
+bookmark = {
+	name = "HAEMIAN_HEGEMONIES"
+	desc = "HAEMIAN_HEGEMONIES_DESC"
+	date = "1444.11.11"
+	center = 148
+	country = MKD
+	country = SAG
+	country = DST
+	country = RXL
+	country = BZH
+	country = ADR
+	easy_country = SAG
+	easy_country = RXL
+}

@@ -18,9 +18,9 @@ religious_school = maliki_school
 	monarch = {
 		name = "Abu"
 		dynasty = "Banu Khalef"
-		ADM = 2
-		DIP = 2
-		MIL = 2
+		adm = 2
+		dip = 2
+		mil = 2
 	}
 }
 
@@ -28,8 +28,8 @@ religious_school = maliki_school
 	monarch = {
 		name = "Abu II"
 		dynasty = "Banu Khalef"
-		ADM = 2
-		MIL = 2
+		adm = 2
+		mil = 2
 	}
 }
 
@@ -37,9 +37,9 @@ religious_school = maliki_school
 	monarch = {
 		name = "Hassan"
 		dynasty = "Banu Khalef"
-		ADM = 1
-		DIP = 1
-		MIL = 1
+		adm = 1
+		dip = 1
+		mil = 1
 	}
 }
 
@@ -47,9 +47,9 @@ religious_school = maliki_school
 	monarch = {
 		name = "Hassan II"
 		dynasty = "Banu Khalef"
-		ADM = 2
-		DIP = 1
-		MIL = 1
+		adm = 2
+		dip = 1
+		mil = 1
 	}
 }
 
@@ -57,9 +57,9 @@ religious_school = maliki_school
 	monarch = {
 		name = "Hassan III"
 		dynasty = "Banu Khalef"
-		ADM = 1
-		DIP = 3
-		MIL = 1
+		adm = 1
+		dip = 3
+		mil = 1
 	}
 }
 
@@ -67,9 +67,9 @@ religious_school = maliki_school
 	monarch = {
 		name = "Abu III"
 		dynasty = "Banu Khalef"
-		ADM = 1
-		DIP = 1
-		MIL = 1
+		adm = 1
+		dip = 1
+		mil = 1
 	}
 }
 
@@ -77,9 +77,9 @@ religious_school = maliki_school
 	monarch = {
 		name = "Abu IV"
 		dynasty = "Banu Khalef"
-		ADM = 1
-		DIP = 1
-		MIL = 3
+		adm = 1
+		dip = 1
+		mil = 3
 	}
 }
 
@@ -87,9 +87,9 @@ religious_school = maliki_school
 	monarch = {
 		name = "Abu V"
 		dynasty = "Banu Khalef"
-		ADM = 2
-		DIP = 1
-		MIL = 2
+		adm = 2
+		dip = 1
+		mil = 2
 	}
 }
 
@@ -97,9 +97,9 @@ religious_school = maliki_school
 	monarch = {
 		name = "Hassan IV"
 		dynasty = "Banu Khalef"
-		ADM = 2
-		DIP = 1
-		MIL = 1
+		adm = 2
+		dip = 1
+		mil = 1
 	}
 }
 

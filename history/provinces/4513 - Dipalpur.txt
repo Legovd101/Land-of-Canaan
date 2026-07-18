@@ -1,9 +1,9 @@
 #4513 - Dipalpur
-owner = PUN
-controller = PUN
+owner = KHP
+controller = KHP
 culture = panjabi
-religion = hinduism
-capital = "Dipalpur"
+religion = astartism
+capital = "Kuhapur"
 trade_goods = silk
 base_tax = 5
 base_production = 5
@@ -11,7 +11,6 @@ base_manpower = 3
 is_city = yes
 add_core = MUL
 add_core = DLH
-add_core = PUN
 discovered_by = indian
 discovered_by = muslim
 discovered_by = kemetic
@@ -22,3 +21,4 @@ discovered_by = iranic_group
 discovered_by = nomad_group
 discovered_by = uralic_group
 discovered_by = chinese
+add_core = KHP

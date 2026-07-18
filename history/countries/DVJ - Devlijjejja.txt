@@ -1,0 +1,7 @@
+capital = 2099
+technology_group = indian
+primary_culture = wanniyalaeto
+religion = vedda_animism
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1

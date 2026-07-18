@@ -1,9 +1,9 @@
 #4442 - Washim
-owner = AHM
-controller = AHM
+owner = VTS
+controller = VTS
 culture = marathi
 religion = hinduism
-capital = "Washim"
+capital = "Vatsagulma"
 trade_goods = cloth
 base_tax = 3
 base_production = 3
@@ -20,4 +20,5 @@ discovered_by = ottoman
 discovered_by = thraco_illyrian
 discovered_by = serican_group
 discovered_by = iranic_group
-add_core = AHM
+add_core = VTS
+fort_15th = yes

@@ -1,0 +1,7 @@
+religion = arab_pagan
+capital = 2089
+technology_group = muslim
+primary_culture = himyarite
+government = republic
+add_government_reform = merchants_reform
+government_rank = 1

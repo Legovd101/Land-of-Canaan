@@ -25,3 +25,4 @@ discovered_by = chinese
 extra_cost = 16
 center_of_trade = 2
 add_core = AHM
+fort_15th = yes

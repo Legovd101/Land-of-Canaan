@@ -1,0 +1,15 @@
+bookmark = {
+	name = "IN_THE_LAND_OF_CANAAN"
+	desc = "IN_THE_LAND_OF_CANAAN_DESC"
+	date = "1444.11.11"
+	center = 2313
+	country = NTI
+	country = ARM
+	country = KNA
+	country = XIM
+	country = PLM
+	country = SLC
+	country = BBL
+	easy_country = NTI
+	easy_country = ARM
+}

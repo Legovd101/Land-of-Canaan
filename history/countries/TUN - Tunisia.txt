@@ -31,9 +31,9 @@ religious_school = maliki_school
 	monarch = {
 		name = "'Uthman"
 		dynasty = "Hafsid"
-		ADM = 1
-		DIP = 3
-		MIL = 3
+		adm = 1
+		dip = 3
+		mil = 3
 	}
 }
 
@@ -45,8 +45,8 @@ religious_school = maliki_school
 		birth_date = 1435.9.18
 		death_date = 1489.1.1
 		claim = 95
-		ADM = 2
-		MIL = 1
+		adm = 2
+		mil = 1
 	}
 }
 
@@ -54,8 +54,8 @@ religious_school = maliki_school
 	monarch = {
 		name = "Yahyâ III"
 		dynasty = "Hafsid"
-		ADM = 2
-		MIL = 1
+		adm = 2
+		mil = 1
 	}
 }
 
@@ -67,8 +67,8 @@ religious_school = maliki_school
 		birth_date = 1468.1.1
 		death_date = 1490.10.15
 		claim = 95
-		DIP = 1
-		MIL = 1
+		dip = 1
+		mil = 1
 	}
 }
 
@@ -76,8 +76,8 @@ religious_school = maliki_school
 	monarch = {
 		name = "'Abd al-Mu'min"
 		dynasty = "Hafsid"
-		DIP = 1
-		MIL = 1
+		dip = 1
+		mil = 1
 	}
 }
 
@@ -89,9 +89,9 @@ religious_school = maliki_school
 		birth_date = 1470.1.1
 		death_date = 1494.5.17
 		claim = 95
-		ADM = 1
-		DIP = 2
-		MIL = 1
+		adm = 1
+		dip = 2
+		mil = 1
 	}
 }
 
@@ -99,9 +99,9 @@ religious_school = maliki_school
 	monarch = {
 		name = "Zakariyâ' II"
 		dynasty = "Hafsid"
-		ADM = 1
-		DIP = 2
-		MIL = 1
+		adm = 1
+		dip = 2
+		mil = 1
 	}
 }
 
@@ -113,8 +113,8 @@ religious_school = maliki_school
 		birth_date = 1470.1.1
 		death_date = 1526.1.1
 		claim = 95
-		ADM = 3
-		MIL = 1
+		adm = 3
+		mil = 1
 	}
 }
 
@@ -122,8 +122,8 @@ religious_school = maliki_school
 	monarch = {
 		name = "Muhammad V"
 		dynasty = "Hafsid"
-		ADM = 3
-		MIL = 1
+		adm = 3
+		mil = 1
 	}
 }
 
@@ -135,7 +135,7 @@ religious_school = maliki_school
 		birth_date = 1494.5.17
 		death_date = 1525.1.1
 		claim = 95
-		DIP = 1
+		dip = 1
 	}
 }
 
@@ -143,7 +143,7 @@ religious_school = maliki_school
 	monarch = {
 		name = "Muhammad VI"
 		dynasty = "Hafsid"
-		DIP = 1
+		dip = 1
 	}
 }
 
@@ -155,9 +155,9 @@ religious_school = maliki_school
 		birth_date = 1420.1.1
 		death_date = 1573.1.1
 		claim = 95
-		ADM = 2
-		DIP = 2
-		MIL = 2
+		adm = 2
+		dip = 2
+		mil = 2
 	}
 }
 
@@ -165,9 +165,9 @@ religious_school = maliki_school
 	monarch = {
 		name = "Ahmad III"
 		dynasty = "Hafsid"
-		ADM = 2
-		DIP = 2
-		MIL = 2
+		adm = 2
+		dip = 2
+		mil = 2
 	}
 }
 
@@ -179,9 +179,9 @@ religious_school = maliki_school
 		birth_date = 1542.1.1
 		death_date = 1574.1.1
 		claim = 95
-		ADM = 3
-		DIP = 2
-		MIL = 1
+		adm = 3
+		dip = 2
+		mil = 1
 	}
 }
 
@@ -189,9 +189,9 @@ religious_school = maliki_school
 	monarch = {
 		name = "Muhammad VII"
 		dynasty = "Hafsid"
-		ADM = 3
-		DIP = 2
-		MIL = 1
+		adm = 3
+		dip = 2
+		mil = 1
 	}
 }
 
@@ -199,9 +199,9 @@ religious_school = maliki_school
 	monarch = {
 		name = "Muhammed"
 		dynasty = "Muhammadid"
-		ADM = 2
-		DIP = 2
-		MIL = 2
+		adm = 2
+		dip = 2
+		mil = 2
 	}
 	government_rank = 1
 }
@@ -210,9 +210,9 @@ religious_school = maliki_school
 	monarch = {
 		name = "Ibrahim"
 		dynasty = "Rodesi"
-		ADM = 1
-		DIP = 3
-		MIL = 3
+		adm = 1
+		dip = 3
+		mil = 3
 	}
 	government = republic
 	add_government_reform = noble_elite_reform
@@ -223,9 +223,9 @@ religious_school = maliki_school
 	monarch = {
 		name = "Moussa"
 		dynasty = "Moussadid"
-		ADM = 2
-		DIP = 2
-		MIL = 2
+		adm = 2
+		dip = 2
+		mil = 2
 	}
 }
 
@@ -233,9 +233,9 @@ religious_school = maliki_school
 	monarch = {
 		name = "Uthman"
 		dynasty = "Uthmanid"
-		ADM = 4
-		DIP = 4
-		MIL = 3
+		adm = 4
+		dip = 4
+		mil = 3
 	}
 }
 
@@ -243,9 +243,9 @@ religious_school = maliki_school
 	monarch = {
 		name = "Yusuf"
 		dynasty = "Uthmanid"
-		ADM = 3
-		DIP = 4
-		MIL = 3
+		adm = 3
+		dip = 4
+		mil = 3
 	}
 }
 
@@ -253,9 +253,9 @@ religious_school = maliki_school
 	monarch = {
 		name = "Murad I"
 		dynasty = "Muradid"
-		ADM = 4
-		DIP = 4
-		MIL = 3
+		adm = 4
+		dip = 4
+		mil = 3
 	}
 	government = monarchy
 	add_government_reform = autocracy_reform
@@ -269,9 +269,9 @@ religious_school = maliki_school
 		birth_date = 1580.1.1
 		death_date = 1662.1.1
 		claim = 95
-		ADM = 2
-		DIP = 3
-		MIL = 3
+		adm = 2
+		dip = 3
+		mil = 3
 	}
 }
 
@@ -279,9 +279,9 @@ religious_school = maliki_school
 	monarch = {
 		name = "Muhammad I"
 		dynasty = "Muradid"
-		ADM = 2
-		DIP = 3
-		MIL = 3
+		adm = 2
+		dip = 3
+		mil = 3
 	}
 }
 
@@ -293,9 +293,9 @@ religious_school = maliki_school
 		birth_date = 1620.1.1
 		death_date = 1675.1.1
 		claim = 95
-		ADM = 2
-		DIP = 4
-		MIL = 3
+		adm = 2
+		dip = 4
+		mil = 3
 	}
 }
 
@@ -303,9 +303,9 @@ religious_school = maliki_school
 	monarch = {
 		name = "Murad II"
 		dynasty = "Muradid"
-		ADM = 2
-		DIP = 4
-		MIL = 3
+		adm = 2
+		dip = 4
+		mil = 3
 	}
 }
 
@@ -317,9 +317,9 @@ religious_school = maliki_school
 		birth_date = 1620.1.1
 		death_date = 1695.1.1
 		claim = 95
-		ADM = 3
-		DIP = 3
-		MIL = 3
+		adm = 3
+		dip = 3
+		mil = 3
 	}
 }
 
@@ -327,9 +327,9 @@ religious_school = maliki_school
 	monarch = {
 		name = "Muhammad II"
 		dynasty = "Muradid"
-		ADM = 3
-		DIP = 3
-		MIL = 3
+		adm = 3
+		dip = 3
+		mil = 3
 	}
 }
 
@@ -337,8 +337,8 @@ religious_school = maliki_school
 	monarch = {
 		name = "Ali I"
 		dynasty = "Muradid"
-		DIP = 1
-		MIL = 1
+		dip = 1
+		mil = 1
 	}
 }
 
@@ -346,8 +346,8 @@ religious_school = maliki_school
 	monarch = {
 		name = "Muhammad III"
 		dynasty = "Muradid"
-		ADM = 1
-		MIL = 1
+		adm = 1
+		mil = 1
 	}
 }
 
@@ -355,9 +355,9 @@ religious_school = maliki_school
 	monarch = {
 		name = "Muhammad II"
 		dynasty = "Muradid"
-		ADM = 3
-		DIP = 3
-		MIL = 3
+		adm = 3
+		dip = 3
+		mil = 3
 	}
 }
 
@@ -365,9 +365,9 @@ religious_school = maliki_school
 	monarch = {
 		name = "Ali I"
 		dynasty = "Muradid"
-		ADM = 2
-		DIP = 1
-		MIL = 1
+		adm = 2
+		dip = 1
+		mil = 1
 	}
 }
 
@@ -379,9 +379,9 @@ religious_school = maliki_school
 		birth_date = 1640.1.1
 		death_date = 1688.12.1
 		claim = 95
-		ADM = 1
-		DIP = 2
-		MIL = 2
+		adm = 1
+		dip = 2
+		mil = 2
 	}
 }
 
@@ -389,9 +389,9 @@ religious_school = maliki_school
 	monarch = {
 		name = "Muhammad el-Hafsi"
 		dynasty = "Muradid"
-		ADM = 1
-		DIP = 2
-		MIL = 2
+		adm = 1
+		dip = 2
+		mil = 2
 	}
 }
 
@@ -399,9 +399,9 @@ religious_school = maliki_school
 	monarch = {
 		name = "Muhammad II"
 		dynasty = "Muradid"
-		ADM = 3
-		DIP = 3
-		MIL = 3
+		adm = 3
+		dip = 3
+		mil = 3
 	}
 }
 
@@ -413,9 +413,9 @@ religious_school = maliki_school
 		birth_date = 1650.1.1
 		death_date = 1698.1.1
 		claim = 95
-		ADM = 1
-		DIP = 3
-		MIL = 2
+		adm = 1
+		dip = 3
+		mil = 2
 	}
 }
 
@@ -423,9 +423,9 @@ religious_school = maliki_school
 	monarch = {
 		name = "Ramadan"
 		dynasty = "Muradid"
-		ADM = 1
-		DIP = 3
-		MIL = 2
+		adm = 1
+		dip = 3
+		mil = 2
 	}
 }
 
@@ -437,9 +437,9 @@ religious_school = maliki_school
 		birth_date = 1680.1.1
 		death_date = 1702.1.1
 		claim = 95
-		ADM = 2
-		DIP = 2
-		MIL = 2
+		adm = 2
+		dip = 2
+		mil = 2
 	}
 }
 
@@ -447,9 +447,9 @@ religious_school = maliki_school
 	monarch = {
 		name = "Murad III"
 		dynasty = "Muradid"
-		ADM = 2
-		DIP = 2
-		MIL = 2
+		adm = 2
+		dip = 2
+		mil = 2
 	}
 }
 
@@ -461,9 +461,9 @@ religious_school = maliki_school
 		birth_date = 1680.1.1
 		death_date = 1705.1.1
 		claim = 95
-		ADM = 3
-		DIP = 2
-		MIL = 2
+		adm = 3
+		dip = 2
+		mil = 2
 	}
 }
 
@@ -471,9 +471,9 @@ religious_school = maliki_school
 	monarch = {
 		name = "Ibrahim"
 		dynasty = "Muradid"
-		ADM = 3
-		DIP = 2
-		MIL = 2
+		adm = 3
+		dip = 2
+		mil = 2
 	}
 }
 
@@ -485,9 +485,9 @@ religious_school = maliki_school
 		birth_date = 1680.1.1
 		death_date = 1705.6.15
 		claim = 95
-		ADM = 2
-		DIP = 3
-		MIL = 2
+		adm = 2
+		dip = 3
+		mil = 2
 	}
 }
 
@@ -495,9 +495,9 @@ religious_school = maliki_school
 	monarch = {
 		name = "Umar"
 		dynasty = "Muradid"
-		ADM = 2
-		DIP = 3
-		MIL = 2
+		adm = 2
+		dip = 3
+		mil = 2
 	}
 }
 
@@ -505,9 +505,9 @@ religious_school = maliki_school
 	monarch = {
 		name = "Husayn"
 		dynasty = "Husainid"
-		ADM = 1
-		DIP = 1
-		MIL = 1
+		adm = 1
+		dip = 1
+		mil = 1
 	}
 }
 
@@ -519,9 +519,9 @@ religious_school = maliki_school
 		birth_date = 1688.6.30
 		death_date = 1756.9.22
 		claim = 95
-		ADM = 1
-		DIP = 3
-		MIL = 3
+		adm = 1
+		dip = 3
+		mil = 3
 	}
 }
 
@@ -529,9 +529,9 @@ religious_school = maliki_school
 	monarch = {
 		name = "Abu"
 		dynasty = "Husainid"
-		ADM = 1
-		DIP = 3
-		MIL = 3
+		adm = 1
+		dip = 3
+		mil = 3
 	}
 }
 
@@ -543,9 +543,9 @@ religious_school = maliki_school
 		birth_date = 1710.1.1
 		death_date = 1759.2.12
 		claim = 95
-		ADM = 2
-		DIP = 2
-		MIL = 3
+		adm = 2
+		dip = 2
+		mil = 3
 	}
 }
 
@@ -553,9 +553,9 @@ religious_school = maliki_school
 	monarch = {
 		name = "Muhammad"
 		dynasty = "Husainid"
-		ADM = 2
-		DIP = 2
-		MIL = 3
+		adm = 2
+		dip = 2
+		mil = 3
 	}
 }
 
@@ -567,9 +567,9 @@ religious_school = maliki_school
 		birth_date = 1712.11.24
 		death_date = 1782.5.26
 		claim = 95
-		ADM = 4
-		DIP = 3
-		MIL = 2
+		adm = 4
+		dip = 3
+		mil = 2
 	}
 }
 
@@ -577,9 +577,9 @@ religious_school = maliki_school
 	monarch = {
 		name = "Ali"
 		dynasty = "Husainid"
-		ADM = 4
-		DIP = 3
-		MIL = 2
+		adm = 4
+		dip = 3
+		mil = 2
 	}
 }
 
@@ -591,9 +591,9 @@ religious_school = maliki_school
 		birth_date = 1759.5.26
 		death_date = 1814.9.15
 		claim = 95
-		ADM = 2
-		DIP = 2
-		MIL = 2
+		adm = 2
+		dip = 2
+		mil = 2
 	}
 }
 
@@ -601,9 +601,9 @@ religious_school = maliki_school
 	monarch = {
 		name = "Hammuda"
 		dynasty = "Husainid"
-		ADM = 2
-		DIP = 2
-		MIL = 2
+		adm = 2
+		dip = 2
+		mil = 2
 	}
 }
 
@@ -615,9 +615,9 @@ religious_school = maliki_school
 		birth_date = 1784.3.5
 		death_date = 1814.12.20
 		claim = 95
-		ADM = 1
-		DIP = 1
-		MIL = 1
+		adm = 1
+		dip = 1
+		mil = 1
 	}
 }
 
@@ -625,9 +625,9 @@ religious_school = maliki_school
 	monarch = {
 		name = "Uthman"
 		dynasty = "Husainid"
-		ADM = 1
-		DIP = 1
-		MIL = 1
+		adm = 1
+		dip = 1
+		mil = 1
 	}
 }
 
@@ -635,9 +635,9 @@ religious_school = maliki_school
 	monarch = {
 		name = "Mahmud"
 		dynasty = "Husainid"
-		ADM = 2
-		DIP = 2
-		MIL = 2
+		adm = 2
+		dip = 2
+		mil = 2
 	}
 }
 
@@ -649,9 +649,9 @@ religious_school = maliki_school
 		birth_date = 1784.3.5
 		death_date = 1835.5.20
 		claim = 95
-		ADM = 1
-		DIP = 3
-		MIL = 2
+		adm = 1
+		dip = 3
+		mil = 2
 	}
 }
 

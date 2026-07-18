@@ -1,7 +1,7 @@
 #524 - Central Doab
-owner = DLH
-controller = DLH
-culture = kanauji
+owner = BIL
+controller = BIL
+culture = braj
 religion = hinduism
 capital = "Mathura"
 trade_goods = silk
@@ -10,7 +10,6 @@ base_production = 10
 base_manpower = 4
 add_brahmins_or_church_effect = yes
 is_city = yes
-add_core = DLH
 add_core = JNP
 discovered_by = indian
 discovered_by = muslim
@@ -24,4 +23,5 @@ discovered_by = uralic_group
 discovered_by = chinese
 extra_cost = 16
 center_of_trade = 2
+add_core = BIL
 fort_15th = yes

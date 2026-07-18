@@ -12,9 +12,9 @@ capital = 4454	# Porbandar
 	monarch = {
 		name = "Sanghji"
 		dynasty = "Jethwa"
-		ADM = 3
-		DIP = 2
-		MIL = 3
+		adm = 3
+		dip = 2
+		mil = 3
 	}
 }
 
@@ -22,9 +22,9 @@ capital = 4454	# Porbandar
 	monarch = {
 		name = "Bhanji"
 		dynasty = "Jethwa"
-		ADM = 2
-		DIP = 2
-		MIL = 3
+		adm = 2
+		dip = 2
+		mil = 3
 	}
 }
 
@@ -32,9 +32,9 @@ capital = 4454	# Porbandar
 	monarch = {
 		name = "Ranoji"
 		dynasty = "Jethwa"
-		ADM = 3
-		DIP = 3
-		MIL = 3
+		adm = 3
+		dip = 3
+		mil = 3
 	}
 }
 
@@ -42,9 +42,9 @@ capital = 4454	# Porbandar
 	monarch = {
 		name = "Khimaji I"
 		dynasty = "Jethwa"
-		ADM = 3
-		DIP = 2
-		MIL = 3
+		adm = 3
+		dip = 2
+		mil = 3
 	}
 }
 
@@ -52,9 +52,9 @@ capital = 4454	# Porbandar
 	monarch = {
 		name = "Ramdevji IV"
 		dynasty = "Jethwa"
-		ADM = 2
-		DIP = 2
-		MIL = 3
+		adm = 2
+		dip = 2
+		mil = 3
 	}
 }
 
@@ -62,9 +62,9 @@ capital = 4454	# Porbandar
 	monarch = {
 		name = "Khimaji II"
 		dynasty = "Jethwa"
-		ADM = 2
-		DIP = 2
-		MIL = 1
+		adm = 2
+		dip = 2
+		mil = 1
 	}
 }
 
@@ -72,9 +72,9 @@ capital = 4454	# Porbandar
 	monarch = {
 		name = "Vikmatji"
 		dynasty = "Jethwa"
-		ADM = 2
-		DIP = 3
-		MIL = 2
+		adm = 2
+		dip = 3
+		mil = 2
 	}
 }
 
@@ -82,9 +82,9 @@ capital = 4454	# Porbandar
 	monarch = {
 		name = "Khimaji III"
 		dynasty = "Jethwa"
-		ADM = 2
-		DIP = 3
-		MIL = 1
+		adm = 2
+		dip = 3
+		mil = 1
 	}
 }
 
@@ -92,9 +92,9 @@ capital = 4454	# Porbandar
 	monarch = {
 		name = "Bhimsimhji"
 		dynasty = "Jethwa"
-		ADM = 2
-		DIP = 1
-		MIL = 2
+		adm = 2
+		dip = 1
+		mil = 2
 	}
 }
 
@@ -102,9 +102,9 @@ capital = 4454	# Porbandar
 	monarch = {
 		name = "Khimaji IV"
 		dynasty = "Jethwa"
-		ADM = 2
-		DIP = 2
-		MIL = 2
+		adm = 2
+		dip = 2
+		mil = 2
 	}
 }
 
@@ -112,9 +112,9 @@ capital = 4454	# Porbandar
 	monarch = {
 		name = "Vikmatji III"
 		dynasty = "Jethwa"
-		ADM = 2
-		DIP = 1
-		MIL = 1
+		adm = 2
+		dip = 1
+		mil = 1
 	}
 }
 
@@ -122,9 +122,9 @@ capital = 4454	# Porbandar
 	monarch = {
 		name = "Sartanji Vikmatji"
 		dynasty = "Jethwa"
-		ADM = 3
-		DIP = 2
-		MIL = 2
+		adm = 3
+		dip = 2
+		mil = 2
 	}
 }
 
@@ -132,8 +132,8 @@ capital = 4454	# Porbandar
 	monarch = {
 		name = "Khimojiraj Haloji"
 		dynasty = "Jethwa"
-		ADM = 2
-		DIP = 3
-		MIL = 2
+		adm = 2
+		dip = 3
+		mil = 2
 	}
 }

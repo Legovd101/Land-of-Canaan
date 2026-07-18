@@ -1,8 +1,8 @@
 #540 - Coromandel 
-owner = VIJ
-controller = VIJ
+owner = HOY
+controller = HOY
 culture = tamil
-religion = hinduism
+religion = jain
 capital = "Kuddaluru"
 trade_goods = carpet
 base_tax = 4
@@ -10,7 +10,6 @@ base_production = 4
 base_manpower = 3
 is_city = yes
 add_vaisyas_or_burghers_effect = yes
-add_core = VIJ
 add_core = MAD
 add_core = GNG
 add_local_autonomy = 25
@@ -25,3 +24,4 @@ discovered_by = uralic_group
 discovered_by = chinese
 extra_cost = 16
 center_of_trade = 2
+add_core = HOY

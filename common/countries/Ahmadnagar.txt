@@ -27,82 +27,71 @@ historical_units = {
 	sikh_rifle
 	tipu_sultan_rocket
 }
-monarch_names = { 
-	"Husayn #0" = 20
-	"Murtaza #0" = 20
-	"Maran Husayn #1" = 20
-	"Isma'il #0" = 20
-	"Burhan #1" = 20
-	"Ibrahim #0" = 20
-	"Ahmad #0" = 20
-	"Bahadur #0" = 20
-	"Annam #0" = 20
-	"Hamir #0" = 20
-	"Malik #0" = 0
-	"Sa'adat #0" = 0
-	"Raju #0" = 0
-	"Fath #0" = 0
-	"Abhang #0" = 0
-	"Miran #0" = 0
-	"Afzal #0" = 0
-	"Chengiz #0" = 0
-	"Mullah Mohammad #0" = 0
-	"Hafiz #0" = 0
-	"Hamza #0" = 0
-	"Hamid #0" = 0
-	"Qasim #0" = 0
-	"Mustafa #0" = 0
-	"Hassan #0" = 0
-	"Dilawar Khan #0" = 0
-	"Jahan #0" = 0
-	"Farrukh #0" = 0
-	"Jalal #0" = 0
-	"Sultan #0" = 0
-	"Mahmud #0" = 0
-	"Hanif #0" = 0
-	"Imad al-Mulk #0" = 0
-	"Iftikhar al-Mulk #0" = 0
-	"Nasir #0" = 0
-	"'Abd Allah #0" = 0
-	"Rustam #0" = 0
-	"Shams #0" = 0
-	"Khwaja #0" = 0
-	"Khusrau #0" = 0
-	"Chand Bibi #0" = -10
-	"Ahmadi #0" = -1
-	"Mumtaz #0" = -1
-	"Malika #0" = -1
+monarch_names = {
+	"Shivaji #0" = 100
+	"Shahaji #0" = 60
+	"Sambhaji #0" = 40
+	"Rajaram #0" = 40
+	"Maloji #0" = 20
+	"Venkoji #0" = 20
+	"Jijabai #0" = -20
+	"Shahu #0" = 20
+	"Shivaji #0 Shahaji" = 10
+	"Tarabai #0" = -10
+	"Pratapsingh #0" = 10
+	"Sambhaji #0 Rajaram" = 10
+	"Ramchandra #0" = 10
+	"Yesaji #0" = 10
+	"Santaji #0" = 5
+	"Dhanaji #0" = 5
+	"Raghuji #0" = 1
+	"Khanderao #0" = 0
+	"Mahadji #0" = 0
+	"Bajirao #0" = 1
+	"Balaji #0" = 0
+	"Madhavrao #0" = 0
+	"Nanasaheb #0" = 0
+	"Trimbakrao #0" = 0
+	"Murarrao #0" = 0
+	"Parshuram #0" = 0
+	"Haripant #0" = 0
+	"Krishnaji #0" = 0
+	"Narayanrao #0" = 0
+	"Ranoji #0" = 0
+	"Tukoji #0" = 0
+	"Malharrao #0" = 0
+	"Yashwantrao #0" = 0
+	"Appasaheb #0" = 0
+	"Chimaji #0" = 0
+	"Viswasrao #0" = 0
+	"Gangadhar #0" = 0
+	"Govindrao #0" = 0
+	"Anandrao #0" = 0
+	"Shripatrao #0" = 0
+	"Janardan #0" = 0
+	"Raghunathrao #0" = 0
+	"Gangabai #0" = -10
+	"Kashibai #0" = -10
+	"Ahilyabai #0" = -1
 }
-leader_names = { 
-	Ambar
-	Badakshi
-	Bukhari
-	Changezi
-	Gilani
-	Hasanabadi
-	Jurjani
-	Kabuli
-	Kirmani
-	Qummi
-	Uzbek
-	Basri
-	Astarabadi
-	Gawan
-	Ardastani
-	Majmudar
-	Munshi
-	Muzzafar
-	Kudha
-	Banda
-	Parikh
-	Maloji
-	Shahji
-	Bhosle
-	Khan
-	Dakhni
+
+leader_names = {
+	Shivaji Shahaji Sambhaji Rajaram Shahu Bajirao Balaji
+	Madhavrao Raghunathrao Malharrao Tukoji Ranoji Mahadji
+	Santaji Dhanaji Yesaji Murarrao Trimbakrao Haripant
+	Krishnaji Govindrao Janardan Appasaheb Chimaji
+	Parshuram Narayanrao Viswasrao Yashwantrao Shripatrao
 }
-ship_names = { 
-	Alia Arusa Bori Fatimah Jalsena Girna "Kala Jahazi" Khan "Lal Jahazi" Narmada
-	Nausena "Nav ka Yudh" Niknaz "Nila Jahazi" Niloufa Noor Panjhra Sagar Salima Shameena
-	Suhalia Tapi Yasmine Zahira 
+
+ship_names = {
+	Sindhudurg Vijaydurg Raigad Pratapgad Rajgad Torna
+	Sinhagad Purandar Panhala Shivneri Lohagad
+	Bhavani Tulja Bhavani Jagadamba Mahalakshmi
+	Sahyadri Konkan Godavari Krishna Bhima Narmada
+	Maratha Swarajya Hindavi Swarajya
+	Garuda Simha Vyaghra Vajra
+	Shivaji Raigad
+	Maharashtra Sahyadri
+	Konkan Bhavani
+	
 }

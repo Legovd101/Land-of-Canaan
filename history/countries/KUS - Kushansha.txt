@@ -1,7 +1,8 @@
 capital = 504
 technology_group = iranic_group
 government_rank = 1
-religion = pyrrhonism
+religion = vajrapana
+secondary_religion = pyrrhonism
 primary_culture = kushan
 government = monarchy
 add_government_reform = feudalism_reform

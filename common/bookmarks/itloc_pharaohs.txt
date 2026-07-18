@@ -1,0 +1,12 @@
+bookmark = {
+	name = "LAND_OF_THE_PHARAOHS"
+	desc = "LAND_OF_THE_PHARAOHS_DESC"
+	date = "1444.11.11"
+	center = 358
+	country = QES
+	country = CYR
+	country = AMK
+	country = MNP
+	country = TST
+	easy_country = QES
+}

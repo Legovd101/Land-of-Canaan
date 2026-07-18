@@ -585,6 +585,81 @@
 3308 = { "Gárama" "Gárama" } # Germa
 2474 = { "Empéris" "Empéris" } # "Desert Merchants"
 
+## Western India
+
+# Tapti
+4430 = { "Dáman" "Dáman" } # Daman
+2036 = { "Radanápolis" "Radanápolis" } # Ratnpur/Mulher/Mayurnagari
+517 = { "Neápolis ton Táphti" "Neápolis ton Táphti" } # "Neapolis on the Tapti"
+
+# Khandesh
+4434 = { "Tharángion" "Tharángion" } # Dharangaon
+4453 = { "Thaliápolis ton Indía" "Thaliápolis ton Indía" } # Thalner
+527 = { "Boranópolis" "Boranópolis" } # Burhanpur
+
+# Malwa
+2056 = { "Kampáneia" "Kampáneia" } # Champaner
+2093 = { "Dassíopolis" "Dassíopolis" } # Mandsaur/Dashapur
+526 = { "Mandávia" "Mandávia" } # Mandapa/Mandu
+4461 = { "Ozíni" "Ozíni" } # Ujjain
+2057 = { "Heliódoropolis" "Heliódoropolis" } # Heliodorus
+
+# Aienapolis
+2054 = { "Aineápolis" "Aineápolis" } # "City of Aeneas"
+2051 = { "Panchóra" "Panchóra" } # Bhavnagar
+516 = { "Akóta" "Akóta" } # Akota
+4512 = { "Barýgaza" "Barýgaza" } # Bharuch
+4457 = { "Kamaneápolis" "Kamaneápolis" } # Camanes/Khambhat
+
+# Sýrastrene
+2052 = { "Chaládis" "Chaládis" } # Halar/Halaji
+521 = { "Basiléia" "Basiléia" } # "King's Place"
+515 = { "Gymnóros" "Gymnóros" } # "Gymnosophist Mountain"
+4454 = { "Pouro Límen" "Pouro Límen" } # "Son's Port"
+4455 = { "Díopolis" "Díopolis" } # Diu
+
+# Kácha
+2053 = { "Aniémis" "Aniémis" } # "Let Go"
+503 = { "Kácha" "Kácha" } # Kutch
+4480 = { "Elúa" "Elúa" } # Ilvadurg
+4456 = { "Galápolis" "Galápolis" } # "Jhala City"
+
+# Mewar
+2058 = { "Médipath" "Médipath" } # Mewar
+2087 = { "Angimár" "Angimár" } # Ajmer
+518 = { "Kétrakora" "Kétrakora" } # Chittor
+4501 = { "Kermápolis" "Kermápolis" } # "Coin City"
+4462 = { "Bíllopolis" "Bíllopolis" } # "Bhil City"
+
+# Jaipur
+2064 = { "Keposséka" "Keposséka" } # "Seka's Garden"
+520 = { "Salíba" "Salíba" } # Salva
+519 = { "Améria" "Améria" } # Amer
+4500 = { "Indiápolis" "Indiápolis" } # "India City"
+
+# Jangladesh
+2066 = { "Angára" "Angára" } # Nagaur
+4507 = { "Choúra" "Choúra" } # Churu
+512 = { "Ángelodessa" "Ángelodessa" } # Jangladesh
+4502 = { "Madána" "Madána" } # Merta
+
+# Marwar
+2067 = { "Goára" "Goára" } # "Gaur"
+513 = { "Desidéreia" "Desidéreia" } # Churu
+514 = { "Marobára" "Marobára" } # Marwar
+4506 = { "Róapolis" "Róapolis" } # "Pomegranate City"
+
+# Northern Sindh
+2072 = { "Basileía ton Índos" "Basileía ton Índos" } # "Gaur"
+505 = { "Sindomána" "Sindomána" } # Sehwar
+4505 = { "Kallória" "Kallória" } # Kalhora
+
+# Southern Sindh
+2088 = { "Nikópolis" "Nikópolis" } # "Victory City"
+504 = { "Pathtála" "Pathtála" } # Patala/Thatta
+4503 = { "Nikaía" "Nikaía" } # "Victory"
+4504 = { "Nisiroúpolis" "Nisiroúpolis" } # Naserpur
+
 
 285 = "Theodosia"
 340 = "Constantina"

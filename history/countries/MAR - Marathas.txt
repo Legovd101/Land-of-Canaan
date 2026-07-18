@@ -11,9 +11,9 @@ capital = 1946	# Satara
 	monarch = {
 		name = "Shivaji I"
 		dynasty = "Bhonsle"
-		ADM = 4
-		DIP = 4
-		MIL = 6
+		adm = 4
+		dip = 4
+		mil = 6
 	}
 }
 
@@ -25,9 +25,9 @@ capital = 1946	# Satara
 		birth_date = 1657.5.14
 		death_date = 1689.3.11
 		claim = 95
-		ADM = 2
-		DIP = 2
-		MIL = 4
+		adm = 2
+		dip = 2
+		mil = 4
 	}
 }
 
@@ -43,9 +43,9 @@ capital = 1946	# Satara
 	monarch = {
 		name = "Shambaji"
 		dynasty = "Bhonsle"
-		ADM = 2
-		DIP = 2
-		MIL = 4
+		adm = 2
+		dip = 2
+		mil = 4
 	}
 }
 
@@ -57,9 +57,9 @@ capital = 1946	# Satara
 		birth_date = 1670.1.1
 		death_date = 1700.3.12
 		claim = 95
-		ADM = 3
-		DIP = 2
-		MIL = 4
+		adm = 3
+		dip = 2
+		mil = 4
 	}
 }
 
@@ -67,9 +67,9 @@ capital = 1946	# Satara
 	monarch = {
 		name = "Rajaram I"
 		dynasty = "Bhonsle"
-		ADM = 3
-		DIP = 2
-		MIL = 4
+		adm = 3
+		dip = 2
+		mil = 4
 	}
 }
 
@@ -81,9 +81,9 @@ capital = 1946	# Satara
 		birth_date = 1682.1.1
 		death_date = 1749.1.1
 		claim = 95
-		ADM = 5
-		DIP = 1
-		MIL = 3
+		adm = 5
+		dip = 1
+		mil = 3
 	}
 }
 
@@ -91,9 +91,9 @@ capital = 1946	# Satara
 	monarch = {
 		name = "Shivaji II"
 		dynasty = "Bhonsle"
-		ADM = 5
-		DIP = 1
-		MIL = 3
+		adm = 5
+		dip = 1
+		mil = 3
 	}
 }
 
@@ -105,9 +105,9 @@ capital = 1946	# Satara
 		birth_date = 1680.1.1
 		death_date = 1713.11.6
 		claim = 95
-		ADM = 3
-		DIP = 1
-		MIL = 1
+		adm = 3
+		dip = 1
+		mil = 1
 	}
 }
 		
@@ -115,9 +115,9 @@ capital = 1946	# Satara
 	monarch = {
 		name = "Sahuji I"
 		dynasty = "Bhonsle"
-		ADM = 3
-		DIP = 1
-		MIL = 1
+		adm = 3
+		dip = 1
+		mil = 1
 	}
 }
 
@@ -128,9 +128,9 @@ capital = 1946	# Satara
 	monarch = {
 		name = "Balaji I Vishvanath"
 		dynasty = "Bhat"
-		ADM = 4
-		DIP = 5
-		MIL = 3
+		adm = 4
+		dip = 5
+		mil = 3
 	}
 }
 
@@ -142,9 +142,9 @@ capital = 1946	# Satara
 		birth_date = 1699.8.18
 		death_date = 1740.4.28
 		claim = 95
-		ADM = 3
-		DIP = 6
-		MIL = 5
+		adm = 3
+		dip = 6
+		mil = 5
 	}
 }
 
@@ -152,9 +152,9 @@ capital = 1946	# Satara
 	monarch = {
 		name = "Baji Rao I"
 		dynasty = "Bhat"
-		ADM = 3
-		DIP = 6
-		MIL = 5
+		adm = 3
+		dip = 6
+		mil = 5
 	}
 }
 
@@ -166,9 +166,9 @@ capital = 1946	# Satara
 		birth_date = 1720.1.1
 		death_date = 1761.6.23
 		claim = 95
-		ADM = 4
-		DIP = 4
-		MIL = 4
+		adm = 4
+		dip = 4
+		mil = 4
 	}
 }
 
@@ -176,9 +176,9 @@ capital = 1946	# Satara
 	monarch = {
 		name = "Balaji II Baji Rao"
 		dynasty = "Bhat"
-		ADM = 4
-		DIP = 4
-		MIL = 4
+		adm = 4
+		dip = 4
+		mil = 4
 	}
 }
 
@@ -190,9 +190,9 @@ capital = 1946	# Satara
 		birth_date = 1745.2.15
 		death_date = 1772.11.18
 		claim = 95
-		ADM = 4
-		DIP = 2
-		MIL = 3
+		adm = 4
+		dip = 2
+		mil = 3
 	}
 }
 
@@ -200,9 +200,9 @@ capital = 1946	# Satara
 	monarch = {
 		name = "Madhu Rao I Balai"
 		dynasty = "Bhat"
-		ADM = 4
-		DIP = 2
-		MIL = 3
+		adm = 4
+		dip = 2
+		mil = 3
 	}
 }
 
@@ -214,9 +214,9 @@ capital = 1946	# Satara
 		birth_date = 1759.1.1
 		death_date = 1773.1.1
 		claim = 95
-		ADM = 0
-		DIP = 1
-		MIL = 0
+		adm = 0
+		dip = 1
+		mil = 0
 	}
 }
 
@@ -224,9 +224,9 @@ capital = 1946	# Satara
 	monarch = {
 		name = "Narayan Rao"
 		dynasty = "Bhat"
-		ADM = 0
-		DIP = 1
-		MIL = 0
+		adm = 0
+		dip = 1
+		mil = 0
 	}
 }
 
@@ -238,9 +238,9 @@ capital = 1946	# Satara
 		birth_date = 1750.1.1
 		death_date = 1782.5.17
 		claim = 95
-		ADM = 0
-		DIP = 0
-		MIL = 2
+		adm = 0
+		dip = 0
+		mil = 2
 	}
 }
 
@@ -248,9 +248,9 @@ capital = 1946	# Satara
 	monarch = {
 		name = "Ragunath Rao"
 		dynasty = "Bhat"
-		ADM = 0
-		DIP = 0
-		MIL = 2
+		adm = 0
+		dip = 0
+		mil = 2
 	}
 }
 
@@ -262,9 +262,9 @@ capital = 1946	# Satara
 		birth_date = 1760.1.1
 		death_date = 1796.1.1
 		claim = 95
-		ADM = 0
-		DIP = 1
-		MIL = 1
+		adm = 0
+		dip = 1
+		mil = 1
 	}
 }
 
@@ -272,9 +272,9 @@ capital = 1946	# Satara
 	monarch = {
 		name = "Madhu Rao II"
 		dynasty = "Bhat"
-		ADM = 0
-		DIP = 1
-		MIL = 1
+		adm = 0
+		dip = 1
+		mil = 1
 	}
 }
 
@@ -286,9 +286,9 @@ capital = 1946	# Satara
 		birth_date = 1760.1.1
 		death_date = 1808.1.1
 		claim = 95
-		ADM = 2
-		DIP = 2
-		MIL = 1
+		adm = 2
+		dip = 2
+		mil = 1
 	}
 }
 
@@ -296,9 +296,9 @@ capital = 1946	# Satara
 	monarch = {
 		name = "Baji Rao"
 		dynasty = "Bhat"
-		ADM = 2
-		DIP = 2
-		MIL = 1
+		adm = 2
+		dip = 2
+		mil = 1
 	}
 }
 
@@ -310,8 +310,8 @@ add_government_reform = feudalism_reform
 	monarch = {
 		name = "Pratap Singh"
 		dynasty = "Bhonsle"
-		ADM = 3
-		DIP = 1
-		MIL = 2
+		adm = 3
+		dip = 1
+		mil = 2
 	}
 }

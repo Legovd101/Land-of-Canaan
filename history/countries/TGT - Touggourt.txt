@@ -19,9 +19,9 @@ religious_school = maliki_school
 	monarch = {
 		name = "Mubarak"
 		dynasty = "Beni Djellab"
-		ADM = 2
-		DIP = 1
-		MIL = 2
+		adm = 2
+		dip = 1
+		mil = 2
 	}
 }
 
@@ -33,9 +33,9 @@ religious_school = maliki_school
 		birth_date = 1410.1.1
 		death_date = 1472.1.1
 		claim = 95
-		ADM = 2
-		DIP = 3
-		MIL = 2
+		adm = 2
+		dip = 3
+		mil = 2
 	}
 }
 
@@ -43,9 +43,9 @@ religious_school = maliki_school
 	monarch = {
 		name = "Ali III"
 		dynasty = "Beni Djellab"
-		ADM = 2
-		DIP = 3
-		MIL = 2
+		adm = 2
+		dip = 3
+		mil = 2
 	}
 }
 
@@ -57,9 +57,9 @@ religious_school = maliki_school
 		birth_date = 1430.1.1
 		death_date = 1493.1.1
 		claim = 95
-		ADM = 2
-		DIP = 2
-		MIL = 3
+		adm = 2
+		dip = 2
+		mil = 3
 	}
 }
 
@@ -67,9 +67,9 @@ religious_school = maliki_school
 	monarch = {
 		name = "Mustafa"
 		dynasty = "Beni Djellab"
-		ADM = 2
-		DIP = 2
-		MIL = 3
+		adm = 2
+		dip = 2
+		mil = 3
 	}
 }
 
@@ -81,9 +81,9 @@ religious_school = maliki_school
 		birth_date = 1450.1.1
 		death_date = 1525.1.1
 		claim = 95
-		ADM = 3
-		DIP = 2
-		MIL = 3
+		adm = 3
+		dip = 2
+		mil = 3
 	}
 }
 
@@ -91,9 +91,9 @@ religious_school = maliki_school
 	monarch = {
 		name = "Sulayman III"
 		dynasty = "Beni Djellab"
-		ADM = 3
-		DIP = 2
-		MIL = 3
+		adm = 3
+		dip = 2
+		mil = 3
 	}
 }
 
@@ -105,9 +105,9 @@ religious_school = maliki_school
 		birth_date = 1470.1.1
 		death_date = 1550.1.1
 		claim = 95
-		ADM = 2
-		DIP = 1
-		MIL = 2
+		adm = 2
+		dip = 1
+		mil = 2
 	}
 }
 
@@ -115,9 +115,9 @@ religious_school = maliki_school
 	monarch = {
 		name = "Ahmad II"
 		dynasty = "Beni Djellab"
-		ADM = 2
-		DIP = 1
-		MIL = 2
+		adm = 2
+		dip = 1
+		mil = 2
 	}
 }
 
@@ -129,9 +129,9 @@ religious_school = maliki_school
 		birth_date = 1520.1.1
 		death_date = 1590.1.1
 		claim = 95
-		ADM = 2
-		DIP = 2
-		MIL = 2
+		adm = 2
+		dip = 2
+		mil = 2
 	}
 }
 
@@ -139,9 +139,9 @@ religious_school = maliki_school
 	monarch = {
 		name = "Muhammad al-`Akhal"
 		dynasty = "Beni Djellab"
-		ADM = 2
-		DIP = 2
-		MIL = 2
+		adm = 2
+		dip = 2
+		mil = 2
 	}
 }
 
@@ -153,9 +153,9 @@ religious_school = maliki_school
 		birth_date = 1550.1.1
 		death_date = 1640.1.1
 		claim = 95
-		ADM = 2
-		DIP = 1
-		MIL = 1
+		adm = 2
+		dip = 1
+		mil = 1
 	}
 }
 
@@ -163,9 +163,9 @@ religious_school = maliki_school
 	monarch = {
 		name = "Ahmad IV"
 		dynasty = "Beni Djellab"
-		ADM = 2
-		DIP = 1
-		MIL = 1
+		adm = 2
+		dip = 1
+		mil = 1
 	}
 }
 
@@ -177,9 +177,9 @@ religious_school = maliki_school
 		birth_date = 1590.1.1
 		death_date = 1680.1.1
 		claim = 95
-		ADM = 2
-		DIP = 2
-		MIL = 2
+		adm = 2
+		dip = 2
+		mil = 2
 	}
 }
 
@@ -187,9 +187,9 @@ religious_school = maliki_school
 	monarch = {
 		name = "Farhat"
 		dynasty = "Beni Djellab"
-		ADM = 2
-		DIP = 2
-		MIL = 2
+		adm = 2
+		dip = 2
+		mil = 2
 	}
 }
 
@@ -201,9 +201,9 @@ religious_school = maliki_school
 		birth_date = 1665.1.1
 		death_date = 1750.1.1
 		claim = 95
-		ADM = 3
-		DIP = 3
-		MIL = 1
+		adm = 3
+		dip = 3
+		mil = 1
 	}
 }
 
@@ -211,9 +211,9 @@ religious_school = maliki_school
 	monarch = {
 		name = "Ibrahim"
 		dynasty = "Beni Djellab"
-		ADM = 2
-		DIP = 2
-		MIL = 2
+		adm = 2
+		dip = 2
+		mil = 2
 	}
 }
 
@@ -225,9 +225,9 @@ religious_school = maliki_school
 		birth_date = 1665.1.1
 		death_date = 1750.1.1
 		claim = 95
-		ADM = 3
-		DIP = 3
-		MIL = 1
+		adm = 3
+		dip = 3
+		mil = 1
 	}
 }
 
@@ -235,9 +235,9 @@ religious_school = maliki_school
 	monarch = {
 		name = "Abd al-Qadir Ahmad"
 		dynasty = "Beni Djellab"
-		ADM = 3
-		DIP = 3
-		MIL = 1
+		adm = 3
+		dip = 3
+		mil = 1
 	}
 }
 
@@ -245,9 +245,9 @@ religious_school = maliki_school
 	monarch = {
 		name = "Khalid"
 		dynasty = "Beni Djellab"
-		ADM = 1
-		DIP = 3
-		MIL = 1
+		adm = 1
+		dip = 3
+		mil = 1
 	}
 }
 
@@ -255,9 +255,9 @@ religious_school = maliki_school
 	monarch = {
 		name = "Abd al-Qadir Ahmad"
 		dynasty = "Beni Djellab"
-		ADM = 3
-		DIP = 3
-		MIL = 1
+		adm = 3
+		dip = 3
+		mil = 1
 	}
 }
 
@@ -269,9 +269,9 @@ religious_school = maliki_school
 		birth_date = 1677.1.1
 		death_date = 1759.1.1
 		claim = 95
-		ADM = 1
-		DIP = 1
-		MIL = 1
+		adm = 1
+		dip = 1
+		mil = 1
 	}
 }
 
@@ -279,9 +279,9 @@ religious_school = maliki_school
 	monarch = {
 		name = "Umar bin Kumetin"
 		dynasty = "Beni Djellab"
-		ADM = 1
-		DIP = 1
-		MIL = 1
+		adm = 1
+		dip = 1
+		mil = 1
 	}
 }
 
@@ -293,9 +293,9 @@ religious_school = maliki_school
 		birth_date = 1693.1.1
 		death_date = 1765.1.1
 		claim = 95
-		ADM = 1
-		DIP = 3
-		MIL = 3
+		adm = 1
+		dip = 3
+		mil = 3
 	}
 }
 
@@ -303,9 +303,9 @@ religious_school = maliki_school
 	monarch = {
 		name = "Muhammad II"
 		dynasty = "Beni Djellab"
-		ADM = 1
-		DIP = 3
-		MIL = 3
+		adm = 1
+		dip = 3
+		mil = 3
 	}
 }
 
@@ -317,8 +317,8 @@ religious_school = maliki_school
 		birth_date = 1694.1.1
 		death_date = 1766.1.1
 		claim = 95
-		ADM = 1
-		DIP = 2
+		adm = 1
+		dip = 2
 	}
 }
 
@@ -326,8 +326,8 @@ religious_school = maliki_school
 	monarch = {
 		name = "Umar bin Muhammad II"
 		dynasty = "Beni Djellab"
-		ADM = 1
-		DIP = 2
+		adm = 1
+		dip = 2
 	}
 }
 
@@ -339,9 +339,9 @@ religious_school = maliki_school
 		birth_date = 1710.1.1
 		death_date = 1778.1.1
 		claim = 95
-		ADM = 1
-		DIP = 2
-		MIL = 2
+		adm = 1
+		dip = 2
+		mil = 2
 	}
 }
 
@@ -349,9 +349,9 @@ religious_school = maliki_school
 	monarch = {
 		name = "Ahmad VI"
 		dynasty = "Beni Djellab"
-		ADM = 1
-		DIP = 2
-		MIL = 2
+		adm = 1
+		dip = 2
+		mil = 2
 	}
 }
 
@@ -363,9 +363,9 @@ religious_school = maliki_school
 		birth_date = 1726.1.1
 		death_date = 1782.1.1
 		claim = 95
-		ADM = 1
-		DIP = 2
-		MIL = 3
+		adm = 1
+		dip = 2
+		mil = 3
 	}
 }
 
@@ -373,9 +373,9 @@ religious_school = maliki_school
 	monarch = {
 		name = "Abd al-Kadir II"
 		dynasty = "Beni Djellab"
-		ADM = 1
-		DIP = 2
-		MIL = 3
+		adm = 1
+		dip = 2
+		mil = 3
 	}
 }
 
@@ -387,8 +387,8 @@ religious_school = maliki_school
 		birth_date = 1740.1.1
 		death_date = 1792.1.1
 		claim = 95
-		ADM = 1
-		MIL = 2
+		adm = 1
+		mil = 2
 	}
 }
 
@@ -396,8 +396,8 @@ religious_school = maliki_school
 	monarch = {
 		name = "Farhat II"
 		dynasty = "Beni Djellab"
-		ADM = 1
-		MIL = 2
+		adm = 1
+		mil = 2
 	}
 }
 
@@ -409,8 +409,8 @@ religious_school = maliki_school
 		birth_date = 1760.1.1
 		death_date = 1792.1.1
 		claim = 95
-		ADM = 2
-		MIL = 2
+		adm = 2
+		mil = 2
 	}
 }
 
@@ -418,8 +418,8 @@ religious_school = maliki_school
 	monarch = {
 		name = "Ibrahim II"
 		dynasty = "Beni Djellab"
-		ADM = 2
-		MIL = 2
+		adm = 2
+		mil = 2
 	}
 }
 
@@ -431,9 +431,9 @@ religious_school = maliki_school
 		birth_date = 1780.1.1
 		death_date = 1820.1.1
 		claim = 95
-		ADM = 4
-		DIP = 2
-		MIL = 1
+		adm = 4
+		dip = 2
+		mil = 1
 	}
 }
 
@@ -441,9 +441,9 @@ religious_school = maliki_school
 	monarch = {
 		name = "Muhammad III"
 		dynasty = "Beni Djellab"
-		ADM = 4
-		DIP = 2
-		MIL = 1
+		adm = 4
+		dip = 2
+		mil = 1
 	}
 }
 
@@ -455,9 +455,9 @@ religious_school = maliki_school
 		birth_date = 1800.1.1
 		death_date = 1830.1.1
 		claim = 95
-		ADM = 1
-		DIP = 1
-		MIL = 1
+		adm = 1
+		dip = 1
+		mil = 1
 	}
 }
 

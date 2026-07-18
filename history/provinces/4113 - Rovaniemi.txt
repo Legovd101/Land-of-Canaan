@@ -18,3 +18,4 @@ discovered_by = latin_group
 discovered_by = adventurer
 discovered_by = celtic_group
 add_core = FIN
+discovered_by = uralic_group

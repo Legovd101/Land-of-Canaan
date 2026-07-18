@@ -17,9 +17,9 @@ fixed_capital = 115
 1494.1.1 = {
 	monarch = {
 		name = "Simone Orlandi"
-		ADM = 2
-		DIP = 4
-		MIL = 2
+		adm = 2
+		dip = 4
+		mil = 2
 	}
 }
 

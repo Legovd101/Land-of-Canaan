@@ -12,9 +12,9 @@ fixed_capital = 2026 # Cannot move capital away from this province & no power co
 	monarch = {
 		name = "Sevappa"
 		dynasty = "Thanjavuri"
-		ADM = 3
-		DIP = 4
-		MIL = 3
+		adm = 3
+		dip = 4
+		mil = 3
 	}
 }
 
@@ -22,9 +22,9 @@ fixed_capital = 2026 # Cannot move capital away from this province & no power co
 	monarch = {
 		name = "Achuthappa"
 		dynasty = "Thanjavuri"
-		ADM = 3
-		DIP = 2
-		MIL = 2
+		adm = 3
+		dip = 2
+		mil = 2
 	}
 }
 
@@ -32,9 +32,9 @@ fixed_capital = 2026 # Cannot move capital away from this province & no power co
 	monarch = {
 		name = "Raghunatha"
 		dynasty = "Thanjavuri"
-		ADM = 1
-		DIP = 1
-		MIL = 3
+		adm = 1
+		dip = 1
+		mil = 3
 	}
 }
 
@@ -43,9 +43,9 @@ fixed_capital = 2026 # Cannot move capital away from this province & no power co
 	monarch = {
 		name = "Vijaya Raghava"
 		dynasty = "Thanjavuri"
-		ADM = 3
-		DIP = 2
-		MIL = 2
+		adm = 3
+		dip = 2
+		mil = 2
 	}
 }
 
@@ -53,9 +53,9 @@ fixed_capital = 2026 # Cannot move capital away from this province & no power co
 	monarch = {
 		name = "Alagiri"
 		dynasty = "Thanjavuri"
-		ADM = 3
-		DIP = 3
-		MIL = 3
+		adm = 3
+		dip = 3
+		mil = 3
 	}
 }
 

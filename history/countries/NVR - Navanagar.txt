@@ -12,9 +12,9 @@ capital = 2052	# Navanagar
 	monarch = {
 		name = "Ravalj Lakhaji"
 		dynasty = "Jadeja"
-		ADM = 2
-		DIP = 0
-		MIL = 1
+		adm = 2
+		dip = 0
+		mil = 1
 	}
 }
 
@@ -22,9 +22,9 @@ capital = 2052	# Navanagar
 	monarch = {
 		name = "Vibhaji Ravalji"
 		dynasty = "Jadeja"
-		ADM = 2
-		DIP = 0
-		MIL = 1
+		adm = 2
+		dip = 0
+		mil = 1
 	}
 }
 
@@ -32,9 +32,9 @@ capital = 2052	# Navanagar
 	monarch = {
 		name = "Sataji Vibhaji"
 		dynasty = "Jadeja"
-		ADM = 2
-		DIP = 0
-		MIL = 1
+		adm = 2
+		dip = 0
+		mil = 1
 	}
 }
 
@@ -42,9 +42,9 @@ capital = 2052	# Navanagar
 	monarch = {
 		name = "Jasaji Sataji"
 		dynasty = "Jadeja"
-		ADM = 2
-		DIP = 0
-		MIL = 1
+		adm = 2
+		dip = 0
+		mil = 1
 	}
 }
 
@@ -52,9 +52,9 @@ capital = 2052	# Navanagar
 	monarch = {
 		name = "Lakhaji Ajoji"
 		dynasty = "Jadeja"
-		ADM = 2
-		DIP = 0
-		MIL = 1
+		adm = 2
+		dip = 0
+		mil = 1
 	}
 }
 
@@ -62,9 +62,9 @@ capital = 2052	# Navanagar
 	monarch = {
 		name = "Ranmalji Lakhaji"
 		dynasty = "Jadeja"
-		ADM = 2
-		DIP = 0
-		MIL = 1
+		adm = 2
+		dip = 0
+		mil = 1
 	}
 }
 
@@ -72,9 +72,9 @@ capital = 2052	# Navanagar
 	monarch = {
 		name = "Rajsinhji I Ajoji"
 		dynasty = "Jadeja"
-		ADM = 2
-		DIP = 0
-		MIL = 1
+		adm = 2
+		dip = 0
+		mil = 1
 	}
 }
 
@@ -82,9 +82,9 @@ capital = 2052	# Navanagar
 	monarch = {
 		name = "Tamachi Rajsinhji"
 		dynasty = "Jadeja"
-		ADM = 2
-		DIP = 0
-		MIL = 1
+		adm = 2
+		dip = 0
+		mil = 1
 	}
 }
 
@@ -92,9 +92,9 @@ capital = 2052	# Navanagar
 	monarch = {
 		name = "Lakhaji II Tamachi"
 		dynasty = "Jadeja"
-		ADM = 2
-		DIP = 0
-		MIL = 1
+		adm = 2
+		dip = 0
+		mil = 1
 	}
 }
 
@@ -102,9 +102,9 @@ capital = 2052	# Navanagar
 	monarch = {
 		name = "Rajsinhji II Lakhaji"
 		dynasty = "Jadeja"
-		ADM = 2
-		DIP = 0
-		MIL = 1
+		adm = 2
+		dip = 0
+		mil = 1
 	}
 }
 
@@ -112,9 +112,9 @@ capital = 2052	# Navanagar
 	monarch = {
 		name = "Hardholji Lakhaji"
 		dynasty = "Jadeja"
-		ADM = 2
-		DIP = 0
-		MIL = 1
+		adm = 2
+		dip = 0
+		mil = 1
 	}
 }
 
@@ -122,9 +122,9 @@ capital = 2052	# Navanagar
 	monarch = {
 		name = "Tamachi Hardholji"
 		dynasty = "Jadeja"
-		ADM = 2
-		DIP = 0
-		MIL = 1
+		adm = 2
+		dip = 0
+		mil = 1
 	}
 }
 
@@ -132,9 +132,9 @@ capital = 2052	# Navanagar
 	monarch = {
 		name = "Lakhaji III Tamachi"
 		dynasty = "Jadeja"
-		ADM = 2
-		DIP = 0
-		MIL = 1
+		adm = 2
+		dip = 0
+		mil = 1
 	}
 }
 
@@ -142,9 +142,9 @@ capital = 2052	# Navanagar
 	monarch = {
 		name = "Jasaji Lakhaji"
 		dynasty = "Jadeja"
-		ADM = 2
-		DIP = 0
-		MIL = 1
+		adm = 2
+		dip = 0
+		mil = 1
 	}
 }
 
@@ -152,8 +152,8 @@ capital = 2052	# Navanagar
 	monarch = {
 		name = "Sataji Lakhaji"
 		dynasty = "Jadeja"
-		ADM = 2
-		DIP = 0
-		MIL = 1
+		adm = 2
+		dip = 0
+		mil = 1
 	}
 }

@@ -1,0 +1,13 @@
+bookmark = {
+	name = "WAR_OF_THE_GAELIC_COALITION"
+	desc = "WAR_OF_THE_GAELIC_COALITION_DESC"
+	date = "1444.11.11"
+	center = 207
+	country = GDL
+	country = ALN
+	country = KSB
+	country = NRM
+	country = VTE
+	country = EBR
+	easy_country = GDL
+}

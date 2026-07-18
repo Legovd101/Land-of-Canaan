@@ -1,0 +1,17 @@
+capital = 4511
+technology_group = indian
+government_rank = 1
+religion = astartism
+primary_culture = panjabi
+government = monarchy
+add_government_reform = feudalism_reform
+
+1438.1.1 = {
+	monarch = {
+		name = "Purus"
+		dynasty = "Brahmapura"
+		dip = 2
+		mil = 6
+		adm = 3
+	}
+}

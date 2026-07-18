@@ -166,7 +166,10 @@ vishnu = {
 	global_missionary_strength = 0.02
 	
 	potential = {
-		religion_group = dharmic
+		OR = {
+			religion_group = dharmic
+			religion = ptolemaic
+		}
 	}
 	trigger = {}
 	sprite = 6

@@ -13,9 +13,9 @@ capital = 2396
 	monarch = {
 		name = "Kam"
 		dynasty = "Sui"
-		ADM = 2
-		DIP = 2
-		MIL = 2
+		adm = 2
+		dip = 2
+		mil = 2
 	}
 }
 
@@ -23,9 +23,9 @@ capital = 2396
 	monarch = {
 		name = "Yaw"
 		dynasty = "Sui"
-		ADM = 2
-		DIP = 2
-		MIL = 2
+		adm = 2
+		dip = 2
+		mil = 2
 	}
 }
 

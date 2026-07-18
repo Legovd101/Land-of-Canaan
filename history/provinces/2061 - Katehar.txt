@@ -1,7 +1,7 @@
 #2061 - Katehar/Rohilkhand
-owner = DLH
-controller = DLH
-culture = kanauji
+owner = BIL
+controller = BIL
+culture = braj
 religion = hinduism
 capital = "Badayun"
 trade_goods = cotton#Calicoes
@@ -10,7 +10,6 @@ base_production = 3
 base_manpower = 2
 is_city = yes
 add_rajputs_or_marathas_or_nobles_effect = yes
-add_core = DLH
 add_core = RMP
 add_core = JNP
 discovered_by = indian
@@ -23,3 +22,4 @@ discovered_by = iranic_group
 discovered_by = nomad_group
 discovered_by = uralic_group
 discovered_by = chinese
+add_core = BIL

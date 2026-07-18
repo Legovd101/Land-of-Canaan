@@ -14,9 +14,9 @@ unlock_cult = zanahary_cult
 	monarch = {
 		name = "Iavy" #Fictional
 		dynasty = "Betsimisaraka"
-		ADM = 2
-		MIL = 2
-		DIP = 2
+		adm = 2
+		mil = 2
+		dip = 2
 	}
 }
 
@@ -24,9 +24,9 @@ unlock_cult = zanahary_cult
 	monarch = {
 		name = "Zanahary" #Fictional
 		dynasty = "Betsimisaraka"
-		ADM = 1
-		MIL = 1
-		DIP = 2
+		adm = 1
+		mil = 1
+		dip = 2
 	}
 }
 
@@ -34,9 +34,9 @@ unlock_cult = zanahary_cult
 	monarch = {
 		name = "Zakavolo" #Fictional
 		dynasty = "Betsimisaraka"
-		ADM = 2
-		MIL = 1
-		DIP = 2
+		adm = 2
+		mil = 1
+		dip = 2
 	}
 }
 
@@ -44,9 +44,9 @@ unlock_cult = zanahary_cult
 	monarch = {
 		name = "Tsihala" #Fictional
 		dynasty = "Betsimisaraka"
-		ADM = 2
-		MIL = 2
-		DIP = 1
+		adm = 2
+		mil = 2
+		dip = 1
 	}
 }
 
@@ -54,9 +54,9 @@ unlock_cult = zanahary_cult
 	monarch = {
 		name = "Ratsimilahoe"
 		dynasty = "Betsimisaraka"
-		ADM = 4
-		MIL = 4
-		DIP = 2
+		adm = 4
+		mil = 4
+		dip = 2
 	}
 }
 
@@ -64,9 +64,9 @@ unlock_cult = zanahary_cult
 	monarch = {
 		name = "Zanahary"
 		dynasty = "Betsimisaraka"
-		ADM = 2
-		MIL = 1
-		DIP = 2
+		adm = 2
+		mil = 1
+		dip = 2
 	}
 }
 
@@ -74,9 +74,9 @@ unlock_cult = zanahary_cult
 	monarch = {
 		name = "Iavy"
 		dynasty = "Betsimisaraka"
-		ADM = 1
-		MIL = 2
-		DIP = 1
+		adm = 1
+		mil = 2
+		dip = 1
 	}
 }
 
@@ -84,9 +84,9 @@ unlock_cult = zanahary_cult
 	monarch = {
 		name = "Zakavolo"
 		dynasty = "Betsimisaraka"
-		ADM = 3
-		MIL = 3
-		DIP = 3
+		adm = 3
+		mil = 3
+		dip = 3
 	}
 }
 
@@ -94,8 +94,8 @@ unlock_cult = zanahary_cult
 	monarch = {
 		name = "Tsihala" #Land really being fought over by various male relatives of Zakavolo.
 		dynasty = "Betsimisaraka"
-		ADM = 1
-		MIL = 1
-		DIP = 1
+		adm = 1
+		mil = 1
+		dip = 1
 	}
 }

@@ -12,9 +12,9 @@ capital = 515	# Girnar
 	monarch = {
 		name = "Mahipala III"
 		dynasty = "Chudasama"
-		ADM = 4
-		DIP = 4
-		MIL = 2
+		adm = 4
+		dip = 4
+		mil = 2
 	}
 }
 
@@ -26,9 +26,9 @@ capital = 515	# Girnar
 		birth_date = 1440.1.1
 		death_Date = 1472.1.1
 		claim = 95
-		ADM = 3
-		DIP = 4
-		MIL = 5
+		adm = 3
+		dip = 4
+		mil = 5
 	}
 }
 
@@ -36,9 +36,9 @@ capital = 515	# Girnar
 	monarch = {
 		name = "Mandalika III"
 		dynasty = "Chudasama"
-		ADM = 3
-		DIP = 4
-		MIL = 5
+		adm = 3
+		dip = 4
+		mil = 5
 	}
 }
 
@@ -53,9 +53,9 @@ capital = 515	# Girnar
 	monarch = {
 		name = "Mohammad Bahadur"
 		dynasty = "Babi"
-		ADM = 3
-		DIP = 4
-		MIL = 3
+		adm = 3
+		dip = 4
+		mil = 3
 	}
 }
 
@@ -63,9 +63,9 @@ capital = 515	# Girnar
 	monarch = {
 		name = "Mohammad Mahabat"
 		dynasty = "Babi"
-		ADM = 2
-		DIP = 0
-		MIL = 1
+		adm = 2
+		dip = 0
+		mil = 1
 	}
 }
 
@@ -73,9 +73,9 @@ capital = 515	# Girnar
 	monarch = {
 		name = "Mohammad Hamid"
 		dynasty = "Babi"
-		ADM = 2
-		DIP = 0
-		MIL = 1
+		adm = 2
+		dip = 0
+		mil = 1
 	}
 }
 
@@ -83,8 +83,8 @@ capital = 515	# Girnar
 	monarch = {
 		name = "Mohammad Bahadur II"
 		dynasty = "Babi"
-		ADM = 2
-		DIP = 0
-		MIL = 1
+		adm = 2
+		dip = 0
+		mil = 1
 	}
 }

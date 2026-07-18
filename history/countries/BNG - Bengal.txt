@@ -17,9 +17,9 @@ change_brahmins_or_church_land_share_effect = {
 	monarch = { 
 		name = "Ghiyasuddin Azam"
 		dynasty = "Ilyas Shahi"
-		ADM = 1
-		DIP = 2
-		MIL = 2
+		adm = 1
+		dip = 2
+		mil = 2
 	}
 }
 1390.1.1 = { 
@@ -30,18 +30,18 @@ change_brahmins_or_church_land_share_effect = {
 		birth_date = 1390.1.1
 		death_date = 1411.1.1
 		claim = 95
-		ADM = 3
-		DIP = 2
-		MIL = 1
+		adm = 3
+		dip = 2
+		mil = 1
 	}
 }
 1410.1.1 = { 
 	monarch = { 
 		name = "Sayf-ud-Din Hamza"
 		dynasty = "Ilya Shahi"
-		ADM = 3
-		DIP = 2
-		MIL = 1
+		adm = 3
+		dip = 2
+		mil = 1
 	}
 }
 1410.1.1 = { 
@@ -52,18 +52,18 @@ change_brahmins_or_church_land_share_effect = {
 		birth_date = 1390.1.1
 		death_Date = 1414.1.1
 		claim = 95
-		ADM = 1
-		DIP = 3
-		MIL = 1
+		adm = 1
+		dip = 3
+		mil = 1
 	}
 }
 1412.1.1 = { 
 	monarch = { 
 		name = "Shihab-ud-Din Bayazid"
 		dynasty = "Ilyas Shahi"
-		ADM = 1
-		DIP = 3
-		MIL = 1
+		adm = 1
+		dip = 3
+		mil = 1
 	}
 }
 1412.1.1 = { 
@@ -74,27 +74,27 @@ change_brahmins_or_church_land_share_effect = {
 		birth_date = 1390.1.1
 		death_Date = 1415.1.1
 		claim = 95
-		ADM = 2
-		DIP = 0
-		MIL = 0
+		adm = 2
+		dip = 0
+		mil = 0
 	}
 }
 1414.1.1 = { 
 	monarch = { 
 		name = "Ala-ud-Din Firuz"
 		dynasty = "Ilyas Shahi"
-		ADM = 2
-		DIP = 0
-		MIL = 0
+		adm = 2
+		dip = 0
+		mil = 0
 	}
 }
 1415.1.1 = { 
 	monarch = { 
 		name = "Raja Ganesh"
 		dynasty = "Ganesha"
-		ADM = 1
-		DIP = 4
-		MIL = 3
+		adm = 1
+		dip = 4
+		mil = 3
 	}
 }
 1415.1.1 = { 
@@ -105,18 +105,18 @@ change_brahmins_or_church_land_share_effect = {
 		birth_date = 1400.1.1
 		death_date = 1433.1.1
 		claim = 95
-		ADM = 3
-		DIP = 1
-		MIL = 1
+		adm = 3
+		dip = 1
+		mil = 1
 	}
 }
 1418.1.1 = { 
 	monarch = { 
 		name = "Jalaluddin Mohammed"
 		dynasty = "Ganesha"
-		ADM = 3
-		DIP = 1
-		MIL = 1
+		adm = 3
+		dip = 1
+		mil = 1
 	}
 }
 1418.1.1 = { 
@@ -127,27 +127,27 @@ change_brahmins_or_church_land_share_effect = {
 		birth_date = 1410.1.1
 		death_date = 1435.1.1
 		claim = 95
-		ADM = 2
-		DIP = 4
-		MIL = 1
+		adm = 2
+		dip = 4
+		mil = 1
 	}
 }
 1433.1.1 = { 
 	monarch = { 
 		name = "Shamsuddin Ahmad"
 		dynasty = "Ganesha"
-		ADM = 2
-		DIP = 4
-		MIL = 1
+		adm = 2
+		dip = 4
+		mil = 1
 	}
 }
 1435.1.1 = { 
 	monarch = { 
 		name = "Nasir-ud-Din Mahmud"
 		dynasty = "Ilyas Shahi"
-		ADM = 4
-		DIP = 3
-		MIL = 3
+		adm = 4
+		dip = 3
+		mil = 3
 	}
 	clear_scripted_personalities = yes
 	add_ruler_personality = architectural_visionary_personality
@@ -159,18 +159,18 @@ change_brahmins_or_church_land_share_effect = {
 		birth_date = 1430.1.1
 		death_date = 1474.1.1
 		claim = 95
-		ADM = 4
-		DIP = 4
-		MIL = 5
+		adm = 4
+		dip = 4
+		mil = 5
 	}
 }
 1459.1.1 = { 
 	monarch = { 
 		name = "Rukun-ud-Din Barbak"
 		dynasty = "Ilyas Shahi"
-		ADM = 4
-		DIP = 4
-		MIL = 5
+		adm = 4
+		dip = 4
+		mil = 5
 	}
 	clear_scripted_personalities = yes
 	add_ruler_personality = bold_fighter_personality
@@ -185,18 +185,18 @@ change_brahmins_or_church_land_share_effect = {
 		birth_date = 1459.1.1
 		death_Date = 1481.1.1
 		claim = 95
-		ADM = 2
-		DIP = 1
-		MIL = 2
+		adm = 2
+		dip = 1
+		mil = 2
 	}
 }
 1474.1.1 = { 
 	monarch = { 
 		name = "Shams-ud-Din Yusuf"
 		dynasty = "Ilyas Shahi"
-		ADM = 2
-		DIP = 1
-		MIL = 2
+		adm = 2
+		dip = 1
+		mil = 2
 	}
 	clear_scripted_personalities = yes
 	add_ruler_personality = zealot_personality
@@ -208,18 +208,18 @@ change_brahmins_or_church_land_share_effect = {
 		birth_date = 1460.1.1
 		death_date = 1482.1.1
 		claim = 95
-		ADM = 1
-		DIP = 1
-		MIL = 1
+		adm = 1
+		dip = 1
+		mil = 1
 	}
 }
 1481.1.1 = { 
 	monarch = { 
 		name = "Sikandar II"
 		dynasty = "Ilyas Shahi"
-		ADM = 1
-		DIP = 1
-		MIL = 1
+		adm = 1
+		dip = 1
+		mil = 1
 	}
 	clear_scripted_personalities = yes
 	add_ruler_personality = babbling_buffoon_personality
@@ -231,18 +231,18 @@ change_brahmins_or_church_land_share_effect = {
 		birth_date = 1460.1.1
 		death_date = 1487.1.1
 		claim = 95
-		ADM = 3
-		DIP = 2
-		MIL = 3
+		adm = 3
+		dip = 2
+		mil = 3
 	}
 }
 1482.1.1 = { 
 	monarch = { 
 		name = "Jalal ad-Din Fateh"
 		dynasty = "Ilyas Shahi"
-		ADM = 3
-		DIP = 2
-		MIL = 3
+		adm = 3
+		dip = 2
+		mil = 3
 	}
 	clear_scripted_personalities = yes
 	add_ruler_personality = scholar_personality
@@ -252,9 +252,9 @@ change_brahmins_or_church_land_share_effect = {
 	monarch = { 
 		name = "Shahzada Barbak"
 		dynasty = "Abyssinid"
-		ADM = 0
-		DIP = 0
-		MIL = 2
+		adm = 0
+		dip = 0
+		mil = 2
 	}
 	clear_scripted_personalities = yes
 	add_ruler_personality = cruel_personality
@@ -267,18 +267,18 @@ change_brahmins_or_church_land_share_effect = {
 		birth_date = 1460.1.1
 		death_date = 1490.1.1
 		claim = 95
-		ADM = 0
-		DIP = 0
-		MIL = 1
+		adm = 0
+		dip = 0
+		mil = 1
 	}
 }
 1488.1.1 = { 
 	monarch = { 
 		name = "Sayf-ud-Din Firuz"
 		dynasty = "Abyssinid"
-		ADM = 0
-		DIP = 0
-		MIL = 1
+		adm = 0
+		dip = 0
+		mil = 1
 	}
 	clear_scripted_personalities = yes
 	add_ruler_personality = just_personality
@@ -291,18 +291,18 @@ change_brahmins_or_church_land_share_effect = {
 		birth_date = 1488.1.1
 		death_date = 1491.1.1
 		claim = 95
-		ADM = 0
-		DIP = 0
-		MIL = 0
+		adm = 0
+		dip = 0
+		mil = 0
 	}
 }
 1490.1.1 = { 
 	monarch = { 
 		name = "Nasir-ud-Din Mahmud II"
 		dynasty = "Abyssinid"
-		ADM = 0
-		DIP = 0
-		MIL = 0
+		adm = 0
+		dip = 0
+		mil = 0
 	}
 }
 1490.1.1 = { 
@@ -313,18 +313,18 @@ change_brahmins_or_church_land_share_effect = {
 		birth_date = 1465.1.1
 		death_date = 1493.1.1
 		claim = 95
-		ADM = 0
-		DIP = 0
-		MIL = 1
+		adm = 0
+		dip = 0
+		mil = 1
 	}
 }
 1491.1.1 = { 
 	monarch = { 
 		name = "Shams ad-Din Muzaffar"
 		dynasty = "Abyssinid"
-		ADM = 0
-		DIP = 0
-		MIL = 1
+		adm = 0
+		dip = 0
+		mil = 1
 	}
 	clear_scripted_personalities = yes
 	add_ruler_personality = cruel_personality
@@ -335,9 +335,9 @@ change_brahmins_or_church_land_share_effect = {
 	monarch = { 
 		name = "Ala-ud-din Husain"
 		dynasty = "Hussein Shahi"
-		ADM = 3
-		DIP = 2
-		MIL = 4
+		adm = 3
+		dip = 2
+		mil = 4
 	}
 	clear_scripted_personalities = yes
 	add_ruler_personality = strict_personality
@@ -352,18 +352,18 @@ change_brahmins_or_church_land_share_effect = {
 		birth_date = 1500.1.1
 		death_date = 1533.1.1
 		claim = 95
-		ADM = 2
-		DIP = 2
-		MIL = 2
+		adm = 2
+		dip = 2
+		mil = 2
 	}
 }
 1519.1.1 = { 
 	monarch = { 
 		name = "Nasir ad-Din Nasrat"
 		dynasty = "Hussein Shahi"
-		ADM = 2
-		DIP = 2
-		MIL = 2
+		adm = 2
+		dip = 2
+		mil = 2
 	}
 	clear_scripted_personalities = yes
 	add_ruler_personality = silver_tongue_personality
@@ -376,18 +376,18 @@ change_brahmins_or_church_land_share_effect = {
 		birth_date = 1519.1.1
 		death_date = 1533.3.1
 		claim = 95
-		ADM = 0
-		DIP = 0
-		MIL = 0
+		adm = 0
+		dip = 0
+		mil = 0
 	}
 }
 1533.1.1 = { 
 	monarch = { 
 		name = "Ala-ud-din Firuz III"
 		dynasty = "Hussein Shahi"
-		ADM = 0
-		DIP = 0
-		MIL = 0
+		adm = 0
+		dip = 0
+		mil = 0
 	}
 }
 1533.1.1 = { 
@@ -398,18 +398,18 @@ change_brahmins_or_church_land_share_effect = {
 		birth_date = 1510.1.1
 		death_date = 1538.4.1
 		claim = 95
-		ADM = 1
-		DIP = 1
-		MIL = 3
+		adm = 1
+		dip = 1
+		mil = 3
 	}
 }
 1533.3.1 = { 
 	monarch = { 
 		name = "Ghiyasuddin Mahmud"
 		dynasty = "Hussein Shahi"
-		ADM = 1
-		DIP = 1
-		MIL = 3
+		adm = 1
+		dip = 1
+		mil = 3
 	}
 	clear_scripted_personalities = yes
 	add_ruler_personality = craven_personality
@@ -420,9 +420,9 @@ change_brahmins_or_church_land_share_effect = {
 		name = "Sher Shah"
 		dynasty = "Suri"
 		culture = afghani
-		ADM = 6
-		DIP = 4
-		MIL = 6
+		adm = 6
+		dip = 4
+		mil = 6
 		leader = { name = "Sher Shah" type = general fire = 2 shock = 5 manuever = 5 siege = 2 }
 	}
 	clear_scripted_personalities = yes
@@ -440,9 +440,9 @@ change_brahmins_or_church_land_share_effect = {
 		birth_date = 1510.1.1
 		death_date = 1545.4.23
 		claim = 95
-		ADM = 2
-		DIP = 2
-		MIL = 3
+		adm = 2
+		dip = 2
+		mil = 3
 	}
 }
 1540.1.1 = { 
@@ -455,9 +455,9 @@ change_brahmins_or_church_land_share_effect = {
 	monarch = { 
 		name = "Islam Shah"
 		dynasty = "Suri"
-		ADM = 2
-		DIP = 2
-		MIL = 3
+		adm = 2
+		dip = 2
+		mil = 3
 	}
 }
 1545.5.23 = { 
@@ -468,18 +468,18 @@ change_brahmins_or_church_land_share_effect = {
 		birth_date = 1520.1.1
 		death_date = 1555.1.1
 		claim = 45
-		ADM = 3
-		DIP = 3
-		MIL = 1
+		adm = 3
+		dip = 3
+		mil = 1
 	}
 }
 1553.1.1 = { 
 	monarch = { 
 		name = "Shams ud-Din Muhammad"
 		dynasty = "Suri"
-		ADM = 3
-		DIP = 3
-		MIL = 1
+		adm = 3
+		dip = 3
+		mil = 1
 	}
 	remove_accepted_culture = panjabi
 	remove_accepted_culture = avadhi
@@ -494,18 +494,18 @@ change_brahmins_or_church_land_share_effect = {
 		birth_date = 1530.1.1
 		death_Date = 1561.1.1
 		claim = 95
-		ADM = 4
-		DIP = 2
-		MIL = 4
+		adm = 4
+		dip = 2
+		mil = 4
 	}
 }
 1555.1.1 = { 
 	monarch = { 
 		name = "Ghiyat ad-Din Bahadur"
 		dynasty = "Suri"
-		ADM = 4
-		DIP = 2
-		MIL = 4
+		adm = 4
+		dip = 2
+		mil = 4
 	}
 }
 1555.1.1 = { 
@@ -516,18 +516,18 @@ change_brahmins_or_church_land_share_effect = {
 		birth_date = 1530.1.1
 		death_date = 1564.1.1
 		claim = 95
-		ADM = 2
-		DIP = 1
-		MIL = 3
+		adm = 2
+		dip = 1
+		mil = 3
 	}
 }
 1561.1.1 = { 
 	monarch = { 
 		name = "Ghiyat ad-Din Jalal"
 		dynasty = "Suri"
-		ADM = 2
-		DIP = 1
-		MIL = 3
+		adm = 2
+		dip = 1
+		mil = 3
 	}
 }
 #Sultans of Bengal
@@ -535,9 +535,9 @@ change_brahmins_or_church_land_share_effect = {
 	monarch = { 
 		name = "Sulayman Khan"
 		dynasty = "Karrani"
-		ADM = 1
-		DIP = 1
-		MIL = 1
+		adm = 1
+		dip = 1
+		mil = 1
 	}
 }
 1564.1.1 = { 
@@ -548,18 +548,18 @@ change_brahmins_or_church_land_share_effect = {
 		birth_date = 1550.1.1
 		death_Date = 1576.7.12
 		claim = 95
-		ADM = 2
-		DIP = 2
-		MIL = 3
+		adm = 2
+		dip = 2
+		mil = 3
 	}
 }
 1572.1.1 = { 
 	monarch = { 
 		name = "Da'ud"
 		dynasty = "Karrani"
-		ADM = 2
-		DIP = 2
-		MIL = 3
+		adm = 2
+		dip = 2
+		mil = 3
 	}
 }
 1576.7.12 = { 
@@ -570,9 +570,9 @@ change_brahmins_or_church_land_share_effect = {
 #	monarch = {
 #		name = "Vizier"
 #		dynasty = "Chisti" #Governor of Bengal
-#		ADM = 2
-#		DIP = 2
-#		MIL = 2
+#		adm = 2
+#		dip = 2
+#		mil = 2
 #		}
 #	capital = 563	# Dacca
 #}
@@ -581,9 +581,9 @@ change_brahmins_or_church_land_share_effect = {
 	monarch = { 
 		name = "Murshid Quli"
 		dynasty = "Nasiri"
-		ADM = 5
-		DIP = 3
-		MIL = 4
+		adm = 5
+		dip = 3
+		mil = 4
 	}
 	government_rank = 1
 }
@@ -595,18 +595,18 @@ change_brahmins_or_church_land_share_effect = {
 		birth_date = 1670.1.1
 		death_date = 1739.8.26
 		claim = 95
-		ADM = 4
-		DIP = 3
-		MIL = 1
+		adm = 4
+		dip = 3
+		mil = 1
 	}
 }
 1726.1.1 = { 
 	monarch = { 
 		name = "Shuja' ad-Din Muhammad"
 		dynasty = "Nasiri"
-		ADM = 4
-		DIP = 3
-		MIL = 1
+		adm = 4
+		dip = 3
+		mil = 1
 	}
 }
 1726.1.1 = { 
@@ -617,18 +617,18 @@ change_brahmins_or_church_land_share_effect = {
 		birth_date = 1700.1.1
 		death_date = 1740.5.13
 		claim = 95
-		ADM = 0
-		DIP = 1
-		MIL = 0
+		adm = 0
+		dip = 1
+		mil = 0
 	}
 }
 1739.3.24 = { 
 	monarch = { 
 		name = "'Ala' ad-Daula Sarfaraz"
 		dynasty = "Nasiri"
-		ADM = 0
-		DIP = 1
-		MIL = 0
+		adm = 0
+		dip = 1
+		mil = 0
 	}
 }
 1739.3.24 = { 
@@ -639,18 +639,18 @@ change_brahmins_or_church_land_share_effect = {
 		birth_date = 1671.5.10
 		death_date = 1756.4.9
 		claim = 95
-		ADM = 4
-		DIP = 3
-		MIL = 2
+		adm = 4
+		dip = 3
+		mil = 2
 	}
 }
 1740.5.13 = { 
 	monarch = { 
 		name = "Ali-Vardi Khan"
 		dynasty = "Afshar"
-		ADM = 4
-		DIP = 3
-		MIL = 2
+		adm = 4
+		dip = 3
+		mil = 2
 	}
 }
 1740.5.13 = { 
@@ -661,18 +661,18 @@ change_brahmins_or_church_land_share_effect = {
 		birth_date = 1733.1.1
 		death_date = 1757.7.2
 		claim = 95
-		ADM = 0
-		DIP = 1
-		MIL = 2
+		adm = 0
+		dip = 1
+		mil = 2
 	}
 }
 1756.4.10 = { 
 	monarch = { 
 		name = "Mirza Mahmud Siraj"
 		dynasty = "Afshar"
-		ADM = 0
-		DIP = 1
-		MIL = 2
+		adm = 0
+		dip = 1
+		mil = 2
 	}
 }
 1756.4.10 = { 
@@ -683,18 +683,18 @@ change_brahmins_or_church_land_share_effect = {
 		birth_date = 1691.1.1
 		death_date = 1765.2.5
 		claim = 95
-		ADM = 1
-		DIP = 2
-		MIL = 2
+		adm = 1
+		dip = 2
+		mil = 2
 	}
 }
 1757.6.24 = { 
 	monarch = { 
 		name = "Mir Muhammad Ja'far"
 		dynasty = "Afshar"
-		ADM = 1
-		DIP = 2
-		MIL = 2
+		adm = 1
+		dip = 2
+		mil = 2
 	}
 }
 1757.6.24 = { 
@@ -705,18 +705,18 @@ change_brahmins_or_church_land_share_effect = {
 		birth_date = 1720.1.1
 		death_Date = 1763.7.8
 		claim = 95
-		ADM = 3
-		DIP = 2
-		MIL = 3
+		adm = 3
+		dip = 2
+		mil = 3
 	}
 }
 1760.10.21 = { 
 	monarch = { 
 		name = "Mir Qasim 'Ali"
 		dynasty = "Afshar"
-		ADM = 3
-		DIP = 2
-		MIL = 3
+		adm = 3
+		dip = 2
+		mil = 3
 	}
 }
 1760.10.21 = { 
@@ -727,18 +727,18 @@ change_brahmins_or_church_land_share_effect = {
 		birth_date = 1691.1.1
 		death_date = 1765.2.5
 		claim = 95
-		ADM = 1
-		DIP = 2
-		MIL = 2
+		adm = 1
+		dip = 2
+		mil = 2
 	}
 }
 1763.7.8 = { 
 	monarch = { 
 		name = "Mir Muhammad Ja'far"
 		dynasty = "Najafi"
-		ADM = 1
-		DIP = 2
-		MIL = 2
+		adm = 1
+		dip = 2
+		mil = 2
 	}
 }
 1763.7.8 = { 
@@ -749,18 +749,18 @@ change_brahmins_or_church_land_share_effect = {
 		birth_date = 1730.1.1
 		death_date = 1766.5.9
 		claim = 95
-		ADM = 0
-		DIP = 0
-		MIL = 0
+		adm = 0
+		dip = 0
+		mil = 0
 	}
 }
 1765.2.5 = { 
 	monarch = { 
 		name = "Mir Phulwari Najm"
 		dynasty = "Najafi"
-		ADM = 0
-		DIP = 0
-		MIL = 0
+		adm = 0
+		dip = 0
+		mil = 0
 	}
 }
 1765.2.5 = { 
@@ -771,18 +771,18 @@ change_brahmins_or_church_land_share_effect = {
 		birth_date = 1730.1.1
 		death_date = 1770.3.11
 		claim = 95
-		ADM = 1
-		DIP = 0
-		MIL = 1
+		adm = 1
+		dip = 0
+		mil = 1
 	}
 }
 1766.5.9 = { 
 	monarch = { 
 		name = "Sayf ad-Daula"
 		dynasty = "Najafi"
-		ADM = 1
-		DIP = 0
-		MIL = 1
+		adm = 1
+		dip = 0
+		mil = 1
 	}
 }
 1766.5.9 = { 
@@ -793,18 +793,18 @@ change_brahmins_or_church_land_share_effect = {
 		birth_date = 1755.1.1
 		death_date = 1793.1.1
 		claim = 95
-		ADM = 0
-		DIP = 0
-		MIL = 0
+		adm = 0
+		dip = 0
+		mil = 0
 	}
 }
 1770.3.11 = { 
 	monarch = { 
 		name = "Mubarak ad-Daula"
 		dynasty = "Najafi"
-		ADM = 0
-		DIP = 0
-		MIL = 0
+		adm = 0
+		dip = 0
+		mil = 0
 	}
 }
 government_rank = 1

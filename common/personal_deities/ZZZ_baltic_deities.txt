@@ -1,5 +1,4 @@
-perkunas =
-{
+perkunas = {
 	discipline = 0.05
 	leader_land_shock = 1
 	
@@ -22,8 +21,7 @@ perkunas =
 	}		
 }
 
-ausrine =
-{
+ausrine = {
 	diplomatic_upkeep = 1
 	improve_relation_modifier = 0.10
 	
@@ -42,8 +40,7 @@ ausrine =
 	}		
 }
 
-saule =
-{
+saule = {
 	production_efficiency = 0.1
 	global_trade_goods_size_modifier = 0.1
 	
@@ -62,8 +59,7 @@ saule =
 	}		
 }
 
-laima =
-{
+laima = {
 	global_unrest = -1
 	global_tax_modifier = 0.1
 	
@@ -82,8 +78,7 @@ laima =
 	}		
 }
 
-gabija =
-{
+gabija = {
 	hostile_attrition = 1.0
 	defensiveness = 0.2
 	
@@ -106,8 +101,7 @@ gabija =
 	}		
 }
 
-dievas =
-{
+dievas = {
 	land_morale = 0.1
 	core_creation = -0.10
 	

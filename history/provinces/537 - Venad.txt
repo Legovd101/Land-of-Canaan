@@ -2,7 +2,7 @@
 owner = VND
 controller = VND
 culture = malayalam
-religion = hinduism
+religion = ajivika
 capital = "Quilon"
 trade_goods = cinnamon
 base_tax = 2

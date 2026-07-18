@@ -29,4 +29,5 @@ extra_cost = 8
 center_of_trade = 1
 #1439.9.24 = { revolt = { type = pretender_rebels size = 1 leader = "Eric Gryf" } controller = REB } # Eric settles at Visborg Castle, living off piracy
 add_core = GAU
+discovered_by = uralic_group
 fort_15th = yes

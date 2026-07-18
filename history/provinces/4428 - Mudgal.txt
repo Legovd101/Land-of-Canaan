@@ -1,15 +1,14 @@
 #4428 - Mudgal
-owner = BIJ
-controller = BIJ
+owner = HOY
+controller = HOY
 culture = kannada
-religion = hinduism
+religion = jain
 capital = "Mudgal"
 trade_goods = cloth
 base_tax = 4
 base_production = 4
 base_manpower = 3
 is_city = yes
-add_core = BIJ
 discovered_by = indian
 discovered_by = nomad_group
 discovered_by = uralic_group
@@ -20,4 +19,4 @@ discovered_by = thraco_illyrian
 discovered_by = serican_group
 discovered_by = iranic_group
 discovered_by = chinese
-fort_15th = yes
+add_core = HOY

@@ -1,0 +1,86 @@
+# Do not change tags in here without changing every other reference to them.
+# If adding new deities, make sure they are uniquely named.
+
+alexander = {
+	province_warscore_cost = -0.2
+	culture_conversion_cost = -0.2
+
+	potential = {
+		OR = {
+			religion = ptolemaic
+		}
+	}
+	trigger = {}
+	effect = {}
+	removed_effect = {}
+
+	sprite = 62
+
+	ai_will_do = {
+		factor = 1
+		modifier = {
+			factor = 2
+			personality = ai_diplomat
+		}
+		modifier = {
+			factor = 0.5
+			personality = ai_militarist
+		}
+	}
+}
+
+ptolemy = {
+	fabricate_claims_cost = -0.5
+	tolerance_heathen = 3
+
+	potential = {
+		OR = {
+			religion = ptolemaic
+		}
+	}
+	trigger = {}
+	effect = {}
+	removed_effect = {}
+
+	sprite = 63
+
+	ai_will_do = {
+		factor = 1
+		modifier = {
+			factor = 2
+			personality = ai_diplomat
+		}
+		modifier = {
+			factor = 0.5
+			personality = ai_militarist
+		}
+	}
+}
+
+cleopatra = {
+	naval_maintenance_modifier = -0.2
+	num_accepted_cultures = 3
+
+	potential = {
+		OR = {
+			religion = ptolemaic
+		}
+	}
+	trigger = {}
+	effect = {}
+	removed_effect = {}
+
+	sprite = 64
+
+	ai_will_do = {
+		factor = 1
+		modifier = {
+			factor = 2
+			personality = ai_diplomat
+		}
+		modifier = {
+			factor = 0.5
+			personality = ai_militarist
+		}
+	}
+}

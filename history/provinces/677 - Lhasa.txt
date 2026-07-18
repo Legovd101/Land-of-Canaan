@@ -1,6 +1,6 @@
 #677 - Qamdo
-owner = UTS
-controller = UTS
+owner = TIB
+controller = TIB
 add_core = UTS
 culture = tibetan
 religion = vajrayana
@@ -17,3 +17,4 @@ discovered_by = indian
 add_province_triggered_modifier = religious_center
 add_province_triggered_modifier = vajrayana_lhasa
 center_of_trade = 2
+add_core = TIB

@@ -1,6 +1,6 @@
 #512 - Jangladesh
-owner = JAN
-controller = JAN
+owner = JSL
+controller = JSL
 culture = rajput
 religion = hinduism
 capital = "Pugal"
@@ -20,3 +20,4 @@ discovered_by = iranic_group
 discovered_by = nomad_group
 discovered_by = uralic_group
 discovered_by = chinese
+add_core = JSL

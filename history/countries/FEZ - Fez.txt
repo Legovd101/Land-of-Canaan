@@ -19,9 +19,9 @@ religious_school = maliki_school
 	monarch = {
 		name = "Muhammad I"
 		dynasty = "Wattassid"
-		ADM = 2
-		DIP = 4
-		MIL = 3
+		adm = 2
+		dip = 4
+		mil = 3
 	}
 }
 
@@ -33,8 +33,8 @@ religious_school = maliki_school
 		birth_date = 1450.1.1
 		death_date = 1524.1.1
 		claim = 95
-		DIP = 3
-		MIL = 1
+		dip = 3
+		mil = 1
 	}
 }
 
@@ -42,8 +42,8 @@ religious_school = maliki_school
 	monarch = {
 		name = "Muhammad II"
 		dynasty = "Wattassid"
-		DIP = 3
-		MIL = 1
+		dip = 3
+		mil = 1
 	}
 }
 
@@ -55,9 +55,9 @@ religious_school = maliki_school
 		birth_date = 1490.1.1
 		death_date = 1549.1.1
 		claim = 95
-		ADM = 2
-		DIP = 1
-		MIL = 2
+		adm = 2
+		dip = 1
+		mil = 2
 	}
 }
 
@@ -65,9 +65,9 @@ religious_school = maliki_school
 	monarch = {
 		name = "Ahmad"
 		dynasty = "Wattassid"
-		ADM = 2
-		DIP = 1
-		MIL = 2
+		adm = 2
+		dip = 1
+		mil = 2
 	}
 }
 
@@ -79,17 +79,17 @@ religious_school = maliki_school
 		birth_date = 1537.1.1
 		death_date = 1549.1.1
 		claim = 95
-		ADM = 2
-		DIP = 2
-		MIL = 2
+		adm = 2
+		dip = 2
+		mil = 2
 	}
 }
 
 1545.1.1 = {
 	monarch = {
 		name = "Ali Abu Hassun"
-		ADM = 3
-		DIP = 4
+		adm = 3
+		dip = 4
 		regent = yes
 	}
 }
@@ -102,9 +102,9 @@ religious_school = maliki_school
 		birth_date = 1537.1.1
 		death_date = 1549.1.1
 		claim = 95
-		ADM = 2
-		DIP = 2
-		MIL = 2
+		adm = 2
+		dip = 2
+		mil = 2
 	}
 }
 
@@ -112,9 +112,9 @@ religious_school = maliki_school
 	monarch = {
 		name = "Ahmad"
 		dynasty = "Wattassid"
-		ADM = 2
-		DIP = 1
-		MIL = 2
+		adm = 2
+		dip = 1
+		mil = 2
 	}
 }
 
@@ -126,9 +126,9 @@ religious_school = maliki_school
 		birth_date = 1537.1.1
 		death_date = 1549.1.1
 		claim = 95
-		ADM = 2
-		DIP = 2
-		MIL = 2
+		adm = 2
+		dip = 2
+		mil = 2
 	}
 }
 
@@ -136,9 +136,9 @@ religious_school = maliki_school
 	monarch = {
 		name = "Mohammed al-Hajj"
 		dynasty = "al-Dila'i"
-		ADM = 2
-		DIP = 2
-		MIL = 4
+		adm = 2
+		dip = 2
+		mil = 4
 	}
 }
 

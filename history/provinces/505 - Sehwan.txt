@@ -2,7 +2,7 @@
 owner = KUS
 controller = KUS
 culture = kushan
-religion = hinduism
+religion = pyrrhonism
 capital = "Sehwan"
 trade_goods = silk#Silk cloth, fine calicoes, painted cloth
 base_tax = 2

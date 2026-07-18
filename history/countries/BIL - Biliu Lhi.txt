@@ -1,0 +1,7 @@
+religion = mahayana
+capital = 4497
+technology_group = chinese
+government_rank = 2
+primary_culture = tangut
+government = monarchy
+add_government_reform = feudalism_reform

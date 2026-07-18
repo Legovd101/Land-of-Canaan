@@ -9,9 +9,9 @@ capital = 1947	# Gingee
 	monarch = {
 		name = "Muthialu"
 		dynasty = "Tubaki" #Gingee Nayaks
-		ADM = 2
-		DIP = 2
-		MIL = 3
+		adm = 2
+		dip = 2
+		mil = 3
 	}
 }
 
@@ -19,9 +19,9 @@ capital = 1947	# Gingee
 	monarch = {
 		name = "Venkatappa"
 		dynasty = "Tubaki" #Gingee Nayaks
-		ADM = 2
-		DIP = 3
-		MIL = 3
+		adm = 2
+		dip = 3
+		mil = 3
 	}
 }
 
@@ -30,8 +30,8 @@ capital = 1947	# Gingee
 	monarch = {
 		name = "Varadappa"
 		dynasty = "Tubaki" #Gingee Nayaks
-		ADM = 2
-		DIP = 2
-		MIL = 3
+		adm = 2
+		dip = 2
+		mil = 3
 	}
 }

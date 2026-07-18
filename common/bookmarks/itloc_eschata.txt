@@ -1,0 +1,13 @@
+bookmark = {
+	name = "NOT_ESCHATA_ENOUGH"
+	desc = "NOT_ESCHATA_ENOUGH_DESC"
+	date = "1444.11.11"
+	center = 558
+	country = KUS
+	country = SRA
+	country = GAN
+	country = BIL
+	country = BTB
+	easy_country = KUS
+	easy_country = GAN
+}

@@ -1,6 +1,6 @@
 #4465 - Ranthambore
-owner = MER
-controller = MER
+owner = GWA
+controller = GWA
 culture = rajput
 religion = hinduism
 capital = "Ranthambore"
@@ -10,7 +10,6 @@ base_production = 2
 base_manpower = 1
 is_city = yes
 add_rajputs_or_marathas_or_nobles_effect = yes
-add_core = MER
 add_core = HAD
 discovered_by = indian
 discovered_by = nomad_group
@@ -22,4 +21,5 @@ discovered_by = thraco_illyrian
 discovered_by = serican_group
 discovered_by = iranic_group
 discovered_by = chinese
+add_core = GWA
 fort_15th = yes

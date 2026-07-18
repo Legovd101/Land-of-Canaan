@@ -12,9 +12,9 @@ capital = 553	# Sambalpur
 	monarch = {
 		name = "Ramai Dev"
 		dynasty = "Chauhan"
-		ADM = 3
-		DIP = 3
-		MIL = 3
+		adm = 3
+		dip = 3
+		mil = 3
 	}
 
 }
@@ -27,9 +27,9 @@ capital = 553	# Sambalpur
 		birth_date = 1465.1.1
 		death_Date = 1534.1.1
 		claim = 95
-		ADM = 2
-		DIP = 2
-		MIL = 3
+		adm = 2
+		dip = 2
+		mil = 3
 	}
 }
 
@@ -37,9 +37,9 @@ capital = 553	# Sambalpur
 	monarch = {
 		name = "Balram"
 		dynasty = "Chauhan"
-		ADM = 0
-		DIP = 1
-		MIL = 0
+		adm = 0
+		dip = 1
+		mil = 0
 	}
 }
 
@@ -52,9 +52,9 @@ capital = 553	# Sambalpur
 		birth_date = 1494.1.1
 		death_Date = 1578.1.1
 		claim = 95
-		ADM = 2
-		DIP = 0
-		MIL = 1
+		adm = 2
+		dip = 0
+		mil = 1
 	}
 }
 
@@ -62,9 +62,9 @@ capital = 553	# Sambalpur
 	monarch = {
 		name = "Madhukar"
 		dynasty = "Chauhan"
-		ADM = 2
-		DIP = 0
-		MIL = 1
+		adm = 2
+		dip = 0
+		mil = 1
 	}
 }
 
@@ -76,9 +76,9 @@ capital = 553	# Sambalpur
 		birth_date = 1534.1.1
 		death_Date = 1611.1.1
 		claim = 95
-		ADM = 2
-		DIP = 1
-		MIL = 2
+		adm = 2
+		dip = 1
+		mil = 2
 	}
 }
 
@@ -86,9 +86,9 @@ capital = 553	# Sambalpur
 	monarch = {
 		name = "Jai Singh"
 		dynasty = "Chauhan"
-		ADM = 2
-		DIP = 1
-		MIL = 2
+		adm = 2
+		dip = 1
+		mil = 2
 	}
 }
 
@@ -100,9 +100,9 @@ capital = 553	# Sambalpur
 		birth_date = 1578.1.1
 		death_Date = 1637.1.1
 		claim = 95
-		ADM = 2
-		DIP = 2
-		MIL = 2
+		adm = 2
+		dip = 2
+		mil = 2
 	}
 }
 
@@ -110,9 +110,9 @@ capital = 553	# Sambalpur
 	monarch = {
 		name = "Veerbhadra"
 		dynasty = "Chauhan"
-		ADM = 2
-		DIP = 2
-		MIL = 2
+		adm = 2
+		dip = 2
+		mil = 2
 	}
 }
 
@@ -124,9 +124,9 @@ capital = 553	# Sambalpur
 		birth_date = 1611.1.1
 		death_Date = 1648.1.1
 		claim = 95
-		ADM = 3
-		DIP = 2
-		MIL = 3
+		adm = 3
+		dip = 2
+		mil = 3
 	}
 }
 
@@ -134,9 +134,9 @@ capital = 553	# Sambalpur
 	monarch = {
 		name = "Narsingh"
 		dynasty = "Chauhan"
-		ADM = 3
-		DIP = 2
-		MIL = 3
+		adm = 3
+		dip = 2
+		mil = 3
 	}
 }
 
@@ -148,9 +148,9 @@ capital = 553	# Sambalpur
 		birth_date = 1637.1.1
 		death_Date = 1670.1.1
 		claim = 95
-		ADM = 3
-		DIP = 2
-		MIL = 3
+		adm = 3
+		dip = 2
+		mil = 3
 	}
 }
 
@@ -158,9 +158,9 @@ capital = 553	# Sambalpur
 	monarch = {
 		name = "Lal Singh"
 		dynasty = "Chauhan"
-		ADM = 3
-		DIP = 2
-		MIL = 3
+		adm = 3
+		dip = 2
+		mil = 3
 	}
 }
 
@@ -172,9 +172,9 @@ capital = 553	# Sambalpur
 		birth_date = 1648.1.1
 		death_Date = 1670.1.1
 		claim = 95
-		ADM = 1
-		DIP = 2
-		MIL = 0
+		adm = 1
+		dip = 2
+		mil = 0
 	}
 }
 
@@ -182,9 +182,9 @@ capital = 553	# Sambalpur
 	monarch = {
 		name = "Deo Singh"
 		dynasty = "Chauhan"
-		ADM = 1
-		DIP = 2
-		MIL = 0
+		adm = 1
+		dip = 2
+		mil = 0
 	}
 }
 
@@ -196,9 +196,9 @@ capital = 553	# Sambalpur
 		birth_date = 1670.1.1
 		death_Date = 1725.1.1
 		claim = 95
-		ADM = 0
-		DIP = 2
-		MIL = 3
+		adm = 0
+		dip = 2
+		mil = 3
 	}
 }
 
@@ -206,9 +206,9 @@ capital = 553	# Sambalpur
 	monarch = {
 		name = "Chhatrasal"
 		dynasty = "Chauhan"
-		ADM = 0
-		DIP = 2
-		MIL = 3
+		adm = 0
+		dip = 2
+		mil = 3
 	}
 }
 
@@ -220,9 +220,9 @@ capital = 553	# Sambalpur
 		birth_date = 1690.1.1
 		death_Date = 1732.1.1
 		claim = 95
-		ADM = 2
-		DIP = 2
-		MIL = 1
+		adm = 2
+		dip = 2
+		mil = 1
 	}
 }
 
@@ -230,9 +230,9 @@ capital = 553	# Sambalpur
 	monarch = {
 		name = "Ajit Singh"
 		dynasty = "Chauhan"
-		ADM = 2
-		DIP = 2
-		MIL = 1
+		adm = 2
+		dip = 2
+		mil = 1
 	}
 }
 
@@ -244,9 +244,9 @@ capital = 553	# Sambalpur
 		birth_date = 1725.1.1
 		death_Date = 1778.1.1
 		claim = 95
-		ADM = 3
-		DIP = 3
-		MIL = 1
+		adm = 3
+		dip = 3
+		mil = 1
 	}
 }
 
@@ -254,9 +254,9 @@ capital = 553	# Sambalpur
 	monarch = {
 		name = "Abhai Singh"
 		dynasty = "Chauhan"
-		ADM = 3
-		DIP = 3
-		MIL = 1
+		adm = 3
+		dip = 3
+		mil = 1
 	}
 }
 
@@ -268,9 +268,9 @@ capital = 553	# Sambalpur
 		birth_date = 1725.1.1
 		death_Date = 1782.1.1
 		claim = 95
-		ADM = 3
-		DIP = 2
-		MIL = 1
+		adm = 3
+		dip = 2
+		mil = 1
 	}
 }
 
@@ -278,9 +278,9 @@ capital = 553	# Sambalpur
 	monarch = {
 		name = "Balbhadra"
 		dynasty = "Chauhan"
-		ADM = 3
-		DIP = 2
-		MIL = 1
+		adm = 3
+		dip = 2
+		mil = 1
 	}
 }
 
@@ -292,9 +292,9 @@ capital = 553	# Sambalpur
 		birth_date = 1778.1.1
 		death_Date = 1818.1.1
 		claim = 95
-		ADM = 1
-		DIP = 2
-		MIL = 2
+		adm = 1
+		dip = 2
+		mil = 2
 	}
 }
 
@@ -302,9 +302,9 @@ capital = 553	# Sambalpur
 	monarch = {
 		name = "Jayanta"
 		dynasty = "Chauhan"
-		ADM = 1
-		DIP = 2
-		MIL = 2
+		adm = 1
+		dip = 2
+		mil = 2
 	}
 }
 

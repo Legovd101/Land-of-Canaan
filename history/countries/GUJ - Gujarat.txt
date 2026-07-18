@@ -25,9 +25,9 @@ change_brahmins_or_church_land_share_effect = {
 	monarch = {
 		name = "Zafar Khan"
 		dynasty = "Muzaffarid" #Also later known as Ahmad Shahis
-		ADM = 2
-		DIP = 0
-		MIL = 1
+		adm = 2
+		dip = 0
+		mil = 1
 	}
 } 
 1391.1.1 = {
@@ -38,9 +38,9 @@ change_brahmins_or_church_land_share_effect = {
 		birth_date = 1383.1.1
 		death_date = 1407.1.1
 		claim = 95
-		ADM = 1
-		DIP = 2
-		MIL = 2
+		adm = 1
+		dip = 2
+		mil = 2
 	}
 }
 
@@ -50,9 +50,9 @@ change_brahmins_or_church_land_share_effect = {
 	monarch = {
 		name = "Muhammad Shah I"
 		dynasty = "Muzaffarid"
-		ADM = 1
-		DIP = 2
-		MIL = 2
+		adm = 1
+		dip = 2
+		mil = 2
 	}
 }
 
@@ -64,9 +64,9 @@ change_brahmins_or_church_land_share_effect = {
 		birth_date = 1387.1.1
 		death_date = 1411.1.1
 		claim = 95
-		ADM = 2
-		DIP = 2
-		MIL = 2
+		adm = 2
+		dip = 2
+		mil = 2
 	}
 }
 
@@ -74,9 +74,9 @@ change_brahmins_or_church_land_share_effect = {
 	monarch = {
 		name = "Muzaffar Shah"
 		dynasty = "Muzaffarid"
-		ADM = 2
-		DIP = 2
-		MIL = 2
+		adm = 2
+		dip = 2
+		mil = 2
 	}
 }
 
@@ -88,9 +88,9 @@ change_brahmins_or_church_land_share_effect = {
 		birth_date = 1391.1.1
 		death_date = 1442.1.1
 		claim = 95
-		ADM = 1
-		DIP = 4
-		MIL = 4
+		adm = 1
+		dip = 4
+		mil = 4
 	}
 }
 
@@ -98,9 +98,9 @@ change_brahmins_or_church_land_share_effect = {
 	monarch = {
 		name = "Ahmad Shah I"
 		dynasty = "Muzaffarid"
-		ADM = 1
-		DIP = 4
-		MIL = 4
+		adm = 1
+		dip = 4
+		mil = 4
 	}
 }
 
@@ -112,9 +112,9 @@ change_brahmins_or_church_land_share_effect = {
 		birth_date = 1411.1.1
 		death_date = 1451.2.9
 		claim = 95
-		ADM = 3
-		DIP = 2
-		MIL = 3
+		adm = 3
+		dip = 2
+		mil = 3
 	}
 }
 		
@@ -123,9 +123,9 @@ change_brahmins_or_church_land_share_effect = {
 	monarch = {
 		name = "Muhammad Shah II"
 		dynasty = "Muzaffarid"
-		ADM = 3
-		DIP = 2
-		MIL = 3
+		adm = 3
+		dip = 2
+		mil = 3
 	}
 	heir = {
 		name = "Ahmad"
@@ -134,9 +134,9 @@ change_brahmins_or_church_land_share_effect = {
 		birth_date = 1431.1.1
 		death_date = 1459.5.28
 		claim = 95
-		ADM = 2
-		DIP = 2
-		MIL = 1
+		adm = 2
+		dip = 2
+		mil = 1
 	}
 	clear_scripted_personalities = yes
 	add_ruler_personality = tolerant_personality #Nicknamed "Karim", intermarried extensively with Rajputs, employed Hindus in high positions 
@@ -151,9 +151,9 @@ change_brahmins_or_church_land_share_effect = {
 	monarch = {
 		name = "Ahmad Shah II"
 		dynasty = "Muzaffarid"
-		ADM = 2
-		DIP = 2
-		MIL = 1
+		adm = 2
+		dip = 2
+		mil = 1
 	}
 	heir = {
 		name = "Mahmud"
@@ -162,9 +162,9 @@ change_brahmins_or_church_land_share_effect = {
 		birth_date = 1439.1.1
 		death_date = 1511.11.24
 		claim = 95
-		ADM = 4
-		DIP = 5
-		MIL = 5
+		adm = 4
+		dip = 5
+		mil = 5
 	}
 	clear_scripted_personalities = yes
 	add_ruler_personality = bold_fighter_personality
@@ -176,9 +176,9 @@ change_brahmins_or_church_land_share_effect = {
 	monarch = {
 		name = "Mahmud Shah I"
 		dynasty = "Muzaffarid"
-		ADM = 4
-		DIP = 5
-		MIL = 5
+		adm = 4
+		dip = 5
+		mil = 5
 	}
 }
 
@@ -190,9 +190,9 @@ change_brahmins_or_church_land_share_effect = {
 		birth_date = 1459.5.28
 		death_date = 1526.4.7
 		claim = 95
-		ADM = 1
-		DIP = 1
-		MIL = 2
+		adm = 1
+		dip = 1
+		mil = 2
 	}
 }
 
@@ -200,9 +200,9 @@ change_brahmins_or_church_land_share_effect = {
 	monarch = {
 		name = "Muzaffar Shah"
 		dynasty = "Muzaffarid"
-		ADM = 1
-		DIP = 1
-		MIL = 2
+		adm = 1
+		dip = 1
+		mil = 2
 	}
 }
 
@@ -214,9 +214,9 @@ change_brahmins_or_church_land_share_effect = {
 		birth_date = 1500.1.1
 		death_date = 1537.2.14
 		claim = 95
-		ADM = 2
-		DIP = 0
-		MIL = 6
+		adm = 2
+		dip = 0
+		mil = 6
 	}
 }
 
@@ -224,9 +224,9 @@ change_brahmins_or_church_land_share_effect = {
 	monarch = {
 		name = "Bahadur Shah"
 		dynasty = "Muzaffarid"
-		ADM = 2
-		DIP = 0
-		MIL = 6
+		adm = 2
+		dip = 0
+		mil = 6
 	}
 }
 
@@ -238,9 +238,9 @@ change_brahmins_or_church_land_share_effect = {
 		birth_date = 1510.1.1
 		death_date = 1538.5.11
 		claim = 95
-		ADM = 0
-		DIP = 0
-		MIL = 1
+		adm = 0
+		dip = 0
+		mil = 1
 	}
 }
 
@@ -248,9 +248,9 @@ change_brahmins_or_church_land_share_effect = {
 	monarch = {
 		name = "Mubarak Shah"
 		dynasty = "Muzaffarid"
-		ADM = 0
-		DIP = 0
-		MIL = 1
+		adm = 0
+		dip = 0
+		mil = 1
 	}
 }
 
@@ -262,9 +262,9 @@ change_brahmins_or_church_land_share_effect = {
 		birth_date = 1500.1.1
 		death_date = 1554.2.14
 		claim = 95
-		ADM = 3
-		DIP = 2
-		MIL = 3
+		adm = 3
+		dip = 2
+		mil = 3
 	}
 }
 
@@ -272,9 +272,9 @@ change_brahmins_or_church_land_share_effect = {
 	monarch = {
 		name = "Mahmud Shah III"
 		dynasty = "Muzaffarid"
-		ADM = 3
-		DIP = 2
-		MIL = 3
+		adm = 3
+		dip = 2
+		mil = 3
 	}
 }
 
@@ -286,9 +286,9 @@ change_brahmins_or_church_land_share_effect = {
 		birth_date = 1538.5.11
 		death_date = 1556.1.1
 		claim = 95
-		ADM = 0
-		DIP = 1
-		MIL = 0
+		adm = 0
+		dip = 1
+		mil = 0
 	}
 }
 
@@ -304,9 +304,9 @@ change_brahmins_or_church_land_share_effect = {
 	monarch = {
 		name = "Ahmad Shah III"
 		dynasty = "Muzaffarid"
-		ADM = 0
-		DIP = 1
-		MIL = 0
+		adm = 0
+		dip = 1
+		mil = 0
 	}
 }
 
@@ -318,9 +318,9 @@ change_brahmins_or_church_land_share_effect = {
 		birth_date = 1530.1.1
 		death_date = 1562.4.11
 		claim = 95
-		ADM = 3
-		DIP = 2
-		MIL = 1
+		adm = 3
+		dip = 2
+		mil = 1
 	}
 }
 
@@ -328,9 +328,9 @@ change_brahmins_or_church_land_share_effect = {
 	monarch = {
 		name = "Muhammad Shah III"
 		dynasty = "Muzaffarid"
-		ADM = 3
-		DIP = 2
-		MIL = 1
+		adm = 3
+		dip = 2
+		mil = 1
 	}
 }
 
@@ -342,9 +342,9 @@ change_brahmins_or_church_land_share_effect = {
 		birth_date = 1530.1.1
 		death_date = 1593.1.1
 		claim = 95
-		ADM = 0
-		DIP = 0
-		MIL = 0
+		adm = 0
+		dip = 0
+		mil = 0
 	}
 }
 
@@ -352,9 +352,9 @@ change_brahmins_or_church_land_share_effect = {
 	monarch = {
 		name = "Muzaffar Shah III"
 		dynasty = "Muzaffarid"
-		ADM = 0
-		DIP = 0
-		MIL = 0
+		adm = 0
+		dip = 0
+		mil = 0
 	}
 }
 
@@ -365,9 +365,9 @@ change_brahmins_or_church_land_share_effect = {
 	monarch = {
 		name = "Mughal Governors"
 		regent = yes
-		ADM = 0
-		DIP = 0
-		MIL = 0
+		adm = 0
+		dip = 0
+		mil = 0
 	}
 }
 

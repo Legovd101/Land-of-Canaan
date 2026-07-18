@@ -1,0 +1,94 @@
+#Country Name: Please see filename.
+graphical_culture = asiangfx
+color = { 26 100 74 }
+revolutionary_colors = { 0 16 0 }
+historical_score = 0
+historical_idea_groups = { 
+	defensive_ideas
+	spy_ideas
+	trade_ideas
+	offensive_ideas
+	economic_ideas
+	diplomatic_ideas
+	religious_ideas
+	quantity_ideas
+}
+historical_units = { 
+	chinese_longspear
+	eastern_bow
+	chinese_footsoldier
+	chinese_steppe
+	asian_arquebusier
+	asian_charge_cavalry
+	asian_mass_infantry
+	manchu_banner
+	han_banner
+	asian_musketeer
+	chinese_dragoon
+	reformed_asian_musketeer
+	reformed_asian_cavalry
+	reformed_manchu_rifle
+}
+monarch_names = { 
+	"Weiming #0" = 100
+	"Li Deming #0" = 60
+	"Li Yuanhao #0" = 40
+	"Ningling #0" = 40
+	"Li Liangzuo #0" = 20
+	"Li Bingchang #0" = 20
+	"Liangzuo #0" = -20
+	"Li Qianshun #0" = 20
+	"Renzong #0" = 10
+	"Luo #0" = -10
+	"Li Renxiao #0" = 10
+	"Li Yuanhao #0 Qianshun" = 10
+	"Li Xian #0" = 10
+	"Liang #0" = 10
+	"Li Anquan #0" = 5
+	"Li Zunxu #0" = 5
+	"Li Deyong #0" = 1
+	"Asha #0" = 0
+	"Chage #0" = 0
+	"Lhawang #0" = 0
+	"Renbao #0" = 1
+	"Dewang #0" = 0
+	"Zangpu #0" = 0
+	"Xili #0" = 0
+	"Yining #0" = 0
+	"Gulu #0" = 0
+	"Yizong #0" = 0
+	"Ningsheng #0" = 0
+	"Baozong #0" = 0
+	"Chongsi #0" = 0
+	"Deyu #0" = 0
+	"Renshou #0" = 0
+	"Shunqing #0" = 0
+	"Yanshou #0" = 0
+	"Cheng'en #0" = 0
+	"Baoyi #0" = 0
+	"Renhui #0" = 0
+	"Zhongyi #0" = 0
+	"Anren #0" = 0
+	"Desheng #0" = 0
+	"Fusheng #0" = 0
+	"Yicheng #0" = 0
+	"Guiren #0" = 0
+	"Baoqing #0" = 0
+	"Mozang #0" = -10
+	"Liang #0" = -10
+	"Cao #0" = -1
+}
+leader_names = { 
+	Li Yuanhao Deming Qianshun Renxiao Chunyou Anquan Zunxu Deyong Renzong
+	Huanzong Xiangzong Mozang Liang Yeli Yeliwang Chage Asha Renbao Deyu
+	Baoyi Zhongyi Desheng Guiren Ningsheng Baozong Renshou Yicheng Fusheng 
+}
+ship_names = { 
+	Gaodi Huidi Wendi Zhaodi Zhangdi "Da Ming Guo" Beijing "Zeng He" Ji'nan Nanjing
+	Hangzhou Wuchang Fuzhou Nanchang Guilin Guangzhou Guiyang Yunnan Chendo Xi'an
+	Taiyuan "Huang He" "Chang Jiang" "Xijiang" "Kung-fu tzu" Mencius "Xun Zi" "Yan Hui" "Min Sun" "Ran Geng"
+	"Ran Yong" "Zi-you" "Zi-lu" "Zi-wo" "Zi-gong" "Yan Yan" "Zi-xia" "Zi-zhang" "Zeng Shen" "Dantai Mieming"
+	"Fu Buji" "Yuan Xian" "Gungye Chang" "Nangong Guo" "Gongxi Ai" "Zeng Dian" "Yan Wuyao" "Shang Zhu" "Gao Chai" "Qidiao Kai"
+	"Gongbo Liao" "Sima Geng" "Fan Xu" "You Ruo" "Gongxi Chi" "Wuma Shi" "Liang Zhan" "Yan Xing" "Ran Ru" "Cao Xu"
+	"Bo Qian" "Gongsun Long" 
+}

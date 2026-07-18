@@ -2,7 +2,7 @@
 owner = KSH
 controller = KSH
 culture = kashmiri
-religion = hinduism
+religion = astartism
 capital = "Srinagar"
 trade_goods = paper
 base_tax = 3

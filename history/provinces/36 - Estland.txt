@@ -18,4 +18,5 @@ discovered_by = eastern
 discovered_by = slavic_group
 discovered_by = baltic_group
 add_core = VOR
+discovered_by = uralic_group
 fort_15th = yes

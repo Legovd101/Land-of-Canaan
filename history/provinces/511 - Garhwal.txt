@@ -1,7 +1,7 @@
 #511 - Garhwal
 owner = GHR
 controller = GHR
-culture = pahari
+culture = nepali
 religion = hinduism
 capital = "Devalgarh"
 trade_goods = cotton

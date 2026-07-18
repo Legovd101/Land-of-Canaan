@@ -12,9 +12,9 @@ capital = 554	#Gorkha
 	monarch = {
 		name = "Lohanga" # or Lo Hang
 		dynasty = "Sen"
-		ADM = 3
-		DIP = 2
-		MIL = 4
+		adm = 3
+		dip = 2
+		mil = 4
 	}
 }
 
@@ -22,9 +22,9 @@ capital = 554	#Gorkha
 	monarch = {
 		name = "Harihar"
 		dynasty = "Sen"
-		ADM = 2
-		DIP = 0
-		MIL = 0
+		adm = 2
+		dip = 0
+		mil = 0
 	}
 }
 
@@ -32,9 +32,9 @@ capital = 554	#Gorkha
 	monarch = {
 		name = "Subha"
 		dynasty = "Sen"
-		ADM = 2
-		DIP = 3
-		MIL = 2
+		adm = 2
+		dip = 3
+		mil = 2
 	}
 }
 
@@ -43,9 +43,9 @@ capital = 554	#Gorkha
 		name = "Padmidhata Induraj"
 		dynasty = "Sen"
 		female = yes
-		ADM = 3
-		DIP = 4
-		MIL = 3
+		adm = 3
+		dip = 4
+		mil = 3
 	}
 }
 
@@ -53,9 +53,9 @@ capital = 554	#Gorkha
 	monarch = {
 		name = "Mahipati"
 		dynasty = "Sen"
-		ADM = 2
-		DIP = 3
-		MIL = 2
+		adm = 2
+		dip = 3
+		mil = 2
 	}
 }
 
@@ -63,9 +63,9 @@ capital = 554	#Gorkha
 	monarch = {
 		name = "Kamadatta"
 		dynasty = "Sen"
-		ADM = 3
-		DIP = 3
-		MIL = 0
+		adm = 3
+		dip = 3
+		mil = 0
 	}
 }
 

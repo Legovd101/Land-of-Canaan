@@ -426,3 +426,46 @@ NYK = "countries/Nyekeszag.txt" # Magyar
 TLE = "countries/Talae.txt" # Koreanic
 TND = "countries/Tunnadunne.txt" # Evenki
 BLK = "countries/Balkan Ulus.txt" # Turkmen
+
+ # India
+ ## Hellenic
+GAN = "countries/Gangaridai.txt"
+SRA = "countries/Syrastrene.txt"
+SNG = "countries/Sangala.txt"
+
+ ## Indo-Aryan
+JNG = "countries/Jangalapuri.txt"
+KHP = "countries/Kuhapur.txt"
+BHN = "countries/Bhatnair.txt"
+DRA = "countries/Idra.txt"
+TRN = "countries/Trinara.txt"
+JMM = "countries/Jammu.txt"
+JBN = "countries/Jobnathnagar.txt"
+GTP = "countries/Guttapur.txt"
+VTS = "countries/Vatsagulma.txt"
+MHU = "countries/Mahur.txt"
+
+ ## Dravidian
+HOY = "countries/Hoysala.txt"
+
+ ## Other
+BIL = "countries/Biliu Lhi.txt" # Tangut
+BTB = "countries/Beit Abba.txt" # Aramaic
+THN = "countries/Thana.txt" # Semitic
+SML = "countries/Samula.txt" # Semitic
+GZN = "countries/Gizin.txt" # Semitic
+RJB = "countries/Arijab.txt" # Semitic
+QMN = "countries/Qumana.txt" # Semitic
+DVJ = "countries/Devlijjejja.txt" # Wanniyalaeto
+BHR = "countries/Biharorszag.txt" # Magyar
+
+ # China
+ ## Magyar
+MRU = "countries/Mairuosao.txt"
+
+ ## Indo-Aryan
+
+ ## Dravidian
+
+ ## Other
+BIL = "countries/Biliu Lhi.txt" # Tangut

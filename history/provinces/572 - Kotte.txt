@@ -1,6 +1,6 @@
 #572 - Kotte
-owner = CEY
-controller = CEY
+owner = DVJ
+controller = DVJ
 culture = sinhala
 religion = buddhism
 capital = "Kotte"
@@ -9,6 +9,7 @@ base_tax = 3
 base_production = 2
 base_manpower = 2
 is_city = yes
+add_core = DVJ
 add_core = CEY
 discovered_by = east_african
 discovered_by = cushitic_group

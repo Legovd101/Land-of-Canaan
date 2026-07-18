@@ -1,6 +1,6 @@
 #4470 - Soumelpur
-owner = NGP
-controller = NGP
+owner = ORI
+controller = ORI
 culture = jharkhandi
 religion = hinduism
 capital = "Soumelpur"
@@ -9,7 +9,6 @@ base_tax = 1
 base_production = 2
 base_manpower = 1
 is_city = yes
-add_core = NGP
 discovered_by = indian
 discovered_by = nomad_group
 discovered_by = uralic_group
@@ -19,3 +18,4 @@ discovered_by = ottoman
 discovered_by = serican_group
 discovered_by = iranic_group
 discovered_by = chinese
+add_core = ORI

@@ -1,16 +1,15 @@
 #4411 - Samana
-owner = SRH
-controller = SRH
-culture = panjabi
-religion = hinduism
-capital = "Samana"
-trade_goods = cloth#Samianas
+owner = DRA
+controller = DRA
+culture = kanauji
+religion = astartism
+capital = "Idra"
+trade_goods = cloth #Samianas
 base_tax = 3
 base_production = 3
 base_manpower = 1
 is_city = yes
 add_core = DLH
-add_core = SRH
 add_core = PTA
 discovered_by = indian
 discovered_by = nomad_group
@@ -22,3 +21,4 @@ discovered_by = thraco_illyrian
 discovered_by = serican_group
 discovered_by = iranic_group
 discovered_by = chinese
+add_core = DRA

@@ -3,16 +3,16 @@ add_government_reform = feudalism_reform
 technology_group = indian
 primary_culture = nepali
 religion = vajrayana
-capital = 4483	#Morang
+capital = 2071	#Morang
 
 # Ing dynasty of Morang
 1444.1.1 = {
 	monarch = {
 		name = "Sangla"
 		dynasty = "Ing"
-		ADM = 3
-		DIP = 1
-		MIL = 2
+		adm = 3
+		dip = 1
+		mil = 2
 	}
 }
 
@@ -24,9 +24,9 @@ capital = 4483	#Morang
 		birth_date = 1430.1.1
 		death_date = 1480.1.1
 		claim = 95
-		ADM = 3
-		DIP = 2
-		MIL = 3
+		adm = 3
+		dip = 2
+		mil = 3
 	}
 }
 
@@ -38,9 +38,9 @@ capital = 4483	#Morang
 	monarch = {
 		name = "Pungla"
 		dynasty = "Ing"
-		ADM = 3
-		DIP = 2
-		MIL = 3
+		adm = 3
+		dip = 2
+		mil = 3
 	}
 }
 
@@ -48,9 +48,9 @@ capital = 4483	#Morang
 	monarch = {
 		name = "Kirti Narayan"
 		dynasty = "Ing"
-		ADM = 0
-		DIP = 2
-		MIL = 3
+		adm = 0
+		dip = 2
+		mil = 3
 	}
 }
 
@@ -58,9 +58,9 @@ capital = 4483	#Morang
 	monarch = {
 		name = "Ap Narayan"
 		dynasty = "Ing"
-		ADM = 3
-		DIP = 3
-		MIL = 3
+		adm = 3
+		dip = 3
+		mil = 3
 	}
 }
 
@@ -68,9 +68,9 @@ capital = 4483	#Morang
 	monarch = {
 		name = "Jarai Narayan"
 		dynasty = "Ing"
-		ADM = 3
-		DIP = 3
-		MIL = 0
+		adm = 3
+		dip = 3
+		mil = 0
 	}
 }
 
@@ -78,9 +78,9 @@ capital = 4483	#Morang
 	monarch = {
 		name = "Indhing Narayan"
 		dynasty = "Ing"
-		ADM = 1
-		DIP = 1
-		MIL = 1
+		adm = 1
+		dip = 1
+		mil = 1
 	}
 }
 
@@ -88,9 +88,9 @@ capital = 4483	#Morang
 	monarch = {
 		name = "Bijay Narayan"
 		dynasty = "Ing"
-		ADM = 1
-		DIP = 2
-		MIL = 1
+		adm = 1
+		dip = 2
+		mil = 1
 	}
 }
 
@@ -98,9 +98,9 @@ capital = 4483	#Morang
 	monarch = {
 		name = "Bidya Chandra"
 		dynasty = "Khebang"
-		ADM = 3
-		DIP = 0
-		MIL = 0
+		adm = 3
+		dip = 0
+		mil = 0
 	}
 }
 
@@ -110,8 +110,8 @@ capital = 4483	#Morang
 	monarch = {
 		name = "Budhi Karna"
 		dynasty = "Khebang"
-		ADM = 3
-		DIP = 3
-		MIL = 3
+		adm = 3
+		dip = 3
+		mil = 3
 	}
 }

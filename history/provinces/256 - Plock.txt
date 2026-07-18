@@ -28,4 +28,5 @@ discovered_by = thraco_illyrian
 discovered_by = serican_group
 discovered_by = iranic_group
 add_core = MAZ
+discovered_by = uralic_group
 fort_15th = yes

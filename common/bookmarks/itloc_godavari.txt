@@ -1,0 +1,11 @@
+bookmark = {
+	name = "BREACH_OF_THE_GODAVARI"
+	desc = "BREACH_OF_THE_GODAVARI_DESC"
+	date = "1444.11.11"
+	center = 2032
+	country = HOY
+	country = CHD
+	country = DVJ
+	country = JFN
+	easy_country = HOY
+}

@@ -2,7 +2,7 @@
 owner = VND
 controller = VND
 culture = malayalam
-religion = hinduism
+religion = arab_pagan
 capital = "Kumari"
 trade_goods = spices
 base_tax = 2

@@ -1,7 +1,6 @@
 #710 - Hotan
-owner = KAS
-controller = KAS
-add_core = KAS
+owner = MRU
+controller = MRU
 culture = uyghur
 religion = vajrayana
 capital = "Hotan"
@@ -17,3 +16,4 @@ extra_cost = 8
 center_of_trade = 1
 discovered_by = BUY
 discovered_by = OSE
+add_core = MRU

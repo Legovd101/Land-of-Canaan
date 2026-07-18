@@ -1,7 +1,6 @@
 #X2 - Turpan
-owner = CHG# ruled by a Chagataiid 
-controller = CHG
-add_core = CHG
+owner = MRU# ruled by a Chagataiid 
+controller = MRU
 culture = uyghur
 religion = tengri_pagan_reformed
 capital = "Balikul"
@@ -13,3 +12,4 @@ is_city = yes
 discovered_by = chinese
 discovered_by = nomad_group
 discovered_by = uralic_group
+add_core = MRU

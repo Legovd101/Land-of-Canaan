@@ -27,27 +27,27 @@ add_army_professionalism = 0.05
 1390.1.1 = {
 	monarch = {
 		name = "Gian Galeazzo I"
-		ADM = 2
-		DIP = 3
-		MIL = 2
+		adm = 2
+		dip = 3
+		mil = 2
 	}
 }
 
 1402.1.1 = {
 	monarch = {
 		name = "Giovanni Maria I"
-		ADM = 3
-		DIP = 1
-		MIL = 2
+		adm = 3
+		dip = 1
+		mil = 2
 	}
 }
 
 1404.1.1 = {
 	monarch = {
 		name = "Repubblica"
-		ADM = 1
-		DIP = 1
-		MIL = 2
+		adm = 1
+		dip = 1
+		mil = 2
 		regent = yes
 	}
 }
@@ -56,9 +56,9 @@ add_army_professionalism = 0.05
 	monarch = {
 		name = "Pandolfo Petrucci"
 		birth_date = 1452.2.14
-		ADM = 2
-		DIP = 4
-		MIL = 4
+		adm = 2
+		dip = 4
+		mil = 4
 	}
 }
 
@@ -66,8 +66,8 @@ add_army_professionalism = 0.05
 	monarch = {
 		name = "Cesare Borgia"
 		birth_date = 1475.9.13
-		ADM = 5
-		MIL = 3
+		adm = 5
+		mil = 3
 	}
 }
 
@@ -75,9 +75,9 @@ add_army_professionalism = 0.05
 	monarch = {
 		name = "Pandolfo Petrucci"
 		birth_date = 1452.2.14
-		ADM = 2
-		DIP = 4
-		MIL = 4
+		adm = 2
+		dip = 4
+		mil = 4
 	}
 }
 
@@ -85,7 +85,7 @@ add_army_professionalism = 0.05
 	monarch = {
 		name = "Borghese Petrucci"
 		birth_date = 1512.1.1
-		ADM = 2
+		adm = 2
 	}
 }
 
@@ -93,9 +93,9 @@ add_army_professionalism = 0.05
 	monarch = {
 		name = "Raffaele Petrucci"
 		birth_date = 1472.1.1
-		ADM = 1
-		DIP = 1
-		MIL = 1
+		adm = 1
+		dip = 1
+		mil = 1
 	}
 }
 
@@ -103,9 +103,9 @@ add_army_professionalism = 0.05
 	monarch = {
 		name = "Francesco Petrucci"
 		birth_date = 1482.1.1
-		ADM = 1
-		DIP = 1
-		MIL = 1
+		adm = 1
+		dip = 1
+		mil = 1
 	}
 }
 
@@ -113,9 +113,9 @@ add_army_professionalism = 0.05
 	monarch = {
 		name = "Fabio Petrucci"
 		birth_date = 1482.1.1
-		ADM = 1
-		DIP = 1
-		MIL = 1
+		adm = 1
+		dip = 1
+		mil = 1
 	}
 }
 

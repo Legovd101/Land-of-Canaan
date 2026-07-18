@@ -1,0 +1,14 @@
+bookmark = {
+	name = "ARABES_ET_AL"
+	desc = "ARABES_ET_AL_DESC"
+	date = "1444.11.11"
+	center = 396
+	country = TLM
+	country = KBG
+	country = MGN
+	country = YEM
+	country = IMF
+	country = JDD
+	easy_country = TLM
+	easy_country = KBG
+}

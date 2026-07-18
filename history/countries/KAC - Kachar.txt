@@ -10,9 +10,9 @@ capital = 570	# Dimapur
 	monarch = {
 		name = "Manipha"
 		dynasty = "Dimasa"
-		ADM = 0
-		DIP = 0
-		MIL = 3
+		adm = 0
+		dip = 0
+		mil = 3
 	}
 }
 
@@ -24,9 +24,9 @@ capital = 570	# Dimapur
 		claim = 90
 		birth_date = 1400.1.1
 		death_date = 1480.1.1
-		ADM = 0
-		DIP = 2
-		MIL = 2
+		adm = 0
+		dip = 2
+		mil = 2
 	}
 }
 
@@ -34,9 +34,9 @@ capital = 570	# Dimapur
 	monarch = {
 		name = "Ladapha"
 		dynasty = "Dimasa"
-		ADM = 0
-		DIP = 2
-		MIL = 2
+		adm = 0
+		dip = 2
+		mil = 2
 	}
 }
 
@@ -48,9 +48,9 @@ capital = 570	# Dimapur
 		claim = 90
 		birth_date = 1400.1.1
 		death_date = 1480.1.1
-		ADM = 0
-		DIP = 1
-		MIL = 1
+		adm = 0
+		dip = 1
+		mil = 1
 	}
 }
 
@@ -58,9 +58,9 @@ capital = 570	# Dimapur
 	monarch = {
 		name = "Khorapha"
 		dynasty = "Dimasa"
-		ADM = 0
-		DIP = 1
-		MIL = 1
+		adm = 0
+		dip = 1
+		mil = 1
 	}
 }
 
@@ -72,9 +72,9 @@ capital = 570	# Dimapur
 		claim = 90
 		birth_date = 1420.1.1
 		death_date = 1500.1.1
-		ADM = 0
-		DIP = 1
-		MIL = 0
+		adm = 0
+		dip = 1
+		mil = 0
 	}
 }
 
@@ -82,9 +82,9 @@ capital = 570	# Dimapur
 	monarch = {
 		name = "Khunkhorapha"
 		dynasty = "Dimasa"
-		ADM = 0
-		DIP = 1
-		MIL = 0
+		adm = 0
+		dip = 1
+		mil = 0
 	}
 }
 
@@ -96,9 +96,9 @@ capital = 570	# Dimapur
 		claim = 90
 		birth_date = 1450.1.1
 		death_date = 1520.1.1
-		ADM = 2
-		DIP = 2
-		MIL = 0
+		adm = 2
+		dip = 2
+		mil = 0
 	}
 }
 
@@ -106,9 +106,9 @@ capital = 570	# Dimapur
 	monarch = {
 		name = "Detsungpha"
 		dynasty = "Dimasa"
-		ADM = 2
-		DIP = 2
-		MIL = 0
+		adm = 2
+		dip = 2
+		mil = 0
 	}
 }
 
@@ -120,9 +120,9 @@ capital = 570	# Dimapur
 		claim = 90
 		birth_date = 1520.1.1
 		death_date = 1576.1.1
-		ADM = 2
-		DIP = 1
-		MIL = 3
+		adm = 2
+		dip = 1
+		mil = 3
 	}
 }
 
@@ -136,9 +136,9 @@ capital = 570	# Dimapur
 	monarch = {
 		name = "Nirbhay Narayan"
 		dynasty = "Dimasa"
-		ADM = 2
-		DIP = 1
-		MIL = 3
+		adm = 2
+		dip = 1
+		mil = 3
 	}
 }
 
@@ -150,9 +150,9 @@ capital = 570	# Dimapur
 		claim = 90
 		birth_date = 1520.1.1
 		death_date = 1576.1.1
-		ADM = 0
-		DIP = 0
-		MIL = 0
+		adm = 0
+		dip = 0
+		mil = 0
 	}
 }
 
@@ -160,9 +160,9 @@ capital = 570	# Dimapur
 	monarch = {
 		name = "Harmesvar"
 		dynasty = "Dimasa"
-		ADM = 0
-		DIP = 0
-		MIL = 0
+		adm = 0
+		dip = 0
+		mil = 0
 	}
 }
 
@@ -174,9 +174,9 @@ capital = 570	# Dimapur
 		claim = 90
 		birth_date = 1530.1.1
 		death_date = 1583.1.1
-		ADM = 1
-		DIP = 2
-		MIL = 0
+		adm = 1
+		dip = 2
+		mil = 0
 	}
 }
 
@@ -184,9 +184,9 @@ capital = 570	# Dimapur
 	monarch = {
 		name = "Megha Narayana"
 		dynasty = "Dimasa"
-		ADM = 1
-		DIP = 2
-		MIL = 0
+		adm = 1
+		dip = 2
+		mil = 0
 	}
 }
 
@@ -198,9 +198,9 @@ capital = 570	# Dimapur
 		claim = 90
 		birth_date = 1550.1.1
 		death_date = 1613.1.1
-		ADM = 2
-		DIP = 2
-		MIL = 0
+		adm = 2
+		dip = 2
+		mil = 0
 	}
 }
 
@@ -208,9 +208,9 @@ capital = 570	# Dimapur
 	monarch = {
 		name = "Satrrudaman"
 		dynasty = "Dimasa"
-		ADM = 2
-		DIP = 2
-		MIL = 0
+		adm = 2
+		dip = 2
+		mil = 0
 	}
 }
 
@@ -222,9 +222,9 @@ capital = 570	# Dimapur
 		claim = 90
 		birth_date = 1570.1.1
 		death_date = 1637.1.1
-		ADM = 0
-		DIP = 3
-		MIL = 0
+		adm = 0
+		dip = 3
+		mil = 0
 	}
 }
 
@@ -232,9 +232,9 @@ capital = 570	# Dimapur
 	monarch = {
 		name = "Nar Narayan"
 		dynasty = "Dimasa"
-		ADM = 0
-		DIP = 3
-		MIL = 0
+		adm = 0
+		dip = 3
+		mil = 0
 	}
 }
 
@@ -246,9 +246,9 @@ capital = 570	# Dimapur
 		claim = 90
 		birth_date = 1600.1.1
 		death_date = 1637.6.1
-		ADM = 1
-		DIP = 3
-		MIL = 0
+		adm = 1
+		dip = 3
+		mil = 0
 	}
 }
 
@@ -256,9 +256,9 @@ capital = 570	# Dimapur
 	monarch = {
 		name = "Bhimdarpa Narayan"
 		dynasty = "Dimasa"
-		ADM = 1
-		DIP = 3
-		MIL = 0
+		adm = 1
+		dip = 3
+		mil = 0
 	}
 }
 
@@ -266,9 +266,9 @@ capital = 570	# Dimapur
 	monarch = {
 		name = "Indraballabh Naraya"
 		dynasty = "Dimasa"
-		ADM = 2
-		DIP = 2
-		MIL = 0
+		adm = 2
+		dip = 2
+		mil = 0
 	}
 }
 
@@ -280,9 +280,9 @@ capital = 570	# Dimapur
 		claim = 90
 		birth_date = 1620.1.1
 		death_date = 1681.1.1
-		ADM = 3
-		DIP = 3
-		MIL = 3
+		adm = 3
+		dip = 3
+		mil = 3
 	}
 }
 
@@ -290,9 +290,9 @@ capital = 570	# Dimapur
 	monarch = {
 		name = "Birdarpa Narayan"
 		dynasty = "Dimasa"
-		ADM = 3
-		DIP = 3
-		MIL = 3
+		adm = 3
+		dip = 3
+		mil = 3
 	}
 }
 
@@ -304,9 +304,9 @@ capital = 570	# Dimapur
 		claim = 90
 		birth_date = 1670.1.1
 		death_date = 1690.1.1
-		ADM = 2
-		DIP = 1
-		MIL = 0
+		adm = 2
+		dip = 1
+		mil = 0
 	}
 }
 
@@ -314,9 +314,9 @@ capital = 570	# Dimapur
 	monarch = {
 		name = "Garurdhwaj Narayan"
 		dynasty = "Dimasa"
-		ADM = 2
-		DIP = 1
-		MIL = 0
+		adm = 2
+		dip = 1
+		mil = 0
 	}
 }
 
@@ -328,9 +328,9 @@ capital = 570	# Dimapur
 		claim = 90
 		birth_date = 1672.1.1
 		death_date = 1690.1.1
-		ADM = 2
-		DIP = 0
-		MIL = 0
+		adm = 2
+		dip = 0
+		mil = 0
 	}
 }
 
@@ -338,9 +338,9 @@ capital = 570	# Dimapur
 	monarch = {
 		name = "Makardhwaj"
 		dynasty = "Dimasa"
-		ADM = 2
-		DIP = 0
-		MIL = 0
+		adm = 2
+		dip = 0
+		mil = 0
 	}
 }
 
@@ -352,9 +352,9 @@ capital = 570	# Dimapur
 		claim = 90
 		birth_date = 1672.1.1
 		death_date = 1695.1.1
-		ADM = 2
-		DIP = 0
-		MIL = 1
+		adm = 2
+		dip = 0
+		mil = 1
 	}
 }
 
@@ -362,9 +362,9 @@ capital = 570	# Dimapur
 	monarch = {
 		name = "Udayaditya"
 		dynasty = "Dimasa"
-		ADM = 2
-		DIP = 0
-		MIL = 1
+		adm = 2
+		dip = 0
+		mil = 1
 	}
 }
 
@@ -376,9 +376,9 @@ capital = 570	# Dimapur
 		claim = 90
 		birth_date = 1675.1.1
 		death_date = 1708.1.1
-		ADM = 0
-		DIP = 0
-		MIL = 1
+		adm = 0
+		dip = 0
+		mil = 1
 	}
 }
 
@@ -386,9 +386,9 @@ capital = 570	# Dimapur
 	monarch = {
 		name = "Tamradhwaj Narayan"
 		dynasty = "Dimasa"
-		ADM = 0
-		DIP = 0
-		MIL = 1
+		adm = 0
+		dip = 0
+		mil = 1
 	}
 }
 
@@ -401,9 +401,9 @@ capital = 570	# Dimapur
 		female = yes
 		birth_date = 1680.1.1
 		death_date = 1720.1.1
-		ADM = 3
-		DIP = 4
-		MIL = 1
+		adm = 3
+		dip = 4
+		mil = 1
 	}
 }
 
@@ -412,9 +412,9 @@ capital = 570	# Dimapur
 		name = "Chandraprabha"
 		dynasty = "Dimasa"
 		female = yes
-		ADM = 3
-		DIP = 4
-		MIL = 1
+		adm = 3
+		dip = 4
+		mil = 1
 	}
 }
 
@@ -426,9 +426,9 @@ capital = 570	# Dimapur
 		claim = 90
 		birth_date = 1690.1.1
 		death_date = 1730.1.1
-		ADM = 1
-		DIP = 1
-		MIL = 1
+		adm = 1
+		dip = 1
+		mil = 1
 	}
 }
 
@@ -436,9 +436,9 @@ capital = 570	# Dimapur
 	monarch = {
 		name = "Suradarpa Narayan"
 		dynasty = "Dimasa"
-		ADM = 1
-		DIP = 1
-		MIL = 1
+		adm = 1
+		dip = 1
+		mil = 1
 	}
 }
 
@@ -450,9 +450,9 @@ capital = 570	# Dimapur
 		claim = 90
 		birth_date = 1700.1.1
 		death_date = 1735.1.1
-		ADM = 1
-		DIP = 3
-		MIL = 1
+		adm = 1
+		dip = 3
+		mil = 1
 	}
 }
 
@@ -460,9 +460,9 @@ capital = 570	# Dimapur
 	monarch = {
 		name = "Dharmadhwaj Narayan"
 		dynasty = "Dimasa"
-		ADM = 1
-		DIP = 3
-		MIL = 1
+		adm = 1
+		dip = 3
+		mil = 1
 	}
 }
 
@@ -474,9 +474,9 @@ capital = 570	# Dimapur
 		claim = 90
 		birth_date = 1710.1.1
 		death_date = 1745.1.1
-		ADM = 2
-		DIP = 3
-		MIL = 1
+		adm = 2
+		dip = 3
+		mil = 1
 	}
 }
 
@@ -484,9 +484,9 @@ capital = 570	# Dimapur
 	monarch = {
 		name = "Kirichandra Narayan"
 		dynasty = "Dimasa"
-		ADM = 2
-		DIP = 3
-		MIL = 1
+		adm = 2
+		dip = 3
+		mil = 1
 	}
 }
 
@@ -498,9 +498,9 @@ capital = 570	# Dimapur
 		claim = 90
 		birth_date = 1720.1.1
 		death_date = 1757.1.1
-		ADM = 3
-		DIP = 3
-		MIL = 2
+		adm = 3
+		dip = 3
+		mil = 2
 	}
 }
 
@@ -508,9 +508,9 @@ capital = 570	# Dimapur
 	monarch = {
 		name = "Gopichandra Narayan"
 		dynasty = "Dimasa"
-		ADM = 3
-		DIP = 3
-		MIL = 2
+		adm = 3
+		dip = 3
+		mil = 2
 	}
 }
 
@@ -522,9 +522,9 @@ capital = 570	# Dimapur
 		claim = 90
 		birth_date = 1730.1.1
 		death_date = 1772.1.1
-		ADM = 1
-		DIP = 3
-		MIL = 1
+		adm = 1
+		dip = 3
+		mil = 1
 	}
 }
 
@@ -532,9 +532,9 @@ capital = 570	# Dimapur
 	monarch = {
 		name = "Harischandra"
 		dynasty = "Dimasa"
-		ADM = 1
-		DIP = 3
-		MIL = 1
+		adm = 1
+		dip = 3
+		mil = 1
 	}
 }
 
@@ -546,9 +546,9 @@ capital = 570	# Dimapur
 		claim = 90
 		birth_date = 1740.1.1
 		death_date = 1813.1.1
-		ADM = 3
-		DIP = 4
-		MIL = 1
+		adm = 3
+		dip = 4
+		mil = 1
 	}
 }
 
@@ -556,9 +556,9 @@ capital = 570	# Dimapur
 	monarch = {
 		name = "Krishnachandra Narayan"
 		dynasty = "Dimasa"
-		ADM = 3
-		DIP = 4
-		MIL = 1
+		adm = 3
+		dip = 4
+		mil = 1
 	}
 }
 
@@ -570,9 +570,9 @@ capital = 570	# Dimapur
 		claim = 90
 		birth_date = 1760.1.1
 		death_date = 1830.1.1
-		ADM = 0
-		DIP = 2
-		MIL = 1
+		adm = 0
+		dip = 2
+		mil = 1
 	}
 }
 
@@ -580,8 +580,8 @@ capital = 570	# Dimapur
 	monarch = {
 		name = "Gobindchandra Narayan"
 		dynasty = "Dimasa"
-		ADM = 0
-		DIP = 2
-		MIL = 1
+		adm = 0
+		dip = 2
+		mil = 1
 	}
 }

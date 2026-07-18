@@ -1,6 +1,6 @@
 #2062 - Panipat
-owner = MUL
-controller = MUL
+owner = JAN
+controller = JAN
 culture = kanauji
 religion = hinduism
 capital = "Panipat"
@@ -11,7 +11,6 @@ base_manpower = 3
 is_city = yes
 add_core = DLH
 add_core = SRH
-add_core = MUL
 add_jains_or_burghers_effect = yes
 discovered_by = indian
 discovered_by = nomad_group
@@ -23,3 +22,4 @@ discovered_by = thraco_illyrian
 discovered_by = serican_group
 discovered_by = iranic_group
 discovered_by = chinese
+add_core = JAN

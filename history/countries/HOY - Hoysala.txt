@@ -1,0 +1,17 @@
+capital = 2032
+technology_group = indian
+government = monarchy
+government_rank = 3
+primary_culture = kannada
+religion = jain
+technology_group = indian
+
+1440.1.1 = {
+	monarch = {
+		name = "Vishnuvardhana"
+		dynasty = "Hoysala"
+		adm = 5
+		dip = 4
+		mil = 3
+	}
+}

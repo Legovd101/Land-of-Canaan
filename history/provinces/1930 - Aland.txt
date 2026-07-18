@@ -55,3 +55,4 @@ discovered_by = iranic_group
 	add_core = RUS
 }
 add_core = FIN
+discovered_by = uralic_group

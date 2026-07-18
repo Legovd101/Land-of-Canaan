@@ -1,7 +1,7 @@
 #4430 - Daman
 owner = AHM
 controller = AHM
-culture = marathi
+culture = konkani
 religion = hinduism
 capital = "Daman"
 trade_goods = cloth

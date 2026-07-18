@@ -11,9 +11,9 @@ capital = 582	# Mong Yang
 	monarch = {
 		name = "Sao Ngan Pha"
 		dynasty = "Mong Kawng"
-		ADM = 2
-		DIP = 2
-		MIL = 2
+		adm = 2
+		dip = 2
+		mil = 2
 	}
 }
 
@@ -25,9 +25,9 @@ capital = 582	# Mong Yang
 		birth_date = 1420.1.1
 		death_date = 1449.1.1
 		claim = 95
-		ADM = 2
-		DIP = 2
-		MIL = 2
+		adm = 2
+		dip = 2
+		mil = 2
 	}
 }
 
@@ -35,9 +35,9 @@ capital = 582	# Mong Yang
 	monarch = {
 		name = "Sao Hsi Pha"
 		dynasty = "Mong Kawng"
-		ADM = 2
-		DIP = 2
-		MIL = 2
+		adm = 2
+		dip = 2
+		mil = 2
 	}
 }
 
@@ -49,9 +49,9 @@ capital = 582	# Mong Yang
 		birth_date = 1440.1.1
 		death_date = 1460.1.1
 		claim = 95
-		ADM = 1
-		DIP = 1
-		MIL = 1
+		adm = 1
+		dip = 1
+		mil = 1
 	}
 }
 
@@ -59,9 +59,9 @@ capital = 582	# Mong Yang
 	monarch = {
 		name = "Sao Pu Pha"
 		dynasty = "Mong Kawng"
-		ADM = 1
-		DIP = 1
-		MIL = 1
+		adm = 1
+		dip = 1
+		mil = 1
 	}
 }
 
@@ -71,9 +71,9 @@ capital = 582	# Mong Yang
 	monarch = {
 		name = "Sawlon"
 		dynasty = "Mong Yang"
-		ADM = 4
-		DIP = 3
-		MIL = 3
+		adm = 4
+		dip = 3
+		mil = 3
 	}
 }
 
@@ -85,9 +85,9 @@ capital = 582	# Mong Yang
 		birth_date = 1486.4.2
 		death_date = 1533.1.1
 		claim = 95
-		ADM = 4
-		DIP = 4
-		MIL = 5
+		adm = 4
+		dip = 4
+		mil = 5
 	}
 }
 
@@ -95,9 +95,9 @@ capital = 582	# Mong Yang
 	monarch = {
 		name = "Sawlon II"
 		dynasty = "Mong Yang"
-		ADM = 4
-		DIP = 4
-		MIL = 5
+		adm = 4
+		dip = 4
+		mil = 5
 	}
 }
 
@@ -109,9 +109,9 @@ capital = 582	# Mong Yang
 		birth_date = 1505.1.1
 		death_date = 1542.5.1
 		claim = 95
-		ADM = 3
-		DIP = 2
-		MIL = 3
+		adm = 3
+		dip = 2
+		mil = 3
 	}
 }
 
@@ -119,8 +119,8 @@ capital = 582	# Mong Yang
 	monarch = {
 		name = "Sao Hung Pha"
 		dynasty = "Mong Yang"
-		ADM = 3
-		DIP = 2
-		MIL = 3
+		adm = 3
+		dip = 2
+		mil = 3
 	}
 }

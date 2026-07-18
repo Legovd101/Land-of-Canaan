@@ -1,0 +1,7 @@
+religion = confucianism
+capital = 700
+technology_group = uralic_group
+primary_culture = hungarian
+government = monarchy
+add_government_reform = celestial_empire
+government_rank = 1

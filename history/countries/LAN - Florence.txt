@@ -26,9 +26,9 @@ add_army_professionalism = 0.05
 	monarch = {
 		name = "Giovanni"
 		dynasty = "de' Medici"
-		ADM = 3
-		DIP = 4
-		MIL = 1
+		adm = 3
+		dip = 4
+		mil = 1
 	}
 }
 
@@ -37,9 +37,9 @@ add_army_professionalism = 0.05
 		name = "Cosimo"
 		dynasty = "de' Medici"
 		birth_date = 1389.9.27
-		ADM = 6
-		DIP = 5
-		MIL = 5
+		adm = 6
+		dip = 5
+		mil = 5
 	}
 }
 
@@ -48,9 +48,9 @@ add_army_professionalism = 0.05
 		name = "Piero il Gottoso"
 		dynasty = "de' Medici"
 		birth_date = 1416.1.1
-		ADM = 3
-		DIP = 2
-		MIL = 2
+		adm = 3
+		dip = 2
+		mil = 2
 	}
 }
 
@@ -59,9 +59,9 @@ add_army_professionalism = 0.05
 		name = "Lorenzo il Magnifico"
 		dynasty = "de' Medici"
 		birth_date = 1449.1.1
-		ADM = 6
-		DIP = 4
-		MIL = 3
+		adm = 6
+		dip = 4
+		mil = 3
 	}
 }
 
@@ -93,9 +93,9 @@ add_army_professionalism = 0.05
 		name = "Piero il Fatuo"
 		dynasty = "de' Medici"
 		birth_date = 1472.2.15
-		ADM = 3
-		DIP = 5
-		MIL = 4
+		adm = 3
+		dip = 5
+		mil = 4
 	}
 }
 
@@ -103,9 +103,9 @@ add_army_professionalism = 0.05
 	monarch = {
 		name = "Girolamo Savonarola"
 		birth_date = 1452.1.1
-		ADM = 5
-		DIP = 5
-		MIL = 3
+		adm = 5
+		dip = 5
+		mil = 3
 	}
 }
 
@@ -125,9 +125,9 @@ add_army_professionalism = 0.05
 	monarch = {
 		name = "Piero Soderini"
 		birth_date = 1452.5.18
-		ADM = 3
-		DIP = 5
-		MIL = 4
+		adm = 3
+		dip = 5
+		mil = 4
 	}
 }
 
@@ -136,9 +136,9 @@ add_army_professionalism = 0.05
 		name = "Giuliano"
 		dynasty = "de' Medici"
 		birth_date = 1479.1.1
-		ADM = 3
-		DIP = 5
-		MIL = 4
+		adm = 3
+		dip = 5
+		mil = 4
 	}
 }
 
@@ -147,9 +147,9 @@ add_army_professionalism = 0.05
 		name = "Lorenzo"
 		dynasty = "de' Medici"
 		birth_date = 1493.9.4
-		ADM = 5
-		DIP = 6
-		MIL = 3
+		adm = 5
+		dip = 6
+		mil = 3
 	}
 }
 
@@ -158,9 +158,9 @@ add_army_professionalism = 0.05
 		name = "Giulio"
 		dynasty = "de' Medici"
 		birth_date = 1478.3.26
-		ADM = 3
-		DIP = 6
-		MIL = 3
+		adm = 3
+		dip = 6
+		mil = 3
 	}
 }
 
@@ -169,9 +169,9 @@ add_army_professionalism = 0.05
 		name = "Alessandro"
 		dynasty = "de' Medici"
 		birth_date = 1510.7.22
-		ADM = 3
-		DIP = 5
-		MIL = 4
+		adm = 3
+		dip = 5
+		mil = 4
 	}
 }
 
@@ -185,9 +185,9 @@ add_army_professionalism = 0.05
 		name = "Cosimo I"
 		dynasty = "de' Medici"
 		birth_date = 1519.6.21
-		ADM = 3
-		DIP = 5
-		MIL = 4
+		adm = 3
+		dip = 5
+		mil = 4
 	}
 }
 
@@ -199,8 +199,8 @@ add_army_professionalism = 0.05
 		birth_date = 1541.3.25
 		death_date = 1587.10.17
 		claim = 95
-		ADM = 2
-		DIP = 4
+		adm = 2
+		dip = 4
 	}
 }
 

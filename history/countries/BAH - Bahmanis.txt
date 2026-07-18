@@ -14,9 +14,9 @@ change_rajputs_or_marathas_or_nobles_land_share_effect = {
 	monarch = { 
 		name = "Taj ud-Din Firuz"
 		dynasty = "Bahmanid"
-		DIP = 3
-		ADM = 4
-		MIL = 4
+		dip = 3
+		adm = 4
+		mil = 4
 		leader = { name = "Taj ud-Din Firuz" type = general fire = 3 shock = 3 manuever = 2 siege = 0 }
 	}
 }
@@ -28,18 +28,18 @@ change_rajputs_or_marathas_or_nobles_land_share_effect = {
 		birth_date = 1370.1.1
 		death_date = 1436.4.17
 		claim = 95
-		ADM = 4
-		DIP = 4
-		MIL = 3
+		adm = 4
+		dip = 4
+		mil = 3
 	}
 }
 1422.1.1 = { 
 	monarch = { 
 		name = "Ahmad Shah I Wali"
 		dynasty = "Bahmanid"
-		DIP = 2
-		ADM = 2
-		MIL = 2
+		dip = 2
+		adm = 2
+		mil = 2
 	}
 }
 1422.1.1 = { 
@@ -50,18 +50,18 @@ change_rajputs_or_marathas_or_nobles_land_share_effect = {
 		birth_date = 1410.1.1
 		death_Date = 1458.5.6
 		claim = 95
-		ADM = 4
-		DIP = 4
-		MIL = 5
+		adm = 4
+		dip = 4
+		mil = 5
 	}
 }
 1436.4.17 = { 
 	monarch = { 
 		name = "Ala ud-Din Ahmad Shah II"
 		dynasty = "Bahmanid"
-		DIP = 4
-		ADM = 4
-		MIL = 5
+		dip = 4
+		adm = 4
+		mil = 5
 	}
 	heir = { 
 		name = "Ala ud-Din Humayun"
@@ -70,9 +70,9 @@ change_rajputs_or_marathas_or_nobles_land_share_effect = {
 		birth_date = 1410.1.1
 		death_Date = 1461.9.4
 		claim = 95
-		ADM = 3
-		DIP = 3
-		MIL = 4
+		adm = 3
+		dip = 3
+		mil = 4
 	}
 	add_piety = -0.5
 	clear_scripted_personalities = yes
@@ -85,9 +85,9 @@ change_rajputs_or_marathas_or_nobles_land_share_effect = {
 		name = "Ala ud-Din Humayun Shah"
 		birth_date = 1410.1.1
 		dynasty = "Bahmanid"
-		DIP = 3
-		ADM = 3
-		MIL = 4
+		dip = 3
+		adm = 3
+		mil = 4
 	}
 	heir = { 
 		name = "Ahmad"
@@ -96,9 +96,9 @@ change_rajputs_or_marathas_or_nobles_land_share_effect = {
 		birth_date = 1440.1.1
 		death_date = 1463.7.30
 		claim = 95
-		ADM = 0
-		DIP = 0
-		MIL = 0
+		adm = 0
+		dip = 0
+		mil = 0
 	}
 	clear_scripted_personalities = yes
 	add_ruler_personality = well_advised_personality#add_ruler_personality = kind_hearted_personality #Up to 1460
@@ -109,9 +109,9 @@ change_rajputs_or_marathas_or_nobles_land_share_effect = {
 		name = "Makhduma-e-Jahan Nargis Begum"
 		#female = yes
 		regent = yes
-		DIP = 3
-		ADM = 4
-		MIL = 2
+		dip = 3
+		adm = 4
+		mil = 2
 	}
 	clear_scripted_personalities = yes
 	add_queen_personality = charismatic_negotiator_personality
@@ -120,9 +120,9 @@ change_rajputs_or_marathas_or_nobles_land_share_effect = {
 	monarch = { 
 		name = "Muhammad Shah III"
 		dynasty = "Bahmanid"
-		DIP = 4
-		ADM = 4
-		MIL = 5
+		dip = 4
+		adm = 4
+		mil = 5
 	}
 	clear_scripted_personalities = yes
 	add_ruler_personality = well_advised_personality
@@ -136,9 +136,9 @@ change_rajputs_or_marathas_or_nobles_land_share_effect = {
 		birth_date = 1450.1.1
 		death_date = 1518.12.18
 		claim = 95
-		ADM = 0
-		DIP = 0
-		MIL = 0
+		adm = 0
+		dip = 0
+		mil = 0
 	}
 }
 1482.3.26 = { 
@@ -146,18 +146,18 @@ change_rajputs_or_marathas_or_nobles_land_share_effect = {
 		name = "Qasim I"
 		dynasty = "Barid Shahi"
 		regent = yes
-		DIP = 3
-		ADM = 4
-		MIL = 3
+		dip = 3
+		adm = 4
+		mil = 3
 	}
 }
 1489.1.1 = { 
 	monarch = { 
 		name = "Qasim I"
 		dynasty = "Barid Shahi"
-		DIP = 3
-		ADM = 4
-		MIL = 3
+		dip = 3
+		adm = 4
+		mil = 3
 	}
 }
 1489.1.1 = { 
@@ -168,9 +168,9 @@ change_rajputs_or_marathas_or_nobles_land_share_effect = {
 		birth_date = 1489.1.1
 		death_date = 1542.1.1
 		claim = 95
-		DIP = 2
-		ADM = 4
-		MIL = 2
+		dip = 2
+		adm = 4
+		mil = 2
 	}
 }
 1490.1.1 = { 
@@ -181,18 +181,18 @@ change_rajputs_or_marathas_or_nobles_land_share_effect = {
 		birth_date = 1490.1.1
 		death_date = 1521.1.1
 		claim = 95
-		ADM = 1
-		DIP = 2
-		MIL = 0
+		adm = 1
+		dip = 2
+		mil = 0
 	}
 }
 1504.1.1 = { 
 	monarch = { 
 		name = "Amir I"
 		dynasty = "Barid Shahi"
-		DIP = 2
-		ADM = 4
-		MIL = 2
+		dip = 2
+		adm = 4
+		mil = 2
 	}
 }
 1504.1.1 = { 
@@ -203,18 +203,18 @@ change_rajputs_or_marathas_or_nobles_land_share_effect = {
 		birth_date = 1504.1.1
 		death_date = 1580.1.1
 		claim = 95
-		DIP = 1
-		ADM = 1
-		MIL = 3
+		dip = 1
+		adm = 1
+		mil = 3
 	}
 }
 1542.1.1 = { 
 	monarch = { 
 		name = "Ali"
 		dynasty = "Barid Shahi"
-		DIP = 1
-		ADM = 1
-		MIL = 3
+		dip = 1
+		adm = 1
+		mil = 3
 	}
 }
 1542.1.1 = { 
@@ -225,18 +225,18 @@ change_rajputs_or_marathas_or_nobles_land_share_effect = {
 		birth_date = 1542.1.1
 		death_date = 1587.1.1
 		claim = 95
-		DIP = 0
-		ADM = 0
-		MIL = 2
+		dip = 0
+		adm = 0
+		mil = 2
 	}
 }
 1580.1.1 = { 
 	monarch = { 
 		name = "Ibrahim"
 		dynasty = "Barid Shahi"
-		DIP = 0
-		ADM = 0
-		MIL = 2
+		dip = 0
+		adm = 0
+		mil = 2
 	}
 }
 1580.1.1 = { 
@@ -247,18 +247,18 @@ change_rajputs_or_marathas_or_nobles_land_share_effect = {
 		birth_date = 1548.1.1
 		death_date = 1591.1.1
 		claim = 95
-		DIP = 0
-		ADM = 0
-		MIL = 0
+		dip = 0
+		adm = 0
+		mil = 0
 	}
 }
 1587.1.1 = { 
 	monarch = { 
 		name = "Qasim II"
 		dynasty = "Barid Shahi"
-		DIP = 0
-		ADM = 0
-		MIL = 0
+		dip = 0
+		adm = 0
+		mil = 0
 	}
 }
 1587.1.1 = { 
@@ -269,9 +269,9 @@ change_rajputs_or_marathas_or_nobles_land_share_effect = {
 		birth_date = 1587.1.1
 		death_date = 1591.8.1
 		claim = 95
-		DIP = 2
-		ADM = 0
-		MIL = 0
+		dip = 2
+		adm = 0
+		mil = 0
 	}
 }
 #Qasims infant son
@@ -279,9 +279,9 @@ change_rajputs_or_marathas_or_nobles_land_share_effect = {
 	monarch = { 
 		name = "Ali II"
 		dynasty = "Barid Shahi"
-		DIP = 2
-		ADM = 0
-		MIL = 0
+		dip = 2
+		adm = 0
+		mil = 0
 	}
 }
 1591.1.1 = { 
@@ -292,18 +292,18 @@ change_rajputs_or_marathas_or_nobles_land_share_effect = {
 		birth_date = 1560.1.1
 		death_date = 1601.1.1
 		claim = 55
-		DIP = 0
-		ADM = 0
-		MIL = 0
+		dip = 0
+		adm = 0
+		mil = 0
 	}
 }
 1591.8.1 = { 
 	monarch = { 
 		name = "Amir II"
 		dynasty = "Barid Shahi"
-		DIP = 0
-		ADM = 0
-		MIL = 0
+		dip = 0
+		adm = 0
+		mil = 0
 	}
 }
 1591.8.1 = { 
@@ -314,18 +314,18 @@ change_rajputs_or_marathas_or_nobles_land_share_effect = {
 		birth_date = 1570.1.1
 		death_date = 1609.1.1
 		claim = 55
-		DIP = 2
-		ADM = 1
-		MIL = 2
+		dip = 2
+		adm = 1
+		mil = 2
 	}
 }
 1601.1.1 = { 
 	monarch = { 
 		name = "Mirza Ali"
 		dynasty = "Barid Shahi"
-		DIP = 2
-		ADM = 1
-		MIL = 2
+		dip = 2
+		adm = 1
+		mil = 2
 	}
 }
 1601.1.1 = { 
@@ -336,18 +336,18 @@ change_rajputs_or_marathas_or_nobles_land_share_effect = {
 		birth_date = 1580.1.1
 		death_date = 1619.1.1
 		claim = 95
-		DIP = 1
-		ADM = 2
-		MIL = 3
+		dip = 1
+		adm = 2
+		mil = 3
 	}
 }
 1609.1.1 = { 
 	monarch = { 
 		name = "Amir III"
 		dynasty = "Barid Shahi"
-		DIP = 1
-		ADM = 2
-		MIL = 3
+		dip = 1
+		adm = 2
+		mil = 3
 	}
 }
 #Annexed by Bijapur 1619.

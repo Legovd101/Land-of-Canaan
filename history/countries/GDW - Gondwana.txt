@@ -12,9 +12,9 @@ capital = 550	# Garha
 	monarch = {
 		name = "Hirde"
 		dynasty = "Garha-Mandli"
-		ADM = 2
-		DIP = 3
-		MIL = 2
+		adm = 2
+		dip = 3
+		mil = 2
 	}
 }
 
@@ -26,9 +26,9 @@ capital = 550	# Garha
 		birth_date = 1448.1.1
 		death_Date = 1549.1.1
 		claim = 95
-		ADM = 3
-		DIP = 3
-		MIL = 4
+		adm = 3
+		dip = 3
+		mil = 4
 	}
 }
 
@@ -36,9 +36,9 @@ capital = 550	# Garha
 	monarch = {
 		name = "Sangrama Simha"
 		dynasty = "Garha-Mandli"
-		ADM = 3
-		DIP = 3
-		MIL = 4
+		adm = 3
+		dip = 3
+		mil = 4
 	}
 }
 
@@ -50,9 +50,9 @@ capital = 550	# Garha
 		birth_date = 1480.1.1
 		death_Date = 1549.1.1
 		claim = 95
-		ADM = 2
-		DIP = 1
-		MIL = 3
+		adm = 2
+		dip = 1
+		mil = 3
 	}
 }
 
@@ -60,9 +60,9 @@ capital = 550	# Garha
 	monarch = {
 		name = "Daipat Simha"
 		dynasty = "Garha-Mandli"
-		ADM = 2
-		DIP = 1
-		MIL = 3
+		adm = 2
+		dip = 1
+		mil = 3
 	}
 }
 
@@ -74,9 +74,9 @@ capital = 550	# Garha
 		birth_date = 1545.1.1
 		death_Date = 1564.6.24
 		claim = 95
-		ADM = 2
-		DIP = 0
-		MIL = 2
+		adm = 2
+		dip = 0
+		mil = 2
 	}
 }
 
@@ -86,9 +86,9 @@ capital = 550	# Garha
 		female = yes
 		regent = yes
 		dynasty = "Chandella"
-		ADM = 3
-		DIP = 4
-		MIL = 5
+		adm = 3
+		dip = 4
+		mil = 5
 	}
 }
 
@@ -100,9 +100,9 @@ capital = 550	# Garha
 		birth_date = 1545.1.1
 		death_Date = 1564.6.24
 		claim = 95
-		ADM = 2
-		DIP = 0
-		MIL = 2
+		adm = 2
+		dip = 0
+		mil = 2
 	}
 }
 
@@ -110,9 +110,9 @@ capital = 550	# Garha
 	monarch = {
 		name = "Chandra Sahi"
 		dynasty = "Garha-Mandli"
-		ADM = 2
-		DIP = 3
-		MIL = 2
+		adm = 2
+		dip = 3
+		mil = 2
 	}
 }
 
@@ -124,9 +124,9 @@ capital = 550	# Garha
 		birth_date = 1564.1.1
 		death_date = 1599.1.1
 		claim = 95
-		ADM = 1
-		DIP = 2
-		MIL = 2
+		adm = 1
+		dip = 2
+		mil = 2
 	}
 }
 
@@ -135,9 +135,9 @@ capital = 550	# Garha
 	monarch = {
 		name = "Jatba"
 		dynasty = "Deogadhi"
-		ADM = 4
-		DIP = 5
-		MIL = 4
+		adm = 4
+		dip = 5
+		mil = 4
 	}
 	capital = 2092
 }
@@ -146,9 +146,9 @@ capital = 550	# Garha
 	monarch = {
 		name = "Bakht Buland"
 		dynasty = "Deogadhi"
-		ADM = 2
-		DIP = 4
-		MIL = 2
+		adm = 2
+		dip = 4
+		mil = 2
 	}
 }
 
@@ -160,9 +160,9 @@ capital = 550	# Garha
 		birth_date = 1645.1.1
 		death_Date = 1739.1.1
 		claim = 95
-		ADM = 2
-		DIP = 0
-		MIL = 2
+		adm = 2
+		dip = 0
+		mil = 2
 	}
 }
 
@@ -170,9 +170,9 @@ capital = 550	# Garha
 	monarch = {
 		name = "Chand Sultan"
 		dynasty = "Deogadhi"
-		ADM = 2
-		DIP = 0
-		MIL = 2
+		adm = 2
+		dip = 0
+		mil = 2
 	}
 }
 
@@ -184,9 +184,9 @@ capital = 550	# Garha
 		birth_date = 1670.1.1
 		death_Date = 1743.1.1
 		claim = 25 #Illegitimate
-		ADM = 1
-		DIP = 1
-		MIL = 1
+		adm = 1
+		dip = 1
+		mil = 1
 	}
 }
 

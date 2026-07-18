@@ -24,3 +24,4 @@ discovered_by = serican_group
 discovered_by = iranic_group
 center_of_trade = 1
 add_core = NKN
+discovered_by = uralic_group

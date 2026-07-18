@@ -1,0 +1,12 @@
+bookmark = {
+	name = "BACTRIAN_FRONTIER"
+	desc = "BACTRIAN_FRONTIER_DESC"
+	date = "1444.11.11"
+	center = 454
+	country = PMG
+	country = MKN
+	country = BUY
+	country = BMC
+	country = PLM
+	easy_country = BUY
+}

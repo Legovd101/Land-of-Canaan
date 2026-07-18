@@ -10,9 +10,9 @@ religious_school = jafari_school
 	monarch = { 
 		name = "Fath Allah 'Imad Malik"
 		dynasty = "Imad Shahi"
-		DIP = 3
-		ADM = 4
-		MIL = 4
+		dip = 3
+		adm = 4
+		mil = 4
 	}
 }
 1490.1.1 = { 
@@ -23,18 +23,18 @@ religious_school = jafari_school
 		birth_date = 1480.1.1
 		death_date = 1529.1.1
 		claim = 95
-		ADM = 3
-		DIP = 1
-		MIL = 2
+		adm = 3
+		dip = 1
+		mil = 2
 	}
 }
 1504.1.1 = { 
 	monarch = { 
 		name = "'Ala' ad-din"
 		dynasty = "Imad Shahi"
-		DIP = 1
-		ADM = 3
-		MIL = 2
+		dip = 1
+		adm = 3
+		mil = 2
 	}
 }
 1504.1.1 = { 
@@ -45,18 +45,18 @@ religious_school = jafari_school
 		birth_date = 1504.1.1
 		death_Date = 1562.1.1
 		claim = 95
-		ADM = 2
-		DIP = 2
-		MIL = 3
+		adm = 2
+		dip = 2
+		mil = 3
 	}
 }
 1529.1.1 = { 
 	monarch = { 
 		name = "Dariya"
 		dynasty = "Imad Shahi"
-		DIP = 2
-		ADM = 2
-		MIL = 3
+		dip = 2
+		adm = 2
+		mil = 3
 	}
 }
 1529.1.1 = { 
@@ -67,18 +67,18 @@ religious_school = jafari_school
 		birth_date = 1529.1.1
 		death_Date = 1568.1.1
 		claim = 95
-		ADM = 0
-		DIP = 2
-		MIL = 0
+		adm = 0
+		dip = 2
+		mil = 0
 	}
 }
 1562.1.1 = { 
 	monarch = { 
 		name = "Burkhan 'Imad Shah"
 		dynasty = "Imad Shahi"
-		DIP = 2
-		ADM = 0
-		MIL = 0
+		dip = 2
+		adm = 0
+		mil = 0
 	}
 }
 1562.1.1 = { 
@@ -89,18 +89,18 @@ religious_school = jafari_school
 		birth_date = 1550.1.1
 		death_date = 1626.1.1
 		claim = 95
-		ADM = 0
-		DIP = 0
-		MIL = 1
+		adm = 0
+		dip = 0
+		mil = 1
 	}
 }
 1568.1.1 = { 
 	monarch = { 
 		name = "Taufal Khan"
 		dynasty = "Imad Shahi"
-		DIP = 0
-		ADM = 0
-		MIL = 1
+		dip = 0
+		adm = 0
+		mil = 1
 	}
 }
 #Annexed by Ahmadnagar April 1574.

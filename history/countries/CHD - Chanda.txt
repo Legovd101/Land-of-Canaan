@@ -2,14 +2,13 @@ government = tribal
 add_government_reform = gond_kingdom
 government_rank = 1
 technology_group = indian
-religion = hinduism
+religion = gondi_animism
 primary_culture = gondi
-capital = 2050	# Ballarsah
-fixed_capital = 2050 # Cannot move capital away from this province & no power cost to move to it
-
+capital = 2050# Ballarsah
+fixed_capital = 2050# Cannot move capital away from this province & no power cost to move to it
 #Chanda Rajas
-1342.1.1 = {
-	monarch = {
+1342.1.1 = { 
+	monarch = { 
 		name = "Bhuma & Lokba"
 		dynasty = "Chandi"
 		adm = 2
@@ -17,9 +16,8 @@ fixed_capital = 2050 # Cannot move capital away from this province & no power co
 		mil = 2
 	}
 }
-
-1380.1.1 = {
-	heir = {
+1380.1.1 = { 
+	heir = { 
 		name = "Kondya"
 		monarch_name = "Karan Shah"
 		dynasty = "Chandi"
@@ -31,11 +29,8 @@ fixed_capital = 2050 # Cannot move capital away from this province & no power co
 		mil = 2
 	}
 }
-
- 
-
-1421.1.1 = {
-	monarch = {
+1421.1.1 = { 
+	monarch = { 
 		name = "Karan Shah"
 		dynasty = "Chandi"
 		adm = 3
@@ -43,9 +38,8 @@ fixed_capital = 2050 # Cannot move capital away from this province & no power co
 		mil = 2
 	}
 }
-
-1421.1.1 = {
-	heir = {
+1421.1.1 = { 
+	heir = { 
 		name = "Babji Ballal"
 		monarch_name = "Babji Ballal Sah"
 		dynasty = "Chandi"
@@ -57,9 +51,8 @@ fixed_capital = 2050 # Cannot move capital away from this province & no power co
 		mil = 1
 	}
 }
-
-1461.1.1 = {
-	monarch = {
+1461.1.1 = { 
+	monarch = { 
 		name = "Babji Ballal Sah"
 		dynasty = "Chandi"
 		adm = 2
@@ -67,9 +60,8 @@ fixed_capital = 2050 # Cannot move capital away from this province & no power co
 		mil = 1
 	}
 }
-
-1500.1.1 = {
-	heir = {
+1500.1.1 = { 
+	heir = { 
 		name = "Dhundya Ram"
 		monarch_name = "Dhundya Ram Sah"
 		dynasty = "Chandi"
@@ -81,9 +73,8 @@ fixed_capital = 2050 # Cannot move capital away from this province & no power co
 		mil = 2
 	}
 }
-
-1540.1.1 = {
-	monarch = {
+1540.1.1 = { 
+	monarch = { 
 		name = "Dhundya Ram Sah"
 		dynasty = "Chandi"
 		adm = 0
@@ -91,9 +82,8 @@ fixed_capital = 2050 # Cannot move capital away from this province & no power co
 		mil = 2
 	}
 }
-
-1560.1.1 = {
-	heir = {
+1560.1.1 = { 
+	heir = { 
 		name = "Krasna"
 		monarch_name = "Krasna Sah"
 		dynasty = "Chandi"
@@ -105,9 +95,8 @@ fixed_capital = 2050 # Cannot move capital away from this province & no power co
 		mil = 2
 	}
 }
-
-1615.1.1 = {
-	monarch = {
+1615.1.1 = { 
+	monarch = { 
 		name = "Krasna Sah"
 		dynasty = "Chandi"
 		adm = 2
@@ -115,9 +104,8 @@ fixed_capital = 2050 # Cannot move capital away from this province & no power co
 		mil = 2
 	}
 }
-
-1615.1.1 = {
-	heir = {
+1615.1.1 = { 
+	heir = { 
 		name = "Bir"
 		monarch_name = "Bir Sah"
 		dynasty = "Chandi"
@@ -129,9 +117,8 @@ fixed_capital = 2050 # Cannot move capital away from this province & no power co
 		mil = 3
 	}
 }
-
-1665.1.1 = {
-	monarch = {
+1665.1.1 = { 
+	monarch = { 
 		name = "Bir Sah"
 		dynasty = "Chandi"
 		adm = 2
@@ -139,9 +126,8 @@ fixed_capital = 2050 # Cannot move capital away from this province & no power co
 		mil = 3
 	}
 }
-
-1665.1.1 = {
-	heir = {
+1665.1.1 = { 
+	heir = { 
 		name = "Hirai"
 		monarch_name = "Hirai"
 		dynasty = "Chandi"
@@ -154,9 +140,8 @@ fixed_capital = 2050 # Cannot move capital away from this province & no power co
 		mil = 2
 	}
 }
-
-1672.1.1 = {
-	monarch = {
+1672.1.1 = { 
+	monarch = { 
 		name = "Hirai"
 		dynasty = "Chandi"
 		female = yes
@@ -165,9 +150,8 @@ fixed_capital = 2050 # Cannot move capital away from this province & no power co
 		mil = 2
 	}
 }
-
-1676.1.1 = {
-	heir = {
+1676.1.1 = { 
+	heir = { 
 		name = "Ram"
 		monarch_name = "Ram Sah"
 		dynasty = "Chandi"
@@ -179,9 +163,8 @@ fixed_capital = 2050 # Cannot move capital away from this province & no power co
 		mil = 2
 	}
 }
-
-1691.1.1 = {
-	monarch = {
+1691.1.1 = { 
+	monarch = { 
 		name = "Ram Sah"
 		dynasty = "Chandi"
 		adm = 1
@@ -189,9 +172,8 @@ fixed_capital = 2050 # Cannot move capital away from this province & no power co
 		mil = 2
 	}
 }
-
-1691.1.1 = {
-	heir = {
+1691.1.1 = { 
+	heir = { 
 		name = "Nilkanth"
 		monarch_name = "Nilkanth Sah"
 		dynasty = "Chandi"
@@ -203,9 +185,8 @@ fixed_capital = 2050 # Cannot move capital away from this province & no power co
 		mil = 4
 	}
 }
-
-1710.1.1 = {
-	monarch = {
+1710.1.1 = { 
+	monarch = { 
 		name = "Nilkanth Sah"
 		dynasty = "Chandi"
 		adm = 3

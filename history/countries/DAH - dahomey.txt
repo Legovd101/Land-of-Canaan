@@ -14,9 +14,9 @@ capital = 1140 #Allada
 	monarch = {
 		name = "Aholuho Adja"
 		dynasty = "Ajahutonon"
-		DIP = 2
-		ADM = 1
-		MIL = 2
+		dip = 2
+		adm = 1
+		mil = 2
 	}
 }
 
@@ -24,9 +24,9 @@ capital = 1140 #Allada
 	monarch = {
 		name = "De Nufion"
 		dynasty = "Ajahutonon"
-		DIP = 2
-		ADM = 1
-		MIL = 2
+		dip = 2
+		adm = 1
+		mil = 2
 	}
 }
 
@@ -34,9 +34,9 @@ capital = 1140 #Allada
 	monarch = {
 		name = "Dassu"
 		dynasty = "Ajahutonon"
-		DIP = 2
-		ADM = 1
-		MIL = 2
+		dip = 2
+		adm = 1
+		mil = 2
 	}
 }
 
@@ -44,9 +44,9 @@ capital = 1140 #Allada
 	monarch = {
 		name = "Dassa"
 		dynasty = "Ajahutonon"
-		DIP = 2
-		ADM = 1
-		MIL = 2
+		dip = 2
+		adm = 1
+		mil = 2
 	}
 }
 
@@ -54,9 +54,9 @@ capital = 1140 #Allada
 	monarch = {
 		name = "Adjakpa"
 		dynasty = "Ajahutonon"
-		DIP = 2
-		ADM = 1
-		MIL = 2
+		dip = 2
+		adm = 1
+		mil = 2
 	}
 }
 
@@ -64,9 +64,9 @@ capital = 1140 #Allada
 	monarch = {
 		name = "Yessu"
 		dynasty = "Ajahutonon"
-		DIP = 2
-		ADM = 1
-		MIL = 2
+		dip = 2
+		adm = 1
+		mil = 2
 	}
 }
 
@@ -74,9 +74,9 @@ capital = 1140 #Allada
 	monarch = {
 		name = "Azoton"
 		dynasty = "Ajahutonon"
-		DIP = 2
-		ADM = 1
-		MIL = 2
+		dip = 2
+		adm = 1
+		mil = 2
 	}
 }
 
@@ -84,9 +84,9 @@ capital = 1140 #Allada
 	monarch = {
 		name = "Yessu"
 		dynasty = "Ajahutonon"
-		DIP = 2
-		ADM = 1
-		MIL = 2
+		dip = 2
+		adm = 1
+		mil = 2
 	}
 } #Restored, presumably
 
@@ -94,9 +94,9 @@ capital = 1140 #Allada
 	monarch = {
 		name = "Akonde"
 		dynasty = "Ajahutonon"
-		DIP = 2
-		ADM = 1
-		MIL = 2
+		dip = 2
+		adm = 1
+		mil = 2
 	}
 }
 
@@ -104,9 +104,9 @@ capital = 1140 #Allada
 	monarch = {
 		name = "Amamu"
 		dynasty = "Ajahutonon"
-		DIP = 2
-		ADM = 1
-		MIL = 2
+		dip = 2
+		adm = 1
+		mil = 2
 	}
 }
 
@@ -114,9 +114,9 @@ capital = 1140 #Allada
 	monarch = {
 		name = "Agagnon"
 		dynasty = "Ajahutonon"
-		DIP = 2
-		ADM = 1
-		MIL = 2
+		dip = 2
+		adm = 1
+		mil = 2
 	}
 }
 
@@ -124,9 +124,9 @@ capital = 1140 #Allada
 	monarch = {
 		name = "Agbanga"
 		dynasty = "Ajahutonon"
-		DIP = 2
-		ADM = 1
-		MIL = 2
+		dip = 2
+		adm = 1
+		mil = 2
 	}
 }
 
@@ -136,9 +136,9 @@ capital = 1140 #Allada
 	monarch = {
 		name = "Hueze"
 		dynasty = "Ajahutonon"
-		DIP = 2
-		ADM = 1
-		MIL = 2
+		dip = 2
+		adm = 1
+		mil = 2
 	}
 }
 
@@ -146,9 +146,9 @@ capital = 1140 #Allada
 	monarch = {
 		name = "Agbande"
 		dynasty = "Ajahutonon"
-		DIP = 2
-		ADM = 1
-		MIL = 2
+		dip = 2
+		adm = 1
+		mil = 2
 	}
 }
 
@@ -156,9 +156,9 @@ capital = 1140 #Allada
 	monarch = {
 		name = "Kin-Ha"
 		dynasty = "Ajahutonon"
-		DIP = 2
-		ADM = 1
-		MIL = 2
+		dip = 2
+		adm = 1
+		mil = 2
 	}
 }
 
@@ -166,9 +166,9 @@ capital = 1140 #Allada
 	monarch = {
 		name = "Mindji"
 		dynasty = "Ajahutonon"
-		DIP = 2
-		ADM = 1
-		MIL = 2
+		dip = 2
+		adm = 1
+		mil = 2
 	}
 }
 
@@ -176,9 +176,9 @@ capital = 1140 #Allada
 	monarch = {
 		name = "Akoli"
 		dynasty = "Ajahutonon"
-		DIP = 2
-		ADM = 1
-		MIL = 2
+		dip = 2
+		adm = 1
+		mil = 2
 	}
 }
 
@@ -186,9 +186,9 @@ capital = 1140 #Allada
 	monarch = {
 		name = "Kopon"
 		dynasty = "Ajahutonon"
-		DIP = 2
-		ADM = 1
-		MIL = 2
+		dip = 2
+		adm = 1
+		mil = 2
 	}
 }
 
@@ -197,9 +197,9 @@ capital = 1140 #Allada
 	monarch = {
 		name = "Do-Aklin"
 		dynasty = "Ahosu"
-		DIP = 2
-		ADM = 1
-		MIL = 2
+		dip = 2
+		adm = 1
+		mil = 2
 	}
 }
 
@@ -207,9 +207,9 @@ capital = 1140 #Allada
 	monarch = {
 		name = "Dakodonu"
 		dynasty = "Ahosu"
-		DIP = 2
-		ADM = 1
-		MIL = 2
+		dip = 2
+		adm = 1
+		mil = 2
 	}
 }
 
@@ -217,9 +217,9 @@ capital = 1140 #Allada
 	monarch = {
 		name = "Ganye Hesu"
 		dynasty = "Ahosu"
-		DIP = 2
-		ADM = 1
-		MIL = 2
+		dip = 2
+		adm = 1
+		mil = 2
 	}
 }
 
@@ -227,9 +227,9 @@ capital = 1140 #Allada
 	monarch = {
 		name = "Wegaja"
 		dynasty = "Ahosu"
-		DIP = 2
-		ADM = 1
-		MIL = 2
+		dip = 2
+		adm = 1
+		mil = 2
 	}
 }
 
@@ -237,9 +237,9 @@ capital = 1140 #Allada
 	monarch = {
 		name = "Akaba Wibega"
 		dynasty = "Ahosu"
-		DIP = 2
-		ADM = 1
-		MIL = 2
+		dip = 2
+		adm = 1
+		mil = 2
 	}
 }
 
@@ -247,9 +247,9 @@ capital = 1140 #Allada
 	monarch = {
 		name = "Agadja Trudo Tossu"
 		dynasty = "Ahosu"
-		DIP = 2
-		ADM = 1
-		MIL = 2
+		dip = 2
+		adm = 1
+		mil = 2
 	}
 }
 
@@ -257,9 +257,9 @@ capital = 1140 #Allada
 	monarch = {
 		name = "Tegbessou Avissu"
 		dynasty = "Ahosu"
-		DIP = 2
-		ADM = 1
-		MIL = 2
+		dip = 2
+		adm = 1
+		mil = 2
 	}
 }
 
@@ -267,9 +267,9 @@ capital = 1140 #Allada
 	monarch = {
 		name = "Kpengla Guansuna"
 		dynasty = "Ahosu"
-		DIP = 2
-		ADM = 1
-		MIL = 2
+		dip = 2
+		adm = 1
+		mil = 2
 	}
 }
 
@@ -277,9 +277,9 @@ capital = 1140 #Allada
 	monarch = {
 		name = "Agonglo Sindozan"
 		dynasty = "Ahosu"
-		DIP = 2
-		ADM = 1
-		MIL = 2
+		dip = 2
+		adm = 1
+		mil = 2
 	}
 }
 
@@ -287,9 +287,9 @@ capital = 1140 #Allada
 	monarch = {
 		name = "Adandozan Madodugu"
 		dynasty = "Ahosu"
-		DIP = 2
-		ADM = 1
-		MIL = 2
+		dip = 2
+		adm = 1
+		mil = 2
 	}
 }
 
@@ -297,8 +297,8 @@ capital = 1140 #Allada
 	monarch = {
 		name = "Gezo Gbalangbe Zedoko"
 		dynasty = "Ahosu"
-		DIP = 2
-		ADM = 1
-		MIL = 2
+		dip = 2
+		adm = 1
+		mil = 2
 	}
 }

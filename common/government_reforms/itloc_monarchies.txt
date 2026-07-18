@@ -6,6 +6,9 @@ serican_captaincy_reform = {
 	valid_for_nation_designer = yes
 	is_elective = yes
 	nation_designer_cost = 0
+	potential = {
+		culture_group = greco_serican
+	}
 	trigger = {
 		culture_group = greco_serican
 	}

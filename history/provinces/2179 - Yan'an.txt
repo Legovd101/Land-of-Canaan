@@ -1,7 +1,6 @@
 # 2179 - Yan'an
-owner = MNG
-controller = MNG
-add_core = MNG
+owner = MRU
+controller = MRU
 culture = jin
 religion = confucianism
 capital = "Yan'an"
@@ -15,3 +14,4 @@ add_core = QIN
 discovered_by = chinese
 discovered_by = nomad_group
 discovered_by = uralic_group
+add_core = MRU

@@ -17,9 +17,9 @@ fixed_capital = 519 # Cannot move capital away from this province & no power cos
 	monarch = {
 		name = "Narasimha"
 		dynasty = "Kachhawa"
-		DIP = 3
-		MIL = 2
-		ADM = 1
+		dip = 3
+		mil = 2
+		adm = 1
 	}
 }
 
@@ -31,9 +31,9 @@ fixed_capital = 519 # Cannot move capital away from this province & no power cos
 		birth_date = 1370.1.1
 		death_date = 1439.1.1
 		claim = 95
-		DIP = 2
-		MIL = 2
-		ADM = 0
+		dip = 2
+		mil = 2
+		adm = 0
 	}
 }
 
@@ -43,9 +43,9 @@ fixed_capital = 519 # Cannot move capital away from this province & no power cos
 	monarch = {
 		name = "Banabira"
 		dynasty = "Kachhawa"
-		DIP = 2
-		MIL = 2
-		ADM = 0
+		dip = 2
+		mil = 2
+		adm = 0
 	}
 }
 
@@ -57,9 +57,9 @@ fixed_capital = 519 # Cannot move capital away from this province & no power cos
 		birth_date = 1417.1.1
 		death_date = 1467.1.1
 		claim = 95
-		DIP = 2
-		MIL = 3
-		ADM = 4
+		dip = 2
+		mil = 3
+		adm = 4
 	}
 }
 
@@ -67,9 +67,9 @@ fixed_capital = 519 # Cannot move capital away from this province & no power cos
 	monarch = {
 		name = "Uddharana"
 		dynasty = "Kachhawa"
-		DIP = 2
-		MIL = 3
-		ADM = 4
+		dip = 2
+		mil = 3
+		adm = 4
 	}
 }
 
@@ -81,9 +81,9 @@ fixed_capital = 519 # Cannot move capital away from this province & no power cos
 		birth_date = 1430.1.1
 		death_date = 1503.1.1
 		claim = 95
-		DIP = 1
-		MIL = 3
-		ADM = 2
+		dip = 1
+		mil = 3
+		adm = 2
 	}
 	clear_scripted_personalities = yes
 	add_heir_personality = zealot_personality
@@ -93,9 +93,9 @@ fixed_capital = 519 # Cannot move capital away from this province & no power cos
 	monarch = {
 		name = "Chandra Sena"
 		dynasty = "Kachhawa"
-		DIP = 1
-		MIL = 3
-		ADM = 2
+		dip = 1
+		mil = 3
+		adm = 2
 	}
 	clear_scripted_personalities = yes
 	add_ruler_personality = zealot_personality
@@ -109,9 +109,9 @@ fixed_capital = 519 # Cannot move capital away from this province & no power cos
 		birth_date = 1430.1.1
 		death_date = 1527.1.1
 		claim = 95
-		DIP = 0
-		MIL = 3
-		ADM = 1
+		dip = 0
+		mil = 3
+		adm = 1
 	}
 }
 
@@ -119,9 +119,9 @@ fixed_capital = 519 # Cannot move capital away from this province & no power cos
 	monarch = {
 		name = "Prithvi Singh"
 		dynasty = "Kachhawa"
-		DIP = 0
-		MIL = 3
-		ADM = 1
+		dip = 0
+		mil = 3
+		adm = 1
 	}
 	queen = {
 		country_of_origin = JAN
@@ -144,9 +144,9 @@ fixed_capital = 519 # Cannot move capital away from this province & no power cos
 		birth_date = 1440.1.1
 		death_date = 1536.1.1
 		claim = 95
-		DIP = 1
-		MIL = 2
-		ADM = 1
+		dip = 1
+		mil = 2
+		adm = 1
 	}
 }
 
@@ -154,9 +154,9 @@ fixed_capital = 519 # Cannot move capital away from this province & no power cos
 	monarch = {
 		name = "Puran mal"
 		dynasty = "Kachhawa"
-		DIP = 1
-		MIL = 2
-		ADM = 1
+		dip = 1
+		mil = 2
+		adm = 1
 	}
 }
 
@@ -168,9 +168,9 @@ fixed_capital = 519 # Cannot move capital away from this province & no power cos
 		birth_date = 1510.1.1
 		death_date = 1537.1.1
 		claim = 95
-		DIP = 0
-		MIL = 4
-		ADM = 2
+		dip = 0
+		mil = 4
+		adm = 2
 	}
 }
 
@@ -178,9 +178,9 @@ fixed_capital = 519 # Cannot move capital away from this province & no power cos
 	monarch = {
 		name = "Bhimasimha"
 		dynasty = "Kachhawa"
-		DIP = 0
-		MIL = 4
-		ADM = 2
+		dip = 0
+		mil = 4
+		adm = 2
 	}
 }
 
@@ -192,9 +192,9 @@ fixed_capital = 519 # Cannot move capital away from this province & no power cos
 		birth_date = 1510.1.1
 		death_date = 1537.1.1
 		claim = 95
-		DIP = 1
-		MIL = 2
-		ADM = 0
+		dip = 1
+		mil = 2
+		adm = 0
 	}
 }
 
@@ -202,9 +202,9 @@ fixed_capital = 519 # Cannot move capital away from this province & no power cos
 	monarch = {
 		name = "Ratnasimha"
 		dynasty = "Kachhawa"
-		DIP = 1
-		MIL = 2
-		ADM = 0
+		dip = 1
+		mil = 2
+		adm = 0
 	}
 }
 
@@ -216,9 +216,9 @@ fixed_capital = 519 # Cannot move capital away from this province & no power cos
 		birth_date = 1510.1.1
 		death_date = 1548.6.1
 		claim = 95
-		DIP = 3
-		MIL = 3
-		ADM = 2
+		dip = 3
+		mil = 3
+		adm = 2
 	}
 }
 
@@ -226,9 +226,9 @@ fixed_capital = 519 # Cannot move capital away from this province & no power cos
 	monarch = {
 		name = "Aaskaran"
 		dynasty = "Kachhawa"
-		DIP = 3
-		MIL = 3
-		ADM = 2
+		dip = 3
+		mil = 3
+		adm = 2
 	}
 }
 
@@ -240,9 +240,9 @@ fixed_capital = 519 # Cannot move capital away from this province & no power cos
 		birth_date = 1499.1.1
 		death_date = 1574.1.27
 		claim = 95
-		DIP = 3
-		MIL = 3
-		ADM = 2
+		dip = 3
+		mil = 3
+		adm = 2
 	}
 }
 
@@ -250,9 +250,9 @@ fixed_capital = 519 # Cannot move capital away from this province & no power cos
 	monarch = {
 		name = "Bharmal"
 		dynasty = "Kachhawa"
-		DIP = 3
-		MIL = 2
-		ADM = 0
+		dip = 3
+		mil = 2
+		adm = 0
 	}
 }
 
@@ -264,9 +264,9 @@ fixed_capital = 519 # Cannot move capital away from this province & no power cos
 		birth_date = 1540.1.1
 		death_date = 1589.12.10
 		claim = 95
-		DIP = 2
-		MIL = 3
-		ADM = 1
+		dip = 2
+		mil = 3
+		adm = 1
 	}
 }
 
@@ -274,9 +274,9 @@ fixed_capital = 519 # Cannot move capital away from this province & no power cos
 	monarch = {
 		name = "Bhagwant Das"
 		dynasty = "Kachhawa"
-		DIP = 2
-		MIL = 3
-		ADM = 1
+		dip = 2
+		mil = 3
+		adm = 1
 	}
 }
 
@@ -288,9 +288,9 @@ fixed_capital = 519 # Cannot move capital away from this province & no power cos
 		birth_date = 1540.5.9
 		death_date = 1614.7.6
 		claim = 95
-		DIP = 2
-		MIL = 4
-		ADM = 3
+		dip = 2
+		mil = 4
+		adm = 3
 	}
 }
 
@@ -298,9 +298,9 @@ fixed_capital = 519 # Cannot move capital away from this province & no power cos
 	monarch = {
 		name = "Man Singh I"
 		dynasty = "Kachhawa"
-		DIP = 2
-		MIL = 4
-		ADM = 3
+		dip = 2
+		mil = 4
+		adm = 3
 	}
 }
 
@@ -312,9 +312,9 @@ fixed_capital = 519 # Cannot move capital away from this province & no power cos
 		birth_date = 1540.1.1
 		death_date = 1622.1.1
 		claim = 95
-		DIP = 0
-		MIL = 3
-		ADM = 1
+		dip = 0
+		mil = 3
+		adm = 1
 	}
 }
 
@@ -336,9 +336,9 @@ fixed_capital = 519 # Cannot move capital away from this province & no power cos
 	monarch = {
 		name = "Shri Bhao Singh"
 		dynasty = "Kachhawa"
-		DIP = 0
-		MIL = 3
-		ADM = 1
+		dip = 0
+		mil = 3
+		adm = 1
 	}
 }
 
@@ -350,9 +350,9 @@ fixed_capital = 519 # Cannot move capital away from this province & no power cos
 		birth_date = 1611.7.15
 		death_date = 1667.8.28
 		claim = 95
-		DIP = 1
-		MIL = 4
-		ADM = 1
+		dip = 1
+		mil = 4
+		adm = 1
 	}
 }
 
@@ -360,9 +360,9 @@ fixed_capital = 519 # Cannot move capital away from this province & no power cos
 	monarch = {
 		name = "Jai Singh I"
 		dynasty = "Kachhawa"
-		DIP = 1
-		MIL = 4
-		ADM = 1
+		dip = 1
+		mil = 4
+		adm = 1
 	}
 }
 
@@ -374,9 +374,9 @@ fixed_capital = 519 # Cannot move capital away from this province & no power cos
 		birth_date = 1620.1.1
 		death_date = 1688.4.1
 		claim = 95
-		DIP = 0
-		MIL = 3
-		ADM = 3
+		dip = 0
+		mil = 3
+		adm = 3
 	}
 }
 
@@ -384,9 +384,9 @@ fixed_capital = 519 # Cannot move capital away from this province & no power cos
 	monarch = {
 		name = "Ramsingh I"
 		dynasty = "Kachhawa"
-		DIP = 0
-		MIL = 3
-		ADM = 3
+		dip = 0
+		mil = 3
+		adm = 3
 	}
 }
 
@@ -398,9 +398,9 @@ fixed_capital = 519 # Cannot move capital away from this province & no power cos
 		birth_date = 1672.1.1
 		death_date = 1699.12.31
 		claim = 95
-		DIP = 0
-		MIL = 3
-		ADM = 1
+		dip = 0
+		mil = 3
+		adm = 1
 	}
 }
 
@@ -408,9 +408,9 @@ fixed_capital = 519 # Cannot move capital away from this province & no power cos
 	monarch = {
 		name = "Bishan Singh"
 		dynasty = "Kachhawa"
-		DIP = 0
-		MIL = 3
-		ADM = 1
+		dip = 0
+		mil = 3
+		adm = 1
 	}
 }
 
@@ -422,9 +422,9 @@ fixed_capital = 519 # Cannot move capital away from this province & no power cos
 		birth_date = 1688.11.4
 		death_date = 1743.9.21
 		claim = 95
-		DIP = 3
-		MIL = 4
-		ADM = 5
+		dip = 3
+		mil = 4
+		adm = 5
 	}
 }
 
@@ -432,9 +432,9 @@ fixed_capital = 519 # Cannot move capital away from this province & no power cos
 	monarch = {
 		name = "Jai Singh II"
 		dynasty = "Kachhawa"
-		DIP = 3
-		MIL = 4
-		ADM = 5
+		dip = 3
+		mil = 4
+		adm = 5
 	}
 }
 
@@ -464,9 +464,9 @@ fixed_capital = 519 # Cannot move capital away from this province & no power cos
 		birth_date = 1688.11.4
 		death_date = 1750.1.1
 		claim = 95
-		DIP = 0
-		MIL = 2
-		ADM = 0
+		dip = 0
+		mil = 2
+		adm = 0
 	}
 }
 
@@ -478,9 +478,9 @@ fixed_capital = 519 # Cannot move capital away from this province & no power cos
 	monarch = {
 		name = "Isri Singh"
 		dynasty = "Kachhawa"
-		DIP = 0
-		MIL = 2
-		ADM = 0
+		dip = 0
+		mil = 2
+		adm = 0
 	}
 }
 
@@ -492,9 +492,9 @@ fixed_capital = 519 # Cannot move capital away from this province & no power cos
 		birth_date = 1728.12.1
 		death_date = 1750.1.1
 		claim = 95
-		DIP = 0
-		MIL = 2
-		ADM = 1
+		dip = 0
+		mil = 2
+		adm = 1
 	}
 }
 
@@ -502,9 +502,9 @@ fixed_capital = 519 # Cannot move capital away from this province & no power cos
 	monarch = {
 		name = "Madho Singh I"
 		dynasty = "Kachhawa"
-		DIP = 0
-		MIL = 2
-		ADM = 1
+		dip = 0
+		mil = 2
+		adm = 1
 	}
 }
 
@@ -516,9 +516,9 @@ fixed_capital = 519 # Cannot move capital away from this province & no power cos
 		birth_date = 1762.1.1
 		death_date = 1778.1.1
 		claim = 95
-		DIP = 0
-		MIL = 2
-		ADM = 1
+		dip = 0
+		mil = 2
+		adm = 1
 	}
 }
 
@@ -526,9 +526,9 @@ fixed_capital = 519 # Cannot move capital away from this province & no power cos
 	monarch = {
 		name = "Pratvi Singh"
 		dynasty = "Kachhawa"
-		DIP = 0
-		MIL = 2
-		ADM = 1
+		dip = 0
+		mil = 2
+		adm = 1
 	}
 }
 
@@ -540,9 +540,9 @@ fixed_capital = 519 # Cannot move capital away from this province & no power cos
 		birth_date = 1764.12.2
 		death_date = 1803.1.1
 		claim = 95
-		DIP = 0
-		MIL = 2
-		ADM = 2
+		dip = 0
+		mil = 2
+		adm = 2
 	}
 }
 
@@ -554,9 +554,9 @@ fixed_capital = 519 # Cannot move capital away from this province & no power cos
 	monarch = {
 		name = "Pratap Singh"
 		dynasty = "Kachhawa"
-		DIP = 0
-		MIL = 2
-		ADM = 2
+		dip = 0
+		mil = 2
+		adm = 2
 	}
 }
 
@@ -568,9 +568,9 @@ fixed_capital = 519 # Cannot move capital away from this province & no power cos
 		birth_date = 1764.1.1
 		death_date = 1818.11.21
 		claim = 95
-		DIP = 0
-		MIL = 1
-		ADM = 0
+		dip = 0
+		mil = 1
+		adm = 0
 	}
 }
 
@@ -578,9 +578,9 @@ fixed_capital = 519 # Cannot move capital away from this province & no power cos
 	monarch = {
 		name = "Jagat Singh II"
 		dynasty = "Kachhawa"
-		DIP = 0
-		MIL = 1
-		ADM = 0
+		dip = 0
+		mil = 1
+		adm = 0
 	}
 }
 
@@ -592,9 +592,9 @@ fixed_capital = 519 # Cannot move capital away from this province & no power cos
 		birth_date = 1819.4.15
 		death_date = 1835.2.6
 		claim = 95
-		DIP = 0
-		MIL = 1
-		ADM = 0
+		dip = 0
+		mil = 1
+		adm = 0
 	}
 }
 
@@ -602,8 +602,8 @@ fixed_capital = 519 # Cannot move capital away from this province & no power cos
 	monarch = {
 		name = "Jai Singh III"
 		dynasty = "Kachhawa"
-		DIP = 0
-		MIL = 1
-		ADM = 0
+		dip = 0
+		mil = 1
+		adm = 0
 	}
 }

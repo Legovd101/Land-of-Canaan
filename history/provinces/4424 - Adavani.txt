@@ -1,15 +1,14 @@
 #4424 - Adavani
-owner = VIJ
-controller = VIJ
+owner = HOY
+controller = HOY
 culture = telegu
-religion = hinduism
+religion = ajivika
 capital = "Adavani"
 trade_goods = grain
 base_tax = 2
 base_production = 2
 base_manpower = 1
 is_city = yes
-add_core = VIJ
 add_core = YOR
 discovered_by = indian
 discovered_by = nomad_group
@@ -20,3 +19,4 @@ discovered_by = ottoman
 discovered_by = serican_group
 discovered_by = iranic_group
 discovered_by = chinese
+add_core = HOY

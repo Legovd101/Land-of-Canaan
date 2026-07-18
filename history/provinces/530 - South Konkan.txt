@@ -1,7 +1,7 @@
 #530 - South Konkan (Dabhol, Rajapur, up to and including Bankot)
-owner = BIJ
-controller = BIJ
-culture = marathi
+owner = GZN
+controller = GZN
+culture = konkani
 religion = hinduism
 capital = "Dabhol"
 trade_goods = spices
@@ -9,7 +9,6 @@ base_tax = 4
 base_production = 4
 base_manpower = 2
 is_city = yes
-add_core = BIJ
 add_core = VIJ
 add_local_autonomy = 75
 discovered_by = indian
@@ -24,3 +23,4 @@ discovered_by = iranic_group
 discovered_by = chinese
 discovered_by = east_african
 discovered_by = cushitic_group
+add_core = GZN
