@@ -1,6 +1,6 @@
 # 2155 - Middag
-culture = polynesian
-religion = animism
+culture = formosan
+religion = mahayana
 capital = "Middag"
 trade_goods = tea
 base_tax = 3
