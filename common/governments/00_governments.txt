@@ -131,6 +131,7 @@ monarchy = {
 				gothic_monarchy_reform
 				# Itloc
 				serican_captaincy_reform
+				formosan_kingdom
 			}
 		}
 		hereditary_vs_nobility = {

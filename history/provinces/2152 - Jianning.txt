@@ -1,7 +1,7 @@
 # 2152 - Jianning
-owner = MNG
-controller = MNG
-add_core = MNG
+owner = FRM
+controller = FRM 
+add_core = FRM
 culture = chimin
 religion = confucianism
 capital = "Jianning"
@@ -10,8 +10,6 @@ base_tax = 2
 base_production = 2
 base_manpower = 2
 is_city = yes
-add_core = MIN
-add_core = NNG
 discovered_by = chinese
 discovered_by = nomad_group
 discovered_by = uralic_group

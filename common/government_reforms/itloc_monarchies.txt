@@ -24,3 +24,23 @@ serican_captaincy_reform = {
 		factor = 0.5 #generic
 	}
 }
+formosan_kingdom = {
+	icon = "asian_scripture"
+	allow_normal_conversion = no
+	lock_level_when_selected = yes
+	valid_for_nation_designer = yes
+	is_elective = no
+	nation_designer_cost = 0
+	potential = { tag = FRM }
+	trigger = { tag = FRM }
+	maintain_dynasty = yes
+	fixed_rank = 2
+	modifiers = {
+		has_marines = yes
+		allowed_marine_fraction = 0.5
+		manpower_recovery_speed = 0.15
+	}
+	custom_attributes = {
+		has_unify_china_cb = yes
+	}
+}
