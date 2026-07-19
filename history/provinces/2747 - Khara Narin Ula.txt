@@ -1,8 +1,7 @@
 #2405 - Khara Narin Ula
-owner = KHA
-controller = KHA
-add_core = KHA
-culture = mongol
+owner = PSX
+controller = PSX
+culture = uyghur
 religion = vajrayana
 capital = "Khara Narin Ula"
 trade_goods = livestock
@@ -13,3 +12,4 @@ is_city = yes
 discovered_by = chinese
 discovered_by = nomad_group
 discovered_by = uralic_group
+add_core = PSX

@@ -1,10 +1,9 @@
 # 2174 - Hengyang
-owner = MNG
-controller = MNG
-add_core = MNG
+owner = CMI
+controller = CMI
 add_core = CMI
 culture = xiang
-religion = animism
+religion = hmongism
 capital = "Hengyang"
 trade_goods = gold
 base_tax = 3

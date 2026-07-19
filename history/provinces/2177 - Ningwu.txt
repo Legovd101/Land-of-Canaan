@@ -1,9 +1,8 @@
 # 2177 - Ningwu
-owner = MNG
-controller = MNG
-add_core = MNG
+owner = JIN
+controller = JIN
 culture = jin
-religion = confucianism
+religion = mahayana
 capital = "Ningwu"
 trade_goods = beer
 base_tax = 1

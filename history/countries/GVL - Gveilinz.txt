@@ -1,0 +1,7 @@
+capital = 1840
+government_rank = 1
+religion = moism
+technology_group = chinese
+primary_culture = zhuang
+government = monarchy
+add_government_reform = 

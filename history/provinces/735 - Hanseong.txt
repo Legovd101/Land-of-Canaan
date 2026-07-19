@@ -1,7 +1,7 @@
 #735 - Hanseong
-owner = KOR
-controller = KOR
-culture = korean
+owner = CBK
+controller = CBK
+culture = chuokuan
 religion = confucianism
 capital = "Hanseong"
 trade_goods = paper
@@ -9,10 +9,11 @@ base_tax = 9
 base_production = 10
 base_manpower = 6
 is_city = yes
-add_core = KOR
 discovered_by = chinese
 discovered_by = nomad_group
 discovered_by = uralic_group
 extra_cost = 8
 center_of_trade = 1
+add_core = CBK
+add_core = CUK
 fort_15th = yes

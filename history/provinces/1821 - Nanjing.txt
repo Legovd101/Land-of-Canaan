@@ -1,7 +1,6 @@
 #1821 - Nanjing
-owner = MNG
-controller = MNG
-add_core = MNG
+owner = JNI
+controller = JNI
 culture = jianghuai
 religion = confucianism
 capital = "Nanjing"
@@ -13,4 +12,5 @@ is_city = yes
 discovered_by = chinese
 discovered_by = nomad_group
 discovered_by = uralic_group
+add_core = JNI
 fort_15th = yes

@@ -1,7 +1,7 @@
 #709 - Alxa
 owner = MRU
 controller = MRU
-culture = mongol
+culture = uyghur
 religion = vajrayana
 capital = "Alxa"
 trade_goods = gems#Manao Jade

@@ -1,0 +1,6 @@
+capital = 1833
+government_rank = 1
+religion = confucianism
+technology_group = chinese
+primary_culture = gan
+government = monarchy

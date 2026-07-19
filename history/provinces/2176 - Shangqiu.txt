@@ -1,7 +1,6 @@
 # 2176 - Shangqiu
-owner = MNG
-controller = MNG
-add_core = MNG
+owner = SUY
+controller = SUY
 culture = zhongyuan
 religion = confucianism
 capital = "Shangqiu"
@@ -14,3 +13,4 @@ add_core = LNG
 discovered_by = chinese
 discovered_by = nomad_group
 discovered_by = uralic_group
+add_core = SUY

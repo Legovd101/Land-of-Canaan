@@ -1,10 +1,9 @@
 #673 - Bozhou
-owner = MNG
-controller = MNG
-add_core = MNG
+owner = KLX
+controller = KLX
 add_core = CMI
 culture = miao
-religion = animism
+religion = hmongism
 capital = "Zhenyuan"
 trade_goods = lead
 base_tax = 1
@@ -14,3 +13,4 @@ is_city = yes
 discovered_by = chinese
 discovered_by = nomad_group
 discovered_by = uralic_group
+add_core = KLX

@@ -2,11 +2,10 @@
 latent_trade_goods = { 
 	coal 
 }
-owner = MNG
-controller = MNG
-add_core = MNG
+owner = CHC
+controller = CHC
 culture = hubei
-religion = confucianism
+religion = mahayana
 capital = "Huangzhou"
 trade_goods = grain
 base_tax = 2

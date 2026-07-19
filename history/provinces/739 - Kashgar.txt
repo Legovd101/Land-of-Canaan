@@ -1,8 +1,8 @@
 #739 - Kashgar
 owner = MRU
 controller = MRU
-culture = uyghur
-religion = vajrayana
+culture = hungarian
+religion = magyar_pagan
 capital = "Kashgar"
 trade_goods = wool
 base_tax = 2
@@ -24,4 +24,5 @@ center_of_trade = 2
 discovered_by = BUY
 discovered_by = OSE
 add_core = MRU
+add_core = JNR
 fort_15th = yes

@@ -1,7 +1,6 @@
 #670 - Ganzhou
-owner = MNG
-controller = MNG
-add_core = MNG
+owner = KCU
+controller = KCU
 culture = hakka
 religion = confucianism
 capital = "Ganzhou"
@@ -14,3 +13,4 @@ add_core = NNG
 discovered_by = chinese
 discovered_by = nomad_group
 discovered_by = uralic_group
+add_core = KCU

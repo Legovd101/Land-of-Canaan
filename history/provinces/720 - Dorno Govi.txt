@@ -1,8 +1,7 @@
 #720 - Tshiyet Noyan
-owner = KHA
-controller = KHA
-add_core = KHA
-culture = khalkha
+owner = PSX
+controller = PSX
+culture = uyghur
 religion = tengri_pagan_reformed
 capital = "Dornogovi"
 trade_goods = horses
@@ -14,3 +13,4 @@ add_core = OIR
 discovered_by = chinese
 discovered_by = nomad_group
 discovered_by = uralic_group
+add_core = PSX

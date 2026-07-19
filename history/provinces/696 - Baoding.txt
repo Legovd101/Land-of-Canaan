@@ -1,9 +1,8 @@
 #696 - Baoding
-owner = MNG
-controller = MNG
-add_core = MNG
+owner = YAN
+controller = YAN
 culture = chihan
-religion = confucianism
+religion = mahayana
 capital = "Baoding"
 trade_goods = chinaware
 base_tax = 3

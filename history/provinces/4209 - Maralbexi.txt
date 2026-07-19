@@ -1,8 +1,8 @@
 #4209 - Maralbexi
 owner = MRU
 controller = MRU
-culture = uyghur
-religion = vajrayana
+culture = hungarian
+religion = magyar_pagan
 capital = "Maralbexi"
 trade_goods = wool
 base_tax = 2
@@ -16,3 +16,4 @@ discovered_by = indian
 discovered_by = BUY
 discovered_by = OSE
 add_core = MRU
+add_core = JNR

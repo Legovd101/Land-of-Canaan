@@ -1,7 +1,6 @@
 #693 - Taiyuan
-owner = MNG
-controller = MNG
-add_core = MNG
+owner = JIN
+controller = JIN
 culture = jin
 religion = confucianism
 capital = "Taiyuan"

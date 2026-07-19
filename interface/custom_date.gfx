@@ -9,4 +9,9 @@ spriteTypes = {
 		noOfFrames = 2
 		transparencecheck = yes
 	}
+	spriteType = {
+		name = "GFX_custom_date_info_button"
+		textureFile = "gfx/interface/custom_date_info_button.dds"
+		transparencecheck = yes
+	}
 }

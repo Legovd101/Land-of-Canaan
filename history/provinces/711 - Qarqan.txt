@@ -1,8 +1,8 @@
 #711 - Qarqan
 owner = MRU
 controller = MRU
-culture = uyghur
-religion = vajrayana
+culture = hungarian
+religion = magyar_pagan
 capital = "Qarqan"
 trade_goods = camel
 base_tax = 1
@@ -15,3 +15,4 @@ discovered_by = uralic_group
 discovered_by = BUY
 discovered_by = OSE
 add_core = MRU
+add_core = KZR

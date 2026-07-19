@@ -2,7 +2,7 @@
 owner = DAI
 controller = DAI
 culture = zhuang
-religion = mahayana
+religion = moism
 capital = "Cao Bang"
 trade_goods = rice
 base_tax = 2

@@ -1,7 +1,7 @@
 #707 - Yumen
 owner = MRU
 controller = MRU
-culture = oirats
+culture = ionian
 religion = vajrayana
 capital = "Yumen"
 trade_goods = livestock

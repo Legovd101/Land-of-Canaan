@@ -1,0 +1,7 @@
+religion = magyar_pagan
+capital = 4204
+technology_group = uralic_group
+primary_culture = hungarian
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1

@@ -1,7 +1,6 @@
 #1833 - Ji'an
-owner = MNG
-controller = MNG
-add_core = MNG
+owner = JZH
+controller = JZH
 culture = gan
 religion = confucianism
 capital = "Ji'an"
@@ -14,3 +13,4 @@ add_core = NNG
 discovered_by = chinese
 discovered_by = nomad_group
 discovered_by = uralic_group
+add_core = JZH

@@ -1,9 +1,8 @@
 # 2138 - Wuding
-owner = MNG
-controller = MNG
-add_core = MNG
+owner = QIC
+controller = QIC
 culture = shandong_culture
-religion = confucianism
+religion = mahayana
 capital = "Wuding"
 trade_goods = grain
 base_tax = 4

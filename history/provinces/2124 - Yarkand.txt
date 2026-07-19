@@ -1,8 +1,8 @@
 # 2124 - Yarkand
 owner = MRU
 controller = MRU
-culture = uyghur
-religion = vajrayana
+culture = hungarian
+religion = magyar_pagan
 capital = "Yarkant"
 trade_goods = camel
 base_tax = 3
@@ -18,3 +18,4 @@ center_of_trade = 1
 discovered_by = BUY
 discovered_by = OSE
 add_core = MRU
+add_core = JNR

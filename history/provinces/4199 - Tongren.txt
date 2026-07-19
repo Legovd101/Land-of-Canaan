@@ -1,9 +1,8 @@
 #4199 - Tongren
-owner = MNG
-controller = MNG
-add_core = MNG
+owner = KLX
+controller = KLX
 culture = miao
-religion = animism
+religion = hmongism
 capital = "Tongren"
 trade_goods = tea
 base_tax = 1
@@ -14,3 +13,4 @@ add_core = CMI
 discovered_by = chinese
 discovered_by = nomad_group
 discovered_by = uralic_group
+add_core = KLX

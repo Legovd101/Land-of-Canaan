@@ -1,6 +1,7 @@
 government = monarchy
 add_government_reform = chinese_warlord
 technology_group = chinese
-religion = confucianism
+religion = mahayana
 primary_culture = chihan
-capital = 1816	#Beijing
+capital = 1816#Beijing
+government_rank = 1

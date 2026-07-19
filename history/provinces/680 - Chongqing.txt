@@ -1,7 +1,6 @@
 #680 - Chongqing
-owner = MNG
-controller = MNG
-add_core = MNG
+owner = SHU
+controller = SHU
 culture = sichuanese
 religion = confucianism
 capital = "Chongqing"
@@ -10,7 +9,6 @@ base_tax = 8
 base_production = 8
 base_manpower = 4
 is_city = yes
-add_core = CXI
 add_core = SHU
 discovered_by = chinese
 discovered_by = nomad_group

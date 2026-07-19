@@ -1,7 +1,7 @@
 #712 - Uighuristan
 owner = MRU
 controller = MRU
-culture = uyghur
+culture = hungarian
 religion = vajrayana
 capital = "Aksu"
 trade_goods = cotton
@@ -16,3 +16,4 @@ discovered_by = uralic_group
 discovered_by = BUY
 discovered_by = OSE
 add_core = MRU
+add_core = KRR

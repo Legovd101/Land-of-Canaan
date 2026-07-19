@@ -1,7 +1,6 @@
 # 2161 - Limchow
-owner = MNG
-controller = MNG
-add_core = MNG
+owner = LNZ
+controller = LNZ
 culture = cantonese
 religion = confucianism
 capital = "Limchow"
@@ -14,3 +13,4 @@ discovered_by = chinese
 discovered_by = nomad_group
 discovered_by = uralic_group
 discovered_by = indian
+add_core = LNZ

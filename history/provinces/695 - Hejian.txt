@@ -1,9 +1,8 @@
 #695 - Hebei
-owner = MNG
-controller = MNG
-add_core = MNG
+owner = YAN
+controller = YAN
 culture = chihan
-religion = confucianism
+religion = mahayana
 capital = "Hejian"
 trade_goods = salt
 base_tax = 3

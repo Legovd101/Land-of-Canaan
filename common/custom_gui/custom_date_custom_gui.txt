@@ -26,6 +26,11 @@ custom_button = {
 	tooltip = custom_date_window_toggle_button_tt
 }
 
+custom_icon = {
+	name = custom_date_window_info_button
+	tooltip = macedonian_calendar_tt
+}
+
 custom_window = {
 	name = custom_date_window
 	potential = {

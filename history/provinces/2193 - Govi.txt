@@ -1,8 +1,7 @@
 # 2193 - Govi
-owner = OIR
-controller = OIR
-add_core = OIR
-culture = khalkha
+owner = GZX
+controller = GZX
+culture = uyghur
 religion = tengri_pagan_reformed
 capital = "Govi"
 trade_goods = horses
@@ -13,3 +12,4 @@ is_city = yes
 discovered_by = chinese
 discovered_by = nomad_group
 discovered_by = uralic_group
+add_core = GZX

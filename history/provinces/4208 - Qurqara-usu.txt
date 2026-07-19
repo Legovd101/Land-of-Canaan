@@ -1,7 +1,6 @@
 #4208 - Qurqara-usu
-owner = CHG# ruled by a Chagataiid 
-controller = CHG
-add_core = CHG
+owner = GZX# ruled by a Chagataiid 
+controller = GZX
 culture = uyghur
 religion = vajrayana
 capital = "Balikul"
@@ -19,3 +18,4 @@ discovered_by = ottoman
 discovered_by = thraco_illyrian
 discovered_by = serican_group
 discovered_by = iranic_group
+add_core = GZX

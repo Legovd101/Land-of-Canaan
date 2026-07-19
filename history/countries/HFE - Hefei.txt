@@ -1,0 +1,6 @@
+capital = 1838
+government_rank = 1
+religion = confucianism
+technology_group = chinese
+primary_culture = jianghuai
+government = monarchy

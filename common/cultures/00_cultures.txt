@@ -1548,6 +1548,36 @@ finno_ugric = { #Ugric
 			Nyal'ka 
 		}
 	}
+	hungarian = {
+		primary = HUN
+		dynasty_names = {
+			Báthory Hunyadi Szapolyai Rákóczy Bocskai Bethlen Almásy Andrássy Batthyány Csáky Dessewffy
+			Erdody Eszterházy Festetics Hajdú Károlyi Kun Magyary Perényi Rónai Széchenyi Szepessy 
+			Thököly Tisza Zrínyi Teleki
+			Majláth Dóczy Dobó Koháry Orczy Frankopan Garay Mikes Szécsi Imreffy Nádasdy Rhédey
+			
+			#CK2
+			Zrinski Hadik Both "Rákóczi" Forgách Cseszneky Derencsényi Décsey Révay Esterházy
+			Kállay Kemény Thurzó Zichy
+		}
+		male_names = {
+			Lajos Apor Mátyás Béla Bács Barót Dejte Ellák Emelev Enet
+			Eneth Erös Fehér Gyoma Bere Boldizsár Csák Csana Csát Csátad
+			Janka Csató Keszö Ferenc Jenö Kálmán
+		}
+		female_names = {
+			Ágnes Agnes Éva Eva Adelaida Adelaide Agáta Agatha Amália Amelia Angyalka Anikó Aranka 
+			Bertha Borbála Csilla Csillag Czenzi Dorottya Dorothy Edit Edith Emõke Emese Erika Erzsébet 
+			Elisabeth Eszter Berta Anna
+			Etel Euphemia Euphemia Gizella Gisela Györgyi Georgia Hajnal Hedwig Hedwig Ibolya Ildikó 
+			Irén Irene Jácinta Józsa Júlia Juliana Jolán Judith Judith Kamilla Camilla Katalin 
+			Kinga Klára Clara Catherine Illona
+			Konstancia Constance Krisztina Christina Kunigunda Kunigunde Luca Mária Maria Márta Martha 
+			Magdolna Magdalena Margaréta Margaret Margit Matild Matilda Natália Natalia Odola Orsolya 
+			Panni Piroska Rózsa Rosa Sára Sarah Sarolt Zsuzsa Zsanett
+			Skolasztika Sophia Sophia Tundér Terezia Teresa Viola Viola Virág Zoltána Zsófia Sophia
+		}
+	}
 	dynasty_names = {
 		# CKII - Lappish
 		"Ubmeje" "Nuoráne" "Gájka" "Kaise" "Saiva" "Keite" "Sapmi" "Magga" "Guoládat"
@@ -1943,47 +1973,6 @@ carpathian = {
 			Callimachi Ghica Cantacuzino Cantemiresti Racovita Caradja Sturdza 
 			Conachi Soutzos Golescu Vacarescu Mavrocordatos Craiovesti Hâjdau
 			Kogalniceanu Movilesti
-		}
-	}
-	hungarian = {
-		primary = HUN
-		dynasty_names = {
-			Báthory Hunyadi Szapolyai Rákóczy Bocskai Bethlen Almásy Andrássy Batthyány Csáky Dessewffy
-			Erdody Eszterházy Festetics Hajdú Károlyi Kun Magyary Perényi Rónai Széchenyi Szepessy 
-			Thököly Tisza Zrínyi Teleki
-			Majláth Dóczy Dobó Koháry Orczy Frankopan Garay Mikes Szécsi Imreffy Nádasdy Rhédey
-			
-			#CK2
-			Zrinski Hadik Both "Rákóczi" Forgách Cseszneky Derencsényi Décsey Révay Esterházy
-			Kállay Kemény Thurzó Zichy
-		}
-		male_names = {
-			Ulászló László Lajos Albert János Mátyás Zsigmond András Károly István Béla Anasztáz Barnabás 
-			Boldizsár Dávid Dömötör Edvárd Ernö Ferenc Gábor György Izsák Jenö József Kálmán Kázmér Lörinc 
-			Miklós Oszkár Ottó Patrik Péter Simon Tamás Vencel
-			Ábel Ádárn Ágoston Álmos Árpád Õdön Otto Alajos Ambrus András Andrew Antal Attila Bálint 
-			Albert Balázs Benedek Benedict Bernát Bernard Bertók Bertalan Boldizsár Bonuslo
-			Borisz Boris Csák Csaba Csongor Dénes Dömötör Dezsõ Domoszló Donát Elek Elemér Endre Ernõ 
-			Philip Ferenc Francis Frigyes Gábor Gábriel Gabriel Gáspár Caspar Géza Gazsi
-			Gellért Gergely György George Gyula Imre István Stephen Izsák Jákob Jacob János John József 
-			Joseph Jenõ Kálmán Károly Charles Konrád Konrad Kornél Kristóf László Lázár Lõrinc Lajos 
-			Lampert Levente Lukács Márk Marcus Márton Martin Máté Mátyás Matthew Móric Mózes Mihály 
-			Michael Louis Fulöp Béla
-			Miklós Nándor Orbán Oszkár Pál Paul Péter Peter Sámuel Samuel Sándor Alexander Salamon 
-			Szilveszter Silvester Tádor Tacsony Tamás Thomas Tibor Tivadar Vazul Vencel Vaclav Vilmos 
-			Zoltán Zsigmond Sigmund Zsolt Saul Soma
-		}
-		female_names = {
-			Ágnes Agnes Éva Eva Adelaida Adelaide Agáta Agatha Amália Amelia Angyalka Anikó Aranka 
-			Bertha Borbála Csilla Csillag Czenzi Dorottya Dorothy Edit Edith Emõke Emese Erika Erzsébet 
-			Elisabeth Eszter Berta Anna
-			Etel Euphemia Euphemia Gizella Gisela Györgyi Georgia Hajnal Hedwig Hedwig Ibolya Ildikó 
-			Irén Irene Jácinta Józsa Júlia Juliana Jolán Judith Judith Kamilla Camilla Katalin 
-			Kinga Klára Clara Catherine Illona
-			Konstancia Constance Krisztina Christina Kunigunda Kunigunde Luca Mária Maria Márta Martha 
-			Magdolna Magdalena Margaréta Margaret Margit Matild Matilda Natália Natalia Odola Orsolya 
-			Panni Piroska Rózsa Rosa Sára Sarah Sarolt Zsuzsa Zsanett
-			Skolasztika Sophia Sophia Tundér Terezia Teresa Viola Viola Virág Zoltána Zsófia Sophia
 		}
 	}
 }
@@ -5986,6 +5975,87 @@ japanese_g = {
 	kyushuan = { #Kyushu culture
 		province = { local_has_samurai = yes }
 		primary = OTM
+		dynasty_names = { 
+			Yamato Arisugawa Asaka Fushimi "Kan'in" Katsura Kaya Kitashirakawa 
+			Kuni Nashimoto Takeda Yamashina
+		}
+		male_names = {
+			Motohito Mihito Hikohito Fusahito Katsuhito Tomohito Michihito Kazuhito Kotohito Okiko Tsuguhito Nagahito 
+			Satohito Asahito Toshiko Yasuhito Teruhito Hidehito Morohito Ayahito Takauji Yoshiakira Yoshimitsu 
+			Yoshimochi Yoshikazu Yoshinori Yoshikatsu Yoshimasa Yoshihisa Yoshitane Yoshizumi Yoshiharu Yoshiteru 
+			Yoshihide Yoshiaki Nobutada Hidenobu Hideyoshi Hideyori Ieyasu Hidetada Iemitsu Ietsuna Tsunayoshi Ienobu 
+			Ietsugu Yoshimune Ieshige Ieharu Ienari Ieyoshi Iesada Iemochi Yoshinobu
+		}
+		female_names = {
+			Toku Sen Tama Aya Ina Kumiko Ai Aiko Aimi Aina Airi Akane Akemi Aki Akiko Akira Ami Aoi Asuka Atsuko Aya Ayaka 
+			Ayako Ayame Ayane Ayano Chika Chikako Chinatsu Chiyo Chiyoko Cho Chou Chouko Emi Etsuko Hana Hanae Hanako Haru 
+			Haruka Haruko Haruna Hikari Hikaru Hina Hinata Hiroko Hitomi Honoka Hoshi Hoshiko Hotaru Izumi Junko Kaede 
+			Kanon Kaori Kaoru Kasumi Kazue Kazuko Keiko Kiku Kiyoko Kohaku Koharu Kokoro Kotone Kumiko Kyo Kyou Mai Makoto 
+			Mami Manami Mao Mariko Masami Masuyo Mayu Megumi Mei Michi Michiko Midori Mika Miki Miku Minako Minato Mio 
+			Misaki Mitsuko Miu Miyako Miyu Mizuki Moe Momoka Momoko Moriko Nana Nanami Naoko Naomi Natsuki Natsuko Natsumi 
+			Noa Noriko Ran Rei Ren Riko Rin Rina Rio Sachiko Saki Sakura Sakurako Satomi Sayuri Setsuko Shinju Shinobu 
+			Shiori Shizuka Shun Sora Sumiko Suzu Suzume Takako Takara Tamiko Tomiko Tomoko Tomomi Tsubaki Tsubame Tsubasa 
+			Tsukiko Ume Umeko Wakana Yasu Yoko Yoshi Yoshiko Youko Yua Yui Yuina Yuki Yukiko Yuko Yumi Yumiko Yuri Yuu 
+			Yuuka Yuuki Yuuko Yuuna Yuzuki
+		}
+	}
+	chibokuan = {
+		province = { local_has_samurai = yes }
+		primary = CBK
+		dynasty_names = { 
+			Yamato Arisugawa Asaka Fushimi "Kan'in" Katsura Kaya Kitashirakawa 
+			Kuni Nashimoto Takeda Yamashina
+		}
+		male_names = {
+			Motohito Mihito Hikohito Fusahito Katsuhito Tomohito Michihito Kazuhito Kotohito Okiko Tsuguhito Nagahito 
+			Satohito Asahito Toshiko Yasuhito Teruhito Hidehito Morohito Ayahito Takauji Yoshiakira Yoshimitsu 
+			Yoshimochi Yoshikazu Yoshinori Yoshikatsu Yoshimasa Yoshihisa Yoshitane Yoshizumi Yoshiharu Yoshiteru 
+			Yoshihide Yoshiaki Nobutada Hidenobu Hideyoshi Hideyori Ieyasu Hidetada Iemitsu Ietsuna Tsunayoshi Ienobu 
+			Ietsugu Yoshimune Ieshige Ieharu Ienari Ieyoshi Iesada Iemochi Yoshinobu
+		}
+		female_names = {
+			Toku Sen Tama Aya Ina Kumiko Ai Aiko Aimi Aina Airi Akane Akemi Aki Akiko Akira Ami Aoi Asuka Atsuko Aya Ayaka 
+			Ayako Ayame Ayane Ayano Chika Chikako Chinatsu Chiyo Chiyoko Cho Chou Chouko Emi Etsuko Hana Hanae Hanako Haru 
+			Haruka Haruko Haruna Hikari Hikaru Hina Hinata Hiroko Hitomi Honoka Hoshi Hoshiko Hotaru Izumi Junko Kaede 
+			Kanon Kaori Kaoru Kasumi Kazue Kazuko Keiko Kiku Kiyoko Kohaku Koharu Kokoro Kotone Kumiko Kyo Kyou Mai Makoto 
+			Mami Manami Mao Mariko Masami Masuyo Mayu Megumi Mei Michi Michiko Midori Mika Miki Miku Minako Minato Mio 
+			Misaki Mitsuko Miu Miyako Miyu Mizuki Moe Momoka Momoko Moriko Nana Nanami Naoko Naomi Natsuki Natsuko Natsumi 
+			Noa Noriko Ran Rei Ren Riko Rin Rina Rio Sachiko Saki Sakura Sakurako Satomi Sayuri Setsuko Shinju Shinobu 
+			Shiori Shizuka Shun Sora Sumiko Suzu Suzume Takako Takara Tamiko Tomiko Tomoko Tomomi Tsubaki Tsubame Tsubasa 
+			Tsukiko Ume Umeko Wakana Yasu Yoko Yoshi Yoshiko Youko Yua Yui Yuina Yuki Yukiko Yuko Yumi Yumiko Yuri Yuu 
+			Yuuka Yuuki Yuuko Yuuna Yuzuki
+		}
+	}
+	chuokuan = {
+		province = { local_has_samurai = yes }
+		primary = CUK
+		dynasty_names = { 
+			Yamato Arisugawa Asaka Fushimi "Kan'in" Katsura Kaya Kitashirakawa 
+			Kuni Nashimoto Takeda Yamashina
+		}
+		male_names = {
+			Motohito Mihito Hikohito Fusahito Katsuhito Tomohito Michihito Kazuhito Kotohito Okiko Tsuguhito Nagahito 
+			Satohito Asahito Toshiko Yasuhito Teruhito Hidehito Morohito Ayahito Takauji Yoshiakira Yoshimitsu 
+			Yoshimochi Yoshikazu Yoshinori Yoshikatsu Yoshimasa Yoshihisa Yoshitane Yoshizumi Yoshiharu Yoshiteru 
+			Yoshihide Yoshiaki Nobutada Hidenobu Hideyoshi Hideyori Ieyasu Hidetada Iemitsu Ietsuna Tsunayoshi Ienobu 
+			Ietsugu Yoshimune Ieshige Ieharu Ienari Ieyoshi Iesada Iemochi Yoshinobu
+		}
+		female_names = {
+			Toku Sen Tama Aya Ina Kumiko Ai Aiko Aimi Aina Airi Akane Akemi Aki Akiko Akira Ami Aoi Asuka Atsuko Aya Ayaka 
+			Ayako Ayame Ayane Ayano Chika Chikako Chinatsu Chiyo Chiyoko Cho Chou Chouko Emi Etsuko Hana Hanae Hanako Haru 
+			Haruka Haruko Haruna Hikari Hikaru Hina Hinata Hiroko Hitomi Honoka Hoshi Hoshiko Hotaru Izumi Junko Kaede 
+			Kanon Kaori Kaoru Kasumi Kazue Kazuko Keiko Kiku Kiyoko Kohaku Koharu Kokoro Kotone Kumiko Kyo Kyou Mai Makoto 
+			Mami Manami Mao Mariko Masami Masuyo Mayu Megumi Mei Michi Michiko Midori Mika Miki Miku Minako Minato Mio 
+			Misaki Mitsuko Miu Miyako Miyu Mizuki Moe Momoka Momoko Moriko Nana Nanami Naoko Naomi Natsuki Natsuko Natsumi 
+			Noa Noriko Ran Rei Ren Riko Rin Rina Rio Sachiko Saki Sakura Sakurako Satomi Sayuri Setsuko Shinju Shinobu 
+			Shiori Shizuka Shun Sora Sumiko Suzu Suzume Takako Takara Tamiko Tomiko Tomoko Tomomi Tsubaki Tsubame Tsubasa 
+			Tsukiko Ume Umeko Wakana Yasu Yoko Yoshi Yoshiko Youko Yua Yui Yuina Yuki Yukiko Yuko Yumi Yumiko Yuri Yuu 
+			Yuuka Yuuki Yuuko Yuuna Yuzuki
+		}
+	}
+	kitakuan = {
+		province = { local_has_samurai = yes }
+		primary = KTK
 		dynasty_names = { 
 			Yamato Arisugawa Asaka Fushimi "Kan'in" Katsura Kaya Kitashirakawa 
 			Kuni Nashimoto Takeda Yamashina

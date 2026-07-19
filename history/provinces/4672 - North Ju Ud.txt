@@ -1,7 +1,6 @@
-owner = KRC
-controller = KRC
-add_core = KRC
-culture = chahar
+owner = KOR
+controller = KOR
+culture = korean
 religion = vajrayana
 capital = "Josutu"
 trade_goods = livestock
@@ -14,3 +13,4 @@ add_core = CHH
 discovered_by = chinese
 discovered_by = nomad_group
 discovered_by = uralic_group
+add_core = KOR

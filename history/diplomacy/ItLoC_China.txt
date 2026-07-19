@@ -1,0 +1,170 @@
+# Mairuosao
+dependency = {
+	subject_type = tributary_state
+	first = MRU
+	second = GZX
+	start_date = 1444.1.1
+	end_date = 1579.1.23
+}
+
+dependency = {
+	subject_type = tributary_state
+	first = MRU
+	second = PSX
+	start_date = 1444.1.1
+	end_date = 1579.1.23
+}
+
+dependency = {
+	subject_type = tributary_state
+	first = MRU
+	second = YNZ
+	start_date = 1444.1.1
+	end_date = 1579.1.23
+}
+
+dependency = {
+	subject_type = tributary_state
+	first = MRU
+	second = YAN
+	start_date = 1444.1.1
+	end_date = 1579.1.23
+}
+
+dependency = {
+	subject_type = tributary_state
+	first = MRU
+	second = QIC
+	start_date = 1444.1.1
+	end_date = 1579.1.23
+}
+
+dependency = {
+	subject_type = tributary_state
+	first = MRU
+	second = JNA
+	start_date = 1444.1.1
+	end_date = 1579.1.23
+}
+
+dependency = {
+	subject_type = tributary_state
+	first = MRU
+	second = JIN
+	start_date = 1444.1.1
+	end_date = 1579.1.23
+}
+
+dependency = {
+	subject_type = tributary_state
+	first = MRU
+	second = SHU
+	start_date = 1444.1.1
+	end_date = 1579.1.23
+}
+
+# Heavenly Alliance
+
+dependency = {
+	subject_type = saangfan
+	first = YUE
+	second = YNL
+	start_date = 1444.1.1
+	end_date = 1579.1.23
+}
+
+dependency = {
+	subject_type = saangfan
+	first = YUE
+	second = LNZ
+	start_date = 1444.1.1
+	end_date = 1579.1.23
+}
+
+dependency = {
+	subject_type = saangfan
+	first = YUE
+	second = LJC
+	start_date = 1444.1.1
+	end_date = 1579.1.23
+}
+
+dependency = {
+	subject_type = saangfan
+	first = YUE
+	second = GVL
+	start_date = 1444.1.1
+	end_date = 1579.1.23
+}
+
+dependency = {
+	subject_type = saangfan
+	first = YUE
+	second = XWN
+	start_date = 1444.1.1
+	end_date = 1579.1.23
+}
+
+dependency = {
+	subject_type = saangfan
+	first = YUE
+	second = KCU
+	start_date = 1444.1.1
+	end_date = 1579.1.23
+}
+
+dependency = {
+	subject_type = saangfan
+	first = YUE
+	second = JZH
+	start_date = 1444.1.1
+	end_date = 1579.1.23
+}
+
+dependency = {
+	subject_type = saangfan
+	first = YUE
+	second = SGR
+	start_date = 1444.1.1
+	end_date = 1579.1.23
+}
+
+dependency = {
+	subject_type = saangfan
+	first = YUE
+	second = CNG
+	start_date = 1444.1.1
+	end_date = 1579.1.23
+}
+
+dependency = {
+	subject_type = saangfan
+	first = YUE
+	second = HZH
+	start_date = 1444.1.1
+	end_date = 1579.1.23
+}
+
+dependency = {
+	subject_type = saangfan
+	first = YUE
+	second = WUU
+	start_date = 1444.1.1
+	end_date = 1579.1.23
+}
+
+dependency = {
+	subject_type = saangfan
+	first = YUE
+	second = JND
+	start_date = 1444.1.1
+	end_date = 1579.1.23
+}
+
+dependency = {
+	subject_type = saangfan
+	first = YUE
+	second = GNH
+	start_date = 1444.1.1
+	end_date = 1579.1.23
+}

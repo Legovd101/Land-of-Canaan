@@ -35,6 +35,11 @@ country_event = {
 	option = { # Aaaaaaah!
 		name = flavor_ROM.1.a
 		trigger = {
+			NOT = {
+				any_army = {
+					is_ruler_commanding_unit = yes
+				}
+			}
 		}
 		random = {
 			chance = 99

@@ -13,3 +13,9 @@
  nome_title_plural: "Nomes"
  is_nome: "Is Nome"
 
+ saangfan: "Saangfan:"
+ saangfan_long_desc: "A member of the loose Heavenly Alliance. Although the Tinzi is the nominal head of the Alliance, each member is still free to pursue their own interests."
+ saangfan_is_our: "$NAME|Y$ is a Saangfan of us"
+ saangfan_title: "Saangfan"
+ saangfan_title_plural: "Saangfans"
+ is_saangfan: "Is Saangfan"

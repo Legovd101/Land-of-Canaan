@@ -1,9 +1,8 @@
 # 2163 - Liuzhou
-owner = MNG
-controller = MNG
-add_core = MNG
+owner = LJC
+controller = LJC
 culture = zhuang
-religion = confucianism
+religion = moism
 capital = "Liuzhou"
 trade_goods = gunpowder
 base_tax = 3
@@ -13,3 +12,4 @@ is_city = yes
 discovered_by = chinese
 discovered_by = nomad_group
 discovered_by = uralic_group
+add_core = LJC

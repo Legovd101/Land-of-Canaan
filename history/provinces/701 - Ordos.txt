@@ -4,7 +4,7 @@ latent_trade_goods = {
 }
 owner = MRU
 controller = MRU
-culture = mongol
+culture = uyghur
 religion = vajrayana
 capital = "Ordos"
 trade_goods = camel

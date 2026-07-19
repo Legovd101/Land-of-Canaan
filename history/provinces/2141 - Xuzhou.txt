@@ -1,7 +1,6 @@
 # 2141 - Xuzhou
-owner = MNG
-controller = MNG
-add_core = MNG
+owner = GNH
+controller = GNH
 culture = zhongyuan
 religion = confucianism
 capital = "Xuzhou"
@@ -13,3 +12,4 @@ is_city = yes
 discovered_by = chinese
 discovered_by = nomad_group
 discovered_by = uralic_group
+add_core = GNH

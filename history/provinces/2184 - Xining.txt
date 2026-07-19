@@ -1,7 +1,7 @@
 # 2184 - Xining
 owner = MRU
 controller = MRU
-culture = xibei
+culture = ionian
 religion = vajrayana
 capital = "Xining"
 trade_goods = salt

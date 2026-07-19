@@ -1,7 +1,7 @@
 #2742 - Gyeongseong
 owner = KOR
 controller = KOR
-culture = manchu
+culture = korean
 religion = confucianism
 capital = "Gyeongseong"
 trade_goods = lumber

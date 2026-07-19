@@ -462,10 +462,50 @@ BHR = "countries/Biharorszag.txt" # Magyar
  # China
  ## Magyar
 MRU = "countries/Mairuosao.txt"
+JNR = "countries/Jenorszag.txt"
+KRR = "countries/Kerorszag.txt"
+KTR = "countries/Kurtorszag.txt"
+KZR = "countries/Keszorszag.txt"
+TNR = "countries/Tarjanorszag.txt"
 
- ## Indo-Aryan
+ ## Chinese
+HNM = "countries/Hainam.txt"
+XWN = "countries/Xuwen.txt"
+LNZ = "countries/Linzau.txt"
+YNL = "countries/Yuklam.txt"
+KCU = "countries/Kamchusu.txt"
+YLN = "countries/Yiling.txt"
+CGD = "countries/Changde.txt"
+JZH = "countries/Jizhou.txt"
+SGR = "countries/Shangrao.txt"
+CNG = "countries/Cingho.txt"
+HZH = "countries/Huizhou.txt"
+ANQ = "countries/Anqing.txt"
+HFE = "countries/Hefei.txt"
+JNI = "countries/Jiangning.txt"
+GNH = "countries/Ganhua.txt"
+JND = "countries/Jiangdu.txt"
+SUY = "countries/Suiyang.txt"
+JGL = "countries/Jiangling.txt"
+XNY = "countries/Xiangyang.txt"
+NNY = "countries/Nanyang.txt"
+JNA = "countries/Jinan.txt"
+YNZ = "countries/Yunzhou.txt"
 
- ## Dravidian
+ ## Tai
+GVL = "countries/Gveilinz.txt"
+LJC = "countries/Liujcouh.txt"
 
- ## Other
-BIL = "countries/Biliu Lhi.txt" # Tangut
+ ## Japonic
+CBK = "countries/Chibokun.txt"
+CUK = "countries/Chuokun.txt"
+KTK = "countries/Kitakuni.txt"
+
+ ## Sino-Tibetan
+GPZ = "countries/Gopzho.txt"
+BOZ = "countries/Bozho.txt"
+KLX = "countries/Kad Linx.txt"
+
+ ## Others
+PSX = "countries/Pesxan.txt" # Uyghur
+GZX = "countries/Gizenxan.txt" # Uyghur

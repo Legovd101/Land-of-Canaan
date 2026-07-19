@@ -1,7 +1,6 @@
 # 2149 - Ningbo
-owner = MNG
-controller = MNG
-add_core = MNG
+owner = WUU
+controller = WUU
 culture = wu
 religion = confucianism
 capital = "Ningbo"

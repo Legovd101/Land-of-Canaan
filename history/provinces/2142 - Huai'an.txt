@@ -1,7 +1,6 @@
 # 2142 - Huai'an
-owner = MNG
-controller = MNG
-add_core = MNG
+owner = JND
+controller = JND
 culture = jianghuai
 religion = confucianism
 capital = "Huai'an"
@@ -13,3 +12,4 @@ is_city = yes
 discovered_by = chinese
 discovered_by = nomad_group
 discovered_by = uralic_group
+add_core = JND

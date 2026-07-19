@@ -1,6 +1,6 @@
 owner = MRU
 controller = MRU
-culture = mongol
+culture = uyghur
 religion = vajrayana
 capital = "Badain Jaran"
 trade_goods = livestock

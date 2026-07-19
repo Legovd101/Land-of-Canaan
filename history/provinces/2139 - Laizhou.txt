@@ -1,8 +1,7 @@
 # 2139 - Laizhou
-owner = MNG
-controller = MNG
-add_core = MNG
-culture = shandong_culture
+owner = QIC
+controller = QIC
+culture = chuokuan
 religion = confucianism
 capital = "Laizhou"
 trade_goods = fish

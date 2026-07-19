@@ -1,0 +1,7 @@
+capital = 697
+government_rank = 1
+religion = mahayana
+technology_group = chinese
+primary_culture = jin
+government = monarchy
+add_government_reform = 

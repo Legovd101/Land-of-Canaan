@@ -1,7 +1,7 @@
 # 2191 - Ejin
 owner = MRU
 controller = MRU
-culture = oirats
+culture = uyghur
 religion = vajrayana
 capital = "Ejin"
 trade_goods = camel

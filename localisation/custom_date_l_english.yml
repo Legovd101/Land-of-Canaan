@@ -6,3 +6,4 @@
  # Customizable Localization:
 #  string_custom_date_year_display_bc: "[This.year_bc.GetValue] B.C."
  string_custom_date_year_display_CE: "[This.year.GetValue] CE"
+ macedonian_calendar_tt: "Perítios - January\nDýstros - February\nXanthikós - March\nArtemísios - April\nDaísios - May\nPánimos - June\nLóios - July\nGorpiaios - August\nHyperberetaios - September\nDíos - October\nApellaios - November\nAúdunaios - December"

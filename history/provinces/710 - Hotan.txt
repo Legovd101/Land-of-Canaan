@@ -1,8 +1,8 @@
 #710 - Hotan
 owner = MRU
 controller = MRU
-culture = uyghur
-religion = vajrayana
+culture = hungarian
+religion = magyar_pagan
 capital = "Hotan"
 trade_goods = jade
 base_tax = 2
@@ -17,3 +17,4 @@ center_of_trade = 1
 discovered_by = BUY
 discovered_by = OSE
 add_core = MRU
+add_core = KZR

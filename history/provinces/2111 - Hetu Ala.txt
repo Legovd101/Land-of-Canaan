@@ -1,8 +1,7 @@
 # 2111 - Hetu Ala
-owner = MJZ
-controller = MJZ
-add_core = MJZ
-culture = manchu
+owner = KOR
+controller = KOR
+culture = korean
 religion = confucianism
 capital = "Hetu Ala"
 trade_goods = iron
@@ -13,3 +12,4 @@ is_city = yes
 discovered_by = chinese
 discovered_by = nomad_group
 discovered_by = uralic_group
+add_core = KOR

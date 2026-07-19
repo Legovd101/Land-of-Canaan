@@ -1,7 +1,6 @@
 # 2159 - Leichow
-owner = MNG
-controller = MNG
-add_core = MNG
+owner = XWN
+controller = XWN
 culture = chimin
 religion = confucianism
 capital = "Leichow"
@@ -15,3 +14,4 @@ discovered_by = chinese
 discovered_by = nomad_group
 discovered_by = uralic_group
 discovered_by = indian
+add_core = XWN

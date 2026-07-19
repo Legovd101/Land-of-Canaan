@@ -1,7 +1,6 @@
 # 2137 - Daming
-owner = MNG
-controller = MNG
-add_core = MNG
+owner = JNA
+controller = JNA
 culture = chihan
 religion = confucianism
 capital = "Daming"
@@ -14,3 +13,4 @@ add_core = YAN
 discovered_by = chinese
 discovered_by = nomad_group
 discovered_by = uralic_group
+add_core = JNA

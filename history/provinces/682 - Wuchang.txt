@@ -1,9 +1,8 @@
 #682 - Hanyang
-owner = MNG
-controller = MNG
-add_core = MNG
+owner = CHC
+controller = CHC
 culture = hubei
-religion = confucianism
+religion = mahayana
 capital = "Wuchang"
 trade_goods = marble
 base_tax = 8

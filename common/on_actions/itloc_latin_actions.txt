@@ -1,0 +1,147 @@
+on_startup = {
+	set_variable = {
+		which = heavenly_succession_score
+		value = 0
+	}
+	if = {
+		limit = { tag = YUE }
+		save_global_event_target_as = current_tinzi
+		if = { limit = { ai = no}
+			set_variable = {
+				which = heavenly_succession_score
+				value = 200
+			}
+			set_variable = {
+				which = tungjat
+				value = 30
+			}
+		}
+	}
+	if = {
+		limit = { has_subject_of_type = saangfan }
+		league_successor_calculation_effect = yes
+		league_unity_calculation_effect = yes
+
+	}
+	set_variable = {
+		which = tungjat_gain
+		value = 0
+	}
+	if = {
+		limit = { is_in_heavenly_alliance = yes }
+		set_variable = {
+			which = heavenly_succession_score
+			value = 0
+		}
+	}
+}
+
+on_new_monarch = {
+	if = {
+		limit = { has_subject_of_type = saangfan NOT = { has_global_flag = latin_hereditary_reform } }
+		event_target:current_successor = {
+			set_variable = {
+				which = heavenly_succession_score
+				which = event_target:current_tinzi
+			}
+			save_global_event_target_as = current_tinzi
+			every_country = {
+				limit = { is_in_heavenly_alliance = yes }
+				if = {
+					limit = { NOT = { tag = PREV } }
+					PREV = {
+						create_subject = {
+							subject_type = saangfan
+							who = PREV
+						}
+					}
+					
+				}
+				set_variable = {
+					which = heavenly_succession_score
+					value = 0
+				}
+				set_variable = {
+					which = tungjat
+					value = 0
+				}
+			
+			}
+		}
+	}
+	events = {
+		fep_italian_flavor.3		#League Succession
+	}
+
+}
+
+# root = loser country, from = winner country
+on_war_lost = {
+	if = {
+		limit = { is_in_heavenly_alliance = yes }
+		subtract_variable = {
+			which = heavenly_succession_score
+			value = 30
+		}
+	}
+}
+
+# root = winning country, from = loser country
+on_war_won = {
+	if = {
+		limit = { is_in_heavenly_alliance = yes }
+		change_variable = {
+			which = heavenly_succession_score
+			value = 20
+		}
+	}
+}
+
+on_monthly_pulse = {
+	# Latin Unity Calculation
+	if = {
+		limit = {
+			has_subject_of_type = saangfan
+		}
+		league_unity_calculation_effect = yes
+	}
+	# Latin Succession Score
+	if = {
+		limit = { is_in_heavenly_alliance = yes }
+		league_succession_score_effect = yes
+	}
+	# if = {
+	# 	limit = { is_in_heavenly_alliance = yes }
+	# 	set_variable = {
+	# 		which = latin_succession_check
+	# 		value = 0
+	# 	}
+	# }
+	if = {
+		limit = { has_subject_of_type = saangfan }
+		league_successor_calculation_effect = yes
+	}
+}
+
+on_country_released = {
+	THIS = {
+		if = {
+			limit = { culture_group = latin }
+			random_country = {
+				limit = { has_subject_of_type = saangfan }
+				create_subject = {
+					subject_type = saangfan
+					who = PREV
+				}
+			}
+		}
+	}
+}
+on_create_vassal = {
+	if = {
+		limit = { FROM = { has_subject_of_type = saangfan } ROOT = { culture_group = latin } }
+		change_subject_type = {
+			subject_type = saangfan
+		}
+	}
+}

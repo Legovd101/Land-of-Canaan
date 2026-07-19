@@ -1,0 +1,7 @@
+capital = 674
+government_rank = 1
+religion = bimoism
+technology_group = chinese
+primary_culture = yi
+government = monarchy
+add_government_reform = 

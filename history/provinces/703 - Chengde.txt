@@ -1,8 +1,7 @@
 #703 - Chengde
-owner = KRC
-controller = KRC
-add_core = KRC
-culture = chahar
+owner = KOR
+controller = KOR
+culture = korean
 religion = vajrayana
 capital = "Chengde"
 trade_goods = jade
@@ -14,3 +13,4 @@ discovered_by = chinese
 discovered_by = nomad_group
 discovered_by = uralic_group
 add_core = CHH
+add_core = KOR

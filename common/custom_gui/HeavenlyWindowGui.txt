@@ -1,0 +1,694 @@
+custom_button = {
+	name = latin_custom_close_button
+	potential = {
+	}
+	trigger = {  }
+	effect = {
+		clr_country_flag = latin_window_shown
+		clr_country_flag = shogunate_window_shown
+	}
+	#tooltip = "Close"
+}
+
+custom_text_box = {
+	name = heavenly_ui_unity_value
+	potential = {
+	}
+	# tooltip = heavenly_ui_unity_value_tooltip
+}
+
+custom_text_box = {
+	name = heavenly_ui_influence_growth
+	potential = {
+	}
+	# tooltip = heavenly_ui_influence_growth_tooltip
+}
+
+custom_text_box = {
+	name = heavenly_ui_edicts_banner_text
+	potential = {
+	}
+	#tooltip = faction_window_text_mechanic_override_cusloc
+}
+
+custom_icon = {
+	name = heavenly_ui_edicts_banner
+	potential = {
+	}
+	#tooltip = heavenly_ui_holy_site_thatta_religion_tooltip
+}
+
+custom_text_box = {
+	name = faction_window_text_mechanic_override
+	potential = {
+	}
+	#tooltip = faction_window_text_mechanic_override_cusloc
+}
+
+custom_text_box = {
+	name = heavenly_ui_reforms_banner_text
+	potential = {
+	}
+	# tooltip = heavenly_ui_reforms_banner_text_tooltip
+}
+
+custom_button = {
+	name = heavenly_ui_religion_reform
+	potential = {
+	}
+	trigger = {
+		custom_trigger_tooltip = {
+			tooltip = only_tinzi_passes_reforms_tooltip
+			has_subject_of_type = saangfan
+		}
+		custom_trigger_tooltip = {
+			tooltip = 75_unity_tooltip
+			check_variable = {
+				which = tungjat
+				value = 75
+			}
+		}
+		hidden_trigger = {
+			NOT = { has_global_flag = latin_religion_reform }
+		}
+	}
+	effect = {
+		country_event = {
+			id = fep_italian_flavor.4
+		}
+		custom_tooltip = enables_new_editti
+		set_global_flag = latin_religion_reform
+		hidden_effect = {
+			subtract_variable = {
+				which = tungjat
+				value = 75
+			}
+		}
+	}
+	frame = {
+		number = 1
+		trigger = { 
+			always = yes
+		}
+	}
+	tooltip = heavenly_ui_religion_reform_tooltip
+}
+
+custom_button = {
+	name = heavenly_ui_culture_reform
+	potential = {
+	}
+	trigger = {
+		custom_trigger_tooltip = {
+			tooltip = only_tinzi_passes_reforms_tooltip
+			has_subject_of_type = saangfan
+		}
+		custom_trigger_tooltip = {
+			tooltip = 75_unity_tooltip
+			check_variable = {
+				which = tungjat
+				value = 75
+			}
+		}
+		hidden_trigger = {
+			has_global_flag = latin_religion_reform
+			NOT = {
+				has_global_flag = latin_culture_reform
+			}
+		}
+	}
+	effect = {
+		custom_tooltip = enables_liberation_cb
+		set_global_flag = latin_culture_reform
+		hidden_effect = {
+			subtract_variable = {
+				which = tungjat
+				value = 75
+			}
+		}
+	}
+	frame = {
+		number = 2
+		trigger = { 
+			always = yes
+		}
+	}
+	tooltip = heavenly_ui_culture_reform_tooltip
+}
+
+custom_button = {
+	name = heavenly_ui_hereditary_reform
+	potential = {
+	}
+	trigger = {
+		custom_trigger_tooltip = {
+			tooltip = only_tinzi_passes_reforms_tooltip
+			has_subject_of_type = saangfan
+		}
+		custom_trigger_tooltip = {
+			tooltip = 75_unity_tooltip
+			check_variable = {
+				which = tungjat
+				value = 75
+			}
+		}
+		all_subject_country = {
+			OR = {
+				NOT = { is_subject_of_type = saangfan }
+				has_opinion = {
+					who = event_target:current_tinzi
+					value = 150
+				}
+			}
+		}
+		hidden_trigger = {
+			has_global_flag = latin_culture_reform
+			NOT = {
+				has_global_flag = latin_hereditary_reform
+			}
+		}
+	}
+	effect = {
+		custom_tooltip = latin_hereditary_succession_tooltip
+		set_global_flag = latin_hereditary_reform
+		hidden_effect = {
+			every_subject_country = {
+				limit = { is_in_heavenly_alliance = yes }
+				country_event = {
+					id = fep_italian_flavor.5
+				}	
+			}
+		}
+		hidden_effect = {
+			subtract_variable = {
+				which = tungjat
+				value = 75
+			}
+		}
+	}
+	frame = {
+		number = 3
+		trigger = { 
+			always = yes
+		}
+	}
+	tooltip = heavenly_ui_hereditary_reform_tooltip
+}
+
+custom_button = {
+	name = heavenly_ui_levantine_reform
+	potential = {
+	}
+	trigger = {
+		custom_trigger_tooltip = {
+			tooltip = only_tinzi_passes_reforms_tooltip
+			has_subject_of_type = saangfan
+		}
+		custom_trigger_tooltip = {
+			tooltip = 75_unity_tooltip
+			check_variable = {
+				which = tungjat
+				value = 75
+			}
+		}
+		all_subject_country = {
+			OR = {
+				NOT = { is_subject_of_type = saangfan }
+				has_opinion = {
+					who = event_target:current_tinzi
+					value = 150
+				}
+			}
+		}
+		hidden_trigger = {
+			has_global_flag = latin_hereditary_reform
+			NOT = {
+				has_global_flag = latin_levantine_reform
+			}
+		}
+	}
+	effect = {
+		set_global_flag = latin_levantine_reform
+		palestine_area = {
+			add_core = event_target:current_tinzi
+		}
+		mashriq_region = {
+			add_permanent_claim = event_target:current_tinzi
+		}
+		if = {
+			limit = { KOJ = { exists = yes ai = yes } }
+			create_subject = {
+				subject_type = saangfan
+				who = KOJ
+			}
+		}
+		hidden_effect = {
+			subtract_variable = {
+				which = tungjat
+				value = 75
+			}
+		}
+	}
+	frame = {
+		number = 4
+		trigger = { 
+			always = yes
+		}
+	}
+	tooltip = heavenly_ui_levantine_reform_tooltip
+}
+
+custom_button = {
+	name = heavenly_ui_unification_reform
+	potential = {
+	}
+	trigger = {
+		custom_trigger_tooltip = {
+			tooltip = only_tinzi_passes_reforms_tooltip
+			has_subject_of_type = saangfan
+		}
+		custom_trigger_tooltip = {
+			tooltip = 75_unity_tooltip
+			check_variable = {
+				which = tungjat
+				value = 75
+			}
+		}
+		all_subject_country = {
+			OR = {
+				NOT = { is_subject_of_type = saangfan }
+				has_opinion = {
+					who = event_target:current_tinzi
+					value = 150
+				}
+			}
+		}
+		hidden_trigger = {
+			has_global_flag = latin_levantine_reform
+			NOT = {
+				has_global_flag = latin_unification_reform
+			}
+		}
+	}
+	effect = {
+		set_global_flag = latin_unification_reform
+		italy_region = {
+			add_core = event_target:current_tinzi
+		}
+		custom_tooltip = latin_unification_tooltip
+		hidden_effect = {
+			every_subject_country = {
+				limit = {
+					is_subject_of_type_with_overlord = {
+						who = event_target:current_tinzi
+						type = saangfan
+					}
+				}
+				event_target:current_tinzi = {
+					inherit = PREV
+				}
+				change_tag = ITA
+				add_country_modifier = {
+					name = centralization_modifier
+					duration = 7300
+				}
+			}
+		}
+		hidden_effect = {
+			subtract_variable = {
+				which = tungjat
+				value = 75
+			}
+		}
+	}
+	frame = {
+		number = 5
+		trigger = { 
+			always = yes
+		}
+	}
+	tooltip = heavenly_ui_unification_reform_tooltip
+}
+
+custom_icon = {
+	name = heavenly_ui_tinzi_shield_empty
+	potential = {
+		#NOT = {
+		#	OR = {
+		#		has_saved_global_event_target = Caliph_province_holder
+		#		has_saved_global_event_target = ME_latin_tag
+		#	}
+		#}
+	}
+	# tooltip = heavenly_ui_latin_flag_tooltip
+}
+
+custom_icon = {
+	name = italy_ui_successor_shield_empty
+	potential = {
+		#NOT = {
+		#	OR = {
+		#		has_saved_global_event_target = Caliph_province_holder
+		#		has_saved_global_event_target = ME_latin_tag
+		#	}
+		#}
+	}
+	# tooltip = heavenly_ui_latin_successor_tooltip
+}
+
+custom_icon = {
+	name = heavenly_ui_reforms_banner
+	potential = {
+	}
+	#tooltip = heavenly_ui_latin_flag_tooltip
+}
+
+custom_shield = {
+	name = heavenly_ui_tinzi_shield
+	potential = {
+	}
+	trigger = {
+		#has_saved_global_event_target = imperial_chaplain
+	}
+	effect = { }
+	# tooltip = heavenly_ui_latin_flag_tooltip
+	global_event_target = current_tinzi
+	open_country = yes
+}
+
+custom_shield = {
+	name = italy_ui_successor_shield
+	potential = {
+	}
+	trigger = {
+		#has_saved_global_event_target = imperial_chaplain
+	}
+	effect = {
+		if = { limit = { NOT = { has_global_flag = latin_hereditary_reform } }
+			every_capital_province = {
+				limit = {
+					owner = { is_in_heavenly_alliance = yes }
+				}
+				custom_tooltip = heavenly_succession_score_tt
+			}
+		}
+		else = {
+			custom_tooltip = rectoral_elections_abolished_tt
+		}
+	}
+	tooltip = heavenly_ui_latin_successor_tooltip
+	global_event_target = current_successor
+	open_country = yes
+}
+
+
+custom_icon = {
+	name = heavenly_ui_tinzi_shield_cut
+	potential = {
+		#OR = {
+		#	has_saved_global_event_target = Caliph_province_holder
+		#	has_saved_global_event_target = ME_latin_tag
+		#}
+		#OR = {
+		#	event_target:Caliph_province_holder = { religion = sunni }
+		#	event_target:ME_latin_tag = { religion = sunni }
+		#}
+	}
+	#tooltip = heavenly_ui_latin_flag_tooltip
+}
+
+custom_icon = {
+	name = italy_ui_successor_shield_cut
+	potential = {
+		#OR = {
+		#	has_saved_global_event_target = Caliph_province_holder
+		#	has_saved_global_event_target = ME_latin_tag
+		#}
+		#OR = {
+		#	event_target:Caliph_province_holder = { religion = sunni }
+		#	event_target:ME_latin_tag = { religion = sunni }
+		#}
+	}
+	#tooltip = heavenly_ui_latin_flag_tooltip
+}
+
+custom_text_box = {
+	name = heavenly_ui_tinzi
+	potential = {
+	}
+	# tooltip = heavenly_ui_tinzitooltip
+}
+
+custom_text_box = {
+	name = heavenly_ui_unity_growth
+	potential = {
+	}
+	tooltip = heavenly_ui_unity_growth_tooltip
+}
+
+custom_text_box = {
+	name = heavenly_ui_tinzi_religion
+	potential = {
+	}
+	tooltip = heavenly_ui_tinzi_religion_tooltip
+}
+
+custom_icon = {
+	name = faction_window_bg_override
+	potential = {
+	}
+}
+
+custom_button = {
+	name = faction_window_bg_override
+	potential = { }
+	trigger = { }
+	effect = { }
+	# tooltip = blahblah
+}
+
+custom_text_box = {
+	name = faction_window_bg_override
+	potential = {  }
+}
+
+custom_icon = {
+	name = fatwa_color_overlay
+	potential = {
+	}
+}
+
+custom_button = {
+	name = editto_subsidize_league_trade
+	# tooltip = editto_subsidize_league_trade_tt
+	potential = {
+	}
+	trigger = {
+		custom_trigger_tooltip = {
+			tooltip = only_tinzi_passes_reforms_tooltip
+			has_subject_of_type = saangfan
+		}
+		has_not_passed_recent_edict = yes
+	}
+	effect = {
+		hidden_effect = {
+			subtract_variable = {
+				which = tungjat
+				value = 10
+			}
+		}
+		every_country = {
+			limit = { is_in_heavenly_alliance = yes }
+			add_country_modifier = {
+				name = league_trade_subsidized
+				duration = 1825
+			}
+		}
+	}
+}
+
+custom_button = {
+	name = editto_loosen_army_restrictions
+	# tooltip = editto_loosen_army_restrictions_tt
+	potential = {
+	}
+	trigger = {
+		custom_trigger_tooltip = {
+			tooltip = only_tinzi_passes_reforms_tooltip
+			has_subject_of_type = saangfan
+		}
+		has_not_passed_recent_edict = yes
+	}
+	effect = {
+		hidden_effect = {
+			subtract_variable = {
+				which = tungjat
+				value = 10
+			}
+		}
+		every_country = {
+			limit = { is_in_heavenly_alliance = yes }
+			add_country_modifier = {
+				name = army_restrictions_loosened
+				duration = 1825
+			}
+		}
+	}
+}
+
+custom_button = {
+	name = editto_promote_religious_adherence
+	# tooltip = editto_promote_religious_adherence_tt
+	potential = {
+	}
+	trigger = {
+		custom_trigger_tooltip = {
+			tooltip = must_pass_religious_reform
+ 			has_global_flag = latin_religion_reform
+		}
+		custom_trigger_tooltip = {
+			tooltip = only_tinzi_passes_reforms_tooltip
+			has_subject_of_type = saangfan
+		}
+		has_not_passed_recent_edict = yes
+	}
+	effect = {
+		hidden_effect = {
+			subtract_variable = {
+				which = tungjat
+				value = 10
+			}
+		}
+		every_country = {
+			limit = { is_in_heavenly_alliance = yes }
+			add_country_modifier = {
+				name = adherence_pushed
+				duration = 1825
+			}
+		}
+	}
+}
+
+custom_button = {
+	name = editto_inspire_religious_tolerance
+	# tooltip = editto_inspire_religious_tolerance_tt
+	potential = {
+	}
+	trigger = {
+		custom_trigger_tooltip = {
+			tooltip = must_pass_religious_reform
+ 			has_global_flag = latin_religion_reform
+		}
+		custom_trigger_tooltip = {
+			tooltip = only_tinzi_passes_reforms_tooltip
+			has_subject_of_type = saangfan
+		}
+		has_not_passed_recent_edict = yes
+	}
+	effect = {
+		hidden_effect = {
+			subtract_variable = {
+				which = tungjat
+				value = 10
+			}
+		}
+		every_country = {
+			limit = { is_in_heavenly_alliance = yes }
+			add_country_modifier = {
+				name = religious_tolerance_encouraged
+				duration = 1825
+			}
+		}
+	}
+}
+
+custom_button = {
+	name = editto_encourage_infrastructure
+	# tooltip = editto_encourage_infrastructure_tt
+	potential = {
+	}
+	trigger = {
+		custom_trigger_tooltip = {
+			tooltip = only_tinzi_passes_reforms_tooltip
+			has_subject_of_type = saangfan
+		}
+		has_not_passed_recent_edict = yes
+	}
+	effect = {
+		hidden_effect = {
+			subtract_variable = {
+				which = tungjat
+				value = 10
+			}
+		}
+		every_country = {
+			limit = { is_in_heavenly_alliance = yes }
+			add_country_modifier = {
+				name = infrastructure_supported
+				duration = 1825
+			}
+		}
+	}
+}
+
+custom_button = {
+	name = editto_forbid_anathema
+	# tooltip = editto_forbid_anathema_tt
+	potential = {
+	}
+	trigger = {
+		custom_trigger_tooltip = {
+			tooltip = only_tinzi_passes_reforms_tooltip
+			has_subject_of_type = saangfan
+		}
+		has_not_passed_recent_edict = yes
+		custom_trigger_tooltip = {
+			tooltip = must_pass_religious_reform
+ 			has_global_flag = latin_religion_reform
+		}
+	}
+	effect = {
+		hidden_effect = {
+			subtract_variable = {
+				which = tungjat
+				value = 10
+			}
+		}
+		every_country = {
+			limit = { is_in_heavenly_alliance = yes }
+			add_country_modifier = {
+				name = forbittance_of_anathema
+				duration = 1825
+			}
+		}
+	}
+}
+
+custom_button = {
+	name = editto_fund_league_universities
+	# tooltip = editto_fund_league_universities_tt
+	potential = {
+	}
+	trigger = {
+		custom_trigger_tooltip = {
+			tooltip = only_tinzi_passes_reforms_tooltip
+			has_subject_of_type = saangfan
+		}
+		has_not_passed_recent_edict = yes
+	}
+	effect = {
+		hidden_effect = {
+			subtract_variable = {
+				which = tungjat
+				value = 10
+			}
+		}
+		every_country = {
+			limit = { is_in_heavenly_alliance = yes }
+			add_country_modifier = {
+				name = universities_funded
+				duration = 1825
+			}
+		}
+	}
+}

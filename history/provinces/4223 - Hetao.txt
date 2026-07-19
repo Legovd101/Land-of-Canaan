@@ -1,7 +1,7 @@
 #4223 - Hetao
 owner = MRU
 controller = MRU
-culture = mongol
+culture = uyghur
 religion = vajrayana
 capital = "Otog"
 trade_goods = horses

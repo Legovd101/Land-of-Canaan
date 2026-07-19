@@ -1,9 +1,8 @@
 #691 - Jinan
-owner = MNG
-controller = MNG
-add_core = MNG
+owner = JNA
+controller = JNA
 culture = shandong_culture
-religion = confucianism
+religion = mahayana
 capital = "Jinan"
 trade_goods = apiculture
 base_tax = 5
@@ -14,3 +13,4 @@ add_core = QIC
 discovered_by = chinese
 discovered_by = nomad_group
 discovered_by = uralic_group
+add_core = JNA

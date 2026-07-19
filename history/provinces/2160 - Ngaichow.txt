@@ -1,7 +1,6 @@
 # 2160 - Ngaichow
-owner = MNG
-controller = MNG
-add_core = MNG
+owner = HNM
+controller = HNM
 culture = chimin
 religion = confucianism
 capital = "Ngaichow"
@@ -19,3 +18,4 @@ discovered_by = kemetic
 discovered_by = ottoman
 discovered_by = serican_group
 discovered_by = iranic_group
+add_core = HNM

@@ -3,4 +3,5 @@ add_government_reform = chinese_warlord
 technology_group = chinese
 religion = confucianism
 primary_culture = sichuanese
-capital = 679	#Chengdu
+capital = 680#Chengdu
+government_rank = 1

@@ -1,7 +1,6 @@
 #718 - Govi Altay
-owner = OIR# The Oirads united much of Mongolia
-controller = OIR
-add_core = OIR
+owner = GZX# The Oirads united much of Mongolia
+controller = GZX
 culture = oirats
 religion = tengri_pagan_reformed
 capital = "Kobdo"
@@ -13,3 +12,4 @@ is_city = yes
 discovered_by = chinese
 discovered_by = nomad_group
 discovered_by = uralic_group
+add_core = GZX

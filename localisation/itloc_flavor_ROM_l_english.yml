@@ -3,7 +3,7 @@
  flavor_ROM.1.desc.a: "For the first time in history, blessed Roma has fallen to her enemies. As they march through the doors of the Senate building and grab everyone inside, [Root.Monarch.GetTitle] [Root.Monarch.GetName] attempts a daring escape via autodefenestration. However, the window [Root.Monarch.GetSheHe] jumped through seems a bit higher than anticipated..."
  flavor_ROM.1.desc.b: "For the first time in history, blessed Roma has fallen to her enemies. As they march through the doors of the Senate building and grab everyone inside, they begin to slaughter the senators one by one, placing their heads on pikes as they march through the city."
  flavor_ROM.1.a: "Aaaaaaah!"
- flavor_ROM.1.a: "No... No!"
+ flavor_ROM.1.b: "No... No!"
 
  flavor_ROM.2.title: "The Sacking of Roma"
  flavor_ROM.2.desc: "Our men have breached the walls of Roma, and are itching for wealth to take back with them."

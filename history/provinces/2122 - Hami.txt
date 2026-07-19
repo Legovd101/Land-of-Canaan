@@ -1,7 +1,7 @@
 # 2122 - Hami
 owner = MRU
 controller = MRU
-culture = oirats
+culture = uyghur
 religion = vajrayana
 capital = "Hami"
 trade_goods = grain

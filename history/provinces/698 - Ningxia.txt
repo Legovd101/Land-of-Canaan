@@ -1,7 +1,7 @@
 #698 - Guyuan
 owner = MRU
 controller = MRU
-culture = mongol
+culture = uyghur
 religion = confucianism
 capital = "Ningxia"
 trade_goods = salt

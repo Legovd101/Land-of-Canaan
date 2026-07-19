@@ -7,7 +7,7 @@
  LACK_OF_ELECTORS: "There are only §Y$CURR$§! elector-kings in Persia, and there needs to be §Y$NEED$§! for it to function properly. Therefore the Imperial Authority is decreased by §R$VAL$§! every month."
  VASSALIZED_ELECTORS: "§Y$CURR$§! of the elector-kings in Persia are subject states. Therefore the Imperial Authority is decreased by §R$VAL$§! every month."
  ENACT_DECREE_ONLY_ONE: "Only one decree can be enacted at once, and they cannot be canceled before their end date.\n"
- ENACT_DECREE_NOT_EMPEROR: "Only the Basileus can enact Decrees."
+ ENACT_DECREE_NOT_EMPEROR: "Only the Emperor can enact Decrees."
  CAN_NOT_ENACT_REFORM_NOT_EMPEROR: "Only the Basileus can enact reforms in Persia."
  CAN_NOT_ENACT_REFORM_LEAGUES: "Cannot enact reforms during religious conflict in Persia."
  ALREADY_THIS_IMP_REFORM: "Persia has already enacted '§Y$WHICH$§!'."

@@ -1,0 +1,6 @@
+capital = 681
+government_rank = 1
+religion = confucianism
+technology_group = chinese
+primary_culture = sichuanese
+government = monarchy

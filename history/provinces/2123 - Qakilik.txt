@@ -1,7 +1,7 @@
 # 2123 - Qakilik
 owner = MRU
 controller = MRU
-culture = oirats
+culture = hungarian
 religion = vajrayana
 capital = "Qakilik"
 trade_goods = camel
@@ -15,3 +15,4 @@ discovered_by = uralic_group
 discovered_by = BUY
 discovered_by = OSE
 add_core = MRU
+add_core = KTR
