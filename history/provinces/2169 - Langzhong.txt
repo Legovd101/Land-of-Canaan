@@ -2,7 +2,7 @@
 owner = MRU
 controller = MRU
 culture = sichuanese
-religion = confucianism
+religion = daoism
 capital = "Langzhong"
 trade_goods = rice
 base_tax = 2

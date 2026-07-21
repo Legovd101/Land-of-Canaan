@@ -1,42 +1,42 @@
-# Italian events
-namespace = fep_italian_flavor
+# Heavenly Events
+namespace = itloc_heavenly
 
-# League Memeber War Event
+# Alliance Memeber War Event
 country_event = {
-	id = fep_italian_flavor.0
-	title = fep_italian_flavor.0.t
-	desc = fep_italian_flavor.0.d
+	id = itloc_heavenly.0
+	title = itloc_heavenly.0.title
+	desc = itloc_heavenly.0.desc
 	picture = ICONS_IN_CHURCH_eventPicture
 	
 	is_triggered_only = yes
 	hidden = yes
 
 	option = {
-		name = fep_italian_flavor.0.a
+		name = itloc_heavenly.0.a
 		every_country = {
 			limit = {
 				is_in_heavenly_alliance = yes
 				NOT = { tag = ROOT }
 			}
 			country_event = {
-				id = fep_italian_flavor.1
+				id = itloc_heavenly.1
 			}
 		}
 	}
 
 }
 
-# League Memeber Subject to War Declaration
+# Alliance Memeber Subject to War Declaration
 country_event = {
-	id = fep_italian_flavor.1
-	title = fep_italian_flavor.1.t
-	desc = fep_italian_flavor.1.d
+	id = itloc_heavenly.1
+	title = itloc_heavenly.1.title
+	desc = itloc_heavenly.1.desc
 	picture = ICONS_IN_CHURCH_eventPicture
 	
 	is_triggered_only = yes
 
 	option = {
-		name = fep_italian_flavor.1.a
+		name = itloc_heavenly.1.a
 		join_all_defensive_wars_of = FROM
 		change_variable = {
 			which = tungjat
@@ -52,7 +52,7 @@ country_event = {
 	}
 
 	option = {
-		name = fep_italian_flavor.1.b
+		name = itloc_heavenly.1.b
 		add_stability = -1
 		change_variable = {
 			which = tungjat
@@ -69,17 +69,17 @@ country_event = {
 
 }
 
-# League Memeber Subject to War Declaration
+# Alliance Memeber Subject to War Declaration
 country_event = {
-	id = fep_italian_flavor.2
-	title = fep_italian_flavor.2.t
-	desc = fep_italian_flavor.2.d
+	id = itloc_heavenly.2
+	title = itloc_heavenly.2.title
+	desc = itloc_heavenly.2.desc
 	picture = ICONS_IN_CHURCH_eventPicture
 	
 	is_triggered_only = yes
 
 	option = {
-		name = fep_italian_flavor.2.a
+		name = itloc_heavenly.2.a
 		FROM = {
 			create_subject = {
 				subject_type = saangfan
@@ -92,7 +92,7 @@ country_event = {
 	}
 
 	option = {
-		name = fep_italian_flavor.2.b
+		name = itloc_heavenly.2.b
 		FROM = {
 			add_casus_belli = {
 				type = cb_vassalize_mission
@@ -112,9 +112,9 @@ country_event = {
 
 # A New Tinzi Elected
 country_event = {
-	id = fep_italian_flavor.3
-	title = fep_italian_flavor.3.t
-	desc = fep_italian_flavor.3.d
+	id = itloc_heavenly.3
+	title = itloc_heavenly.3.title
+	desc = itloc_heavenly.3.desc
 	picture = ICONS_IN_CHURCH_eventPicture
 	
 	is_triggered_only = yes
@@ -122,24 +122,24 @@ country_event = {
 	trigger = { is_in_heavenly_alliance = yes }
 
 	option = {
-		name = fep_italian_flavor.3.a
+		name = itloc_heavenly.3.a
 	}
 
 }
 
-# Deciding on a Faith of the Latins
+# Deciding on the path of the Heavenly Kingdom
 country_event = {
-	id = fep_italian_flavor.4
-	title = fep_italian_flavor.4.t
-	desc = fep_italian_flavor.4.d
+	id = itloc_heavenly.4
+	title = itloc_heavenly.4.title
+	desc = itloc_heavenly.4.desc
 	picture = ICONS_IN_CHURCH_eventPicture
 	
 	is_triggered_only = yes
 
 	trigger = { is_in_heavenly_alliance = yes }
 
-	option = { # Our Loyalty lies strongly with the Pope!
-		name = fep_italian_flavor.4.a
+	option = { # The teachings of Confucius serve us well enough.
+		name = itloc_heavenly.4.a
 
 		hidden_effect = {
 			every_subject_country = {
@@ -153,15 +153,15 @@ country_event = {
 
 	}
 
-	option = { # Perhaps we should listen to the cries of our Arian subjects 
-		name = fep_italian_flavor.4.b
+	option = { # We shall follow the teachings of the Buddha.
+		name = itloc_heavenly.4.b
 
-		change_religion = arianism
-		capital_scope = { change_religion = arianism }
+		change_religion = mahayana
+		capital_scope = { change_religion = mahayana }
 		hidden_effect = {
-			set_ruler_religion = arianism
-			set_consort_religion = arianism
-			set_heir_religion = arianism
+			set_ruler_religion = mahayana
+			set_consort_religion = mahayana
+			set_heir_religion = mahayana
 		}
 		hidden_effect = {
 			every_subject_country = {
@@ -175,41 +175,15 @@ country_event = {
 
 	}
 
-	option = { # The Emperor in Gallia may yet have some points...
-		name = fep_italian_flavor.4.c
+	option = { # Henceforth, the state shall enforce the teachings of Laozi.
+		name = itloc_heavenly.4.c
 
-		change_religion = lutetian
-		capital_scope = { change_religion = lutetian }
+		change_religion = daoism
+		capital_scope = { change_religion = daoism }
 		hidden_effect = {
-			set_ruler_religion = lutetian
-			set_consort_religion = lutetian
-			set_heir_religion = lutetian
-		}
-		hidden_effect = {
-			every_subject_country = {
-				limit = { is_in_heavenly_alliance = yes }
-				change_religion = ROOT
-				set_ruler_religion = ROOT
-				set_consort_religion = ROOT
-				set_heir_religion = ROOT
-			}
-		}
-
-	}
-
-	option = { # I saw some pretty interesting things while in the East...
-		name = fep_italian_flavor.4.e
-		
-		trigger = {
-			has_ruler = "Manolo"
-		}
-
-		change_religion = nestorian
-		capital_scope = { change_religion = nestorian }
-		hidden_effect = {
-			set_ruler_religion = nestorian
-			set_consort_religion = nestorian
-			set_heir_religion = nestorian
+			set_ruler_religion = daoism
+			set_consort_religion = daoism
+			set_heir_religion = daoism
 		}
 		hidden_effect = {
 			every_subject_country = {
@@ -227,22 +201,22 @@ country_event = {
 
 # Tinziate Established as Hereditary
 country_event = {
-	id = fep_italian_flavor.5
-	title = fep_italian_flavor.5.t
-	desc = fep_italian_flavor.5.d
+	id = itloc_heavenly.5
+	title = itloc_heavenly.5.title
+	desc = itloc_heavenly.5.desc
 	picture = ICONS_IN_CHURCH_eventPicture
 	
 	is_triggered_only = yes
 
 	option = {
-		name = fep_italian_flavor.5.a
+		name = itloc_heavenly.5.a
 		ai_chance = {
 			factor = 1
 		}
 	}
 
 	option = {
-		name = fep_italian_flavor.5.b
+		name = itloc_heavenly.5.b
 		grant_independence = yes
 		event_target:current_tinzi = {
 			add_casus_belli = {

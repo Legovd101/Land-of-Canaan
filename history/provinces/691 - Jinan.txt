@@ -2,7 +2,7 @@
 owner = JNA
 controller = JNA
 culture = shandong_culture
-religion = mahayana
+religion = daoism
 capital = "Jinan"
 trade_goods = apiculture
 base_tax = 5

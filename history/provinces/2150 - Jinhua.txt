@@ -2,7 +2,7 @@
 owner = CNG
 controller = CNG
 culture = wu
-religion = confucianism
+religion = daoism
 capital = "Jinhua"
 trade_goods = rice
 base_tax = 3

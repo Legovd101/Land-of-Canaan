@@ -159,23 +159,23 @@ arabia_region = {
 		tabuk_area mecca_area turubah_area jeddah_area badr_area medina_area al_wajh_area 
 	}
 }
-mehloplei_area = { 
+mehloplei_region = { 
 	areas = { 
 		nafud_area hekko_area potema_area porolis_area kentrom_area qasim_area perehi_area 
 	}
 }
-telmun_area = { 
+telmun_region = { 
 	areas = { 
 		yamamah_area bahrain_area qataru_area erqitu_area shurinnu_area makhissen_area shakhathu_area ablu_area tannidi_area nambau_area
 		khapari_area qulu_area 
 	}
 }
-magan_area = { 
+magan_region = { 
 	areas = { 
 		pirate_coast_area mascat_area oman_area dhofar_area 
 	}
 }
-yamnat_area = { 
+yamnat_region = { 
 	areas = { 
 		mahra_area hadramut_area upper_yemen_area yemen_area tihama_al_yemen_area arba_qawaw_area northern_yemen_area asir_area main_area 
 	}

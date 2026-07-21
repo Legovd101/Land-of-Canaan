@@ -1,24 +1,25 @@
 custom_window = {
-	name = latin_custom_window
+	name = heavenly_custom_window
 	potential = {
-		has_country_flag = latin_window_shown
+		has_country_flag = heavenly_window_shown
 	}
 }
 
 custom_window = {
-	name = latin_bubble_entry
+	name = heavenly_bubble_entry
 	potential = {
 		OR = {
 			is_in_heavenly_alliance = yes
 			any_known_country = {
 				is_in_heavenly_alliance = yes
 			}
+			tag = TGU
 		}
 	}
 }
 
 custom_text_box = {
-	name = latin_frontend_number
+	name = heavenly_frontend_number
 	potential = {
 		OR = {
 			is_in_heavenly_alliance = yes
@@ -30,13 +31,13 @@ custom_text_box = {
 }
 
 custom_icon = {
-	name = latin_frontend_open_bg
+	name = heavenly_frontend_open_bg
 	potential = {
 	}
 }
 
 custom_button = {
-	name = latin_frontend_open_button
+	name = heavenly_frontend_open_button
 	potential = {
 	}
 	trigger = {
@@ -49,16 +50,17 @@ custom_button = {
 					any_known_country = {
 						is_in_heavenly_alliance = yes
 					}
+					tag = TGU
 				}
 			}
 			if = {
 				limit = {
-					has_country_flag = latin_window_shown
+					has_country_flag = heavenly_window_shown
 				}
-				clr_country_flag = latin_window_shown
+				clr_country_flag = heavenly_window_shown
 			}
 			else = {
-				set_country_flag = latin_window_shown
+				set_country_flag = heavenly_window_shown
 				clr_country_flag = shogunate_window_shown
 				play_sound = religion_sunni
 			}
@@ -88,6 +90,7 @@ custom_button = {
 				any_known_country = {
 					is_in_heavenly_alliance = yes
 				}
+				tag = TGU
 			}
 		}
 	}

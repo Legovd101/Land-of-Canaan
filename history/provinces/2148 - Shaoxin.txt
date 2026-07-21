@@ -2,7 +2,7 @@
 owner = WUU
 controller = WUU
 culture = wu
-religion = confucianism
+religion = daoism
 capital = "Shaoxin"
 trade_goods = paper
 base_tax = 6

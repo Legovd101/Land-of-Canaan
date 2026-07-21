@@ -21,3 +21,24 @@ cb_claim_emperorship = {
 
 	war_goal = take_capital_claim_emperorship
 }
+
+cb_liberate_latins = {
+
+	prerequisites_self = {
+		has_subject_of_type = saangfan
+		dip_tech = 5
+		has_global_flag = heavenly_culture_reform
+	}
+
+	prerequisites = {
+		any_owned_province = {
+			any_core_country = {
+				culture_group = east_asian
+				NOT = { owns = THIS }
+			}
+		}
+	}
+	
+	war_goal = superiority_liberation
+	valid_for_subject = no
+}

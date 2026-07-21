@@ -25,10 +25,7 @@ country_decisions = {
 
 	nome_01 = {
 		potential = {
-			OR = {
-				has_country_flag = show_nome_decisions
-				ai = yes
-			}
+			has_country_flag = show_nome_decisions
 			NOT = { exists = N01 }
 		}
 		provinces_to_highlight = {
@@ -59,10 +56,7 @@ country_decisions = {
 
 	nome_02 = {
 		potential = {
-			OR = {
-				has_country_flag = show_nome_decisions
-				ai = yes
-			}
+			has_country_flag = show_nome_decisions
 			NOT = { exists = N02 }
 		}
 		provinces_to_highlight = {
@@ -93,10 +87,7 @@ country_decisions = {
 
 	nome_03 = {
 		potential = {
-			OR = {
-				has_country_flag = show_nome_decisions
-				ai = yes
-			}
+			has_country_flag = show_nome_decisions
 			NOT = { exists = N03 }
 		}
 		provinces_to_highlight = {
@@ -127,10 +118,7 @@ country_decisions = {
 
 	nome_04 = {
 		potential = {
-			OR = {
-				has_country_flag = show_nome_decisions
-				ai = yes
-			}
+			has_country_flag = show_nome_decisions
 			NOT = { exists = N04 }
 		}
 		provinces_to_highlight = {
@@ -161,10 +149,7 @@ country_decisions = {
 
 	nome_05 = {
 		potential = {
-			OR = {
-				has_country_flag = show_nome_decisions
-				ai = yes
-			}
+			has_country_flag = show_nome_decisions
 			NOT = { exists = N05 }
 		}
 		provinces_to_highlight = {
@@ -195,10 +180,7 @@ country_decisions = {
 
 	nome_06 = {
 		potential = {
-			OR = {
-				has_country_flag = show_nome_decisions
-				ai = yes
-			}
+			has_country_flag = show_nome_decisions
 			NOT = { exists = N06 }
 		}
 		provinces_to_highlight = {
@@ -229,10 +211,7 @@ country_decisions = {
 
 	nome_07 = {
 		potential = {
-			OR = {
-				has_country_flag = show_nome_decisions
-				ai = yes
-			}
+			has_country_flag = show_nome_decisions
 			NOT = { exists = N07 }
 		}
 		provinces_to_highlight = {
@@ -263,10 +242,7 @@ country_decisions = {
 
 	nome_08 = {
 		potential = {
-			OR = {
-				has_country_flag = show_nome_decisions
-				ai = yes
-			}
+			has_country_flag = show_nome_decisions
 			NOT = { exists = N08 }
 		}
 		provinces_to_highlight = {
@@ -297,10 +273,7 @@ country_decisions = {
 
 	nome_09 = {
 		potential = {
-			OR = {
-				has_country_flag = show_nome_decisions
-				ai = yes
-			}
+			has_country_flag = show_nome_decisions
 			NOT = { exists = N09 }
 		}
 		provinces_to_highlight = {
@@ -331,10 +304,7 @@ country_decisions = {
 
 	nome_10 = {
 		potential = {
-			OR = {
-				has_country_flag = show_nome_decisions
-				ai = yes
-			}
+			has_country_flag = show_nome_decisions
 			NOT = { exists = N10 }
 		}
 		provinces_to_highlight = {
@@ -365,10 +335,7 @@ country_decisions = {
 
 	nome_11 = {
 		potential = {
-			OR = {
-				has_country_flag = show_nome_decisions
-				ai = yes
-			}
+			has_country_flag = show_nome_decisions
 			NOT = { exists = N11 }
 		}
 		provinces_to_highlight = {
@@ -399,10 +366,7 @@ country_decisions = {
 
 	nome_12 = {
 		potential = {
-			OR = {
-				has_country_flag = show_nome_decisions
-				ai = yes
-			}
+			has_country_flag = show_nome_decisions
 			NOT = { exists = N12 }
 		}
 		provinces_to_highlight = {
@@ -433,10 +397,7 @@ country_decisions = {
 
 	nome_13 = {
 		potential = {
-			OR = {
-				has_country_flag = show_nome_decisions
-				ai = yes
-			}
+			has_country_flag = show_nome_decisions
 			NOT = { exists = N13 }
 		}
 		provinces_to_highlight = {
@@ -467,10 +428,7 @@ country_decisions = {
 
 	nome_14 = {
 		potential = {
-			OR = {
-				has_country_flag = show_nome_decisions
-				ai = yes
-			}
+			has_country_flag = show_nome_decisions
 			NOT = { exists = N14 }
 		}
 		provinces_to_highlight = {
@@ -501,10 +459,7 @@ country_decisions = {
 
 	nome_15 = {
 		potential = {
-			OR = {
-				has_country_flag = show_nome_decisions
-				ai = yes
-			}
+			has_country_flag = show_nome_decisions
 			NOT = { exists = N15 }
 		}
 		provinces_to_highlight = {
@@ -535,10 +490,7 @@ country_decisions = {
 
 	nome_16 = {
 		potential = {
-			OR = {
-				has_country_flag = show_nome_decisions
-				ai = yes
-			}
+			has_country_flag = show_nome_decisions
 			NOT = { exists = N16 }
 		}
 		provinces_to_highlight = {
@@ -569,10 +521,7 @@ country_decisions = {
 
 	nome_17 = {
 		potential = {
-			OR = {
-				has_country_flag = show_nome_decisions
-				ai = yes
-			}
+			has_country_flag = show_nome_decisions
 			NOT = { exists = N17 }
 		}
 		provinces_to_highlight = {
@@ -603,10 +552,7 @@ country_decisions = {
 
 	nome_18 = {
 		potential = {
-			OR = {
-				has_country_flag = show_nome_decisions
-				ai = yes
-			}
+			has_country_flag = show_nome_decisions
 			NOT = { exists = N18 }
 		}
 		provinces_to_highlight = {
@@ -637,10 +583,7 @@ country_decisions = {
 
 	nome_19 = {
 		potential = {
-			OR = {
-				has_country_flag = show_nome_decisions
-				ai = yes
-			}
+			has_country_flag = show_nome_decisions
 			NOT = { exists = N19 }
 		}
 		provinces_to_highlight = {
@@ -671,10 +614,7 @@ country_decisions = {
 
 	nome_20 = {
 		potential = {
-			OR = {
-				has_country_flag = show_nome_decisions
-				ai = yes
-			}
+			has_country_flag = show_nome_decisions
 			NOT = { exists = N20 }
 		}
 		provinces_to_highlight = {
@@ -705,10 +645,7 @@ country_decisions = {
 
 	nome_21 = {
 		potential = {
-			OR = {
-				has_country_flag = show_nome_decisions
-				ai = yes
-			}
+			has_country_flag = show_nome_decisions
 			NOT = { exists = N21 }
 		}
 		provinces_to_highlight = {

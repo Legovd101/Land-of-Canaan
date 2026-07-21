@@ -1,8 +1,8 @@
 spriteTypes = {
 	### Latin Background ###
 	spriteType = {
-		name = "GFX_latin_window_bg"
-		texturefile = "gfx/interface/heavenly_ui_add/latin_window_bg.dds"
+		name = "GFX_heavenly_window_bg"
+		texturefile = "gfx/interface/heavenly_ui_add/heavenly_window_bg.dds"
 		loadType = "INGAME"
 		transparencecheck = yes
 	}
@@ -94,7 +94,7 @@ spriteTypes = {
 	}
 	### Latin Reforms ###
 	spriteType = {
-		name = "gfx_latin_reforms"
+		name = "gfx_heavenly_reforms"
 		texturefile = "gfx/interface/heavenly_ui_add/heavenly_reforms.dds"
 		loadType = "INGAME"
 		transparencecheck = yes

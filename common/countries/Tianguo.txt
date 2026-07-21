@@ -1,7 +1,7 @@
 #Country Name: Please see filename.
 graphical_culture = asiangfx
-color = { 126 87 198 }
-revolutionary_colors = { 16 1 16 }
+color = { 255 119 34 }
+revolutionary_colors = { 4 8 4 }
 historical_idea_groups = { 
 	trade_ideas
 	economic_ideas
@@ -331,5 +331,5 @@ ship_names = {
 	Santai Tianji Wenchang Qizhenjiangjun Tenshe Liaoning Beiluoshimen Yujing Hongshi Qinglong
 	Baihu Zhuque Xuanwu Zhaowu Yong'an Nan'an Longhai Fu'an Fuding Jinchang
 	Qingyuan Xining Xingyi Wu'an Xianning Ruichang Xinghua Zhaoyuan Xingping Yongji
-	Xiaoyi Yongkang Rende Anding Yanping
+	Xiaoyi Yongkang Rende Anding Yanping 
 }

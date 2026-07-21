@@ -4,4 +4,4 @@ religion = moism
 technology_group = chinese
 primary_culture = zhuang
 government = monarchy
-add_government_reform = 
+add_government_reform = chinese_warlord

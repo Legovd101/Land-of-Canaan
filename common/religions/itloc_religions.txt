@@ -1232,4 +1232,23 @@ eastern = {
 		heretic = { ZEN }
 		
 	}
+	
+	daoism = {
+		color = { 250 218 94 }
+		icon = 88
+		country = {
+			tolerance_heretic = 1
+			shock_damage_received = -0.1
+		}
+		country_as_secondary = {
+			horde_unity = 1
+			shock_damage_received = -0.1
+		}
+		province = {
+			local_defensiveness = 0.1
+		}
+		
+		heretic = { ZEN }
+		
+	}
 }

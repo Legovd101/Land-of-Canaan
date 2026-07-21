@@ -1,0 +1,468 @@
+country_decisions = {
+	council_of_guangzhou = {
+		major = yes
+		potential = {
+			culture_group = east_asian
+			NOT = { tag = BIL }
+			NOT = { any_country = { is_in_latin_league = yes } }
+		}
+
+		provinces_to_highlight = {
+			is_capital = yes
+			owner = {
+				NOT = {
+					OR = {
+						AND = {
+							is_subject = no
+							has_opinion = {
+								who = ROOT
+								value = 100
+							}
+						}
+						is_subject_of = ROOT
+					}
+				}
+				NOT = { tag = BIL }
+				NOT = { is_rival = ROOT }
+				culture_group = east_asian
+			}
+		}
+
+		allow = {
+			stability = 2
+			all_country = {
+				OR = {
+					tag = BIL
+					AND = {
+						is_subject = no
+						has_opinion = {
+							who = ROOT
+							value = 100
+						}
+					}
+					is_subject_of = ROOT
+					is_rival = ROOT
+					NOT = { culture_group = east_asian }
+				}
+			}
+		}
+
+		effect = {
+			ROOT = { save_global_event_target_as = current_rector }
+			every_country = {
+				limit = {
+					OR = {
+						AND = {
+							is_subject = no
+							has_opinion = {
+								who = ROOT
+								value = 100
+							}
+						}
+						is_subject_of = ROOT
+					}
+					NOT = { tag = BIL }
+					NOT = { tag = ROOT }
+					NOT = { is_rival = ROOT }
+					culture_group = east_asian
+				}
+				if = {
+					limit = { is_subject_of = ROOT }
+					ROOT = {
+						create_subject = {
+							subject_type = saangfan
+							who = PREV
+						}
+					}
+				}
+				else = {
+					# country_event = {
+					# 	id = fep_italian_flavor.2
+					# }
+				}
+			}
+			if = {
+				limit = {
+					any_country = {
+						is_rival = ROOT
+						culture_group = east_asian
+						NOT = { tag = KOJ }
+					}
+				}
+				add_casus_belli = {
+					type = cb_vassalize_mission
+					target = THIS
+				}
+			}
+			hidden_effect = {
+				set_variable = {
+					which = heavenly_succession_score
+					value = 100
+				}
+				every_subject_country = {
+					limit = { is_subject_of_type = league_member }
+					set_variable = {
+						which = heavenly_succession_score
+						value = 0
+					}
+				}
+				set_variable = {
+					which = tungjat
+					value = 30
+				}
+				league_successor_calculation_effect = yes
+				league_unity_calculation_effect = yes
+			}
+		}
+
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	ai_religion_reform = {
+		major = yes
+		potential = {
+			ai = yes
+			NOT = { has_global_flag = heavenly_religion_reform }
+			event_target:current_tinzi = {
+				tag = ROOT
+			}
+		}
+
+		provinces_to_highlight = {
+		}
+
+		allow = {
+			custom_trigger_tooltip = {
+				tooltip = only_tinzi_passes_reforms_tooltip
+				has_subject_of_type = saangfan
+			}
+			custom_trigger_tooltip = {
+				tooltip = 75_unity_tooltip
+				check_variable = {
+					which = tungjat
+					value = 75
+				}
+			}
+			# hidden_trigger = {
+			# 	NOT = { has_global_flag = daoism }
+			# }
+		}	
+		effect = {
+			country_event = {
+				id = itloc_heavenly.4
+			}
+			custom_tooltip = enables_new_editti
+			set_global_flag = heavenly_religion_reform
+			hidden_effect = {
+				subtract_variable = {
+					which = tungjat
+					value = 75
+				}
+			}
+		}
+
+		ai_will_do = {
+			factor = 400
+		}
+	}
+
+	ai_culture_reform = {
+		major = yes
+		potential = {
+			ai = yes
+			has_global_flag = heavenly_religion_reform
+			NOT = { has_global_flag = heavenly_culture_reform }
+			event_target:current_tinzi = {
+				tag = ROOT
+			}
+		}
+
+		provinces_to_highlight = {
+		}
+
+		allow = {
+			custom_trigger_tooltip = {
+				tooltip = only_tinzi_passes_reforms_tooltip
+				has_subject_of_type = saangfan
+			}
+			custom_trigger_tooltip = {
+				tooltip = 75_unity_tooltip
+				check_variable = {
+					which = tungjat
+					value = 75
+				}
+			}
+		}
+		effect = {
+			custom_tooltip = enables_liberation_cb
+			set_global_flag = heavenly_culture_reform
+			hidden_effect = {
+				subtract_variable = {
+					which = tungjat
+					value = 75
+				}
+			}
+		}
+
+		ai_will_do = {
+			factor = 400
+		}
+	}
+
+	ai_hereditary_reform = {
+		major = yes
+		potential = {
+			ai = yes
+			has_global_flag = heavenly_culture_reform
+			NOT = { has_global_flag = heavenly_hereditary_reform }
+			event_target:current_tinzi = {
+				tag = ROOT
+			}
+		}
+
+		provinces_to_highlight = {
+		}
+
+		allow = {
+			custom_trigger_tooltip = {
+				tooltip = only_tinzi_passes_reforms_tooltip
+				has_subject_of_type = saangfan
+			}
+			custom_trigger_tooltip = {
+				tooltip = 75_unity_tooltip
+				check_variable = {
+					which = tungjat
+					value = 75
+				}
+			}
+			all_subject_country = {
+				OR = {
+					NOT = { is_subject_of_type = saangfan }
+					has_opinion = {
+						who = event_target:current_tinzi
+						value = 150
+					}
+				}
+			}
+		}
+		effect = {
+			custom_tooltip = heavenly_hereditary_succession_tooltip
+			set_global_flag = heavenly_hereditary_reform
+			hidden_effect = {
+				every_subject_country = {
+					limit = { is_in_heavenly_alliance = yes }
+					country_event = {
+						id = itloc_heavenly.5
+					}	
+				}
+			}
+			hidden_effect = {
+				subtract_variable = {
+					which = tungjat
+					value = 75
+				}
+			}
+		}
+
+		ai_will_do = {
+			factor = 400
+		}
+	}
+
+	ai_conquest_reform = {
+		major = yes
+		potential = {
+			ai = yes
+			has_global_flag = heavenly_hereditary_reform
+			NOT = { has_global_flag = heavenly_conquest_reform }
+			event_target:current_tinzi = {
+				tag = ROOT
+			}
+		}
+
+		provinces_to_highlight = {
+		}
+
+		allow = {
+			custom_trigger_tooltip = {
+				tooltip = only_tinzi_passes_reforms_tooltip
+				has_subject_of_type = saangfan
+			}
+			custom_trigger_tooltip = {
+				tooltip = 75_unity_tooltip
+				check_variable = {
+					which = tungjat
+					value = 75
+				}
+			}
+			all_subject_country = {
+				OR = {
+					NOT = { is_subject_of_type = saangfan }
+					has_opinion = {
+						who = event_target:current_tinzi
+						value = 150
+					}
+				}
+			}
+		}
+		effect = {
+			custom_tooltip = heavenly_hereditary_succession_tooltip
+			set_global_flag = heavenly_conquest_reform
+			hidden_effect = {
+				every_subject_country = {
+					limit = { is_in_heavenly_alliance = yes }
+					country_event = {
+						id = itloc_heavenly.5
+					}	
+				}
+			}
+			hidden_effect = {
+				subtract_variable = {
+					which = tungjat
+					value = 75
+				}
+			}
+		}
+
+		ai_will_do = {
+			factor = 400
+		}
+	}
+
+	ai_unification_reform = {
+		major = yes
+		potential = {
+			ai = yes
+			has_global_flag = heavenly_conquest_reform
+			NOT = { has_global_flag = heavenly_unification_reform }
+			event_target:current_tinzi = {
+				tag = ROOT
+			}
+		}
+
+		provinces_to_highlight = {
+		}
+
+		allow = {
+			custom_trigger_tooltip = {
+				tooltip = only_tinzi_passes_reforms_tooltip
+				has_subject_of_type = saangfan
+			}
+			custom_trigger_tooltip = {
+				tooltip = 75_unity_tooltip
+				check_variable = {
+					which = tungjat
+					value = 75
+				}
+			}
+			all_subject_country = {
+				OR = {
+					NOT = { is_subject_of_type = saangfan }
+					has_opinion = {
+						who = event_target:current_tinzi
+						value = 150
+					}
+				}
+			}
+		}
+		effect = {
+			set_global_flag = heavenly_unification_reform
+			china_superregion = {
+				add_core = event_target:current_tinzi
+			}
+			custom_tooltip = heavenly_unification_tooltip
+			hidden_effect = {
+				every_subject_country = {
+					limit = {
+						is_subject_of_type_with_overlord = {
+							who = event_target:current_tinzi
+							type = saangfan
+						}
+					}
+					event_target:current_tinzi = {
+						inherit = PREV
+					}
+				}
+				change_tag = TGU
+				add_country_modifier = {
+					name = centralization_modifier
+					duration = 7300
+				}
+			}
+			hidden_effect = {
+				subtract_variable = {
+					which = tungjat
+					value = 75
+				}
+			}
+		}
+
+		ai_will_do = {
+			factor = 400
+		}
+	}
+
+# 	welcome_papacy = {
+# 		major = yes
+# 		potential = {
+# 			has_subject_of_type = league_member
+# 			religion = west_orthodox
+# 			has_global_flag = latin_religion_reform
+# 		}
+
+# 		provinces_to_highlight = {
+# 			OR = {
+# 				PAP = {
+# 					has_opinion = {
+# 						who = ROOT
+# 						value = 150
+# 					}
+# 					alliance_with = ROOT
+# 				}
+# 				118 = {
+# 					controlled_by = ROOT
+# 				}
+# 			}
+# 		}
+
+# 		allow = {
+# 		}
+
+# 		effect = {
+# 			change_variable = {
+# 				which = latin_unity
+# 				value = 75
+# 			}
+# 		}
+
+# 		ai_will_do = {
+# 			factor = 1
+# 		}
+# 	}
+	debug_league = {
+		major = yes
+		potential = {
+			has_subject_of_type = saangfan
+			has_country_flag = debug_mode_active
+		}
+
+		provinces_to_highlight = {
+		}
+
+		allow = {
+		}
+
+		effect = {
+			change_variable = {
+				which = tungjat
+				value = 75
+			}
+		}
+
+		ai_will_do = {
+			factor = 1
+		}
+	}
+}

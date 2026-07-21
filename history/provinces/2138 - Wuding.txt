@@ -2,7 +2,7 @@
 owner = QIC
 controller = QIC
 culture = shandong_culture
-religion = mahayana
+religion = daoism
 capital = "Wuding"
 trade_goods = grain
 base_tax = 4

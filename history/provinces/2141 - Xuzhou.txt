@@ -2,7 +2,7 @@
 owner = GNH
 controller = GNH
 culture = zhongyuan
-religion = confucianism
+religion = daoism
 capital = "Xuzhou"
 trade_goods = iron
 base_tax = 6

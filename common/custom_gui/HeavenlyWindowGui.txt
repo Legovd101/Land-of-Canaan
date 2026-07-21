@@ -1,10 +1,10 @@
 custom_button = {
-	name = latin_custom_close_button
+	name = heavenly_custom_close_button
 	potential = {
 	}
 	trigger = {  }
 	effect = {
-		clr_country_flag = latin_window_shown
+		clr_country_flag = heavenly_window_shown
 		clr_country_flag = shogunate_window_shown
 	}
 	#tooltip = "Close"
@@ -69,15 +69,15 @@ custom_button = {
 			}
 		}
 		hidden_trigger = {
-			NOT = { has_global_flag = latin_religion_reform }
+			NOT = { has_global_flag = heavenly_religion_reform }
 		}
 	}
 	effect = {
 		country_event = {
-			id = fep_italian_flavor.4
+			id = itloc_heavenly.4
 		}
 		custom_tooltip = enables_new_editti
-		set_global_flag = latin_religion_reform
+		set_global_flag = heavenly_religion_reform
 		hidden_effect = {
 			subtract_variable = {
 				which = tungjat
@@ -111,15 +111,15 @@ custom_button = {
 			}
 		}
 		hidden_trigger = {
-			has_global_flag = latin_religion_reform
+			has_global_flag = heavenly_religion_reform
 			NOT = {
-				has_global_flag = latin_culture_reform
+				has_global_flag = heavenly_culture_reform
 			}
 		}
 	}
 	effect = {
 		custom_tooltip = enables_liberation_cb
-		set_global_flag = latin_culture_reform
+		set_global_flag = heavenly_culture_reform
 		hidden_effect = {
 			subtract_variable = {
 				which = tungjat
@@ -162,20 +162,20 @@ custom_button = {
 			}
 		}
 		hidden_trigger = {
-			has_global_flag = latin_culture_reform
+			has_global_flag = heavenly_culture_reform
 			NOT = {
-				has_global_flag = latin_hereditary_reform
+				has_global_flag = heavenly_hereditary_reform
 			}
 		}
 	}
 	effect = {
-		custom_tooltip = latin_hereditary_succession_tooltip
-		set_global_flag = latin_hereditary_reform
+		custom_tooltip = heavenly_hereditary_succession_tooltip
+		set_global_flag = heavenly_hereditary_reform
 		hidden_effect = {
 			every_subject_country = {
 				limit = { is_in_heavenly_alliance = yes }
 				country_event = {
-					id = fep_italian_flavor.5
+					id = itloc_heavenly.5
 				}	
 			}
 		}
@@ -196,7 +196,7 @@ custom_button = {
 }
 
 custom_button = {
-	name = heavenly_ui_levantine_reform
+	name = heavenly_ui_conquest_reform
 	potential = {
 	}
 	trigger = {
@@ -221,25 +221,24 @@ custom_button = {
 			}
 		}
 		hidden_trigger = {
-			has_global_flag = latin_hereditary_reform
+			has_global_flag = heavenly_hereditary_reform
 			NOT = {
-				has_global_flag = latin_levantine_reform
+				has_global_flag = heavenly_conquest_reform
 			}
 		}
 	}
 	effect = {
-		set_global_flag = latin_levantine_reform
-		palestine_area = {
+		set_global_flag = heavenly_conquest_reform
+		every_province = {
+			limit = { owned_by = FRM } 
 			add_core = event_target:current_tinzi
 		}
-		mashriq_region = {
-			add_permanent_claim = event_target:current_tinzi
-		}
 		if = {
-			limit = { KOJ = { exists = yes ai = yes } }
-			create_subject = {
-				subject_type = saangfan
-				who = KOJ
+			limit = { FRM = { exists = yes ai = yes } }
+			add_casus_belli = {
+				target = FRM
+				type = cb_annex
+				months = 60
 			}
 		}
 		hidden_effect = {
@@ -255,7 +254,7 @@ custom_button = {
 			always = yes
 		}
 	}
-	tooltip = heavenly_ui_levantine_reform_tooltip
+	tooltip = heavenly_ui_conquest_reform_tooltip
 }
 
 custom_button = {
@@ -284,18 +283,18 @@ custom_button = {
 			}
 		}
 		hidden_trigger = {
-			has_global_flag = latin_levantine_reform
+			has_global_flag = heavenly_conquest_reform
 			NOT = {
-				has_global_flag = latin_unification_reform
+				has_global_flag = heavenly_unification_reform
 			}
 		}
 	}
 	effect = {
-		set_global_flag = latin_unification_reform
-		italy_region = {
+		set_global_flag = heavenly_unification_reform
+		china_superregion = {
 			add_core = event_target:current_tinzi
 		}
-		custom_tooltip = latin_unification_tooltip
+		custom_tooltip = heavenly_unification_tooltip
 		hidden_effect = {
 			every_subject_country = {
 				limit = {
@@ -307,11 +306,11 @@ custom_button = {
 				event_target:current_tinzi = {
 					inherit = PREV
 				}
-				change_tag = ITA
-				add_country_modifier = {
-					name = centralization_modifier
-					duration = 7300
-				}
+			}
+			change_tag = TGU
+			add_country_modifier = {
+				name = centralization_modifier
+				duration = 7300
 			}
 		}
 		hidden_effect = {
@@ -336,31 +335,31 @@ custom_icon = {
 		#NOT = {
 		#	OR = {
 		#		has_saved_global_event_target = Caliph_province_holder
-		#		has_saved_global_event_target = ME_latin_tag
+		#		has_saved_global_event_target = ME_heavenly_tag
 		#	}
 		#}
 	}
-	# tooltip = heavenly_ui_latin_flag_tooltip
+	# tooltip = heavenly_ui_heavenly_flag_tooltip
 }
 
 custom_icon = {
-	name = italy_ui_successor_shield_empty
+	name = heavenly_ui_successor_shield_empty
 	potential = {
 		#NOT = {
 		#	OR = {
 		#		has_saved_global_event_target = Caliph_province_holder
-		#		has_saved_global_event_target = ME_latin_tag
+		#		has_saved_global_event_target = ME_heavenly_tag
 		#	}
 		#}
 	}
-	# tooltip = heavenly_ui_latin_successor_tooltip
+	# tooltip = heavenly_ui_heavenly_successor_tooltip
 }
 
 custom_icon = {
 	name = heavenly_ui_reforms_banner
 	potential = {
 	}
-	#tooltip = heavenly_ui_latin_flag_tooltip
+	#tooltip = heavenly_ui_heavenly_flag_tooltip
 }
 
 custom_shield = {
@@ -371,20 +370,20 @@ custom_shield = {
 		#has_saved_global_event_target = imperial_chaplain
 	}
 	effect = { }
-	# tooltip = heavenly_ui_latin_flag_tooltip
+	# tooltip = heavenly_ui_heavenly_flag_tooltip
 	global_event_target = current_tinzi
 	open_country = yes
 }
 
 custom_shield = {
-	name = italy_ui_successor_shield
+	name = heavenly_ui_successor_shield
 	potential = {
 	}
 	trigger = {
 		#has_saved_global_event_target = imperial_chaplain
 	}
 	effect = {
-		if = { limit = { NOT = { has_global_flag = latin_hereditary_reform } }
+		if = { limit = { NOT = { has_global_flag = heavenly_hereditary_reform } }
 			every_capital_province = {
 				limit = {
 					owner = { is_in_heavenly_alliance = yes }
@@ -396,7 +395,7 @@ custom_shield = {
 			custom_tooltip = rectoral_elections_abolished_tt
 		}
 	}
-	tooltip = heavenly_ui_latin_successor_tooltip
+	tooltip = heavenly_ui_heavenly_successor_tooltip
 	global_event_target = current_successor
 	open_country = yes
 }
@@ -407,29 +406,29 @@ custom_icon = {
 	potential = {
 		#OR = {
 		#	has_saved_global_event_target = Caliph_province_holder
-		#	has_saved_global_event_target = ME_latin_tag
+		#	has_saved_global_event_target = ME_heavenly_tag
 		#}
 		#OR = {
 		#	event_target:Caliph_province_holder = { religion = sunni }
-		#	event_target:ME_latin_tag = { religion = sunni }
+		#	event_target:ME_heavenly_tag = { religion = sunni }
 		#}
 	}
-	#tooltip = heavenly_ui_latin_flag_tooltip
+	#tooltip = heavenly_ui_heavenly_flag_tooltip
 }
 
 custom_icon = {
-	name = italy_ui_successor_shield_cut
+	name = heavenly_ui_successor_shield_cut
 	potential = {
 		#OR = {
 		#	has_saved_global_event_target = Caliph_province_holder
-		#	has_saved_global_event_target = ME_latin_tag
+		#	has_saved_global_event_target = ME_heavenly_tag
 		#}
 		#OR = {
 		#	event_target:Caliph_province_holder = { religion = sunni }
-		#	event_target:ME_latin_tag = { religion = sunni }
+		#	event_target:ME_heavenly_tag = { religion = sunni }
 		#}
 	}
-	#tooltip = heavenly_ui_latin_flag_tooltip
+	#tooltip = heavenly_ui_heavenly_flag_tooltip
 }
 
 custom_text_box = {
@@ -479,8 +478,8 @@ custom_icon = {
 }
 
 custom_button = {
-	name = editto_subsidize_league_trade
-	# tooltip = editto_subsidize_league_trade_tt
+	name = edict_subsidize_league_trade
+	# tooltip = edict_subsidize_league_trade_tt
 	potential = {
 	}
 	trigger = {
@@ -508,8 +507,8 @@ custom_button = {
 }
 
 custom_button = {
-	name = editto_loosen_army_restrictions
-	# tooltip = editto_loosen_army_restrictions_tt
+	name = edict_loosen_army_restrictions
+	# tooltip = edict_loosen_army_restrictions_tt
 	potential = {
 	}
 	trigger = {
@@ -537,14 +536,14 @@ custom_button = {
 }
 
 custom_button = {
-	name = editto_promote_religious_adherence
-	# tooltip = editto_promote_religious_adherence_tt
+	name = edict_promote_religious_adherence
+	# tooltip = edict_promote_religious_adherence_tt
 	potential = {
 	}
 	trigger = {
 		custom_trigger_tooltip = {
 			tooltip = must_pass_religious_reform
- 			has_global_flag = latin_religion_reform
+ 			has_global_flag = daoism
 		}
 		custom_trigger_tooltip = {
 			tooltip = only_tinzi_passes_reforms_tooltip
@@ -570,14 +569,14 @@ custom_button = {
 }
 
 custom_button = {
-	name = editto_inspire_religious_tolerance
-	# tooltip = editto_inspire_religious_tolerance_tt
+	name = edict_inspire_religious_tolerance
+	# tooltip = edict_inspire_religious_tolerance_tt
 	potential = {
 	}
 	trigger = {
 		custom_trigger_tooltip = {
 			tooltip = must_pass_religious_reform
- 			has_global_flag = latin_religion_reform
+ 			has_global_flag = daoism
 		}
 		custom_trigger_tooltip = {
 			tooltip = only_tinzi_passes_reforms_tooltip
@@ -603,8 +602,8 @@ custom_button = {
 }
 
 custom_button = {
-	name = editto_encourage_infrastructure
-	# tooltip = editto_encourage_infrastructure_tt
+	name = edict_encourage_infrastructure
+	# tooltip = edict_encourage_infrastructure_tt
 	potential = {
 	}
 	trigger = {
@@ -632,8 +631,8 @@ custom_button = {
 }
 
 custom_button = {
-	name = editto_forbid_anathema
-	# tooltip = editto_forbid_anathema_tt
+	name = edict_forbid_anathema
+	# tooltip = edict_forbid_anathema_tt
 	potential = {
 	}
 	trigger = {
@@ -644,7 +643,7 @@ custom_button = {
 		has_not_passed_recent_edict = yes
 		custom_trigger_tooltip = {
 			tooltip = must_pass_religious_reform
- 			has_global_flag = latin_religion_reform
+ 			has_global_flag = daoism
 		}
 	}
 	effect = {
@@ -665,8 +664,8 @@ custom_button = {
 }
 
 custom_button = {
-	name = editto_fund_league_universities
-	# tooltip = editto_fund_league_universities_tt
+	name = edict_fund_league_universities
+	# tooltip = edict_fund_league_universities_tt
 	potential = {
 	}
 	trigger = {

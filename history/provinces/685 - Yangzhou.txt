@@ -2,7 +2,7 @@
 owner = JND
 controller = JND
 culture = jianghuai
-religion = confucianism
+religion = daoism
 capital = "Yangzhou"
 trade_goods = gunpowder
 base_tax = 12

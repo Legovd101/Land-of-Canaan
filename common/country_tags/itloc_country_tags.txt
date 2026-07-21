@@ -491,6 +491,7 @@ XNY = "countries/Xiangyang.txt"
 NNY = "countries/Nanyang.txt"
 JNA = "countries/Jinan.txt"
 YNZ = "countries/Yunzhou.txt"
+TGU = "countries/Tianguo.txt"
 
  ## Tai
 GVL = "countries/Gveilinz.txt"

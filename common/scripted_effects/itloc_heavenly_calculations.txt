@@ -148,7 +148,7 @@ league_unity_calculation_effect = {
 			}	
 			change_variable = {
 				which = heavenly_member_gain
-				value = 0.1
+				value = 0.05
 			}
 		}
 		### War Calculations

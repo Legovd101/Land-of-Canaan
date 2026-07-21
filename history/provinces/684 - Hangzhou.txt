@@ -2,7 +2,7 @@
 owner = WUU
 controller = WUU
 culture = wu
-religion = confucianism
+religion = daoism
 capital = "Hangzhou"
 trade_goods = pearls
 base_tax = 12

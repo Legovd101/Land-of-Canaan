@@ -2,7 +2,7 @@
 owner = MRU
 controller = MRU
 culture = sichuanese
-religion = confucianism
+religion = daoism
 capital = "Jiazhou"
 trade_goods = tea
 base_tax = 3

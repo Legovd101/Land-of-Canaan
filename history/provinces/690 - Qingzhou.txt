@@ -2,7 +2,7 @@
 owner = QIC
 controller = QIC
 culture = shandong_culture
-religion = confucianism
+religion = daoism
 capital = "Qingzhou"
 trade_goods = iron
 base_tax = 5

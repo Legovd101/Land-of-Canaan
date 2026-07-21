@@ -2,7 +2,7 @@
 owner = HNM
 controller = HNM
 culture = cantonese
-religion = confucianism
+religion = daoism
 capital = "Macau"
 trade_goods = fish
 base_tax = 3

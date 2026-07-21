@@ -1,6 +1,7 @@
 capital = 691
 government_rank = 1
-religion = confucianism
+religion = daoism
 technology_group = chinese
 primary_culture = shandong_culture
 government = monarchy
+add_government_reform = chinese_warlord

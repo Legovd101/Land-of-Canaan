@@ -2,7 +2,7 @@
 owner = JND
 controller = JND
 culture = jianghuai
-religion = confucianism
+religion = daoism
 capital = "Huai'an"
 trade_goods = seafood
 base_tax = 2

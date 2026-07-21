@@ -2,7 +2,7 @@
 owner = MRU
 controller = MRU
 culture = tibetan
-religion = vajrayana
+religion = daoism
 capital = "Garze"
 trade_goods = rice
 base_tax = 1

@@ -121,10 +121,10 @@ near_east_superregion = {
 	mashriq_region
 	egypt_region
 	arabia_region
-	telmun_area
-	magan_area
-	yamnat_area
-	mehloplei_area
+	telmun_region
+	magan_region
+	yamnat_region
+	mehloplei_region
 }
 
 persia_superregion = {

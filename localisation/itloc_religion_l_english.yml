@@ -156,6 +156,15 @@
  cybelene_rebels_title: "Religious"
  cybelene_religion_desc: "The Phrygian cult of Cybele is linked to prehistoric Mother-Goddess worship. Evolving over thousands of years, the cult of Cybele often claimed relationship to mythical figures and heroes, and practiced their religion with the veneration of idols."
 
+ daoism: "Dàojiào"
+ daoism_rebels_army: "$RELIGION$ Army"
+ daoism_rebels_demand: "Convert $COUNTRYNAME$"
+ daoism_rebels_demand_desc: "The religious rebels fight for the $RELIGION$ religion. They demand that we recognize its supremacy or at the very least cease our efforts to convert them and let them worship in peace."
+ daoism_rebels_desc: "Religious fanatics tend to rise up in provinces controlled by nations of a different faith. They seek to spread their faith and smite all unbelievers."
+ daoism_rebels_name: "$RELIGION$ Zealots"
+ daoism_rebels_title: "Religious"
+ daoism_religion_desc: "The teachings of the Dao as originally espoused by Laozi. A major force in Tianxia since the Han Dynasty, Daoism teaches that the Dao, or Way, is an indescribable, semi-nebulous concept that is usually considered to be the natural process of reality itself; whatever comes naturally. The Dao is to be followed above all else, and going against the way of the Dao can cause immense internal and external strife."
+
  dionysian: "Dionýsmos"
  dionysian_rebels_army: "$RELIGION$ Army"
  dionysian_rebels_demand: "Convert $COUNTRYNAME$"

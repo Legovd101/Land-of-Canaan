@@ -38,7 +38,7 @@ on_startup = {
 
 on_new_monarch = {
 	if = {
-		limit = { has_subject_of_type = saangfan NOT = { has_global_flag = latin_hereditary_reform } }
+		limit = { has_subject_of_type = saangfan NOT = { has_global_flag = heavenly_hereditary_reform } }
 		event_target:current_successor = {
 			set_variable = {
 				which = heavenly_succession_score
@@ -70,7 +70,7 @@ on_new_monarch = {
 		}
 	}
 	events = {
-		fep_italian_flavor.3		#League Succession
+		itloc_heavenly.3		#League Succession
 	}
 
 }
@@ -95,6 +95,21 @@ on_war_won = {
 			value = 20
 		}
 	}
+	if = {
+		limit = {
+			has_subject_of_type = saangfan
+			FROM = {
+				is_subject_of_type_with_overlord = {
+					who = ROOT
+					type = vassal
+				}
+			}
+		}
+		create_subject = {
+			subject_type = saangfan
+			subject = FROM
+		}
+	}
 }
 
 on_monthly_pulse = {
@@ -113,7 +128,7 @@ on_monthly_pulse = {
 	# if = {
 	# 	limit = { is_in_heavenly_alliance = yes }
 	# 	set_variable = {
-	# 		which = latin_succession_check
+	# 		which = heavenly_succession_check
 	# 		value = 0
 	# 	}
 	# }
@@ -126,7 +141,7 @@ on_monthly_pulse = {
 on_country_released = {
 	THIS = {
 		if = {
-			limit = { culture_group = latin }
+			limit = { culture_group = east_asian }
 			random_country = {
 				limit = { has_subject_of_type = saangfan }
 				create_subject = {
@@ -139,9 +154,20 @@ on_country_released = {
 }
 on_create_vassal = {
 	if = {
-		limit = { FROM = { has_subject_of_type = saangfan } ROOT = { culture_group = latin } }
-		change_subject_type = {
+		limit = { FROM = { has_subject_of_type = saangfan } ROOT = { culture_group = east_asian } }
+		create_subject = {
 			subject_type = saangfan
+			who = ROOT
+		}
+	}
+}
+on_dependency_gained = {
+	if = {
+		limit = { ROOT = { has_subject_of_type = saangfan } FROM = { culture_group = east_asian is_subject_of_type = vassal } }
+		ROOT = { release = FROM }
+		create_subject = {
+			subject_type = saangfan
+			who = FROM
 		}
 	}
 }
