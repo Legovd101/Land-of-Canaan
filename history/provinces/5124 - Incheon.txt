@@ -1,0 +1,12 @@
+capital = "Incheon"
+discovered_by = chinese
+discovered_by = nomad_group
+discovered_by = uralic_group
+add_core = CBK
+add_core = CUK
+owner = CBK
+culture = chuokuan
+religion = confucianism
+controller = CBK
+is_city = yes
+trade_goods = grain

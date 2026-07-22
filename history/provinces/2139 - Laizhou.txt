@@ -1,7 +1,7 @@
 # 2139 - Laizhou
 owner = QIC
 controller = QIC
-culture = chuokuan
+culture = kitakuan
 religion = confucianism
 capital = "Laizhou"
 trade_goods = fish

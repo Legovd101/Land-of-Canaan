@@ -1,0 +1,11 @@
+capital = "Roschino"
+discovered_by = chinese
+discovered_by = nomad_group
+discovered_by = uralic_group
+culture = ainu
+religion = tengri_pagan_reformed
+is_city = yes
+add_core = NVK
+owner = NVK
+controller = NVK
+trade_goods = fish

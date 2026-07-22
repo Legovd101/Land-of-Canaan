@@ -1,0 +1,11 @@
+capital = "Tottori"
+discovered_by = chinese
+discovered_by = nomad_group
+discovered_by = uralic_group
+add_core = ANU
+owner = ANU
+trade_goods = horses
+culture = ainu
+religion = animism
+controller = ANU
+is_city = yes

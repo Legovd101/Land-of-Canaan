@@ -1,0 +1,11 @@
+capital = "Dandong"
+discovered_by = chinese
+discovered_by = nomad_group
+discovered_by = uralic_group
+add_core = KOR
+owner = KOR
+culture = korean
+religion = confucianism
+controller = KOR
+is_city = yes
+trade_goods = fish

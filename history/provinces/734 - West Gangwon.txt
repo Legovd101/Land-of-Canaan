@@ -2,7 +2,7 @@
 owner = CBK
 controller = CBK
 culture = chuokuan
-religion = confucianism
+religion = mahayana
 capital = "Wonju"
 trade_goods = lumber
 base_tax = 1

@@ -1,0 +1,11 @@
+capital = "Awaji"
+discovered_by = chinese
+discovered_by = nomad_group
+discovered_by = uralic_group
+add_core = KNO
+owner = KNO
+culture = japanese
+religion = shinto
+controller = KNO
+is_city = yes
+trade_goods = livestock

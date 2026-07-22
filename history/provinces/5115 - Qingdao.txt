@@ -1,0 +1,11 @@
+capital = "Qingdao"
+discovered_by = chinese
+discovered_by = nomad_group
+discovered_by = uralic_group
+add_core = QIC
+owner = QIC
+culture = shandong_culture
+religion = confucianism
+controller = QIC
+is_city = yes
+trade_goods = chinaware

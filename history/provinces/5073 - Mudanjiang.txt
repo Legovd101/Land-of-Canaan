@@ -1,0 +1,11 @@
+capital = "Mudanjiang"
+discovered_by = chinese
+discovered_by = nomad_group
+discovered_by = uralic_group
+culture = manchu
+religion = confucianism
+trade_goods = horses
+add_core = MJZ
+owner = MJZ
+controller = MJZ
+is_city = yes
