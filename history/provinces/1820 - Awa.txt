@@ -1,7 +1,7 @@
 #1820 - Awa
 owner = KNO
 controller = KNO
-culture = japanese
+culture = seto_jo
 religion = shinto
 capital = "Tokushima"
 trade_goods = pearls

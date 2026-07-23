@@ -1,7 +1,7 @@
 #1839 - Suruga
 owner = ANU
 controller = ANU
-culture = ainu
+culture = chubu_jo
 religion = animism
 capital = "Sunpu"
 trade_goods = silver

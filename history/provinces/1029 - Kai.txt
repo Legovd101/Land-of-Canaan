@@ -1,7 +1,7 @@
 #1029 - Kai
 owner = ANU
 controller = ANU
-culture = ainu
+culture = chubu_jo
 religion = animism
 capital = "Kofu"
 trade_goods = sulfur

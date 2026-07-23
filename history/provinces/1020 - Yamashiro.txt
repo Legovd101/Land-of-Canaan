@@ -1,7 +1,7 @@
 #1020 - Yamashiro (Kyoto)
 owner = ANU
 controller = ANU
-culture = ainu
+culture = kansai_jo
 religion = animism
 capital = "Kyoto"
 trade_goods = silk

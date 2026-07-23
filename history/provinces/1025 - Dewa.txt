@@ -1,7 +1,7 @@
 #1025 - Dewa
 owner = ANU
 controller = ANU
-culture = ainu
+culture = emishi
 religion = animism
 capital = "Yamagata"
 trade_goods = grain

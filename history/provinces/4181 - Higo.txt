@@ -1,7 +1,7 @@
 #4181 - Higo
 owner = ITO
 controller = ITO
-culture = kyushuan
+culture = tsukushi
 religion = shinto
 capital = "Kumamoto"
 trade_goods = fish

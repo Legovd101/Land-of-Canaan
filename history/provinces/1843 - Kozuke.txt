@@ -1,7 +1,7 @@
 #1843 - Kozuke
 owner = ANU
 controller = ANU
-culture = ainu
+culture = emishi
 religion = animism
 capital = "Mayabashi"
 trade_goods = horses

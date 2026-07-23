@@ -1,7 +1,7 @@
 #4182 - Hizen
 owner = SHN
 controller = SHN
-culture = kyushuan
+culture = tsukushi
 religion = shinto
 capital = "Nagasaki"
 trade_goods = naval_supplies

@@ -1,7 +1,7 @@
 #1819 - Tosa
 owner = KNO
 controller = KNO
-culture = japanese
+culture = iyo
 religion = shinto
 capital = "Nakamura"
 trade_goods = whaling

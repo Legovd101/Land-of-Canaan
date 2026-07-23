@@ -1,7 +1,7 @@
 #4190 - Shimousa
 owner = ANU
 controller = ANU
-culture = ainu
+culture = kanto_jo
 religion = animism
 capital = "Sakura"
 trade_goods = seafood

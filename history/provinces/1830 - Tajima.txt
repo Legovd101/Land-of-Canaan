@@ -1,7 +1,7 @@
 #1830 - Tajima
 owner = ANU
 controller = ANU
-culture = ainu
+culture = kansai_jo
 religion = animism
 capital = "Tottori"
 trade_goods = grain

@@ -4,7 +4,7 @@ latent_trade_goods = {
 }
 owner = OUC
 controller = OUC
-culture = kyushuan
+culture = iwami
 religion = shinto
 capital = "Hakata"
 trade_goods = apiculture

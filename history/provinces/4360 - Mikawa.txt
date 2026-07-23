@@ -1,7 +1,7 @@
 #4360 - Mikawa
 owner = ANU
 controller = ANU
-culture = ainu
+culture = kansai_jo
 religion = animism
 capital = "Okazaki"
 trade_goods = grain

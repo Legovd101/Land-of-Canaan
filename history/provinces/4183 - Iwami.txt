@@ -1,7 +1,7 @@
 #4183 - Iwami
 owner = OUC
 controller = OUC
-culture = japanese
+culture = iwami
 religion = shinto
 capital = "Hamada"
 trade_goods = fish

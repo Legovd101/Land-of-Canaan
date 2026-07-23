@@ -1,7 +1,7 @@
 #4180 - Hyuga
 owner = ITO
 controller = ITO
-culture = kyushuan
+culture = tsukushi
 religion = shinto
 capital = "Obi"
 trade_goods = livestock

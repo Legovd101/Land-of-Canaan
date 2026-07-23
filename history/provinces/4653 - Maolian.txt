@@ -2,7 +2,7 @@
 owner = MJZ
 controller = MJZ
 add_core = MJZ
-culture = manchu
+culture = korean
 religion = confucianism
 capital = "Maolian"
 trade_goods = naval_supplies

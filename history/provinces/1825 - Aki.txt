@@ -1,7 +1,7 @@
 #1825 - Aki
 owner = HSK
 controller = HSK
-culture = japanese
+culture = iwami
 religion = shinto
 capital = "Tomo"
 trade_goods = rice

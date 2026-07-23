@@ -1,7 +1,7 @@
 #1014 - Bungo
 owner = OTM
 controller = OTM
-culture = kyushuan
+culture = tsukushi
 religion = shinto
 capital = "Funai"
 trade_goods = tropical_wood

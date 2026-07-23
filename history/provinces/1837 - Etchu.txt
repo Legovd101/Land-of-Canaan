@@ -1,7 +1,7 @@
 #1837 - Etchu
 owner = ANU
 controller = ANU
-culture = ainu
+culture = chubu_jo
 religion = animism
 capital = "Kanazawa"
 trade_goods = rice

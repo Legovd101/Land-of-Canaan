@@ -1,7 +1,7 @@
 #1028 - Musashi
 owner = ANU
 controller = ANU
-culture = ainu
+culture = kanto_jo
 religion = animism
 capital = "Kawagoe"
 trade_goods = fish
