@@ -1,7 +1,7 @@
 #1021 - Settsu
 owner = ANU
 controller = ANU
-culture = ainu
+culture = seto_jo
 religion = animism
 capital = "Naniwa"
 trade_goods = chinaware

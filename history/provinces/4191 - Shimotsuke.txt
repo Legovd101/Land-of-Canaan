@@ -1,7 +1,7 @@
 #4191 - Shimotsuke
 owner = ANU
 controller = ANU
-culture = ainu
+culture = kanto_jo
 religion = animism
 capital = "Utsunomiya"
 trade_goods = grain

@@ -1,7 +1,7 @@
 #1030 - Owari
 owner = ANU
 controller = ANU
-culture = ainu
+culture = kansai_jo
 religion = animism
 capital = "Kiyosu"
 trade_goods = rice

@@ -1,7 +1,7 @@
 #4186 - Iyo
 owner = KNO
 controller = KNO
-culture = japanese
+culture = iyo
 religion = shinto
 capital = "Yuzuki"
 trade_goods = copper

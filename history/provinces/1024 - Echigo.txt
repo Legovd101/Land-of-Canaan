@@ -1,7 +1,7 @@
 #1024 - Echigo
 owner = ANU
 controller = ANU
-culture = ainu
+culture = emishi
 religion = animism
 capital = "Naoetsu"
 trade_goods = grain

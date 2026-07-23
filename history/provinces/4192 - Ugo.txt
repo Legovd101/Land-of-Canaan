@@ -1,7 +1,7 @@
 #4192 - Ugo
 owner = ANU
 controller = ANU
-culture = ainu
+culture = emishi
 religion = animism
 capital = "Akita"
 trade_goods = fish

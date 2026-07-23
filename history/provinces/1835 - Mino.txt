@@ -1,7 +1,7 @@
 #1835 - Mino
 owner = ANU
 controller = ANU
-culture = ainu
+culture = chubu_jo
 religion = animism
 capital = "Inabayama"
 trade_goods = paper

@@ -1,7 +1,7 @@
 #4189 - Sagami
 owner = ANU
 controller = ANU
-culture = ainu
+culture = kanto_jo
 religion = animism
 capital = "Kamakura"
 trade_goods = iron

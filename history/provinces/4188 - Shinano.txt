@@ -1,7 +1,7 @@
 #2017 - Shinano
 owner = ANU
 controller = ANU
-culture = ainu
+culture = chubu_jo
 religion = animism
 capital = "Nagano"
 trade_goods = livestock

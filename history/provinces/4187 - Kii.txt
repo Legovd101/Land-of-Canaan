@@ -1,7 +1,7 @@
 #4187 - Kii
 owner = ANU
 controller = ANU
-culture = ainu
+culture = kansai_jo
 religion = animism
 capital = "Wakayama"
 trade_goods = whaling

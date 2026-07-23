@@ -5918,9 +5918,9 @@ japanese_g = {
 	graphical_culture = asiangfx
 	country = { has_samurai = yes }
 	province = { local_has_samurai = yes }
-	togoku = { #Togoku / Eastern Japanese
+	
+	tsukushi = { #kyushu
 		province = { local_has_samurai = yes }
-		primary = JAP
 		dynasty_names = { 
 			Yamato Arisugawa Asaka Fushimi "Kan'in" Katsura Kaya Kitashirakawa 
 			Kuni Nashimoto Takeda Yamashina
@@ -5945,9 +5945,8 @@ japanese_g = {
 			Yuuka Yuuki Yuuko Yuuna Yuzuki
 		}
 	}
-	japanese = { #Saigoku / Western Japanese
+	iyo = { #shikoku
 		province = { local_has_samurai = yes }
-		primary = MRI
 		dynasty_names = { 
 			Yamato Arisugawa Asaka Fushimi "Kan'in" Katsura Kaya Kitashirakawa 
 			Kuni Nashimoto Takeda Yamashina
@@ -5972,9 +5971,8 @@ japanese_g = {
 			Yuuka Yuuki Yuuko Yuuna Yuzuki
 		}
 	}
-	kyushuan = { #Kyushu culture
+	iwami = {
 		province = { local_has_samurai = yes }
-		primary = OTM
 		dynasty_names = { 
 			Yamato Arisugawa Asaka Fushimi "Kan'in" Katsura Kaya Kitashirakawa 
 			Kuni Nashimoto Takeda Yamashina
@@ -6081,8 +6079,113 @@ japanese_g = {
 		}
 	}
 }
-
-
+ainu_g = {
+	graphical_culture = inuitgfx
+	ainu = {
+		primary = ANU
+		dynasty_names = {
+			Shibushari Hae Betsu Shiraoi Kurasi Kakizaki Ponyanpe Shirokani Otona Ekashi Saru Usu
+		}
+		male_names = {
+			Koshamain Shakushain Kamokutain Onibishi Penri Piripos Takatsuki
+		}
+		female_names = {
+			Monashir Etunrachich Toitoi
+		}
+	}
+	emishi = {
+		dynasty_names = {
+			Shibushari Hae Betsu Shiraoi Kurasi Kakizaki Ponyanpe Shirokani Otona Ekashi Saru Usu
+		}
+		male_names = {
+			Koshamain Shakushain Kamokutain Onibishi Penri Piripos Takatsuki
+		}
+		female_names = {
+			Monashir Etunrachich Toitoi
+		}
+	}
+}
+jomonic = {
+	graphical_culture = asiangfx
+	kanto_jo = {
+		dynasty_names = {
+			Shibushari Hae Betsu Shiraoi Kurasi Kakizaki Ponyanpe Shirokani Otona Ekashi Saru Usu
+		}
+		male_names = {
+			Koshamain Shakushain Kamokutain Onibishi Penri Piripos Takatsuki
+		}
+		female_names = {
+			Monashir Etunrachich Toitoi
+		}
+	}
+	chubu_jo = {
+		dynasty_names = {
+			Shibushari Hae Betsu Shiraoi Kurasi Kakizaki Ponyanpe Shirokani Otona Ekashi Saru Usu
+		}
+		male_names = {
+			Koshamain Shakushain Kamokutain Onibishi Penri Piripos Takatsuki
+		}
+		female_names = {
+			Monashir Etunrachich Toitoi
+		}
+	}
+	kansai_jo = {
+		dynasty_names = {
+			Shibushari Hae Betsu Shiraoi Kurasi Kakizaki Ponyanpe Shirokani Otona Ekashi Saru Usu
+		}
+		male_names = {
+			Koshamain Shakushain Kamokutain Onibishi Penri Piripos Takatsuki
+		}
+		female_names = {
+			Monashir Etunrachich Toitoi
+		}
+	}
+	seto_jo = {
+		dynasty_names = {
+			Shibushari Hae Betsu Shiraoi Kurasi Kakizaki Ponyanpe Shirokani Otona Ekashi Saru Usu
+		}
+		male_names = {
+			Koshamain Shakushain Kamokutain Onibishi Penri Piripos Takatsuki
+		}
+		female_names = {
+			Monashir Etunrachich Toitoi
+		}
+	}
+	#synthesis cultures
+	wa_jo = { insular japanese
+		dynasty_names = {
+			Shibushari Hae Betsu Shiraoi Kurasi Kakizaki Ponyanpe Shirokani Otona Ekashi Saru Usu
+		}
+		male_names = {
+			Koshamain Shakushain Kamokutain Onibishi Penri Piripos Takatsuki
+		}
+		female_names = {
+			Monashir Etunrachich Toitoi
+		}
+	}
+	ainu_jo = {
+		dynasty_names = {
+			Shibushari Hae Betsu Shiraoi Kurasi Kakizaki Ponyanpe Shirokani Otona Ekashi Saru Usu
+		}
+		male_names = {
+			Koshamain Shakushain Kamokutain Onibishi Penri Piripos Takatsuki
+		}
+		female_names = {
+			Monashir Etunrachich Toitoi
+		}
+	}
+	emishi_jo = {
+		dynasty_names = {
+			Shibushari Hae Betsu Shiraoi Kurasi Kakizaki Ponyanpe Shirokani Otona Ekashi Saru Usu
+		}
+		male_names = {
+			Koshamain Shakushain Kamokutain Onibishi Penri Piripos Takatsuki
+		}
+		female_names = {
+			Monashir Etunrachich Toitoi
+		}
+	}
+}
 tibetan_group = {
 	graphical_culture = asiangfx
 	tibetan = {
@@ -8848,19 +8951,6 @@ evenks = {
 kamchatkan_g = {
 	graphical_culture = inuitgfx
 	second_graphical_culture = asiangfx
-	
-	ainu = {
-		primary = ANU
-		dynasty_names = {
-			Shibushari Hae Betsu Shiraoi Kurasi Kakizaki Ponyanpe Shirokani Otona Ekashi Saru Usu
-		}
-		male_names = {
-			Koshamain Shakushain Kamokutain Onibishi Penri Piripos Takatsuki
-		}
-		female_names = {
-			Monashir Etunrachich Toitoi
-		}
-	}
 	kamchatkan = {
 		primary = KMC
 		dynasty_names = {

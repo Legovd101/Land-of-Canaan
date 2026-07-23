@@ -1,7 +1,7 @@
 #1832 - Yamato
 owner = ANU
 controller = ANU
-culture = ainu
+culture = kansai_jo
 religion = animism
 capital = "Nara"
 trade_goods = tea

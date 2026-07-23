@@ -1,7 +1,7 @@
 #4185 - Tango
 owner = ANU
 controller = ANU
-culture = ainu
+culture = kansai_jo
 religion = animism
 capital = "Miyazu"
 trade_goods = fish
