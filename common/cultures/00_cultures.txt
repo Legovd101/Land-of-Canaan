@@ -6079,32 +6079,6 @@ japanese_g = {
 		}
 	}
 }
-ainu_g = {
-	graphical_culture = inuitgfx
-	ainu = {
-		primary = ANU
-		dynasty_names = {
-			Shibushari Hae Betsu Shiraoi Kurasi Kakizaki Ponyanpe Shirokani Otona Ekashi Saru Usu
-		}
-		male_names = {
-			Koshamain Shakushain Kamokutain Onibishi Penri Piripos Takatsuki
-		}
-		female_names = {
-			Monashir Etunrachich Toitoi
-		}
-	}
-	emishi = {
-		dynasty_names = {
-			Shibushari Hae Betsu Shiraoi Kurasi Kakizaki Ponyanpe Shirokani Otona Ekashi Saru Usu
-		}
-		male_names = {
-			Koshamain Shakushain Kamokutain Onibishi Penri Piripos Takatsuki
-		}
-		female_names = {
-			Monashir Etunrachich Toitoi
-		}
-	}
-}
 jomonic = {
 	graphical_culture = asiangfx
 	kanto_jo = {
@@ -6175,6 +6149,32 @@ jomonic = {
 		}
 	}
 	emishi_jo = {
+		dynasty_names = {
+			Shibushari Hae Betsu Shiraoi Kurasi Kakizaki Ponyanpe Shirokani Otona Ekashi Saru Usu
+		}
+		male_names = {
+			Koshamain Shakushain Kamokutain Onibishi Penri Piripos Takatsuki
+		}
+		female_names = {
+			Monashir Etunrachich Toitoi
+		}
+	}
+}
+ainu_g = {
+	graphical_culture = inuitgfx
+	ainu = {
+		primary = ANU
+		dynasty_names = {
+			Shibushari Hae Betsu Shiraoi Kurasi Kakizaki Ponyanpe Shirokani Otona Ekashi Saru Usu
+		}
+		male_names = {
+			Koshamain Shakushain Kamokutain Onibishi Penri Piripos Takatsuki
+		}
+		female_names = {
+			Monashir Etunrachich Toitoi
+		}
+	}
+	emishi = {
 		dynasty_names = {
 			Shibushari Hae Betsu Shiraoi Kurasi Kakizaki Ponyanpe Shirokani Otona Ekashi Saru Usu
 		}
