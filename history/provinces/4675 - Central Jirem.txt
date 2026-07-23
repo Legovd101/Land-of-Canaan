@@ -1,7 +1,7 @@
 owner = KRC
 controller = KRC
 add_core = KRC
-culture = chahar
+culture = korean
 religion = vajrayana
 capital = "Bayisingtu"
 trade_goods = livestock

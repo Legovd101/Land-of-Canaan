@@ -1,7 +1,7 @@
 #2742 - North Hamgyeong
 owner = KOR
 controller = KOR
-culture = manchu
+culture = korean
 religion = confucianism
 capital = "Gyeongwon"
 trade_goods = lead
