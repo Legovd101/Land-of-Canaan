@@ -1,4 +1,4 @@
-﻿l_english:
+l_english:
  abaxtri: "Abaxtri"
  adnanite: "'Adnani"
  adriatic: "Adurates"
@@ -318,7 +318,21 @@
  tsukushi: "Tsukushi"
  iyo: "Iyo"
  iwami: "Iwami"
- jomonic: ""
+ jomonic: "Attacupian"
+ kanto_jo: "Erok-nupka"
+ chubu_jo: "Atui-ukouturuge"
+ #north-border yes i know very creative
+ kansai_jo: "Erok-ututtoni"
+ #Erok->to dwell in - ututtoni->the middle/centre. nupka means a plain/field
+ seto_jo: "Hankuchotchap"
+ #dragonflies
+ ainu_g: "Ainu"
+ ainu: "Repunshiri"
+ emishi: "Shirishimoye"
+ #mfs be named island and earthquake </3 but lowkey idk what to call them
+ kurilian: "Imokirika"
+ #adj and v.i. meaning "Abject. Miserably bad. To live in utter misery."
+
  
 
 
