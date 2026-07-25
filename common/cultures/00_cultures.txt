@@ -5880,6 +5880,18 @@ japanese_g = {
 	country = { has_samurai = yes }
 	province = { local_has_samurai = yes }
 	
+	togoku = { #Togoku / Eastern Japanese
+		province = { local_has_samurai = yes }
+	}
+
+	japanese = { #Saigoku / Western Japanese
+		province = { local_has_samurai = yes }
+	}
+
+	kyushuan = { #Kyushu culture
+		province = { local_has_samurai = yes }
+	}
+
 	tsukushi = { #kyushu
 		province = { local_has_samurai = yes }
 		dynasty_names = { 
@@ -6046,6 +6058,9 @@ korean_g = {
 	korean = {
 		primary = KOR
 	}
+	buyeo = {
+		primary = BUY
+	}
 	dynasty_names = { 
 		Yi Wang Kim Pak Shin Song Chae Gang Jeong Jang Yun Han Hong Yu Ki Choi Ga Gye Go Na Noh Woo Do Du Ban Ma Min Mun
 		Seo Son Sim An Yang O Jeon Cho Jin Ha Hong Heo Kwak Lim Won Kwon Hwang Bae Seok Bang Dae Gyeong Nam Sung Baek
@@ -6145,7 +6160,7 @@ jomonic = {
 		}
 	}
 	#synthesis cultures
-	wa_jo = { insular japanese
+	wa_jo = { # insular japanese
 		dynasty_names = {
 			Shibushari Hae Betsu Shiraoi Kurasi Kakizaki Ponyanpe Shirokani Otona Ekashi Saru Usu
 		}
