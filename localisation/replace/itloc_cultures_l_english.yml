@@ -87,6 +87,7 @@
  eskaleut: "Inuit"
  estonian: "Eestlased"
  etruscan: "Rasnal"
+ evenks: "Tungus"
  finnic: "Suomi"
  finnish: "Suomi"
  finno_ugric: "Finno-Permian"
@@ -312,6 +313,8 @@
  xiang: "Hsiang"
  yemeni_culture: "Yamani"
  yi: "Nuosu"
+ yukagyr: "Wadul"
+ yukagyr_group: "Wadul-Detkil"
  yorkish: "Jorvíkr"
  zhuang: "Bouxcuengh"
 
