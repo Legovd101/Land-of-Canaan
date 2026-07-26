@@ -2,11 +2,10 @@ government = tribal
 add_government_reform = steppe_horde
 technology_group = nomad_group
 primary_culture = manchu
-religion = tengri_pagan_reformed
-capital = 728
-
-1444.1.1 = {
-	monarch = {
+religion = jurchen_shamanism
+capital = 731
+1444.1.1 = { 
+	monarch = { 
 		name = "Buyan"
 		dynasty = "Xibe"
 		adm = 2
@@ -14,9 +13,8 @@ capital = 728
 		mil = 2
 	}
 }
-
-1444.1.1 = {
-	heir = {
+1444.1.1 = { 
+	heir = { 
 		name = "Buyangan"
 		monarch_name = "Buyangan"
 		dynasty = "Xibe"
@@ -28,9 +26,8 @@ capital = 728
 		mil = 3
 	}
 }
-
-1485.1.1 = {
-	monarch = {
+1485.1.1 = { 
+	monarch = { 
 		name = "Buyangan"
 		dynasty = "Xibe"
 		adm = 2
@@ -38,9 +35,8 @@ capital = 728
 		mil = 3
 	}
 }
-
-1500.1.1 = {
-	heir = {
+1500.1.1 = { 
+	heir = { 
 		name = "Mantai"
 		monarch_name = "Mantai"
 		dynasty = "Xibe"
@@ -52,9 +48,8 @@ capital = 728
 		mil = 2
 	}
 }
-
-1540.1.1 = {
-	monarch = {
+1540.1.1 = { 
+	monarch = { 
 		name = "Mantai"
 		dynasty = "Xibe"
 		adm = 2
@@ -62,9 +57,8 @@ capital = 728
 		mil = 2
 	}
 }
-
-1540.1.1 = {
-	heir = {
+1540.1.1 = { 
+	heir = { 
 		name = "Bujantai"
 		monarch_name = "Bujantai"
 		dynasty = "Xibe"
@@ -76,9 +70,8 @@ capital = 728
 		mil = 3
 	}
 }
-
-1596.1.1 = {
-	monarch = {
+1596.1.1 = { 
+	monarch = { 
 		name = "Bujantai"
 		dynasty = "Xibe"
 		adm = 3
@@ -86,3 +79,4 @@ capital = 728
 		mil = 3
 	}
 }
+government_rank = 1

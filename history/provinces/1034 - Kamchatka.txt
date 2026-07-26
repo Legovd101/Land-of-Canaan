@@ -1,7 +1,6 @@
 #1034 - Kamchatka
-owner = KMC
-controller = KMC
-add_core = KMC
+owner = NVK
+controller = NVK
 culture = kamchatkan
 religion = tengri_pagan_reformed
 capital = "Kamchatka"
@@ -18,3 +17,4 @@ discovered_by = CHU
 discovered_by = CHV
 discovered_by = KMC
 discovered_by = ANU
+add_core = NVK

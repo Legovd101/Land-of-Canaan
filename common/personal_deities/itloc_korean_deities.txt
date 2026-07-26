@@ -1,0 +1,143 @@
+# Do not change tags in here without changing every other reference to them.
+# If adding new dieties, make sure they are uniquely named.
+#Yeongdeong Halmag, goddess of the wind and sea
+#Hwanin, god of the sky
+#Hwanung, king of heaven 
+#Dangun, first king of Korea
+#Cheonji-wang, creator god
+#Samseung Halmang, fertility on Jeju
+yeongdeung = {
+	global_ship_cost = -0.1
+	global_trade_goods_size_modifier = 0.05
+	
+	potential = { religion = korean_shamanism }
+	sprite = 65
+	
+	ai_will_do = {
+		factor = 1
+		modifier = {
+			factor = 2
+			personality = ai_capitalist
+		}	
+		modifier = {
+			factor = 0.5
+			personality = ai_diplomat
+		}
+	}
+}
+
+amaterasu = {
+	land_morale = 0.05
+	tolerance_heathen = 1
+	
+	potential = { religion = korean_shamanism culture_group = jomonic }
+	sprite = 66
+	
+	ai_will_do = {
+		factor = 1
+		modifier = {
+			factor = 2
+			personality = ai_militarist
+		}	
+		modifier = {
+			factor = 0.5
+			personality = ai_diplomat
+		}
+	}
+}
+
+buddha2 = {
+	tolerance_heretic = 1
+	global_unrest = -1
+	
+	potential = { religion = korean_shamanism }
+	sprite = 67
+	
+	ai_will_do = {
+		factor = 1
+		modifier = {
+			factor = 1
+			personality = ai_diplomat
+		}	
+		modifier = {
+			factor = 0.5
+			personality = ai_capitalist
+		}
+	}
+}
+
+kotankar = {
+	technology_cost = -0.05
+	advisor_cost = -0.05
+	
+	potential = { religion = korean_shamanism }
+	sprite = 68
+	
+	ai_will_do = {
+		factor = 1
+		modifier = {
+			factor = 1
+			personality = ai_diplomat
+		}	
+		modifier = {
+			factor = 0.5
+			personality = ai_capitalist
+		}
+	}
+}
+
+samseung = {
+	heir_chance = 0.25
+	global_manpower_modifier = 0.1
+	
+	potential = { religion = korean_shamanism }
+	sprite = 69
+	
+	ai_will_do = {
+		factor = 1
+		modifier = {
+			factor = 0.5
+			personality = ai_diplomat
+		}	
+		modifier = {
+			factor = 2
+			personality = ai_militarist
+		}		
+	}
+}
+
+hwanung = {
+	build_cost = -0.05
+	development_cost = -0.05
+	
+	potential = { religion = korean_shamanism }
+	sprite = 70
+	
+	ai_will_do = {
+		factor = 1
+		modifier = {
+			factor = 2
+			personality = ai_capitalist
+		}		
+	}
+}
+
+dangun = {
+	defensiveness = 0.15
+	legitimacy = 1
+	
+	potential = { religion = korean_shamanism }
+	sprite = 71
+	
+	ai_will_do = {
+		factor = 1
+		modifier = {
+			factor = 2
+			personality = ai_balanced
+		}		
+		modifier = {
+			factor = 0.5
+			personality = ai_militarist
+		}		
+	}
+}

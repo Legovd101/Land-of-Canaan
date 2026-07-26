@@ -1,8 +1,8 @@
 #1835 - Mino
-owner = ANU
-controller = ANU
+owner = ETU
+controller = ETU
 culture = chubu_jo
-religion = animism
+religion = emishi_imperial_cult
 capital = "Inabayama"
 trade_goods = paper
 base_tax = 4
@@ -16,5 +16,5 @@ discovered_by = OIR
 discovered_by = QNG
 discovered_by = ANU
 #1440.1.1 = { fort_15th = yes } # Inabayama (later Gifu) Castle, Estimation
-add_core = ANU
+add_core = ETU
 fort_15th = yes

@@ -1,8 +1,8 @@
 #1837 - Etchu
-owner = ANU
-controller = ANU
+owner = RMR
+controller = RMR
 culture = chubu_jo
-religion = animism
+religion = emishi_imperial_cult
 capital = "Kanazawa"
 trade_goods = rice
 base_tax = 3
@@ -16,5 +16,5 @@ discovered_by = KHA
 discovered_by = OIR
 discovered_by = QNG
 discovered_by = ANU
-add_core = ANU
+add_core = RMR
 fort_15th = yes

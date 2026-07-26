@@ -1,8 +1,8 @@
 #1025 - Dewa
-owner = ANU
-controller = ANU
+owner = HIT
+controller = HIT
 culture = emishi
-religion = animism
+religion = ainu_animism
 capital = "Yamagata"
 trade_goods = grain
 base_tax = 2
@@ -15,4 +15,4 @@ discovered_by = KHA
 discovered_by = OIR
 discovered_by = QNG
 discovered_by = ANU
-add_core = ANU
+add_core = HIT

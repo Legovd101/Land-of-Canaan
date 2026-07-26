@@ -1,8 +1,8 @@
 #1819 - Tosa
-owner = KNO
-controller = KNO
+owner = OTM
+controller = OTM
 culture = iyo
-religion = shinto
+religion = emishi_imperial_cult
 capital = "Nakamura"
 trade_goods = whaling
 base_tax = 2
@@ -15,4 +15,4 @@ discovered_by = MCH
 discovered_by = KHA
 discovered_by = OIR
 discovered_by = QNG
-add_core = KNO
+add_core = OTM

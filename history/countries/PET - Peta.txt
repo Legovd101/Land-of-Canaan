@@ -1,0 +1,7 @@
+religion = emishi_imperial_cult
+capital = 1839
+technology_group = chinese
+primary_culture = kansai_jo
+government_rank = 1
+government = monarchy
+add_government_reform = feudalism_reform

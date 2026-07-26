@@ -2,11 +2,10 @@
 latent_trade_goods = { 
 	coal 
 }
-owner = EJZ
-controller = EJZ
-add_core = EJZ
+owner = MYR
+controller = MYR
 culture = manchu
-religion = tengri_pagan_reformed
+religion = jurchen_shamanism
 capital = "Jixi"
 trade_goods = naval_supplies
 base_tax = 2
@@ -16,3 +15,4 @@ is_city = yes
 discovered_by = chinese
 discovered_by = nomad_group
 discovered_by = uralic_group
+add_core = MYR

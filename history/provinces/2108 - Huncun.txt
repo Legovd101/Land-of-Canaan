@@ -1,7 +1,6 @@
 # 2108 - Huncun
-owner = MJZ
-controller = MJZ
-add_core = MJZ
+owner = RDM
+controller = RDM
 culture = korean
 religion = confucianism
 capital = "Huncun"
@@ -13,4 +12,5 @@ is_city = yes
 discovered_by = chinese
 discovered_by = nomad_group
 discovered_by = uralic_group
+add_core = RDM
 fort_15th = yes

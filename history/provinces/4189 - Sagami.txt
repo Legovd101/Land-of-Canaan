@@ -1,8 +1,8 @@
 #4189 - Sagami
-owner = ANU
-controller = ANU
+owner = ABJ
+controller = ABJ
 culture = kanto_jo
-religion = animism
+religion = emishi_imperial_cult
 capital = "Kamakura"
 trade_goods = iron
 base_tax = 3
@@ -15,4 +15,4 @@ discovered_by = KHA
 discovered_by = OIR
 discovered_by = QNG
 discovered_by = ANU
-add_core = ANU
+add_core = ABJ

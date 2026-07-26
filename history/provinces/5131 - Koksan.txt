@@ -9,3 +9,6 @@ religion = shinto
 controller = KTK
 is_city = yes
 trade_goods = grain
+base_tax = 2
+base_manpower = 2
+base_production = 2

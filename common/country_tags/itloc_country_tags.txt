@@ -497,16 +497,64 @@ TGU = "countries/Tianguo.txt"
 GVL = "countries/Gveilinz.txt"
 LJC = "countries/Liujcouh.txt"
 
- ## Japonic
-CBK = "countries/Chibokun.txt"
-CUK = "countries/Chuokun.txt"
-KTK = "countries/Kitakuni.txt"
-
  ## Sino-Tibetan
 GPZ = "countries/Gopzho.txt"
 BOZ = "countries/Bozho.txt"
 KLX = "countries/Kad Linx.txt"
 
- ## Others
+ ## Other
 PSX = "countries/Pesxan.txt" # Uyghur
 GZX = "countries/Gizenxan.txt" # Uyghur
+
+ # Korea/Honshu
+
+ ## Japonic
+KTK = "countries/Kitakuni.txt"
+MTS = "countries/Mattaishu.txt"
+TKS = "countries/Tokai Seishu.txt"
+ZNS = "countries/Zenshu.txt"
+SAI = "countries/Saishu.txt"
+SOH = "countries/Shoshu.txt"
+IZM = "countries/Izumi.txt"
+CUS = "countries/Chushu.txt"
+KMM = "countries/Kamomeshi.txt"
+STS = "countries/Shutoshi.txt"
+YON = "countries/Yonan.txt"
+
+ # Japan/Attecup-Mosir
+
+ ## Japonic
+HZN = "countries/Hizen.txt"
+TSK = "countries/Tsukushi.txt"
+
+ ## Jomonic
+MNK = "countries/Menokushi.txt"
+KIM = "countries/Kima.txt"
+KNK = "countries/Konki.txt"
+TMO = "countries/Ota-Mosiru.txt"
+KRS = "countries/Kurasama.txt"
+UHN = "countries/Uhona.txt"
+ETU = "countries/Etu.txt"
+RMR = "countries/Rimori.txt"
+RNP = "countries/Rinupuri.txt"
+PET = "countries/Peta.txt"
+SKS = "countries/Sukush-ru.txt"
+KNU = "countries/Kunyaipashite.txt"
+RMA = "countries/Rima.txt"
+ABJ = "countries/Abe.txt"
+
+
+## Other
+HEM = "countries/Hemak.txt" # Emishi
+HIT = "countries/Hitakami.txt" # Emishi
+ESK = "countries/Eskerq.txt" # Nivkh
+KLS = "countries/Keldes.txt" # Nivkh
+
+ # Manchuria/Nurugen
+
+ ## Mongolic
+TUM = "countries/Tumed Ulus.txt"
+
+ ## Tungusic
+LZN = "countries/Luzhen Gurun.txt" # Jurchen
+RDM = "countries/Radmif.txt" # Nivkh

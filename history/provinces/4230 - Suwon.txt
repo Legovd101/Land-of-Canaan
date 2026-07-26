@@ -1,6 +1,6 @@
 #4230 - Suwon
-owner = CBK
-controller = CBK
+owner = IZM
+controller = IZM
 culture = chuokuan
 religion = confucianism
 capital = "Suwon"
@@ -12,5 +12,5 @@ is_city = yes
 discovered_by = chinese
 discovered_by = nomad_group
 discovered_by = uralic_group
-add_core = CBK
 add_core = CUK
+add_core = IZM

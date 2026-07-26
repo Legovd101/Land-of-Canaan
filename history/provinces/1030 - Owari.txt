@@ -1,8 +1,8 @@
 #1030 - Owari
-owner = ANU
-controller = ANU
+owner = ETU
+controller = ETU
 culture = kansai_jo
-religion = animism
+religion = emishi_imperial_cult
 capital = "Kiyosu"
 trade_goods = rice
 base_tax = 4
@@ -16,4 +16,4 @@ discovered_by = KHA
 discovered_by = OIR
 discovered_by = QNG
 discovered_by = ANU
-add_core = ANU
+add_core = ETU

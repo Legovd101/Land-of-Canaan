@@ -1,6 +1,6 @@
 #1847 - Shiribeshi
 culture = ainu
-religion = animism
+religion = ainu_animism
 capital = "Shiribeshi"
 trade_goods = whaling
 base_tax = 1

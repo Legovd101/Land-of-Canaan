@@ -4,15 +4,13 @@ technology_group = nomad_group
 religion = tengri_pagan_reformed
 secondary_religion = vajrayana
 primary_culture = chahar
-capital = 2109	# Boduna
-
-
-1438.1.1 = {
-	every_province = {
+capital = 4674# Boduna
+1438.1.1 = { 
+	every_province = { 
 		limit = { region = japan_region }
 		ROOT = { discover_province = PREV }
 	}
-	monarch = {
+	monarch = { 
 		name = "Unebolad"
 		dynasty = "Khorchin"
 		adm = 2
@@ -20,9 +18,8 @@ capital = 2109	# Boduna
 		mil = 1
 	}
 }
-
-1490.1.1 = {
-	monarch = {
+1490.1.1 = { 
+	monarch = { 
 		name = "Unebolad II"
 		dynasty = "Khorchin"
 		adm = 2
@@ -30,9 +27,8 @@ capital = 2109	# Boduna
 		mil = 2
 	}
 }
-
-1530.1.1 = {
-	monarch = {
+1530.1.1 = { 
+	monarch = { 
 		name = "Unebolad III"
 		dynasty = "Khorchin"
 		adm = 2
@@ -40,9 +36,8 @@ capital = 2109	# Boduna
 		mil = 3
 	}
 }
-
-1565.1.1 = {
-	monarch = {
+1565.1.1 = { 
+	monarch = { 
 		name = "Unebolad IV"
 		dynasty = "Khorchin"
 		adm = 2
@@ -50,9 +45,8 @@ capital = 2109	# Boduna
 		mil = 1
 	}
 }
-
-1600.1.1 = {
-	monarch = {
+1600.1.1 = { 
+	monarch = { 
 		name = "Unebolad V"
 		dynasty = "Khorchin"
 		adm = 2
@@ -60,9 +54,8 @@ capital = 2109	# Boduna
 		mil = 3
 	}
 }
-
-1635.1.1 = {
-	monarch = {
+1635.1.1 = { 
+	monarch = { 
 		name = "Unebolad VI"
 		dynasty = "Khorchin"
 		adm = 3
@@ -70,3 +63,4 @@ capital = 2109	# Boduna
 		mil = 2
 	}
 }
+government_rank = 1

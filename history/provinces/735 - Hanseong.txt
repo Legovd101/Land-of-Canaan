@@ -1,6 +1,6 @@
 #735 - Hanseong
-owner = CBK
-controller = CBK
+owner = STS
+controller = STS
 culture = chuokuan
 religion = confucianism
 capital = "Hanseong"
@@ -14,6 +14,6 @@ discovered_by = nomad_group
 discovered_by = uralic_group
 extra_cost = 8
 center_of_trade = 1
-add_core = CBK
 add_core = CUK
+add_core = STS
 fort_15th = yes

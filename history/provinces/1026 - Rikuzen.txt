@@ -1,8 +1,8 @@
 #1026 - Mutsu
-owner = ANU
-controller = ANU
+owner = HIT
+controller = HIT
 culture = emishi
-religion = animism
+religion = mahayana
 capital = "Aizu"
 trade_goods = lumber
 base_tax = 3
@@ -15,4 +15,4 @@ discovered_by = KHA
 discovered_by = OIR
 discovered_by = QNG
 discovered_by = ANU
-add_core = ANU
+add_core = HIT

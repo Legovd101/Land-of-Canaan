@@ -1,6 +1,6 @@
 #1031 - Kamikawa
 culture = ainu
-religion = animism
+religion = ainu_animism
 capital = "Kamikawa"
 trade_goods = fish
 base_tax = 1

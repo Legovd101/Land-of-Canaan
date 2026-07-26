@@ -1,8 +1,8 @@
 #4360 - Mikawa
-owner = ANU
-controller = ANU
+owner = ETU
+controller = ETU
 culture = kansai_jo
-religion = animism
+religion = emishi_imperial_cult
 capital = "Okazaki"
 trade_goods = grain
 base_tax = 2
@@ -15,4 +15,4 @@ discovered_by = KHA
 discovered_by = OIR
 discovered_by = QNG
 discovered_by = ANU
-add_core = ANU
+add_core = ETU

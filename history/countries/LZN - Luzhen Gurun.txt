@@ -1,0 +1,7 @@
+religion = jurchen_shamanism
+capital = 2106
+technology_group = chinese
+primary_culture = manchu
+government = tribal
+add_government_reform = steppe_horde
+government_rank = 1

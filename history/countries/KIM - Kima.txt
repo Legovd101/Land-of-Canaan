@@ -1,0 +1,7 @@
+religion = shinto
+capital = 1018
+technology_group = chinese
+primary_culture = iwami
+government_rank = 1
+government = monarchy
+add_government_reform = feudalism_reform

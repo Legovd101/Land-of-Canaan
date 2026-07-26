@@ -1,9 +1,8 @@
 # 2186 - Iman
-owner = NHX
-controller = NHX
-add_core = NHX
+owner = LZN
+controller = LZN
 culture = manchu
-religion = tengri_pagan_reformed
+religion = jurchen_shamanism
 capital = "Iman"
 trade_goods = exotic_fur
 base_tax = 3
@@ -13,3 +12,4 @@ is_city = yes
 discovered_by = chinese
 discovered_by = nomad_group
 discovered_by = uralic_group
+add_core = LZN

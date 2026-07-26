@@ -1,0 +1,7 @@
+religion = nivkh_shamanism
+technology_group = chinese
+primary_culture = nivkh
+government_rank = 1
+capital = 5109
+government = republic
+add_government_reform = pirate_republic_reform

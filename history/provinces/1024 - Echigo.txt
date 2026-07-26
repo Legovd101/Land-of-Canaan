@@ -1,8 +1,8 @@
 #1024 - Echigo
-owner = ANU
-controller = ANU
+owner = HEM
+controller = HEM
 culture = emishi
-religion = animism
+religion = ainu_animism
 capital = "Naoetsu"
 trade_goods = grain
 base_tax = 4
@@ -15,4 +15,4 @@ discovered_by = KHA
 discovered_by = OIR
 discovered_by = QNG
 discovered_by = ANU
-add_core = ANU
+add_core = HEM

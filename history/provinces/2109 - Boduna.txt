@@ -1,7 +1,6 @@
 # 2109 - Boduna
-owner = KRC
-controller = KRC
-add_core = KRC
+owner = KOR
+controller = KOR
 culture = korean
 religion = vajrayana
 capital = "Boduna"
@@ -13,3 +12,4 @@ is_city = yes
 discovered_by = chinese
 discovered_by = nomad_group
 discovered_by = uralic_group
+add_core = KOR

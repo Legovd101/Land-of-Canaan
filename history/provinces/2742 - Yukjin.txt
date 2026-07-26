@@ -2,7 +2,7 @@
 owner = KOR
 controller = KOR
 culture = korean
-religion = confucianism
+religion = korean_shamanism
 capital = "Gyeongwon"
 trade_goods = lead
 base_tax = 1

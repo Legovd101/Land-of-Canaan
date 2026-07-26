@@ -1,6 +1,6 @@
 #1013 - Cheongju
-owner = CBK
-controller = CBK
+owner = TKS
+controller = TKS
 culture = chuokuan
 religion = confucianism
 capital = "Cheongju"
@@ -12,5 +12,5 @@ is_city = yes
 discovered_by = chinese
 discovered_by = nomad_group
 discovered_by = uralic_group
-add_core = CBK
 add_core = CUK
+add_core = TKS

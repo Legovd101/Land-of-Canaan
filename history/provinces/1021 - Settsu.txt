@@ -1,8 +1,8 @@
 #1021 - Settsu
-owner = ANU
-controller = ANU
+owner = UHN
+controller = UHN
 culture = seto_jo
-religion = animism
+religion = emishi_imperial_cult
 capital = "Naniwa"
 trade_goods = chinaware
 base_tax = 6
@@ -16,4 +16,4 @@ discovered_by = OIR
 discovered_by = QNG
 extra_cost = 8
 center_of_trade = 1
-add_core = ANU
+add_core = UHN

@@ -2,7 +2,7 @@
 owner = KOR
 controller = KOR
 culture = korean
-religion = vajrayana
+religion = korean_shamanism
 capital = "Chahar"
 trade_goods = livestock
 base_tax = 2

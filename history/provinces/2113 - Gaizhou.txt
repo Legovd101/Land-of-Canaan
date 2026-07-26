@@ -2,7 +2,7 @@
 owner = KOR
 controller = KOR
 culture = korean
-religion = confucianism
+religion = mahayana
 capital = "Gaizhou"
 trade_goods = seafood
 base_tax = 3

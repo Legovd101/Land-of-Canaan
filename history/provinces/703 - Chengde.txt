@@ -2,7 +2,7 @@
 owner = KOR
 controller = KOR
 culture = korean
-religion = vajrayana
+religion = korean_shamanism
 capital = "Chengde"
 trade_goods = jade
 base_tax = 3

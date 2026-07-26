@@ -1,0 +1,7 @@
+religion = mahayana
+capital = 5125
+technology_group = chinese
+primary_culture = chibokuan
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1

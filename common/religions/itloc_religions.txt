@@ -1251,4 +1251,105 @@ eastern = {
 		heretic = { ZEN }
 		
 	}
+	
+	korean_shamanism = {
+		color = { 143 211 234 }
+		icon = 89
+		country = {
+			global_unrest = -1
+			tolerance_heretic = 1
+			female_advisor_chance = 0.25
+		}
+		province = {
+			local_missionary_strength = -0.01
+		}
+		country_as_secondary = {
+			tolerance_own = 1
+			female_advisor_chance = 0.1
+			stability_cost_modifier = -0.1
+		}
+
+		personal_deity = yes
+
+		harmonized_modifier = harmonized_pagan
+
+		heretic = { RUIST }
+	}
+
+	ainu_animism = {
+		color = { 104 150 10 }
+		icon = 90
+		country = {
+			development_cost_in_primary_culture = -0.05
+			church_loyalty_modifier = 0.05
+		}
+		province = {
+			local_missionary_strength = -0.02
+		}
+		country_as_secondary = {
+			tolerance_own = 1
+			tolerance_heathen = 1
+		}
+		heretic = { SHUGENDO }
+		personal_deity = yes
+		harmonized_modifier = harmonized_shinto
+		
+	}
+
+	emishi_imperial_cult = {
+		color = { 64 79 69 }
+		icon = 91
+		country = {
+			development_cost_in_primary_culture = -0.05
+			church_loyalty_modifier = 0.05
+		}
+		province = {
+			local_missionary_strength = -0.02
+		}
+		country_as_secondary = {
+			tolerance_own = 1
+			tolerance_heathen = 1
+		}
+		heretic = { SHUGENDO }
+		harmonized_modifier = harmonized_shinto
+		
+	}
+
+	nivkh_shamanism = {
+		color = { 108 86 78 }
+		icon = 92
+		country = {
+			development_cost_in_primary_culture = -0.05
+			church_loyalty_modifier = 0.05
+		}
+		province = {
+			local_missionary_strength = -0.02
+		}
+		country_as_secondary = {
+			tolerance_own = 1
+			tolerance_heathen = 1
+		}
+		heretic = { SHUGENDO }
+		harmonized_modifier = harmonized_shinto
+		
+	}
+
+	jurchen_shamanism = {
+		color = { 152 167 237 }
+		icon = 93
+		country = {
+			development_cost_in_primary_culture = -0.05
+			church_loyalty_modifier = 0.05
+		}
+		province = {
+			local_missionary_strength = -0.02
+		}
+		country_as_secondary = {
+			tolerance_own = 1
+			tolerance_heathen = 1
+		}
+		heretic = { SHUGENDO }
+		harmonized_modifier = harmonized_shinto
+		
+	}
 }

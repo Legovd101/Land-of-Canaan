@@ -2,8 +2,8 @@
 owner = NVK
 controller = NVK
 add_core = NVK
-culture = ainu
-religion = tengri_pagan_reformed
+culture = nivkh
+religion = nivkh_shamanism
 capital = "Kalar"
 trade_goods = fur
 base_tax = 1

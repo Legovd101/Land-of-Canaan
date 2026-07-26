@@ -1,8 +1,8 @@
 #1029 - Kai
-owner = ANU
-controller = ANU
+owner = PET
+controller = PET
 culture = chubu_jo
-religion = animism
+religion = mahayana
 capital = "Kofu"
 trade_goods = sulfur
 base_tax = 3
@@ -15,4 +15,4 @@ discovered_by = KHA
 discovered_by = OIR
 discovered_by = QNG
 discovered_by = ANU
-add_core = ANU
+add_core = PET

@@ -1,8 +1,8 @@
 #4184 - Bizen
-owner = ANU
-controller = ANU
+owner = MNK
+controller = MNK
 culture = seto_jo
-religion = animism
+religion = mahayana
 capital = "Okayama"
 trade_goods = iron
 base_tax = 3
@@ -15,4 +15,4 @@ discovered_by = MCH
 discovered_by = KHA
 discovered_by = OIR
 discovered_by = QNG
-add_core = ANU
+add_core = MNK

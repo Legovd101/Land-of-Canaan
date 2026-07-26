@@ -1,0 +1,16 @@
+capital = 5129
+government_rank = 1
+religion = mahayana
+technology_group = chinese
+primary_culture = chuokuan
+government = republic
+1428.1.1 = { 
+	monarch = { 
+		name = "Ando 'Kenju'"
+		dynasty = "Katatsure"
+		adm = 5
+		dip = 6
+		mil = 1
+	}
+	add_ruler_personality = free_thinker_personality
+}
