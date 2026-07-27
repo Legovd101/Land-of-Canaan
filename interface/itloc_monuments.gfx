@@ -64,4 +64,9 @@ spriteTypes = {
 		name = "GFX_great_project_mount_etna"	
 		texturefile = "gfx//interface//great_projects//great_project_mount_etna.dds"
 	}
+
+	spriteType = {
+		name = "GFX_great_project_pildughr"	
+		texturefile = "gfx//interface//great_projects//great_project_pildughr.dds"
+	}
 }

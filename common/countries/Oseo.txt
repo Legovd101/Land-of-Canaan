@@ -132,10 +132,9 @@ leader_names = {
 	Nam Sung Baek 
 }
 ship_names = { 
-	Baekdu Baekje Buyeo Chilbosan
-	Duman Daedeok Dongmyeongseong "Eulji Mundeok" Gayasan Geumgang Geumho Goguryeo Gumiho "Gyeon Hwon"
-	Imjingang Inmyeonjo Jangbaek "Jang Bogo" Jirisan Jeongjong Kumgangsan
-	Myohyangsan
+	Baekdu Baekje Buyeo Chilbosan Duman Daedeok Dongmyeongseong "Eulji Mundeok" Gayasan Geumgang
+	Geumho Goguryeo Gumiho "Gyeon Hwon" Imjingang Inmyeonjo Jangbaek "Jang Bogo" Jirisan Jeongjong
+	Kumgangsan Myohyangsan
 	Nakdong
 	Samjogo Sincheon Silla Sobaek Taebaek Taejo Hanseong Haemosu Habaek Hwaeomsa
 	Worak

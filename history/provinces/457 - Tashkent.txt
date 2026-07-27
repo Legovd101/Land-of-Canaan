@@ -2,7 +2,7 @@
 owner = BUY
 controller = BUY
 culture = buyeo
-religion = vajrayana
+religion = korean_shamanism
 capital = "Tashkent"
 trade_goods = tea
 base_tax = 3

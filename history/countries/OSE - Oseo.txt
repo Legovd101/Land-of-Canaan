@@ -1,4 +1,4 @@
-religion = vajrayana
+religion = korean_shamanism
 capital = 3226
 technology_group = chinese
 primary_culture = buyeo

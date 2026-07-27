@@ -1124,6 +1124,8 @@ exploration_ideas = {
 				tag = ALN
 				tag = KEM
 				tag = BDG
+				tag = NVK
+				tag = OUC
 			}
 		}
 		modifier = {
@@ -1138,6 +1140,7 @@ exploration_ideas = {
 				tag = KUS
 				tag = MZN
 				tag = PMR
+				tag = ABJ
 			}
 		}
 	}
