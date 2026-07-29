@@ -19,7 +19,7 @@ malay_failing_crown_mechanic = {
 					id = malaya.2
 				}
 			}
-            is_good = no
+            is_good = yes
         }
     }
 }

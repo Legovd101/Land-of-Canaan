@@ -7,6 +7,7 @@ country_event = {
     picture = indiangfx_DIPLOMACY_eventPicture
     option = {
         name = malaya.1.a
+        set_government_power = { mechanic_type = malay_failing_crown_mechanic power_type = malay_crown_control value = 36 }
     }
 }
 
@@ -17,7 +18,9 @@ country_event = {
     picture = indiangfx_BATTLE_eventPicture
     option = {
         name = malaya.2.a
-        add_stability = -6
         custom_tooltip = malaya_dead_tt
+        hidden_effect = {
+
+        }
     }
 }

@@ -58,7 +58,9 @@ malaya_failing_crown = {
 		malay_failing_crown_mechanic
 	}
 	modifiers = {
+		can_not_declare_war = yes
 		autonomy_change_time = 0.25
+
 	}
 	
 }
