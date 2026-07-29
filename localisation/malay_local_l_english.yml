@@ -1,0 +1,19 @@
+l_english: 
+#government reform
+ malaya_failing_crown: "Failing Crown of Malaya"
+ malaya_failing_crown_desc: "description palceholder"
+#government mechanic
+ ability_malay_failing_crown_mechanic: "Failing Crown of Malaya"
+ malay_crown_control: "Crown Control"
+ malay_crown_control_desc: "The measure of how much the Emperor can exercise his authority over the Empire"
+
+#events
+ malay.1.t: "The Empire Looks Inward"
+ malay.1.d: "lorem ipsum etc etc"
+ malay.1.a: "option placeholder"
+
+ malay.2.t: "title placeholder"
+ malay.2.d: "lorem ipsum etc etc"
+ malay.2.a: "option placeholder"
+ malaya_dead_tt: "The end of an era..."
+

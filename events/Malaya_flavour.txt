@@ -1,0 +1,23 @@
+namespace = malaya
+
+country_event = {
+    id = malaya.1
+    title = malaya.1.t
+    desc = malaya.1.d
+    picture = indiangfx_DIPLOMACY_eventPicture
+    option = {
+        name = malaya.1.a
+    }
+}
+
+country_event = {
+    id = malaya.2
+    title = malaya.2.t
+    desc = malaya.2.d
+    picture = indiangfx_BATTLE_eventPicture
+    option = {
+        name = malaya.2.a
+        add_stability = -6
+        custom_tooltip = malaya_dead_tt
+    }
+}

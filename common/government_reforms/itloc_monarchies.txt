@@ -44,3 +44,21 @@ formosan_kingdom = {
 		has_unify_china_cb = yes
 	}
 }
+malaya_failing_crown = {
+	icon = "mandala_system"
+	allow_normal_conversion = no
+	lock_level_when_selected = yes
+	valid_for_nation_designer = yes
+	is_elective = no
+	nation_designer_cost = 0
+	potential = { tag = MSA }
+	trigger = { tag = MSA }
+	fixed_rank = 3
+	government_abilities = {
+		malay_failing_crown_mechanic
+	}
+	modifiers = {
+		autonomy_change_time = 0.25
+	}
+	
+}

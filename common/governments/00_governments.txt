@@ -132,6 +132,7 @@ monarchy = {
 				# Itloc
 				serican_captaincy_reform
 				formosan_kingdom
+				malaya_failing_crown
 			}
 		}
 		hereditary_vs_nobility = {
