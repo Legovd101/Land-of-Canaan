@@ -1,14 +1,14 @@
 #2395 - Hkamti Long
-owner = MKA
-controller = MKA
-culture = kachin
-religion = animism
+owner = ZRM
+controller = ZRM
+culture = chin
+religion = vajrayana
 capital = "Hkamti Long"
 trade_goods = rice
 base_tax = 2
 base_production = 2
 base_manpower = 1
 is_city = yes
-add_core = MKA
+add_core = ZRM
 discovered_by = chinese
 discovered_by = indian

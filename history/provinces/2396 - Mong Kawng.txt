@@ -1,14 +1,14 @@
 #2396 - Mong Kawng
-owner = MKA
-controller = MKA
-culture = kachin
-religion = buddhism
+owner = ZRM
+controller = ZRM
+culture = chin
+religion = vajrayana
 capital = "Mong Kawng"
 trade_goods = jade
 base_tax = 2
 base_production = 3
 base_manpower = 2
 is_city = yes
-add_core = MKA
+add_core = ZRM
 discovered_by = chinese
 discovered_by = indian

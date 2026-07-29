@@ -458,6 +458,8 @@ RJB = "countries/Arijab.txt" # Semitic
 QMN = "countries/Qumana.txt" # Semitic
 DVJ = "countries/Devlijjejja.txt" # Wanniyalaeto
 BHR = "countries/Biharorszag.txt" # Magyar
+SNK = "countries/Son.txt" # Kachari
+AGA = "countries/Naga.txt" # Naga
 
  # China
  ## Magyar
@@ -558,3 +560,35 @@ TUM = "countries/Tumed Ulus.txt"
  ## Tungusic
 LZN = "countries/Luzhen Gurun.txt" # Jurchen
 RDM = "countries/Radmif.txt" # Nivkh
+
+ # Burma/Ningthi
+ 
+ ## Kayah
+ 
+ ## Mien
+ 
+ ## Tai Long
+ 
+ ## Mugh
+ 
+ ## Chin
+KPK = "countries/Kangleipak.txt" # Meitei
+ZRM = "countries/Zoram.txt" # Mizoram
+
+ # Indochina/Camreonsrei
+ 
+ ## Mon/Raman
+ 
+ ## Yuet
+ 
+ ## Khom
+ 
+ ## Cham
+ 
+ ## Mon
+ 
+ ## Yonok
+ 
+ 
+ 
+ 

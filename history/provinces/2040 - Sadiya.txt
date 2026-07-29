@@ -1,7 +1,7 @@
 #2040 - Sadiya
-owner = SDY
-controller = SDY
-culture = assamese
+owner = SNK
+controller = SNK
+culture = chin
 religion = hinduism
 capital = "Sadiya"
 trade_goods = exotic_fur
@@ -9,7 +9,7 @@ base_tax = 2
 base_production = 2
 base_manpower = 2
 is_city = yes
-add_core = SDY
+add_core = SNK
 discovered_by = indian
 discovered_by = nomad_group
 discovered_by = uralic_group

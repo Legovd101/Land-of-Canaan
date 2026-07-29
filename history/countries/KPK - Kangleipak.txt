@@ -1,0 +1,6 @@
+government = tribal
+add_government_reform = tribal_kingdom
+primary_culture = chin
+religion = hinduism
+technology_group = indian
+capital = 2041	# Imphal

@@ -6810,7 +6810,7 @@ burman = {
 		}
 	}
 	chin = {
-		primary = MLB
+		primary = KPK
 		dynasty_names = {
 			Shubol Chandrakirti Ganavira Marjit Charajit Pitambara Moduchandra Harshachandra Nara Devendra
 		}
