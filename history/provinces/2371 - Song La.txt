@@ -1,7 +1,7 @@
 #2371 - Song La
 owner = LXA
 controller = LXA
-culture = lao
+culture = burmese
 religion = animism
 capital = "Song La"
 trade_goods = tea

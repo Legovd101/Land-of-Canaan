@@ -1,6 +1,6 @@
 owner = DAI
 controller = DAI
-culture = vietnamese
+culture = cham
 religion = mahayana
 capital = "Son Nam"
 trade_goods = grain

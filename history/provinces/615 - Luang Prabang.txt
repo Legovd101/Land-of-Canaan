@@ -1,7 +1,7 @@
 #615 - Luang Prabang
 owner = LXA
 controller = LXA
-culture = lao
+culture = northern_thai
 religion = animism
 capital = "Xieng Tong"
 trade_goods = chinaware

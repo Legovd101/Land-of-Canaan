@@ -1,7 +1,7 @@
 #2372 - Hai Phong
 owner = DAI
 controller = DAI
-culture = vietnamese
+culture = cham
 religion = mahayana
 capital = "Hai Phong"
 trade_goods = pearls

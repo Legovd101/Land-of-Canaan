@@ -45,6 +45,7 @@
  brythonic: "Brythoneg"
  bulgarian: "Bulghari"
  burgundian: "Bürgundjans"
+ burmese: "Mien"
  buryat: "Buryaad"
  buyeo: "Puyó"
  byelorussian: "Bjelarúski"
@@ -206,6 +207,7 @@
  norn: "Norn"
  north_bantu: "North Bantu"
  northern_aryan: "Northern Aryan"
+ northern_thai: "Yonok"
  northwestern_aryan: "Northwestern Aryan"
  norwegian: "Nordmenn"
  novgorodian: "Rodhænger"
@@ -218,6 +220,7 @@
  oselian: "Sullikka"
  ostyaki: "Òstikanna Qa"
  outlander: "Útlandr"
+ paoo: "Pa'O"
  palmyran: "Tadmorayi"
  panjabi: "Panchapodhami"
  pannonian: "Pannes"
@@ -258,6 +261,7 @@
  scythian: "Skudra"
  septian: "Septesk"
  serbian: "Srpski"
+ shan: "Tai"
  shilha: "Išelhiyen"
  siberian: "Seberlar"
  sicel: "Skande"
@@ -339,6 +343,10 @@
  #mfs be named island and earthquake </3 but lowkey idk what to call them
  kurilian: "Imokirika"
  #adj and v.i. meaning "Abject. Miserably bad. To live in utter misery."
+ burman: "Sanapuri"
+ #Suvarnabhumi in Meitei. Sana meaning gold and puri directly borrowed from Mani'puri'
+ vietnamese: "Yvan"
+ #Ancient Khmer for Viet/Yuet
 
  
 

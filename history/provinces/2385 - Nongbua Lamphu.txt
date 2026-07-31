@@ -1,7 +1,7 @@
 #2385 - Nongbua Lamphu
 owner = LXA
 controller = LXA
-culture = lao
+culture = vietnamese
 religion = buddhism
 capital = "Nongbua Lamphu"
 trade_goods = citrus

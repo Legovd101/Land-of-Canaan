@@ -1,7 +1,7 @@
 #611 - Sikhottabong
 owner = LXA
 controller = LXA
-culture = lao
+culture = vietnamese
 religion = animism
 capital = "Sikhottabong"
 trade_goods = elephants

@@ -1,7 +1,7 @@
 #4396 - Prome
 owner = BPR
 controller = BPR
-culture = burmese
+culture = paoo
 religion = buddhism
 capital = "Prome"
 trade_goods = ivory

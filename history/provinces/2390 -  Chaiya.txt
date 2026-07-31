@@ -1,7 +1,7 @@
 #2390 - Chaiya
 owner = LIG
 controller = LIG
-culture = central_thai
+culture = malayan
 religion = buddhism
 capital = "Chaiya"
 trade_goods = sea_turtle

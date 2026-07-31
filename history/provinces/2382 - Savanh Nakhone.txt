@@ -1,7 +1,7 @@
 #2382 - Savanh Nakhone
 owner = LXA
 controller = LXA
-culture = lao
+culture = khmer
 religion = animism
 capital = "Luang Namtha"
 trade_goods = copper

@@ -1,7 +1,7 @@
 #601 - Sukhothai
 owner = SUK
 controller = SUK
-culture = central_thai
+culture = vietnamese
 religion = buddhism
 capital = "Sukhothai"
 trade_goods = chinaware

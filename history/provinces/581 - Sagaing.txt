@@ -1,7 +1,7 @@
 #581 - Sagaing
 owner = AVA
 controller = AVA
-culture = burmese
+culture = shan
 religion = buddhism
 capital = "Sagaing"
 trade_goods = opium

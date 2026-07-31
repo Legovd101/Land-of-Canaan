@@ -1,6 +1,6 @@
 owner = LXA
 controller = LXA
-culture = lao
+culture = cham
 religion = animism
 capital = "Muang Ngoi"
 trade_goods = ivory

@@ -1,7 +1,7 @@
 #1844 - Xiankhouang
 owner = MPH
 controller = MPH
-culture = lao
+culture = cham
 religion = buddhism
 capital = "Muang Khoun"
 trade_goods = rice

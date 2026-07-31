@@ -1,7 +1,7 @@
 #587 - Kengtung
 owner = HSE
 controller = HSE
-culture = shan
+culture = karen
 religion = animism
 capital = "Kengtung"
 trade_goods = tropical_wood

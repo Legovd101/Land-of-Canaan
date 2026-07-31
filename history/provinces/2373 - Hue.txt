@@ -1,7 +1,7 @@
 #2373 - Hue
 owner = DAI
 controller = DAI
-culture = vietnamese
+culture = cham
 religion = mahayana
 capital = "Hue"
 trade_goods = incense

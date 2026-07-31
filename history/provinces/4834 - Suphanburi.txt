@@ -1,6 +1,6 @@
 owner = AYU
 controller = AYU
-culture = central_thai
+culture = mon
 religion = buddhism
 capital = "Suphanburi"
 trade_goods = opium

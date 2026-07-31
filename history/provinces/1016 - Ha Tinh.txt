@@ -1,7 +1,7 @@
 #1016 - Ha Tinh
 owner = DAI
 controller = DAI
-culture = vietnamese
+culture = cham
 religion = mahayana
 capital = "Ha Tinh"
 trade_goods = seafood

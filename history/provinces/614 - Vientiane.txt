@@ -1,7 +1,7 @@
 #614 - Vientiane
 owner = LXA
 controller = LXA
-culture = lao
+culture = northern_thai
 religion = buddhism
 capital = "Vientiane"
 trade_goods = rice

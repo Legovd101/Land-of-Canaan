@@ -1,6 +1,6 @@
 owner = AYU
 controller = AYU
-culture = central_thai
+culture = vietnamese
 religion = buddhism
 capital = "Lopburi"
 trade_goods = rice

@@ -1,7 +1,7 @@
 #4395 - Yamethin
 owner = AVA
 controller = AVA
-culture = burmese
+culture = paoo
 religion = buddhism
 capital = "Yamethin"
 trade_goods = elephants

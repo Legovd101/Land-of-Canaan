@@ -1,7 +1,7 @@
 #2381 - Luang Namtha
 owner = LXA
 controller = LXA
-culture = lao
+culture = burmese
 religion = animism
 capital = "Luang Namtha"
 trade_goods = tea

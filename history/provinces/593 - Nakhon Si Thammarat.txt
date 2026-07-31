@@ -1,7 +1,7 @@
 #593 - Nakhon Si Thammarat
 owner = LIG
 controller = LIG
-culture = central_thai
+culture = malayan
 religion = buddhism
 capital = "Nakhon Si Thammarat"
 trade_goods = ebony

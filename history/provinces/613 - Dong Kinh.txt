@@ -1,7 +1,7 @@
 #613 - Dong Kinh
 owner = DAI
 controller = DAI
-culture = vietnamese
+culture = cham
 religion = mahayana
 capital = "Dong Kinh"
 trade_goods = chinaware

@@ -1,6 +1,6 @@
 owner = AYU
 controller = AYU
-culture = central_thai
+culture = khmer
 religion = buddhism
 capital = "Rayong"
 trade_goods = grain

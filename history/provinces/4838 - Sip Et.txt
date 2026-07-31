@@ -1,6 +1,6 @@
 owner = LXA
 controller = LXA
-culture = lao
+culture = khmer
 religion = buddhism
 capital = "Sip Et"
 trade_goods = ivory

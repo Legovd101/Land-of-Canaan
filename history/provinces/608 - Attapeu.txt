@@ -1,6 +1,6 @@
 owner = LXA
 controller = LXA
-culture = lao
+culture = khmer
 religion = animism
 capital = "Attapeu"
 trade_goods = ivory
