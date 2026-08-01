@@ -1080,20 +1080,29 @@ guiTypes = {
 			}
 		}
 
-		iconType = {
-			name = "custom_date_window_info_button"
-			position = { x = -243 y = 5 }
-			orientation = upper_right
-			spriteType = "GFX_custom_date_info_button"
-			scripted = yes
-		}
 
-		guiButtonType = {
-			name = "custom_date_window_toggle_button"
-			position = { x = -263 y = 5 }
+		windowType = {
+			name = "custom_date_window_top"
+			position = { x = -229 y = 13 }
 			orientation = upper_right
-			spriteType = "GFX_custom_date_toggle_button"
 			scripted = yes
+
+			iconType = {
+				name = "background"
+				position = { x = 0 y = 0 }
+				spriteType = "GFX_custom_date_top_bg"
+			}
+
+			instantTextBoxType = {
+				name = "custom_date_top_text"
+				position = { x = 0 y = 5 }
+				maxWidth = 140
+				maxHeight = 20
+				fixedsize = yes
+				format = center
+				font = "vic_18"
+				scripted = yes
+			}
 		}
 
 		windowType = {
@@ -1118,6 +1127,22 @@ guiTypes = {
 				font = "vic_18"
 				scripted = yes
 			}
+		}
+
+		iconType = {
+			name = "custom_date_window_info_button"
+			position = { x = -243 y = 5 }
+			orientation = upper_right
+			spriteType = "GFX_custom_date_info_button"
+			scripted = yes
+		}
+
+		guiButtonType = {
+			name = "custom_date_window_toggle_button"
+			position = { x = -263 y = 5 }
+			orientation = upper_right
+			spriteType = "GFX_custom_date_toggle_button"
+			scripted = yes
 		}
 	} ### end of "topbar"
 

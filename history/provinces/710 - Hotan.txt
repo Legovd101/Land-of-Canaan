@@ -1,8 +1,8 @@
 #710 - Hotan
 owner = MRU
 controller = MRU
-culture = hungarian
-religion = magyar_pagan
+culture = saka
+religion = scythian_pagan
 capital = "Hotan"
 trade_goods = jade
 base_tax = 2

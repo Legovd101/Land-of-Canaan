@@ -1,6 +1,6 @@
 religion = finnish_pagan
 capital = 36
-technology_group = baltic_group
+technology_group = uralic_group
 primary_culture = voro_seto
 government_rank = 1
 government = tribal
