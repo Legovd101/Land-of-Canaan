@@ -123,6 +123,13 @@ defined_text = {
 
 	text = {
 		trigger = {
+			technology_group = baltic_group
+		}
+		localisation_key = Year_Baltic
+	}
+
+	text = {
+		trigger = {
 			technology_group = uralic_group
 		}
 		localisation_key = Year_Uralic
