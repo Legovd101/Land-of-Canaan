@@ -166,7 +166,7 @@
  November_Amazigh: "Wamber"
  December_Amazigh: "Dughember"
 
- Year_Baltic: "[1.amazigh_year.GetValue]"
+ Year_Baltic: "[1.baltic_year.GetValue]"
  January_Baltic: "sausis" # Lowercase for cultural reasons
  February_Baltic: "vasaris"
  March_Baltic: "kovas"

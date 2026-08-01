@@ -79,6 +79,12 @@ date_tick = {
 	change_variable = { which = amazigh_year value = 639 } # A modern invention, dated to the ascencion of the Libyan Pharaoh Shoshenq I
 
 	set_variable = {
+		which = baltic_year
+		which = year
+	}
+	change_variable = { which = baltic_year value = -1418 } # Since the establishment of Baltudunne by Ugu Jolobey
+
+	set_variable = {
 		which = uralic_year
 		which = year
 	}
