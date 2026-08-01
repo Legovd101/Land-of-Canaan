@@ -236,7 +236,7 @@
  November_Phoenician: "Samu"
  December_Phoenician: "Kislim"
 
- Year_Assyrian: "[1.phoenician_year.GetValue]"
+ Year_Assyrian: "[1.assyrian_year.GetValue]"
  January_Assyrian: "Kanon Khray"
  February_Assyrian: "Šbat"
  March_Assyrian: "Adhar"
