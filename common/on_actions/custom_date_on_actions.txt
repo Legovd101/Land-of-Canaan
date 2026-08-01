@@ -10,4 +10,101 @@ on_startup = {
 			date_tick = yes
 		}
 	}
+	if = {
+		limit = {
+			1 = {
+				NOT = { has_province_modifier = day_tick_modifier }
+			}
+		}
+		1 = {
+			add_province_triggered_modifier = day_tick_modifier
+			# day_tick = yes
+			set_variable = {
+				which = day_number
+				value = 11
+			}
+		}
+	}
+	if = {
+		limit = {
+			1 = {
+				NOT = { has_province_modifier = month_tick_modifier }
+			}
+		}
+		1 = {
+			add_province_triggered_modifier = month_tick_modifier
+			# day_tick = yes
+			set_variable = {
+				which = day_number
+				value = 11
+			}
+		}
+	}
+	if = {
+		limit = {
+			technology_group = kemetic
+			government = monarchy
+		}
+		set_variable = {
+			which = kemetic_regnal_year
+			value = 1
+		}
+		export_to_variable = {
+			which = kemetic_regnal_age
+			value = trigger_value:ruler_age
+		}
+		subtract_variable = {
+			which = kemetic_regnal_age
+			value = 17
+		}
+		set_variable = {
+			which = kemetic_regnal_subtract
+			value = 0
+		}
+		random_variable = {
+			which = kemetic_regnal_subtract
+			which = kemetic_regnal_age
+		}
+		subtract_variable = {
+			which = kemetic_regnal_age
+			which = kemetic_regnal_subtract
+		}
+		round_variable = {
+			which = kemetic_regnal_age
+			value = -1
+			# If value < 0 round down
+			# If value = 0 round
+			# If value > 0 round up
+		}
+		if = {
+			limit = {
+				NOT = {
+					check_variable = {
+						which = kemetic_regnal_age
+						value = 1
+					}
+				}
+			}
+			set_variable = {
+				which = kemetic_regnal_age
+				value = 1
+			}
+		}
+		set_variable = {
+			which = kemetic_regnal_year
+			which = kemetic_regnal_age
+		}
+	}
+}
+on_new_monarch = {
+	if = {
+		limit = {
+			technology_group = kemetic
+			government = monarchy
+		}
+		set_variable = {
+			which = kemetic_regnal_year
+			value = 1
+		}
+	}
 }

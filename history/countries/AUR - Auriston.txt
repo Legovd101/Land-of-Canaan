@@ -3,5 +3,5 @@ capital = 2409
 technology_group = iranic_group
 primary_culture = aorsi
 government_rank = 1
-government = monarchy
-add_government_reform = feudalism_reform
+government = tribal
+add_government_reform = steppe_horde

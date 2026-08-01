@@ -1,14 +1,132 @@
 date_tick = {
-    export_to_variable = { which = year value = trigger_value:is_year }
-    change_variable = { which = year value = -311 }
-	if = {
+    export_to_variable = {
+		which = year
+		value = trigger_value:is_year # Since the reconquest of Babylon by Seleucus Nicator
+	}
+	
+	set_variable = {
+		which = year_ce
+		which = year
+	}
+	change_variable = { which = year_ce value = -311 } # Since the birth of Christ
+
+	set_variable = {
+		which = celtic_year
+		which = year
+	}
+	change_variable = { which = celtic_year value = -197 } # Since the unification of the Gallic Kingdom by Potinorix
+
+	set_variable = {
+		which = kemetic_republican_year
+		which = year
+	}
+	change_variable = { which = kemetic_republican_year value = -310 } # Since the expulsion of the Ptolemies and establishment of the 35th Dynasty by Ahari
+
+	every_country = {
 		limit = {
-			NOT = { check_variable = { which = year value = 0 } }
+			technology_group = kemetic
+			government = monarchy
 		}
-		set_variable = { which = year_ce which = year }
-		multiply_variable = { which = year_ce value = -1 }
+		change_variable = { which = kemetic_regnal_year value = 1 } # Year _ of the monarch's reign
 	}
-	else = {
-		set_variable = { which = year_ce value = 0 }
+
+	set_variable = {
+		which = peninsular_norse_year
+		which = year
 	}
+	change_variable = { which = peninsular_norse_year value = -1152 } # Since the defeat of the Finns at Närke by Ingald
+
+	set_variable = {
+		which = viking_norse_year
+		which = year
+	}
+	change_variable = { which = viking_norse_year value = -1120 } # Since the establishment of the kingdoms of Jorvík and Veðrafjorðr
+
+	set_variable = {
+		which = latin_year
+		which = year
+	}
+	change_variable = { which = latin_year value = 442 } # Since the founding of Rome
+
+	set_variable = {
+		which = slavic_year
+		which = year
+	}
+	change_variable = { which = slavic_year value = -778 } # Since the unification of the kingdom of Moravia to fight the Huns under Jaroslav
+
+	set_variable = {
+		which = germanic_year
+		which = year
+	}
+	change_variable = { which = germanic_year value = -799 } # Since the breaching of the Pyrenees
+
+	set_variable = {
+		which = irano_zoroastrian_year
+		which = year
+	}
+	change_variable = { which = irano_zoroastrian_year value = 257 } # Since the supposed date of the birth of Zoroaster (was based off of an incorrect text)
+
+	set_variable = {
+		which = helleno_zoroastrian_year
+		which = year
+	}
+	change_variable = { which = helleno_zoroastrian_year value = 179 } # "To the final years of Darius" According to calculations by Josef Markwart
+
+	set_variable = {
+		which = amazigh_year
+		which = year
+	}
+	change_variable = { which = amazigh_year value = 639 } # A modern invention, dated to the ascencion of the Libyan Pharaoh Shoshenq I
+
+	set_variable = {
+		which = uralic_year
+		which = year
+	}
+	change_variable = { which = uralic_year value = -1100 } # Since the ascencion of king Onni "Suuri"
+
+	set_variable = {
+		which = arabian_year
+		which = year
+	}
+	change_variable = { which = arabian_year value = 1689 } # Since a hypothetical "founding" of Mecca by Ishmael (A different Ishmael since no Abraham :/)
+
+	set_variable = {
+		which = babylonian_year
+		which = year
+	}
+	change_variable = { which = babylonian_year value = 315 } # Since the coronation of Nabopolassar of the Neo-Babylonian Empire
+
+	set_variable = {
+		which = phoenician_year
+		which = year
+	}
+	change_variable = { which = phoenician_year value = 21 } # Since the devastating siege of Tyre by Alexander
+
+	set_variable = {
+		which = assyrian_year
+		which = year
+	}
+	change_variable = { which = assyrian_year value = 0 } # The Assyrians historically used the Seleucid Era/Anno Graecorum
+	
+	# if = {
+	# 	limit = {
+	# 		NOT = { check_variable = { which = year value = 0 } }
+	# 	}
+	# 	set_variable = { which = year_ce which = year }
+	# 	multiply_variable = { which = year_ce value = -1 }
+	# }
+	# else = {
+	# 	set_variable = { which = year_ce value = 0 }
+	# }
+}
+
+month_tick = {
+	set_variable = {
+		which = day_number
+		value = 1
+	}
+}
+
+day_tick = {
+	change_variable = { which = day_number value = 1 }
 }

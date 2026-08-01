@@ -93,6 +93,15 @@ country_decisions = {
 				country_event = { id = ideagroups.1 } #Swap Ideas
 			}
 			on_change_tag_effect = yes
+			# The rise of a new dynasty in Kemet resets the republican years to 1 
+			hidden_effect = {
+				1 = {
+					set_variable = {
+						which = kemetic_republican_year
+						value = 1
+					}
+				}
+			}
 		}
 		ai_will_do = {
 			factor = 400

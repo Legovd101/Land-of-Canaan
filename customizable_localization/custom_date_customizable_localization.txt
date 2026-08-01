@@ -1,17 +1,268 @@
+
+
 defined_text = {
-	name = GetCustomDateYearDisplay
+	name = GetLocalYear
 	random = no
 
-	# text = {
-	# 	trigger = {
-	# 		NOT = { check_variable = { which = year value = 0 } }
-	# 	}
-	# 	localisation_key = string_custom_date_year_display_bc
-	# }
 	text = {
+		trigger = {
+			culture_group = scandinavian
+		}
+		localisation_key = Year_Norse_Peninsular
+	}
+
+	text = {
+		trigger = {
+			culture_group = outlander
+		}
+		localisation_key = Year_Norse_Viking
+	}
+
+	text = {
+		trigger = {
+			culture_group = amazigh
+		}
+		localisation_key = Year_Amazigh
+	}
+
+	text = {
+		trigger = {
+			culture_group = turko_semitic
+		}
+		localisation_key = Year_Arabian
+	}
+
+	text = {
+		trigger = {
+			culture_group = east_semitic
+		}
+		localisation_key = Year_Babylonian
+	}
+
+	text = {
+		trigger = {
+			OR = {
+				culture = palmyran
+				culture = assyrian
+				culture = aramean
+				culture_group = sayhadic
+			}
+		}
+		localisation_key = Year_Assyrian
+	}
+
+	text = {
+		trigger = {
+			culture_group = west_semitic
+		}
+		localisation_key = Year_Phoenician
+	}
+
+	text = {
+		trigger = {
+			technology_group = iranic_group
+			religion_group = zoroastrian_group
+		}
+		localisation_key = Year_Irano_Zoroastrian
+	}
+
+	text = {
+		trigger = {
+			technology_group = ottoman
+			religion_group = zoroastrian_group
+		}
+		localisation_key = Year_Helleno_Zoroastrian
+	}
+
+	text = {
+		trigger = {
+			technology_group = celtic_group
+		}
+		localisation_key = Year_Celtic
+	}
+
+	text = {
+		trigger = {
+			technology_group = kemetic
+			OR = {
+				government = republic
+				government = theocracy
+			}
+		}
+		localisation_key = Year_Kemetic_Republic
+	}
+
+	text = {
+		trigger = {
+			technology_group = kemetic
+			government = monarchy
+		}
+		localisation_key = Year_Kemetic_Monarchy
+	}
+
+	text = {
+		trigger = {
+			technology_group = latin_group
+		}
+		localisation_key = Year_Latin
+	}
+
+	text = {
+		trigger = {
+			technology_group = slavic_group
+		}
+		localisation_key = Year_Slavic
+	}
+
+	text = {
+		trigger = {
+			technology_group = western
+		}
+		localisation_key = Year_Germanic
+	}
+
+	text = {
+		trigger = {
+			technology_group = uralic_group
+		}
+		localisation_key = Year_Uralic
+	}
+
+	text = { # Fallback for countries w/o special calendars
 		trigger = {
 			always = yes
 		}
-		localisation_key = string_custom_date_year_display_CE
+		localisation_key = Year_Hellenic
+	}
+}
+
+defined_text = {
+	name = GetLocalMonth
+	random = no
+
+	text = {
+		trigger = {
+			AND = {
+				is_month = 0
+				NOT = { is_month = 1 }
+			}
+		}
+		localisation_key = January_Month
+	}
+
+	text = {
+		trigger = {
+			AND = {
+				is_month = 1
+				NOT = { is_month = 2 }
+			}
+		}
+		localisation_key = February_Month
+	}
+
+	text = {
+		trigger = {
+			AND = {
+				is_month = 2
+				NOT = { is_month = 3 }
+			}
+		}
+		localisation_key = March_Month
+	}
+
+	text = {
+		trigger = {
+			AND = {
+				is_month = 3
+				NOT = { is_month = 4 }
+			}
+		}
+		localisation_key = April_Month
+	}
+
+	text = {
+		trigger = {
+			AND = {
+				is_month = 4
+				NOT = { is_month = 5 }
+			}
+		}
+		localisation_key = May_Month
+	}
+
+	text = {
+		trigger = {
+			AND = {
+				is_month = 5
+				NOT = { is_month = 6 }
+			}
+		}
+		localisation_key = June_Month
+	}
+
+	text = {
+		trigger = {
+			AND = {
+				is_month = 6
+				NOT = { is_month = 7 }
+			}
+		}
+		localisation_key = July_Month
+	}
+
+	text = {
+		trigger = {
+			AND = {
+				is_month = 7
+				NOT = { is_month = 8 }
+			}
+		}
+		localisation_key = August_Month
+	}
+
+	text = {
+		trigger = {
+			AND = {
+				is_month = 8
+				NOT = { is_month = 9 }
+			}
+		}
+		localisation_key = September_Month
+	}
+
+	text = {
+		trigger = {
+			AND = {
+				is_month = 9
+				NOT = { is_month = 10 }
+			}
+		}
+		localisation_key = October_Month
+	}
+
+	text = {
+		trigger = {
+			AND = {
+				is_month = 10
+				NOT = { is_month = 11 }
+			}
+		}
+		localisation_key = November_Month
+	}
+
+	text = {
+		trigger = {
+			AND = {
+				is_month = 11
+			}
+		}
+		localisation_key = December_Month
+	}
+
+	text = { # Fallback. Hopefully, you never see this
+		trigger = {
+			always = yes
+		}
+		localisation_key = November_Hellenic
 	}
 }

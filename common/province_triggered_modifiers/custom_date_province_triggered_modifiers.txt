@@ -15,3 +15,77 @@ date_timer = {
 	on_deactivation = {
 	}
 }
+
+month_tick_modifier = {
+
+	potential = {
+		always = yes
+	}
+
+	trigger = {
+		OR = { 
+			AND = {
+				is_month = 1
+				NOT = { is_month = 2 }
+			}
+			AND = {
+				is_month = 3
+				NOT = { is_month = 4 }
+			}
+			AND = {
+				is_month = 5
+				NOT = { is_month = 6 }
+			}
+			AND = {
+				is_month = 7
+				NOT = { is_month = 8 }
+			}
+			AND = {
+				is_month = 9
+				NOT = { is_month = 10 }
+			}
+			is_month = 11
+		}
+	}
+	
+	hidden = yes
+	
+	on_activation = {
+		month_tick = yes
+			# set_variable = {
+			# 	which = day_number
+			# 	value = 1
+			# }
+	}
+	
+	on_deactivation = {
+		month_tick = yes
+			# set_variable = {
+			# 	which = day_number
+			# 	value = 1
+			# }
+	} 
+}
+
+day_tick_modifier = {
+
+	potential = {
+		always = yes
+	}
+
+	trigger = {
+		NOT = { has_province_flag = day_tick_flag }
+	}
+	
+	hidden = yes
+	
+	on_activation = {
+		day_tick = yes
+		set_province_flag = day_tick_flag
+	}
+	
+	on_deactivation = {
+		day_tick = yes
+		clr_province_flag = day_tick_flag
+	} 
+}

@@ -1,0 +1,1523 @@
+defined_text = {
+	name = GetJanuary
+	random = no
+
+	text = {
+		trigger = {
+			OR = {
+				culture_group = scandinavian
+				culture_group = outlander
+			}
+		}
+		localisation_key = January_Norse
+	}
+
+	text = {
+		trigger = {
+			culture_group = amazigh
+		}
+		localisation_key = January_Amazigh
+	}
+
+	text = {
+		trigger = {
+			culture_group = turko_semitic
+		}
+		localisation_key = January_Arabian
+	}
+
+	text = {
+		trigger = {
+			culture_group = east_semitic
+		}
+		localisation_key = January_Babylonian
+	}
+
+	text = {
+		trigger = {
+			OR = {
+				culture = palmyran
+				culture = assyrian
+				culture = aramean
+				culture_group = sayhadic
+			}
+		}
+		localisation_key = January_Assyrian
+	}
+
+	text = {
+		trigger = {
+			culture_group = west_semitic
+		}
+		localisation_key = January_Phoenician
+	}
+
+	text = {
+		trigger = {
+			technology_group = iranic_group
+			religion_group = zoroastrian_group
+		}
+		localisation_key = January_Irano_Zoroastrian
+	}
+
+	text = {
+		trigger = {
+			technology_group = ottoman
+			religion_group = zoroastrian_group
+		}
+		localisation_key = January_Helleno_Zoroastrian
+	}
+
+	text = {
+		trigger = {
+			technology_group = celtic_group
+		}
+		localisation_key = January_Celtic
+	}
+
+	text = {
+		trigger = {
+			technology_group = kemetic
+		}
+		localisation_key = January_Kemetic
+	}
+
+	text = {
+		trigger = {
+			technology_group = latin_group
+		}
+		localisation_key = January_Latin
+	}
+
+	text = {
+		trigger = {
+			technology_group = slavic_group
+		}
+		localisation_key = January_Slavic
+	}
+
+	text = {
+		trigger = {
+			technology_group = baltic_group
+		}
+		localisation_key = January_Baltic
+	}
+
+	text = {
+		trigger = {
+			technology_group = western
+		}
+		localisation_key = January_Germanic
+	}
+
+	text = {
+		trigger = {
+			technology_group = uralic_group
+		}
+		localisation_key = January_Uralic
+	}
+
+	text = { # Fallback for countries w/o special calendars
+		trigger = {
+			always = yes
+		}
+		localisation_key = January_Hellenic
+	}
+}
+
+defined_text = {
+	name = GetFebruary
+	random = no
+
+	text = {
+		trigger = {
+			OR = {
+				culture_group = scandinavian
+				culture_group = outlander
+			}
+		}
+		localisation_key = February_Norse
+	}
+
+	text = {
+		trigger = {
+			culture_group = amazigh
+		}
+		localisation_key = February_Amazigh
+	}
+
+	text = {
+		trigger = {
+			culture_group = turko_semitic
+		}
+		localisation_key = February_Arabian
+	}
+
+	text = {
+		trigger = {
+			culture_group = east_semitic
+		}
+		localisation_key = February_Babylonian
+	}
+
+	text = {
+		trigger = {
+			OR = {
+				culture = palmyran
+				culture = assyrian
+				culture = aramean
+				culture_group = sayhadic
+			}
+		}
+		localisation_key = February_Assyrian
+	}
+
+	text = {
+		trigger = {
+			culture_group = west_semitic
+		}
+		localisation_key = February_Phoenician
+	}
+
+	text = {
+		trigger = {
+			technology_group = iranic_group
+			religion_group = zoroastrian_group
+		}
+		localisation_key = February_Irano_Zoroastrian
+	}
+
+	text = {
+		trigger = {
+			technology_group = ottoman
+			religion_group = zoroastrian_group
+		}
+		localisation_key = February_Helleno_Zoroastrian
+	}
+
+	text = {
+		trigger = {
+			technology_group = celtic_group
+		}
+		localisation_key = February_Celtic
+	}
+
+	text = {
+		trigger = {
+			technology_group = kemetic
+		}
+		localisation_key = February_Kemetic
+	}
+
+	text = {
+		trigger = {
+			technology_group = latin_group
+		}
+		localisation_key = February_Latin
+	}
+
+	text = {
+		trigger = {
+			technology_group = slavic_group
+		}
+		localisation_key = February_Slavic
+	}
+
+	text = {
+		trigger = {
+			technology_group = baltic_group
+		}
+		localisation_key = February_Baltic
+	}
+
+	text = {
+		trigger = {
+			technology_group = western
+		}
+		localisation_key = February_Germanic
+	}
+
+	text = {
+		trigger = {
+			technology_group = uralic_group
+		}
+		localisation_key = February_Uralic
+	}
+
+	text = { # Fallback for countries w/o special calendars
+		trigger = {
+			always = yes
+		}
+		localisation_key = February_Hellenic
+	}
+}
+
+defined_text = {
+	name = GetMarch
+	random = no
+
+	text = {
+		trigger = {
+			OR = {
+				culture_group = scandinavian
+				culture_group = outlander
+			}
+		}
+		localisation_key = March_Norse
+	}
+
+	text = {
+		trigger = {
+			culture_group = amazigh
+		}
+		localisation_key = March_Amazigh
+	}
+
+	text = {
+		trigger = {
+			culture_group = turko_semitic
+		}
+		localisation_key = March_Arabian
+	}
+
+	text = {
+		trigger = {
+			culture_group = east_semitic
+		}
+		localisation_key = March_Babylonian
+	}
+
+	text = {
+		trigger = {
+			OR = {
+				culture = palmyran
+				culture = assyrian
+				culture = aramean
+				culture_group = sayhadic
+			}
+		}
+		localisation_key = March_Assyrian
+	}
+
+	text = {
+		trigger = {
+			culture_group = west_semitic
+		}
+		localisation_key = March_Phoenician
+	}
+
+	text = {
+		trigger = {
+			technology_group = iranic_group
+			religion_group = zoroastrian_group
+		}
+		localisation_key = March_Irano_Zoroastrian
+	}
+
+	text = {
+		trigger = {
+			technology_group = ottoman
+			religion_group = zoroastrian_group
+		}
+		localisation_key = March_Helleno_Zoroastrian
+	}
+
+	text = {
+		trigger = {
+			technology_group = celtic_group
+		}
+		localisation_key = March_Celtic
+	}
+
+	text = {
+		trigger = {
+			technology_group = kemetic
+		}
+		localisation_key = March_Kemetic
+	}
+
+	text = {
+		trigger = {
+			technology_group = latin_group
+		}
+		localisation_key = March_Latin
+	}
+
+	text = {
+		trigger = {
+			technology_group = slavic_group
+		}
+		localisation_key = March_Slavic
+	}
+
+	text = {
+		trigger = {
+			technology_group = baltic_group
+		}
+		localisation_key = March_Baltic
+	}
+
+	text = {
+		trigger = {
+			technology_group = western
+		}
+		localisation_key = March_Germanic
+	}
+
+	text = {
+		trigger = {
+			technology_group = uralic_group
+		}
+		localisation_key = March_Uralic
+	}
+
+	text = { # Fallback for countries w/o special calendars
+		trigger = {
+			always = yes
+		}
+		localisation_key = March_Hellenic
+	}
+}
+
+defined_text = {
+	name = GetApril
+	random = no
+
+	text = {
+		trigger = {
+			OR = {
+				culture_group = scandinavian
+				culture_group = outlander
+			}
+		}
+		localisation_key = April_Norse
+	}
+
+	text = {
+		trigger = {
+			culture_group = amazigh
+		}
+		localisation_key = April_Amazigh
+	}
+
+	text = {
+		trigger = {
+			culture_group = turko_semitic
+		}
+		localisation_key = April_Arabian
+	}
+
+	text = {
+		trigger = {
+			culture_group = east_semitic
+		}
+		localisation_key = April_Babylonian
+	}
+
+	text = {
+		trigger = {
+			OR = {
+				culture = palmyran
+				culture = assyrian
+				culture = aramean
+				culture_group = sayhadic
+			}
+		}
+		localisation_key = April_Assyrian
+	}
+
+	text = {
+		trigger = {
+			culture_group = west_semitic
+		}
+		localisation_key = April_Phoenician
+	}
+
+	text = {
+		trigger = {
+			technology_group = iranic_group
+			religion_group = zoroastrian_group
+		}
+		localisation_key = April_Irano_Zoroastrian
+	}
+
+	text = {
+		trigger = {
+			technology_group = ottoman
+			religion_group = zoroastrian_group
+		}
+		localisation_key = April_Helleno_Zoroastrian
+	}
+
+	text = {
+		trigger = {
+			technology_group = celtic_group
+		}
+		localisation_key = April_Celtic
+	}
+
+	text = {
+		trigger = {
+			technology_group = kemetic
+		}
+		localisation_key = April_Kemetic
+	}
+
+	text = {
+		trigger = {
+			technology_group = latin_group
+		}
+		localisation_key = April_Latin
+	}
+
+	text = {
+		trigger = {
+			technology_group = slavic_group
+		}
+		localisation_key = April_Slavic
+	}
+
+	text = {
+		trigger = {
+			technology_group = baltic_group
+		}
+		localisation_key = April_Baltic
+	}
+
+	text = {
+		trigger = {
+			technology_group = western
+		}
+		localisation_key = April_Germanic
+	}
+
+	text = {
+		trigger = {
+			technology_group = uralic_group
+		}
+		localisation_key = April_Uralic
+	}
+
+	text = { # Fallback for countries w/o special calendars
+		trigger = {
+			always = yes
+		}
+		localisation_key = April_Hellenic
+	}
+}
+
+defined_text = {
+	name = GetMay
+	random = no
+
+	text = {
+		trigger = {
+			OR = {
+				culture_group = scandinavian
+				culture_group = outlander
+			}
+		}
+		localisation_key = May_Norse
+	}
+
+	text = {
+		trigger = {
+			culture_group = amazigh
+		}
+		localisation_key = May_Amazigh
+	}
+
+	text = {
+		trigger = {
+			culture_group = turko_semitic
+		}
+		localisation_key = May_Arabian
+	}
+
+	text = {
+		trigger = {
+			culture_group = east_semitic
+		}
+		localisation_key = May_Babylonian
+	}
+
+	text = {
+		trigger = {
+			OR = {
+				culture = palmyran
+				culture = assyrian
+				culture = aramean
+				culture_group = sayhadic
+			}
+		}
+		localisation_key = May_Assyrian
+	}
+
+	text = {
+		trigger = {
+			culture_group = west_semitic
+		}
+		localisation_key = May_Phoenician
+	}
+
+	text = {
+		trigger = {
+			technology_group = iranic_group
+			religion_group = zoroastrian_group
+		}
+		localisation_key = May_Irano_Zoroastrian
+	}
+
+	text = {
+		trigger = {
+			technology_group = ottoman
+			religion_group = zoroastrian_group
+		}
+		localisation_key = May_Helleno_Zoroastrian
+	}
+
+	text = {
+		trigger = {
+			technology_group = celtic_group
+		}
+		localisation_key = May_Celtic
+	}
+
+	text = {
+		trigger = {
+			technology_group = kemetic
+		}
+		localisation_key = May_Kemetic
+	}
+
+	text = {
+		trigger = {
+			technology_group = latin_group
+		}
+		localisation_key = May_Latin
+	}
+
+	text = {
+		trigger = {
+			technology_group = slavic_group
+		}
+		localisation_key = May_Slavic
+	}
+
+	text = {
+		trigger = {
+			technology_group = baltic_group
+		}
+		localisation_key = May_Baltic
+	}
+
+	text = {
+		trigger = {
+			technology_group = western
+		}
+		localisation_key = May_Germanic
+	}
+
+	text = {
+		trigger = {
+			technology_group = uralic_group
+		}
+		localisation_key = May_Uralic
+	}
+
+	text = { # Fallback for countries w/o special calendars
+		trigger = {
+			always = yes
+		}
+		localisation_key = May_Hellenic
+	}
+}
+
+defined_text = {
+	name = GetJune
+	random = no
+
+	text = {
+		trigger = {
+			OR = {
+				culture_group = scandinavian
+				culture_group = outlander
+			}
+		}
+		localisation_key = June_Norse
+	}
+
+	text = {
+		trigger = {
+			culture_group = amazigh
+		}
+		localisation_key = June_Amazigh
+	}
+
+	text = {
+		trigger = {
+			culture_group = turko_semitic
+		}
+		localisation_key = June_Arabian
+	}
+
+	text = {
+		trigger = {
+			culture_group = east_semitic
+		}
+		localisation_key = June_Babylonian
+	}
+
+	text = {
+		trigger = {
+			OR = {
+				culture = palmyran
+				culture = assyrian
+				culture = aramean
+				culture_group = sayhadic
+			}
+		}
+		localisation_key = June_Assyrian
+	}
+
+	text = {
+		trigger = {
+			culture_group = west_semitic
+		}
+		localisation_key = June_Phoenician
+	}
+
+	text = {
+		trigger = {
+			technology_group = iranic_group
+			religion_group = zoroastrian_group
+		}
+		localisation_key = June_Irano_Zoroastrian
+	}
+
+	text = {
+		trigger = {
+			technology_group = ottoman
+			religion_group = zoroastrian_group
+		}
+		localisation_key = June_Helleno_Zoroastrian
+	}
+
+	text = {
+		trigger = {
+			technology_group = celtic_group
+		}
+		localisation_key = June_Celtic
+	}
+
+	text = {
+		trigger = {
+			technology_group = kemetic
+		}
+		localisation_key = June_Kemetic
+	}
+
+	text = {
+		trigger = {
+			technology_group = latin_group
+		}
+		localisation_key = June_Latin
+	}
+
+	text = {
+		trigger = {
+			technology_group = slavic_group
+		}
+		localisation_key = June_Slavic
+	}
+
+	text = {
+		trigger = {
+			technology_group = baltic_group
+		}
+		localisation_key = June_Baltic
+	}
+
+	text = {
+		trigger = {
+			technology_group = western
+		}
+		localisation_key = June_Germanic
+	}
+
+	text = {
+		trigger = {
+			technology_group = uralic_group
+		}
+		localisation_key = June_Uralic
+	}
+
+	text = { # Fallback for countries w/o special calendars
+		trigger = {
+			always = yes
+		}
+		localisation_key = June_Hellenic
+	}
+}
+
+defined_text = {
+	name = GetJuly
+	random = no
+
+	text = {
+		trigger = {
+			OR = {
+				culture_group = scandinavian
+				culture_group = outlander
+			}
+		}
+		localisation_key = July_Norse
+	}
+
+	text = {
+		trigger = {
+			culture_group = amazigh
+		}
+		localisation_key = July_Amazigh
+	}
+
+	text = {
+		trigger = {
+			culture_group = turko_semitic
+		}
+		localisation_key = July_Arabian
+	}
+
+	text = {
+		trigger = {
+			culture_group = east_semitic
+		}
+		localisation_key = July_Babylonian
+	}
+
+	text = {
+		trigger = {
+			OR = {
+				culture = palmyran
+				culture = assyrian
+				culture = aramean
+				culture_group = sayhadic
+			}
+		}
+		localisation_key = July_Assyrian
+	}
+
+	text = {
+		trigger = {
+			culture_group = west_semitic
+		}
+		localisation_key = July_Phoenician
+	}
+
+	text = {
+		trigger = {
+			technology_group = iranic_group
+			religion_group = zoroastrian_group
+		}
+		localisation_key = July_Irano_Zoroastrian
+	}
+
+	text = {
+		trigger = {
+			technology_group = ottoman
+			religion_group = zoroastrian_group
+		}
+		localisation_key = July_Helleno_Zoroastrian
+	}
+
+	text = {
+		trigger = {
+			technology_group = celtic_group
+		}
+		localisation_key = July_Celtic
+	}
+
+	text = {
+		trigger = {
+			technology_group = kemetic
+		}
+		localisation_key = July_Kemetic
+	}
+
+	text = {
+		trigger = {
+			technology_group = latin_group
+		}
+		localisation_key = July_Latin
+	}
+
+	text = {
+		trigger = {
+			technology_group = slavic_group
+		}
+		localisation_key = July_Slavic
+	}
+
+	text = {
+		trigger = {
+			technology_group = baltic_group
+		}
+		localisation_key = July_Baltic
+	}
+
+	text = {
+		trigger = {
+			technology_group = western
+		}
+		localisation_key = July_Germanic
+	}
+
+	text = {
+		trigger = {
+			technology_group = uralic_group
+		}
+		localisation_key = July_Uralic
+	}
+
+	text = { # Fallback for countries w/o special calendars
+		trigger = {
+			always = yes
+		}
+		localisation_key = July_Hellenic
+	}
+}
+
+defined_text = {
+	name = GetAugust
+	random = no
+
+	text = {
+		trigger = {
+			OR = {
+				culture_group = scandinavian
+				culture_group = outlander
+			}
+		}
+		localisation_key = August_Norse
+	}
+
+	text = {
+		trigger = {
+			culture_group = amazigh
+		}
+		localisation_key = August_Amazigh
+	}
+
+	text = {
+		trigger = {
+			culture_group = turko_semitic
+		}
+		localisation_key = August_Arabian
+	}
+
+	text = {
+		trigger = {
+			culture_group = east_semitic
+		}
+		localisation_key = August_Babylonian
+	}
+
+	text = {
+		trigger = {
+			OR = {
+				culture = palmyran
+				culture = assyrian
+				culture = aramean
+				culture_group = sayhadic
+			}
+		}
+		localisation_key = August_Assyrian
+	}
+
+	text = {
+		trigger = {
+			culture_group = west_semitic
+		}
+		localisation_key = August_Phoenician
+	}
+
+	text = {
+		trigger = {
+			technology_group = iranic_group
+			religion_group = zoroastrian_group
+		}
+		localisation_key = August_Irano_Zoroastrian
+	}
+
+	text = {
+		trigger = {
+			technology_group = ottoman
+			religion_group = zoroastrian_group
+		}
+		localisation_key = August_Helleno_Zoroastrian
+	}
+
+	text = {
+		trigger = {
+			technology_group = celtic_group
+		}
+		localisation_key = August_Celtic
+	}
+
+	text = {
+		trigger = {
+			technology_group = kemetic
+		}
+		localisation_key = August_Kemetic
+	}
+
+	text = {
+		trigger = {
+			technology_group = latin_group
+		}
+		localisation_key = August_Latin
+	}
+
+	text = {
+		trigger = {
+			technology_group = slavic_group
+		}
+		localisation_key = August_Slavic
+	}
+
+	text = {
+		trigger = {
+			technology_group = baltic_group
+		}
+		localisation_key = August_Baltic
+	}
+
+	text = {
+		trigger = {
+			technology_group = western
+		}
+		localisation_key = August_Germanic
+	}
+
+	text = {
+		trigger = {
+			technology_group = uralic_group
+		}
+		localisation_key = August_Uralic
+	}
+
+	text = { # Fallback for countries w/o special calendars
+		trigger = {
+			always = yes
+		}
+		localisation_key = August_Hellenic
+	}
+}
+
+defined_text = {
+	name = GetSeptember
+	random = no
+
+	text = {
+		trigger = {
+			OR = {
+				culture_group = scandinavian
+				culture_group = outlander
+			}
+		}
+		localisation_key = September_Norse
+	}
+
+	text = {
+		trigger = {
+			culture_group = amazigh
+		}
+		localisation_key = September_Amazigh
+	}
+
+	text = {
+		trigger = {
+			culture_group = turko_semitic
+		}
+		localisation_key = September_Arabian
+	}
+
+	text = {
+		trigger = {
+			culture_group = east_semitic
+		}
+		localisation_key = September_Babylonian
+	}
+
+	text = {
+		trigger = {
+			OR = {
+				culture = palmyran
+				culture = assyrian
+				culture = aramean
+				culture_group = sayhadic
+			}
+		}
+		localisation_key = September_Assyrian
+	}
+
+	text = {
+		trigger = {
+			culture_group = west_semitic
+		}
+		localisation_key = September_Phoenician
+	}
+
+	text = {
+		trigger = {
+			technology_group = iranic_group
+			religion_group = zoroastrian_group
+		}
+		localisation_key = September_Irano_Zoroastrian
+	}
+
+	text = {
+		trigger = {
+			technology_group = ottoman
+			religion_group = zoroastrian_group
+		}
+		localisation_key = September_Helleno_Zoroastrian
+	}
+
+	text = {
+		trigger = {
+			technology_group = celtic_group
+		}
+		localisation_key = September_Celtic
+	}
+
+	text = {
+		trigger = {
+			technology_group = kemetic
+		}
+		localisation_key = September_Kemetic
+	}
+
+	text = {
+		trigger = {
+			technology_group = latin_group
+		}
+		localisation_key = September_Latin
+	}
+
+	text = {
+		trigger = {
+			technology_group = slavic_group
+		}
+		localisation_key = September_Slavic
+	}
+
+	text = {
+		trigger = {
+			technology_group = baltic_group
+		}
+		localisation_key = September_Baltic
+	}
+
+	text = {
+		trigger = {
+			technology_group = western
+		}
+		localisation_key = September_Germanic
+	}
+
+	text = {
+		trigger = {
+			technology_group = uralic_group
+		}
+		localisation_key = September_Uralic
+	}
+
+	text = { # Fallback for countries w/o special calendars
+		trigger = {
+			always = yes
+		}
+		localisation_key = September_Hellenic
+	}
+}
+
+defined_text = {
+	name = GetOctober
+	random = no
+
+	text = {
+		trigger = {
+			OR = {
+				culture_group = scandinavian
+				culture_group = outlander
+			}
+		}
+		localisation_key = October_Norse
+	}
+
+	text = {
+		trigger = {
+			culture_group = amazigh
+		}
+		localisation_key = October_Amazigh
+	}
+
+	text = {
+		trigger = {
+			culture_group = turko_semitic
+		}
+		localisation_key = October_Arabian
+	}
+
+	text = {
+		trigger = {
+			culture_group = east_semitic
+		}
+		localisation_key = October_Babylonian
+	}
+
+	text = {
+		trigger = {
+			OR = {
+				culture = palmyran
+				culture = assyrian
+				culture = aramean
+				culture_group = sayhadic
+			}
+		}
+		localisation_key = October_Assyrian
+	}
+
+	text = {
+		trigger = {
+			culture_group = west_semitic
+		}
+		localisation_key = October_Phoenician
+	}
+
+	text = {
+		trigger = {
+			technology_group = iranic_group
+			religion_group = zoroastrian_group
+		}
+		localisation_key = October_Irano_Zoroastrian
+	}
+
+	text = {
+		trigger = {
+			technology_group = ottoman
+			religion_group = zoroastrian_group
+		}
+		localisation_key = October_Helleno_Zoroastrian
+	}
+
+	text = {
+		trigger = {
+			technology_group = celtic_group
+		}
+		localisation_key = October_Celtic
+	}
+
+	text = {
+		trigger = {
+			technology_group = kemetic
+		}
+		localisation_key = October_Kemetic
+	}
+
+	text = {
+		trigger = {
+			technology_group = latin_group
+		}
+		localisation_key = October_Latin
+	}
+
+	text = {
+		trigger = {
+			technology_group = slavic_group
+		}
+		localisation_key = October_Slavic
+	}
+
+	text = {
+		trigger = {
+			technology_group = baltic_group
+		}
+		localisation_key = October_Baltic
+	}
+
+	text = {
+		trigger = {
+			technology_group = western
+		}
+		localisation_key = October_Germanic
+	}
+
+	text = {
+		trigger = {
+			technology_group = uralic_group
+		}
+		localisation_key = October_Uralic
+	}
+
+	text = { # Fallback for countries w/o special calendars
+		trigger = {
+			always = yes
+		}
+		localisation_key = October_Hellenic
+	}
+}
+
+defined_text = {
+	name = GetNovember
+	random = no
+
+	text = {
+		trigger = {
+			OR = {
+				culture_group = scandinavian
+				culture_group = outlander
+			}
+		}
+		localisation_key = November_Norse
+	}
+
+	text = {
+		trigger = {
+			culture_group = amazigh
+		}
+		localisation_key = November_Amazigh
+	}
+
+	text = {
+		trigger = {
+			culture_group = turko_semitic
+		}
+		localisation_key = November_Arabian
+	}
+
+	text = {
+		trigger = {
+			culture_group = east_semitic
+		}
+		localisation_key = November_Babylonian
+	}
+
+	text = {
+		trigger = {
+			OR = {
+				culture = palmyran
+				culture = assyrian
+				culture = aramean
+				culture_group = sayhadic
+			}
+		}
+		localisation_key = November_Assyrian
+	}
+
+	text = {
+		trigger = {
+			culture_group = west_semitic
+		}
+		localisation_key = November_Phoenician
+	}
+
+	text = {
+		trigger = {
+			technology_group = iranic_group
+			religion_group = zoroastrian_group
+		}
+		localisation_key = November_Irano_Zoroastrian
+	}
+
+	text = {
+		trigger = {
+			technology_group = ottoman
+			religion_group = zoroastrian_group
+		}
+		localisation_key = November_Helleno_Zoroastrian
+	}
+
+	text = {
+		trigger = {
+			technology_group = celtic_group
+		}
+		localisation_key = November_Celtic
+	}
+
+	text = {
+		trigger = {
+			technology_group = kemetic
+		}
+		localisation_key = November_Kemetic
+	}
+
+	text = {
+		trigger = {
+			technology_group = latin_group
+		}
+		localisation_key = November_Latin
+	}
+
+	text = {
+		trigger = {
+			technology_group = slavic_group
+		}
+		localisation_key = November_Slavic
+	}
+
+	text = {
+		trigger = {
+			technology_group = baltic_group
+		}
+		localisation_key = November_Baltic
+	}
+
+	text = {
+		trigger = {
+			technology_group = western
+		}
+		localisation_key = November_Germanic
+	}
+
+	text = {
+		trigger = {
+			technology_group = uralic_group
+		}
+		localisation_key = November_Uralic
+	}
+
+	text = { # Fallback for countries w/o special calendars
+		trigger = {
+			always = yes
+		}
+		localisation_key = November_Hellenic
+	}
+}
+
+defined_text = {
+	name = GetDecember
+	random = no
+
+	text = {
+		trigger = {
+			OR = {
+				culture_group = scandinavian
+				culture_group = outlander
+			}
+		}
+		localisation_key = December_Norse
+	}
+
+	text = {
+		trigger = {
+			culture_group = amazigh
+		}
+		localisation_key = December_Amazigh
+	}
+
+	text = {
+		trigger = {
+			culture_group = turko_semitic
+		}
+		localisation_key = December_Arabian
+	}
+
+	text = {
+		trigger = {
+			culture_group = east_semitic
+		}
+		localisation_key = December_Babylonian
+	}
+
+	text = {
+		trigger = {
+			OR = {
+				culture = palmyran
+				culture = assyrian
+				culture = aramean
+				culture_group = sayhadic
+			}
+		}
+		localisation_key = December_Assyrian
+	}
+
+	text = {
+		trigger = {
+			culture_group = west_semitic
+		}
+		localisation_key = December_Phoenician
+	}
+
+	text = {
+		trigger = {
+			technology_group = iranic_group
+			religion_group = zoroastrian_group
+		}
+		localisation_key = December_Irano_Zoroastrian
+	}
+
+	text = {
+		trigger = {
+			technology_group = ottoman
+			religion_group = zoroastrian_group
+		}
+		localisation_key = December_Helleno_Zoroastrian
+	}
+
+	text = {
+		trigger = {
+			technology_group = celtic_group
+		}
+		localisation_key = December_Celtic
+	}
+
+	text = {
+		trigger = {
+			technology_group = kemetic
+		}
+		localisation_key = December_Kemetic
+	}
+
+	text = {
+		trigger = {
+			technology_group = latin_group
+		}
+		localisation_key = December_Latin
+	}
+
+	text = {
+		trigger = {
+			technology_group = slavic_group
+		}
+		localisation_key = December_Slavic
+	}
+
+	text = {
+		trigger = {
+			technology_group = baltic_group
+		}
+		localisation_key = December_Baltic
+	}
+
+	text = {
+		trigger = {
+			technology_group = western
+		}
+		localisation_key = December_Germanic
+	}
+
+	text = {
+		trigger = {
+			technology_group = uralic_group
+		}
+		localisation_key = December_Uralic
+	}
+
+	text = { # Fallback for countries w/o special calendars
+		trigger = {
+			always = yes
+		}
+		localisation_key = December_Hellenic
+	}
+}

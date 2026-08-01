@@ -1,7 +1,18 @@
 religion = tengri_pagan_reformed
-capital = 4116
+capital = 301
 technology_group = nomad_group
 primary_culture = evenk
 government_rank = 1
 government = republic
-add_government_reform = oligarchy_reform
+add_government_reform = noble_elite_reform
+add_government_reform = nepotism_reform
+1434.12.14 = { 
+	monarch = { 
+		name = "Bombogor"
+		dynasty = "Jolobey"
+		adm = 6
+		dip = 3
+		mil = 1
+		birth_date = 1396.1.2
+	}
+}

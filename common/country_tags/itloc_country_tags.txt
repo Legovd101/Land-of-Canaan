@@ -424,7 +424,7 @@ SKB = "countries/Suru-Kul-Bey.txt"
 ZYR = "countries/Zyriani.txt" # Komi
 NYK = "countries/Nyekeszag.txt" # Magyar
 TLE = "countries/Talae.txt" # Koreanic
-TND = "countries/Tunnadunne.txt" # Evenki
+TND = "countries/Tunnidunne.txt" # Evenki
 BLK = "countries/Balkan Ulus.txt" # Turkmen
 
  # India

@@ -2614,6 +2614,19 @@ baltic	= {
 			Imela Kordula Liga Maija Marite Naula Rasa Ruta Savna Viba Zigne Ieva
 		}
 	}
+
+	livonian = {
+		male_names = {
+			Alo Asso Caupo Dabrel Gerweder Ilmedous Ilo Imme Kike Kovals Layanus Lembewalde Musts Paimis Peite Piöke Sula Uldenago Usis Valke Vesiki Vietso Waldeko Ylo Ymaut
+		}
+		female_names = {
+			Elmede Use Valata Vasara
+		}
+		dynasty_names = {
+			"Karasi" "Ingrija" "Saaremaa" "Revala" "Virumaa" "L‰‰nemaa" "Vaiga" "Ingeri" "Ingeri" "Livo" "Harjumaa" "Virumaa" 
+			"Ridala" "Saaremaa" "Vaiga" "Turaida"
+		}
+	}
 	
 	male_names = {
 		Algirdas Antanas Antavas Aras Arunas Azuolas Budrys Bukantas Butavas Butigeidis Butvydas 
@@ -9431,29 +9444,6 @@ lost_cultures_group = {
 			Rivka Salampsio Sarah Shayna Tamar Tirtza Yael Yocheved
 		}
 	}
-	scythian = { #EU Rome
-		dynasty_names = {
-			Abeacid Galatid Madyid Palacid Partatid
-		}
-		male_names = {
-			Abeacus Apsyrtos Arpharnes Askhkadar Atheas Galat Kuluk Madyes Oltak Palacus Partatua Skilurus Skunxa Spadines Tasius Zanticus Respendial
-		}
-		female_names = {
-			Amage Ghadani Opoin Polemakratia
-		}
-	}
-	livonian = {
-		male_names = {
-			Alo Asso Caupo Dabrel Gerweder Ilmedous Ilo Imme Kike Kovals Layanus Lembewalde Musts Paimis Peite Piöke Sula Uldenago Usis Valke Vesiki Vietso Waldeko Ylo Ymaut
-		}
-		female_names = {
-			Elmede Use Valata Vasara
-		}
-		dynasty_names = {
-			"Karasi" "Ingrija" "Saaremaa" "Revala" "Virumaa" "L‰‰nemaa" "Vaiga" "Ingeri" "Ingeri" "Livo" "Harjumaa" "Virumaa" 
-			"Ridala" "Saaremaa" "Vaiga" "Turaida"
-		}
-	}
 }
 
 
@@ -11338,7 +11328,7 @@ finnic = {
 	}
 }
 
-scythian = {
+scythian_group = {
 	graphical_culture = muslimgfx
 
 	sarmatian = {
@@ -11360,6 +11350,9 @@ scythian = {
 	}
 	iazygi = {
 		primary = YZG
+	}
+	saka = {
+		# primary = YZG
 	}
 	alanian = {
 		primary = ALN
@@ -11398,6 +11391,18 @@ scythian = {
 			# CKII
 			"Balthida" "Amalida" "Gothica"
 			"Hispanogodo" "Visigodo"
+		}
+	}
+
+	scythian = { #EU Rome
+		dynasty_names = {
+			Abeacid Galatid Madyid Palacid Partatid
+		}
+		male_names = {
+			Abeacus Apsyrtos Arpharnes Askhkadar Atheas Galat Kuluk Madyes Oltak Palacus Partatua Skilurus Skunxa Spadines Tasius Zanticus Respendial
+		}
+		female_names = {
+			Amage Ghadani Opoin Polemakratia
 		}
 	}
 
