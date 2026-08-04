@@ -2,7 +2,7 @@
 owner = TKG
 controller = TKG
 culture = chubu_jo
-religion = emishi_imperial_cult
+religion = confucianism
 capital = "Nagano"
 trade_goods = livestock
 base_tax = 2

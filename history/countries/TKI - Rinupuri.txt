@@ -1,4 +1,4 @@
-religion = imperial_cult
+religion = shinto
 capital = 5094
 technology_group = chinese
 primary_culture = chubu_jo

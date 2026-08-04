@@ -2,7 +2,7 @@
 owner = UHN
 controller = UHN
 culture = kansai_jo
-religion = emishi_imperial_cult
+religion = confucianism
 capital = "Wakayama"
 trade_goods = whaling
 base_tax = 2

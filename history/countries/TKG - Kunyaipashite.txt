@@ -1,4 +1,4 @@
-religion = imperial_cult
+religion = confucianism
 capital = 4188
 technology_group = chinese
 primary_culture = chubu_jo
