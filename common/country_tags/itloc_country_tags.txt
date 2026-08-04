@@ -523,36 +523,14 @@ KMM = "countries/Kamomeshi.txt"
 STS = "countries/Shutoshi.txt"
 YON = "countries/Yonan.txt"
 
- # Japan/Attecup-Mosir
-
- ## Japonic
-HZN = "countries/Hizen.txt"
+######## Japan
+##new tags
 TSK = "countries/Tsukushi.txt"
-
- ## Jomonic
-MNK = "countries/Menokushi.txt"
-KIM = "countries/Kima.txt"
-KNK = "countries/Konki.txt"
-TMO = "countries/Ota-Mosiru.txt"
-KRS = "countries/Kurasama.txt"
-UHN = "countries/Uhona.txt"
 ETU = "countries/Etu.txt"
-RMR = "countries/Rimori.txt"
-RNP = "countries/Rinupuri.txt"
-PET = "countries/Peta.txt"
-SKS = "countries/Sukush-ru.txt"
-KNU = "countries/Kunyaipashite.txt"
-RMA = "countries/Rima.txt"
 ABJ = "countries/Abe.txt"
-
-
-## Other
-HEM = "countries/Hemak.txt" # Emishi
+UHN = "countries/Uhona.txt"
 HIT = "countries/Hitakami.txt" # Emishi
 ESK = "countries/Eskerq.txt" # Nivkh
-KLS = "countries/Keldes.txt" # Nivkh
-
- # Manchuria/Nurugen
 
  ## Mongolic
 TUM = "countries/Tumed Ulus.txt"

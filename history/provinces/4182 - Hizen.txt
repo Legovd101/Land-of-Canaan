@@ -1,6 +1,6 @@
 #4182 - Hizen
-owner = HZN
-controller = HZN
+owner = SHN
+controller = SHN
 culture = tsukushi
 religion = shinto
 capital = "Nagasaki"
@@ -14,4 +14,4 @@ discovered_by = MCH
 discovered_by = KHA
 discovered_by = OIR
 discovered_by = QNG
-add_core = HZN
+add_core = SHN

@@ -1,0 +1,13 @@
+bookmark = {
+	name = "DUSK_AND_DISUNITY"
+	desc = "DUSK_AND_DISUNITY_DESC"
+	date = "1444.11.11"
+	center = 1030
+    country = TSK
+    country = OUC
+    country = UHN
+    country = ETU
+    country = ABJ
+    country = HIT
+    country = ESK
+}

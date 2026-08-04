@@ -1,4 +1,4 @@
-religion = emishi_imperial_cult
+religion = imperial_cult
 capital = 5081
 technology_group = chinese
 primary_culture = seto_jo

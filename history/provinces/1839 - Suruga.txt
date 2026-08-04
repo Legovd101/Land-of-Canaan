@@ -1,8 +1,8 @@
 #1839 - Suruga
-owner = PET
-controller = PET
+owner = ODA
+controller = ODA
 culture = chubu_jo
-religion = emishi_imperial_cult
+religion = imperial_cult
 capital = "Sunpu"
 trade_goods = silver
 base_tax = 4
@@ -14,4 +14,4 @@ discovered_by = MCH
 discovered_by = KHA
 discovered_by = OIR
 discovered_by = QNG
-add_core = PET
+add_core = ODA

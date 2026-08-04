@@ -1,6 +1,6 @@
 #1029 - Kai
-owner = PET
-controller = PET
+owner = ODA
+controller = ODA
 culture = chubu_jo
 religion = mahayana
 capital = "Kofu"
@@ -15,4 +15,4 @@ discovered_by = KHA
 discovered_by = OIR
 discovered_by = QNG
 discovered_by = ANU
-add_core = PET
+add_core = ODA

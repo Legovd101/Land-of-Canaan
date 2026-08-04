@@ -5,6 +5,9 @@ country_event = {
     title = malaya.1.t
     desc = malaya.1.d
     picture = indiangfx_DIPLOMACY_eventPicture
+    trigger = {
+        is_tag = MSA
+    }
     option = {
         name = malaya.1.a
         set_government_power = { mechanic_type = malay_failing_crown_mechanic power_type = malay_crown_control value = 36 }
@@ -16,6 +19,7 @@ country_event = {
     title = malaya.2.t
     desc = malaya.2.d
     picture = indiangfx_BATTLE_eventPicture
+    is_triggered_only = yes
     option = {
         name = malaya.2.a
         custom_tooltip = malaya_dead_tt

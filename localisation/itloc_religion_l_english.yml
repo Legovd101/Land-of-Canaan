@@ -10,7 +10,19 @@
  ainu_animism_rebels_title: "Religious"
  ainu_animism_religion_desc: "The gods and spirits can inhabit every corner and object of the world, we must appease them with arts and ceremonies of great quality."
 
+ imperial_cult: "Imperial Cult"
+ imperial_cult_religion_desc: "The more-or-less formalised state religion of the Sunrise Empire."
+ imperial_cult_rebels_demand: "Convert $COUNTRYNAME$"
+ imperial_cult_rebels_demand_desc: "The religious rebels fight for the $RELIGION$ religion. They demand that we recognize its supremacy or at the very least cease our efforts to convert them and let them worship in peace."
+ imperial_cult_rebels_desc: "Religious fanatics tend to rise up in provinces controlled by nations of a different faith. They seek to spread their faith and smite all unbelievers."
+ imperial_cult_rebels_name: "$RELIGION$ Zealots"
+ ainu_animism_rebels_title: "Religious"
+ 
+
+
  ajivika: "Ajivika"
+
+
 
 ###berber pagan (i refuse to organise it like that sorry -aurie)
  amazighism: "Amazigh" #temporary in lieu of better name

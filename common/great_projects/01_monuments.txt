@@ -19244,7 +19244,7 @@ grand_canal_4 = {
 }
 
 imperial_city_kyoto = {
-	start = 1020 #Kyoto
+	start = 1030 #Kyoto
 	date = 723.05.01
 	time = { months = 0	}
 	build_cost = 0
@@ -19254,7 +19254,7 @@ imperial_city_kyoto = {
 	type = monument
 
 	build_trigger = {
-		culture_group = japanese_g
+		culture_group = jomonic
 		province_is_or_accepts_culture = yes
 	}
 
@@ -19265,12 +19265,12 @@ imperial_city_kyoto = {
 	}
 
 	can_use_modifiers_trigger = {
-		culture_group = japanese_g
+		culture_group = jomonic
 		province_is_or_accepts_culture = yes
 	}
 
 	can_upgrade_trigger = {
-		culture_group = japanese_g
+		culture_group = jomonic
 		province_is_or_accepts_culture = yes
 	}
 

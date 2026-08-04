@@ -1,8 +1,8 @@
 #1020 - Yamashiro (Kyoto)
-owner = KRS
-controller = KRS
+owner = ASK
+controller = ASK
 culture = kansai_jo
-religion = emishi_imperial_cult
+religion = confucianism
 capital = "Kyoto"
 trade_goods = silk
 base_tax = 6
@@ -15,8 +15,8 @@ discovered_by = KHA
 discovered_by = OIR
 discovered_by = QNG
 discovered_by = ANU
-add_permanent_province_modifier = { 
-	name = heian_kyo
-	duration = -1
-}
-add_core = KRS
+#add_permanent_province_modifier = { 
+#	name = heian_kyo
+#	duration = -1
+#}
+add_core = ASK

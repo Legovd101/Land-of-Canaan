@@ -2,7 +2,7 @@
 owner = UHN
 controller = UHN
 culture = kansai_jo
-religion = emishi_imperial_cult
+religion = imperial_cult
 capital = "Nara"
 trade_goods = tea
 base_tax = 4

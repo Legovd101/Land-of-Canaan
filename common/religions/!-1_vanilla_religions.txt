@@ -2561,7 +2561,7 @@ zoroastrian_group = {
 
 	zoroastrian = {
 		icon = 26
-		color = { 127 178 51 }
+		color = { 204 160 16 }
 		province = {
 			local_missionary_strength = -0.02
 		}

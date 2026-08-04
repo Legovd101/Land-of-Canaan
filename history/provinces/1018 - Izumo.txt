@@ -1,6 +1,6 @@
 #1018 - Izumo
-owner = KIM
-controller = KIM
+owner = AMA
+controller = AMA
 culture = iwami
 religion = shinto
 capital = "Matsue"
@@ -14,5 +14,5 @@ discovered_by = MCH
 discovered_by = KHA
 discovered_by = OIR
 discovered_by = QNG
-add_core = KIM
+add_core = AMA
 fort_15th = yes

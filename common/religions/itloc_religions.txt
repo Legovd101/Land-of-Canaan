@@ -718,7 +718,7 @@ iranic_religions = {
 	crusade_name = razum
 	mazdaki = {
 		icon = 54
-		color = { 0.5 0.7 0.2 }
+		color = { 76 106 112 }
 		country = {
 			global_unrest = -3 # Proto-socialism
 			tolerance_heretic = 1
@@ -742,7 +742,7 @@ iranic_religions = {
 	
 	khurmazta = {
 		icon = 55
-		color = { 0.5 0.6 0.3 }
+		color = { 83 122 81 }
 		country = {
 			stability_cost_modifier = -0.1
 			global_tax_modifier = 0.1
@@ -836,7 +836,7 @@ iranic_religions = {
 
 	katholikos = {
 		icon = 74
-		color = { 11 76 41 }
+		color = { 237 237 171 }
 		province = {
 			local_missionary_strength = -0.02
 		}
@@ -1138,7 +1138,7 @@ cusihitic_religions = {
 
 eastern = {
 	confucianism = { #Done to add harmonization modifier
-		color = { 214 229 140 }
+		color = { 191 194 182 }
 		icon = 9
 		country = {
 			tolerance_heretic = 2
@@ -1296,8 +1296,8 @@ eastern = {
 		
 	}
 
-	emishi_imperial_cult = {
-		color = { 64 79 69 }
+	imperial_cult = {
+		color = { 212 209 70 }
 		icon = 91
 		country = {
 			development_cost_in_primary_culture = -0.05

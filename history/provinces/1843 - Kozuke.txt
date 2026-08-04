@@ -1,6 +1,6 @@
 #1843 - Kozuke
-owner = HEM
-controller = HEM
+owner = UES
+controller = UES
 culture = emishi
 religion = ainu_animism
 capital = "Mayabashi"
@@ -15,4 +15,4 @@ discovered_by = KHA
 discovered_by = OIR
 discovered_by = QNG
 discovered_by = ANU
-add_core = HEM
+add_core = UESS

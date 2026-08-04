@@ -1,5 +1,5 @@
-religion = emishi_imperial_cult
-capital = 5094
+religion = imperial_cult
+capital = 5097
 technology_group = chinese
 primary_culture = chubu_jo
 government_rank = 1
