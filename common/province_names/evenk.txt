@@ -1,0 +1,30 @@
+# RULES
+# All names here will be either historical names, or reconstructed Greek toponyms
+# Format: ID = { "Province" "Capital" } # Origin
+
+## Russia/Kurta
+
+# Oka
+4116 = { "Oka" "Oka" } # Even "Okat" for "River"
+296 = { "Bulë" "Bulë" } # "Swamp"
+300 = { "Tuli" "Tuli" } # Baltic origin
+
+# Ryazan/Minemötöng
+1778 = { "Bilemes" "Bilemes" } # Even "City of the Meshchera"
+4255 = { "Purta" "Purta" } # "Knife"
+301 = { "Minemötöng" "Minemötöng" } # "Cut"
+
+# Moscow/Mubile
+4251 = { "Mašoya" "Mašoya" } # Baltic Origin
+295 = { "Mubile" "Mubile" } # "Water City" 
+4252 = { "Içen" "Içen" } # "Elbow/Bend"
+
+# Tambov/Goroldon
+2415 = { "Tuñurin" "Tuñurin" } # "Black Horse"
+302 = { "Goroldon" "Goroldon" } # "Far Side" 
+304 = { "Bença" "Bença" } # "Elbow/Bend"
+
+# Tambov/Goroldon
+4253 = { "Hawalimna" "Hawalimna" } # "Worker"
+307 = { "Gudengesi" "Gudengesi" } # "High Strength" 
+4147 = { "Baldibile" "Baldibile" } # "Growing City"

@@ -1,8 +1,7 @@
 #Gotland- Visby etc
 owner = GAU
 controller = GAU
-add_core = DAN
-add_core = SWE
+add_core = GAU
 culture = gautish
 religion = tivahus
 base_tax = 4
@@ -25,9 +24,8 @@ discovered_by = ottoman
 discovered_by = thraco_illyrian
 discovered_by = serican_group
 discovered_by = iranic_group
+discovered_by = uralic_group
 extra_cost = 8
 center_of_trade = 1
 #1439.9.24 = { revolt = { type = pretender_rebels size = 1 leader = "Eric Gryf" } controller = REB } # Eric settles at Visborg Castle, living off piracy
-add_core = GAU
-discovered_by = uralic_group
 fort_15th = yes

@@ -1,0 +1,13 @@
+vassal = {
+	first = ARM
+	second = TRZ
+	start_date = 1444.1.1
+	end_date = 1579.1.23
+}
+
+vassal = {
+	first = ARM
+	second = SAN
+	start_date = 1444.1.1
+	end_date = 1579.1.23
+}

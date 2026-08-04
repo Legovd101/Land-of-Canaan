@@ -1,0 +1,94 @@
+# RULES
+# All names here will be either historical names, or reconstructed Greek toponyms
+# Format: ID = { "Province" "Capital" } # Origin
+
+## Russia/Kurta
+
+# Oka
+4116 = { "Oka" "Oka" } # See Evenki
+296 = { "Buli" "Buli" } # See Evenki
+300 = { "Tuli" "Tuli" } # Baltic origin
+
+# Ryazan/Minemötöng
+1778 = { "Bilemes" "Bilemes" } # See Evenki
+4255 = { "Porta" "Porta" } # See Evenki
+301 = { "Nemtunga" "Nemtunga" } # See Evenki
+
+# Moscow/Mubile
+4251 = { "Mesoja" "Mesoya" } # Baltic Origin
+295 = { "Mubile" "Mubile" } # See Evenki
+4252 = { "Isenga" "Isenga" } # See Evenki
+
+# Tambov/Goroldon
+2415 = { "Tungurine" "Tungurine" } # See Evenki
+302 = { "Gurultun" "Gurultun" } # See Evenki
+304 = { "Bensa" "Bensa" } # See Evenki
+
+# Tambov/Goroldon
+4253 = { "Hawalimna" "Hawalimna" } # See Evenki
+307 = { "Gudengesi" "Gudengesi" } # See Evenki
+4147 = { "Baldibile" "Baldibile" } # See Evenki
+
+# Pskov/Bangalot
+1960 = { "Eje" "Eje" } # "Island"
+274 = { "Bangalot" "Bangalot" } # "Spacious Plains" 
+4148 = { "Tinga" "Tinga" } # "Meander/Wander"
+275 = { "Limba" "Limba" } # "Marsh"
+
+# Novgorod/Kikoled
+311 = { "Qaja" "Qaja" } # "Hill"
+310 = { "Kikoled" "Kikoled" } # "New City" 
+4260 = { "Balkun" "Balkun" } # "Between Two (Rivers)"
+2749 = { "Unta" "Unta" } # "Quiet"
+1959 = { "Kedebda" "Kedebda" } # "Bought"
+
+# Tver/Onada
+4248 = { "Quta" "Quta" } # "Merchant"
+4249 = { "Kalteng" "Kalteng" } # "Army" 
+4243 = { "Soli" "Soli" } # "Forty"
+294 = { "Onada" "Onada" } # "Quiet"
+1752 = { "Suleja" "Suleja" } # "Red"
+
+# Beloozero/Taghade
+4261 = { "Qoinga" "Qoinga" } # "Mouth of the Yug"
+312 = { "Taghade" "Taghade" } # "White Lake" 
+4259 = { "Belis" "Belis" } # Velskola, Finland
+
+# Yaroslavl/Qau
+4117 = { "Ejtaqot" "Ejtaqot" } # "Flee"
+308 = { "Qau" "Qau" } # "Great Power" 
+4250 = { "Aqula" "Aqula" } # "Flood"
+1753 = { "Bokdot" "Bokdot" } # "Cambfire/Bonfire"
+
+# Suzdal/Susidi
+1956 = { "Qoinga" "Qoinga" } # "Mouth of the Yug"
+1754 = { "Taghade" "Taghade" } # "White Lake" 
+4254 = { "Belis" "Belis" } # Velskola, Finland
+
+# Vologda/Bolgida
+314 = { "Bolgida" "Bolgida" } # Uralic Origin
+4262 = { "Totim" "Totim" } # Uralic Origin 
+4263 = { "Temerijenggus" "Temerijenggus" } # "Salt city of the Merya"
+
+# South Karelia
+30 = { "Niburgen" "Niburgen" } # Norwegian "Ny Bergen"
+33 = { "Nabija" "Nabija" } # Finnish Origin
+34 = { "Bodjibang" "Tilbang" } # "North Land"
+1961 = { "Lodejok" "Lodejok" } # Finnish "Alodejoki" 
+
+# North Karelia
+309 = { "Anos" "Anos" } # Finnish "Aunus"
+32 = { "Kekselma" "Kekselma" } # Finnish "Käkisalmi"
+4124 = { "Belinija" "Belinija" } # Finnish "Pielinen" 
+
+# Pomorye
+1958 = { "Tinilbenija" "Tinilbenija" } # "North Trade"
+4258 = { "Qatde" "Qatde" } # "Lake Side"
+313 = { "Qoleta" "Qoleta" } # "Magpie" 
+1776 = { "Kemi" "Kemi" } # Karelian "Kemi" 
+
+# Pomorye
+1955 = { "Ijemi" "Ijemi" } # Finnic "Yems"
+4257 = { "Mosin" "Mosin" } # Komi "Mozyn"
+4256 = { "Tesiba" "Tesiba" } # "Salt of the Ežva"
+4122 = { "Aqasejs" "Aqasejs" } # "Woodcutter"
