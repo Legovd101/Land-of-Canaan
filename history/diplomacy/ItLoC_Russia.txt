@@ -1,0 +1,13 @@
+vassal = {
+	first = SRM
+	second = AUR
+	start_date = 1444.1.1
+	end_date = 1579.1.23
+}
+
+vassal = {
+	first = SRM
+	second = IRN
+	start_date = 1444.1.1
+	end_date = 1579.1.23
+}

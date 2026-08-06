@@ -45,3 +45,92 @@
 4556 = { "Abaraigh" "Abaraigh" } # Aber
 1851 = { "Coinabrigh" "Coinabrigh" } # Conimbriga
 228 = { "Báiríseal" "Báiríseal" } # "Low Beira"
+
+# Vasconia/Baskoina
+2989 = { "Aeriagh" "Aeriagh" } # Rioja
+3155 = { "Tiúser" "Tiúser" } # Tudela/Tutera
+3156 = { "Bánteach" "Bánteach" } # "White House"
+210 = { "Ngeara" "Rungái" } # Nafarroa, Iruñea
+209 = { "Bhiscá" "Biobeo" } # Biscay, Bilbao
+
+# Urgell/Orgel
+3154 = { "Ardaraigh" "Iacant" } # "High Araigh/Aragon", Iacetani
+3152 = { "Iseloraigh" "Iseloraigh" } # "Low Oraigh/Urgell"
+211 = { "Bóilsan" "Bóilsan" } # Nafarroa, Iruñea
+2987 = { "Tarainga" "Tarainga" } # Tàrrega
+
+# Catalonia/Geathlonja
+197 = { "Rusoinn" "Rusoinn" } # Ruscino
+212 = { "Gerund" "Gerund" } # Girona
+213 = { "Bharsoinn" "Bharsoinn" } # Barcino
+2988 = { "Tairaghon" "Tairaghon" } # Tarragona
+
+# Valencia/Valentz
+3153 = { "Heibéir" "Heibéir" } # Hibera
+4550 = { "Casealom" "Casealom" } # Latin "Castellum"
+220 = { "Falains" "Falains" } # Valéncia
+4549 = { "Seaitabh" "Seaitabh" } # Xátiva
+1750 = { "Liúicus" "Liúicus" } # Lucentum
+
+# Aragon/Teragon
+214 = { "An Cháisir" "An Cháisir" } # Caesaraugusta
+3183 = { "Iselaraigh" "Abhainn" } # "Low Araigh/Aragon", "River"
+4557 = { "Secáid" "Secáid" } # Segeda
+2990 = { "Turbhol" "Turbhol" } # Turboleta
+3157 = { "Loibhet" "Loibhet" } # Lobetum
+
+# Macron
+2751 = { "Chonca" "Chonca" } # Latin "Conca"
+3167 = { "Arraigh" "Arraigh" } # Arriaca
+3169 = { "Macro" "Macro" } # Magro
+
+# Segovia/Segobriga
+2755 = { "Oriágh" "Oriágh" } # Soria/Oria
+4789 = { "Seobrigháin" "Seobrigháin" } # Segovia/Segobriga
+4551 = { "Bhila" "Bhila" } # Ávila/Obila
+
+# Toledo/Toletho
+217 = { "Maghióríod" "Maghióríod" } # Madrid
+219 = { "Tóill" "Tóill" } # Toledo
+3168 = { "Aebraigh" "Aebraigh" } # Talavera/Aebura
+
+# Keltid
+221 = { "Miurtagh" "Miurtagh" } # Murcia
+4547 = { "Albha" "Albha" } # Albacete/Alaba
+3181 = { "Lárbaile" "Lárbaile" } # "Middle town"
+2754 = { "Sparth" "Sparth" } # La Mancha/Campo Espartario
+3171 = { "Anga" "Anga" } # Guadiana/Anas
+
+# Upper Andalucia/Ispanya Alta
+3158 = { "Cartanogh" "Cartanogh" } # Carthago Nova
+3172 = { "Aci" "Basi" } # Acci, Basti
+222 = { "Iurica" "Iurica" } # Urci
+223 = { "Liberagh" "Liberagh" } # Iliberis
+
+# Lower Andalucia/Ispanya Baxa
+1748 = { "Gaínagh" "Gaínagh" } # Jaén/Villa Gaiena
+225 = { "Cheortiúbh" "Cheortiúbh" } # Cordoba/Qart Tubah
+3173 = { "Hearmon" "Hearmon" } # Carmona/Carmo
+3182 = { "Deiscliá" "Deiscliá" } # "South Mountains"
+
+# Extremadura/Dordofra
+1747 = { "Norbhaigh" "Norbhaigh" } # Cacéres/Norba
+218 = { "Lárbóthar" "Lárbóthar" } # "Middle Road"
+3170 = { "Méardaigh" "Méardaigh" } # Mérida/Augusta Emerita
+3177 = { "Lacer" "Lacer" } # Portalegre/Portus Alacer
+
+# Extremadura/Dordofra
+4150 = { "Norbhaigh" "Norbhaigh" } # Cacéres/Norba
+229 = { "Pach" "Pach" } # Beja/Pax Augusta
+230 = { "Éabraigh" "Éabraigh" } # Évora/Ebora
+3178 = { "Mirobrigh" "Mirobrigh" } # Mirobriga
+
+# Extremadura/Dordofra
+4787 = { "Seailaibh" "Seailaibh" } # Scalabis
+227 = { "Eolispho" "Eolispho" } # Lisboa/Olisippo
+3179 = { "Coiliph" "Coiliph" } # Leiria/Colippo
+
+# Baleares/Baleyjar
+4560 = { "Bhuiso" "Bhuiso" } # Iviza
+333 = { "Maidhor" "Palm" } # Mallorca, Palma
+4559 = { "Minor" "Maíon" } # Minorca

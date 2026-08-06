@@ -267,7 +267,7 @@ league_unity_calculation_effect = {
 		event_target:current_tinzi = {
 			change_variable = {
 				which = heavenly_peacetime_gain
-				value = 1.0
+				value = 0.4
 			}
 		}						
 	}
