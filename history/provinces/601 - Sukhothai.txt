@@ -1,6 +1,6 @@
 #601 - Sukhothai
-owner = SUK
-controller = SUK
+owner = SIT
+controller = SIT
 culture = vietnamese
 religion = buddhism
 capital = "Sukhothai"
@@ -9,7 +9,7 @@ base_tax = 6
 base_production = 6
 base_manpower = 3
 is_city = yes
-add_core = SUK
+add_core = SIT
 discovered_by = chinese
 discovered_by = indian
 fort_15th = yes

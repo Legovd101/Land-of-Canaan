@@ -1,6 +1,6 @@
 #602 - Chiang Rai
-owner = LNA
-controller = LNA
+owner = VPS
+controller = VPS
 culture = northern_thai
 religion = buddhism
 capital = "Chiang Rai"
@@ -9,6 +9,6 @@ base_tax = 5
 base_production = 4
 base_manpower = 3
 is_city = yes
-add_core = LNA
+add_core = VPS
 discovered_by = chinese
 discovered_by = indian

@@ -1,6 +1,6 @@
 #1823 - Stung Treng
-owner = KHM
-controller = KHM
+owner = KH5
+controller = KH5
 culture = khmer
 religion = animism
 capital = "Stung Treng"
@@ -9,6 +9,6 @@ base_tax = 3
 base_production = 3
 base_manpower = 2
 is_city = yes
-add_core = KHM
+add_core = KH5
 discovered_by = chinese
 discovered_by = indian

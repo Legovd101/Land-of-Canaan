@@ -1,7 +1,7 @@
 #660 - Xishuan Banna
-owner = MMA
-controller = MMA
-add_core = MMA
+owner = LCG
+controller = LCG
+add_core = LCG
 culture = burmese
 religion = buddhism
 capital = "Sibsongbanna"

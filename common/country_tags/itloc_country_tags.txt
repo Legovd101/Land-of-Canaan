@@ -542,11 +542,13 @@ RDM = "countries/Radmif.txt" # Nivkh
  # Burma/Ningthi
  
  ## Kayah
- 
+KTL = "countries/Kawthoolei.txt" # Utopian Karen 
+KTD = "countries/Kanthawaddy.txt" # Princely Shan-Karen 
  ## Mien
  
  ## Tai Long
- 
+PSL = "countries/Paisali.txt" # Shan in Ava
+KHR = "countries/Khemrath.txt" #Shan in Highland
  ## Mugh
  
  ## Chin
@@ -556,16 +558,29 @@ ZRM = "countries/Zoram.txt" # Mizoram
  # Indochina/Camreonsrei
  
  ## Mon/Raman
- 
+SAD = "countries/Sadhuim.txt"
+SVP = "countries/Souvanabhum.txt"
+SIM = "countries/Simahosot.txt"
  ## Yuet
- 
+SIT = "countries/SiThanh.txt"
+ISH = "countries/Ishana.txt"
+NAN = "countries/Nan.txt"
+LCG = "countries/Lancang.txt"
  ## Khom
+KH1 = "countries/Khmer1.txt"
+KH2 = "countries/Khmer2.txt"
+KH3 = "countries/Khmer3.txt"
+KH4 = "countries/Khmer4.txt"
+KH5 = "countries/Khmer5.txt"
+PRN = "countries/PreyNokor.txt"
  
  ## Cham
- 
- ## Mon
+LNY = "countries/LinYi.txt"
+KRN = "countries/Kurung.txt"
+PHU = "countries/PhanHung.txt"
  
  ## Yonok
+VPS = "countries/ViengPreuksa.txt"
  
  
  

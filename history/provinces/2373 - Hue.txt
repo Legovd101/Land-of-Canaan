@@ -1,6 +1,6 @@
 #2373 - Hue
-owner = DAI
-controller = DAI
+owner = LNY
+controller = LNY
 culture = cham
 religion = mahayana
 capital = "Hue"
@@ -9,8 +9,8 @@ base_tax = 5
 base_production = 5
 base_manpower = 3
 is_city = yes
-add_core = DAI
-add_core = ANN
+add_core = LNY
+add_core = KRN
 discovered_by = chinese
 discovered_by = indian
 discovered_by = muslim
