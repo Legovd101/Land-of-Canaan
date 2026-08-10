@@ -1272,6 +1272,7 @@ theocracy = {
 				turkoman_ottoman_institutions
 				#ItLoC
 				beit_abba_reform
+				izanagi_court_reform
 			}
 		}
 		internal_vs_external_mission = {
