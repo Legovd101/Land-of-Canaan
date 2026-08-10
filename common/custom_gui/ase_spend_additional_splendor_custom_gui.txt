@@ -645,19 +645,19 @@ custom_button = {
 custom_text_box = {
 	name = ase_spend_additional_splendor_entry_text_4
 	potential = {
-		NOT = { is_expanded_mod_active = { mod = advisor_types } }
+		always = yes
 	}
 }
 custom_text_box = {
 	name = ase_spend_additional_splendor_entry_text2_4
 	potential = {
-		is_expanded_mod_active = { mod = advisor_types }
+		always = no
 	}
 }
 custom_button = {
 	name = ase_spend_additional_splendor_entry_button_4
 	potential = {
-		is_expanded_mod_active = { mod = advisor_types }
+		always = no
 	}
 	trigger = {
 		splendor = 400
@@ -690,19 +690,19 @@ custom_button = {
 custom_text_box = {
 	name = ase_spend_additional_splendor_entry_text_5
 	potential = {
-		NOT = { is_expanded_mod_active = { mod = advisor_types } }
+		always = yes
 	}
 }
 custom_text_box = {
 	name = ase_spend_additional_splendor_entry_text2_5
 	potential = {
-		is_expanded_mod_active = { mod = advisor_types }
+		always = no
 	}
 }
 custom_button = {
 	name = ase_spend_additional_splendor_entry_button_5
 	potential = {
-		is_expanded_mod_active = { mod = advisor_types }
+		always = no
 	}
 	trigger = {
 		splendor = 400
@@ -735,19 +735,19 @@ custom_button = {
 custom_text_box = {
 	name = ase_spend_additional_splendor_entry_text_6
 	potential = {
-		NOT = { is_expanded_mod_active = { mod = advisor_types } }
+		always = yes
 	}
 }
 custom_text_box = {
 	name = ase_spend_additional_splendor_entry_text2_6
 	potential = {
-		is_expanded_mod_active = { mod = advisor_types }
+		always = no
 	}
 }
 custom_button = {
 	name = ase_spend_additional_splendor_entry_button_6
 	potential = {
-		is_expanded_mod_active = { mod = advisor_types }
+		always = no
 	}
 	trigger = {
 		splendor = 400

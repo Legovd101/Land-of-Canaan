@@ -25,12 +25,12 @@ guiTypes = {
 		}
 
 		WindowType = {
-			name = "age_of_discovery"
+			name = "age_of_expansion"
 			position = { x = 148 y = -29}
-			upsound = age_of_discovery
+			upsound = age_of_expansion
 
 			iconType = {
-				name ="icon_age_of_discovery"
+				name ="icon_age_of_expansion"
 				spriteType = "GFX_icon_age_l"
 				position = { x = -30 y = 18 }
 				frame = 1
@@ -61,8 +61,8 @@ guiTypes = {
 			upsound = age_of_reformation
 
 			iconType = {
-				name ="icon_age_of_discovery"
-				spriteType = "GFX_icon_age_of_discovery_g"
+				name ="icon_age_of_expansion"
+				spriteType = "GFX_icon_age_of_expansion_g"
 				position = { x = -15 y = 22 }
 			}
 			iconType = {
@@ -91,8 +91,8 @@ guiTypes = {
 			upsound = age_of_absolutism
 
 			iconType = {
-				name ="icon_age_of_discovery"
-				spriteType = "GFX_icon_age_of_discovery_g"
+				name ="icon_age_of_expansion"
+				spriteType = "GFX_icon_age_of_expansion_g"
 				position = { x = -15 y = 22 }
 			}
 			iconType = {
@@ -120,8 +120,8 @@ guiTypes = {
 			upsound = age_of_revolutions
 
 			iconType = {
-				name ="icon_age_of_discovery"
-				spriteType = "GFX_icon_age_of_discovery_g"
+				name ="icon_age_of_expansion"
+				spriteType = "GFX_icon_age_of_expansion_g"
 				position = { x = -15 y = 22 }
 			}
 			iconType = {

@@ -1,0 +1,83 @@
+spriteTypes = {
+	# Expansion
+	
+	## Objectives
+	spriteType = {
+		name = "GFX_age_of_expansion"
+		texturefile = "gfx/interface/ages/age_1/age_of_expansion.dds" # OG image by Vilius Petrauskas https://www.artstation.com/artwork/zAXGZ
+	}
+	spriteType = {
+		name = "GFX_age_of_expansion_g"
+		texturefile = "gfx/interface/ages/age_1/age_of_expansion_g.dds"
+	}
+	spriteType = {
+		name = "GFX_itloc_foothold_in_two_regions"
+		texturefile = "gfx/interface/ages/age_1/objectives/itloc_foothold_in_two_regions.dds"
+	}
+	spriteType = {
+		name = "GFX_itloc_home_dominance"
+		texturefile = "gfx/interface/ages/age_1/objectives/itloc_home_dominance.dds"
+	}
+	spriteType = {
+		name = "GFX_itloc_30_development_capital"
+		texturefile = "gfx/interface/ages/age_1/objectives/itloc_30_development_capital.dds"
+	}
+	spriteType = {
+		name = "GFX_itloc_united_in_faith"
+		texturefile = "gfx/interface/ages/age_1/objectives/itloc_united_in_faith.dds"
+	}
+	spriteType = {
+		name = "GFX_itloc_buffer_states"
+		texturefile = "gfx/interface/ages/age_1/objectives/itloc_buffer_states.dds"
+	}
+	spriteType = {
+		name = "GFX_itloc_consolidate_capital_area"
+		texturefile = "gfx/interface/ages/age_1/objectives/itloc_consolidate_capital_area.dds"
+	}
+	
+	## Abilities
+	spriteType = {
+		name = "GFX_itloc_malleable_borders"
+		texturefile = "gfx/interface/ages/age_1/abilities/itloc_malleable_borders.dds"
+	}
+	spriteType = {
+		name = "GFX_itloc_concentrated_investments"
+		texturefile = "gfx/interface/ages/age_1/abilities/itloc_concentrated_investments.dds"
+	}
+	spriteType = {
+		name = "GFX_itloc_meticulous_urban_planning"
+		texturefile = "gfx/interface/ages/age_1/abilities/itloc_meticulous_urban_planning.dds"
+	}
+	spriteType = {
+		name = "GFX_itloc_efficient_recruiting"
+		texturefile = "gfx/interface/ages/age_1/abilities/itloc_efficient_recruiting.dds"
+	}
+	spriteType = {
+		name = "GFX_itloc_famed_venetic_equines"
+		texturefile = "gfx/interface/ages/age_1/abilities/itloc_famed_venetic_equines.dds"
+	}
+	spriteType = {
+		name = "GFX_itloc_seleucid_descent"
+		texturefile = "gfx/interface/ages/age_1/abilities/itloc_seleucid_descent.dds"
+	}
+	spriteType = {
+		name = "GFX_itloc_rushing_river"
+		texturefile = "gfx/interface/ages/age_1/abilities/itloc_rushing_river.dds"
+	}
+	spriteType = {
+		name = "GFX_itloc_ducal_intermarriage"
+		texturefile = "gfx/interface/ages/age_1/abilities/itloc_ducal_intermarriage.dds"
+	}
+	spriteType = {
+		name = "GFX_itloc_larger_holds"
+		texturefile = "gfx/interface/ages/age_1/abilities/itloc_larger_holds.dds"
+	}
+	spriteType = {
+		name = "GFX_itloc_astral_navigation"
+		texturefile = "gfx/interface/ages/age_1/abilities/itloc_astral_navigation.dds"
+	}
+	spriteType = {
+		name = "GFX_itloc_ancient_ties"
+		texturefile = "gfx/interface/ages/age_1/abilities/itloc_ancient_ties.dds"
+	}
+}

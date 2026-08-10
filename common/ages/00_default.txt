@@ -1,4 +1,4 @@
-age_of_discovery = {
+age_of_expansion = {
 	start = 1400
 	
 	can_start = {
@@ -10,59 +10,52 @@ age_of_discovery = {
 	
 
 	objectives = {
-		obj_discover_america = {
-			allow = {
-				capital_scope = {
-					OR = {
-						continent = europe
-						continent = asia
-						continent = africa
-					}
-				}
-			}
+		itloc_consolidate_capital_area = {
 			custom_trigger_tooltip = {
-				tooltip = obj_discover_america_tooltip
-				OR = {
-					north_america = { has_discovered = ROOT }
-					south_america = { has_discovered = ROOT }
-					new_world = { has_discovered = ROOT }
+				tooltip = obj_own_capital_area_tt
+				capital_scope = {
+					area_for_scope_province = {
+						type = all
+						owned_by = ROOT
+					}
 				}
 			}
 		}
-		obj_100_development = {
-			allow = {
-				capital_scope = {
-					NOT = {
-						continent = europe
-						continent = asia
-						continent = africa
+
+		obj_renaissance = {
+	 		has_institution = renaissance
+	 		all_state_province = {
+	 			renaissance = 100
+	 		}
+		}
+
+		itloc_buffer_states = {
+			OR = {
+				custom_trigger_tooltip = {
+					tooltip = obj_3_non_tributary_subjects
+					calc_true_if = {
+						amount = 3
+						all_subject_country = {
+							NOT = { is_subject_of_type = tributary_state }
+						}
 					}
 				}
+				AND = {
+					is_subject = yes
+					NOT = { is_subject_of_type = tributary_state }
+				}
 			}
-			total_development = 100
 
 		}
 		
-		
-		
-	
-		obj_5_centers_of_trade = {
-			calc_true_if = {
-				all_owned_province = {
-					OR = {
-						province_has_center_of_trade_of_level = 2
-						province_has_center_of_trade_of_level = 3
-					}
-					controlled_by = owner
-					is_core = ROOT
-				}
-				amount = 5
-			}
+		itloc_united_in_faith = {
+			religious_unity = 1
 		}
-		obj_30_development_city = {
+
+		itloc_30_development_capital = {
 			custom_trigger_tooltip = {
-				tooltip = obj_30_development_city_tooltip
-				any_owned_province = {
+				tooltip = 30_development_capital_tt
+				capital_scope = {
 					exclude_from_progress = {
 						is_core = ROOT
 						controlled_by = owner
@@ -71,38 +64,26 @@ age_of_discovery = {
 				}
 			}
 		}
-		obj_renaissance = {
-	 		has_institution = renaissance
-	 		all_state_province = {
-	 			renaissance = 100
-	 		}
-		}
 		
-		obj_two_unions = {
-			allow = {
-				religion_group = christian
-			}
-			calc_true_if = {
-				all_subject_country = {
-					OR = {
-						is_subject_of_type = personal_union
-						is_subject_of_type = integrated_personal_union
+		itloc_foothold_in_two_regions = {
+			custom_trigger_tooltip = {
+				tooltip = foothold_in_2_regions_tt
+				capital_scope = {
+					region_for_scope_province = {
+						calc_true_if = {
+							amount = 10
+							all_province = {
+								owned_by = ROOT
+							}
+						}
 					}
 				}
-				amount = 2
+				num_of_owned_provinces_with = {
+					value = 10
+					NOT = { region = capital }
+				}
 			}
 		} 
-		
-		obj_many_vassals = {
-			allow = {
-				NOT = { religion_group = christian }
-			}
-			vassal = 5
-		}		
-	
-		obj_two_continents = {
-			num_of_continents = 2
-		}
 	
 		obj_humiliate_rival = {
 			custom_trigger_tooltip = {
@@ -110,37 +91,37 @@ age_of_discovery = {
 				has_country_flag = humiliated_rival
 			}
 		}
-
+		
 		ase_build_fleet = {
 			OR = {
 				num_of_heavy_ship = 6
 				num_of_light_ship = 20
+				navy_size = 30
 			}
 		}
-		ase_piles_gold = {
-			num_of_owned_provinces_with = {
-				value = 3
-				OR = {
-					trade_goods = gold
-					trade_goods = silver
+
+		itloc_home_dominance = {
+			custom_trigger_tooltip = {
+				tooltip = strongest_power_in_home_node_tt
+				calc_true_if = {
+					OR = {
+						home_trade_node = { 
+							is_strongest_trade_power = ROOT
+						}
+					}
+					amount = 1
 				}
 			}
-		}
-		ase_dynamic_court = {
-			employed_advisor = { category = ADM }
-			employed_advisor = { category = DIP }
-			employed_advisor = { category = MIL }
 		}
 	}		
 	
 	abilities = {
-		ab_allow_feudal_de_jure_law = {
+		itloc_malleable_borders = {
 			effect = {
-				custom_tooltip = feudal_de_jure_law
-				set_country_flag = feudal_de_jure_law
 				on_age_ability_taken = { age = age_of_discovery }
 			}
 			modifier = {
+				fabricate_claims_cost = -0.5
 				num_of_age_rewards = 1
 			}
 			ai_will_do = {
@@ -190,32 +171,28 @@ age_of_discovery = {
 		}
 		
 
-		ab_cavalry_armies = {
+		itloc_concentrated_investments = {
 			effect = { 
 				on_age_ability_taken = { age = age_of_discovery }
 			}
 			modifier = {
-				cav_to_inf_ratio = 0.2
+				expand_infrastructure_cost_modifier = -0.15
 				num_of_age_rewards = 1
 			}
 			ai_will_do = {
 				factor = 10
 			}
 		}
-		ab_colony_boost_development = {
+		itloc_meticulous_urban_planning = {
 			effect = { 
 				on_age_ability_taken = { age = age_of_discovery }
 			}
 			modifier = {
-				colony_development_boost = 1
+				development_cost = -0.2
 				num_of_age_rewards = 1
 			}
 			ai_will_do = {
 				factor = 10
-				modifier = {
-					factor = 0
-					NOT = { num_of_colonists = 1 }
-				}
 			}
 		}
 		
@@ -232,65 +209,59 @@ age_of_discovery = {
 			}
 		}
 		
-		ase_exploration_corp = {
-			allow = {
-				OR = {
-					has_idea_group = exploration_ideas
-					has_idea_group = expansion_ideas
-				}
-			}
+		itloc_efficient_recruiting = {
 			effect = {
 				on_age_ability_taken = { age = age_of_discovery }
 			}
 			modifier = {
+				global_regiment_cost = -0.1
 				num_of_age_rewards = 1
-				free_maintenance_on_expl_conq = yes
 			}
 			ai_will_do = {
 				factor = 10
 			}
 		}
-		ase_glorious_renaissance = {
-			effect = {
-				on_age_ability_taken = { age = age_of_discovery }
-			}
-			modifier = {
-				num_of_age_rewards = 1
-				prestige_decay = -0.01
-			}
-			ai_will_do = {
-				factor = 10
-			}
-		}
-		ase_ruling_dynasty = {
-			allow = {
-				government = republic
-			}
-			effect = {
-				on_age_ability_taken = { age = age_of_discovery }
-			}
-			modifier = {
-				reelection_cost = -0.10
-				num_of_age_rewards = 1
-			}
-			ai_will_do = {
-				factor = 10
-				modifier = {
-					factor = 0
-					NOT = { government = republic }
-				}
-			}
-		}
+		# ase_glorious_renaissance = {
+		# 	effect = {
+		# 		on_age_ability_taken = { age = age_of_discovery }
+		# 	}
+		# 	modifier = {
+		# 		num_of_age_rewards = 1
+		# 		prestige_decay = -0.01
+		# 	}
+		# 	ai_will_do = {
+		# 		factor = 10
+		# 	}
+		# }
+		# ase_ruling_dynasty = {
+		# 	allow = {
+		# 		government = republic
+		# 	}
+		# 	effect = {
+		# 		on_age_ability_taken = { age = age_of_discovery }
+		# 	}
+		# 	modifier = {
+		# 		reelection_cost = -0.10
+		# 		num_of_age_rewards = 1
+		# 	}
+		# 	ai_will_do = {
+		# 		factor = 10
+		# 		modifier = {
+		# 			factor = 0
+		# 			NOT = { government = republic }
+		# 		}
+		# 	}
+		# }
 
-		ab_ottoman_siege_ability = {
+		itloc_famed_venetic_equines = {
 			effect = { 
 				on_age_ability_taken = { age = age_of_discovery }
 			}
 			allow = {
-				tag = TUR
+				tag = VEN
 			}
 			modifier = {
-				leader_siege = 1 
+				cav_to_inf_ratio = 0.5
 				num_of_age_rewards = 1
 			}
 			ai_will_do = {
@@ -303,48 +274,40 @@ age_of_discovery = {
 				on_age_ability_taken = { age = age_of_discovery }
 			}
 			allow = {
-				tag = POR
+				tag = MRU
 			}
 			modifier = {
-				global_colonial_growth = 50
+				harsh_treatment_cost = -0.3
 				num_of_age_rewards = 1
 			}
 			ai_will_do = {
 				factor = 100
 			}
 		}
-		ab_denmark_reduced_lib_desire = {
+		itloc_seleucid_descent = {
 			effect = { 
 				on_age_ability_taken = { age = age_of_discovery }
 			}
 			allow = {
-				tag = DAN
+				tag = NTI
 			}
 			modifier = {
-				reduced_liberty_desire = 30
+				imperial_authority_value = 0.1
 				num_of_age_rewards = 1
 			}
 			ai_will_do = {
 				factor = 100
-				modifier = {
-					factor = 0
-					NOT = {
-						any_subject_country = {
-							liberty_desire = 20
-						}
-					}
-				}
 			}
 		}
-		ab_venice_ship_trade = {
+		itloc_rushing_river = {
 			effect = { 
 				on_age_ability_taken = { age = age_of_discovery }
 			}
 			allow = {
-				tag = VEN
+				tag = HOY
 			}
 			modifier = {
-				global_ship_trade_power = 0.5
+				province_warscore_cost = -0.15
 				num_of_age_rewards = 1
 			}
 			ai_will_do = {
@@ -352,199 +315,199 @@ age_of_discovery = {
 			}
 		}
 
-		ase_aragon_consulate_sea = {
+		itloc_ducal_intermarriage = {
 			allow = {
-				tag = ARA
+				tag = BUR
 			}
 			effect = {
 				on_age_ability_taken = { age = age_of_discovery }
 			}
 			modifier = {
-				global_prov_trade_power_modifier = 0.50
+				diplomatic_annexation_cost = -0.25
 				num_of_age_rewards = 1
 			}
 			ai_will_do = {
 				factor = 100
 			}
 		}
-		ase_castile_inquisition = {
+		itloc_larger_holds = {
 			allow = {
-				tag = CAS
+				tag = FRM
 			}
 			effect = { 
 				on_age_ability_taken = { age = age_of_discovery }
 			}
 			modifier = {
-				global_heathen_missionary_strength = 0.03
+				may_perform_slave_raid = yes
 				num_of_age_rewards = 1
 			}
 			ai_will_do = {
 				factor = 100
 			}
 		}
-		ase_cusco_inca_qhapaq_nan = {
+		# ase_cusco_inca_qhapaq_nan = {
+		# 	allow = {
+		# 		OR = {
+		# 			tag = CSU
+		# 			tag = INC
+		# 		}
+		# 	}
+		# 	effect = {
+		# 		on_age_ability_taken = { age = age_of_discovery }
+		# 	}
+		# 	modifier = {
+		# 		movement_speed = 0.15
+		# 		num_of_age_rewards = 1
+		# 	}
+		# 	ai_will_do = {
+		# 		factor = 100
+		# 	}
+		# }
+		itloc_astral_navigation = {
 			allow = {
-				OR = {
-					tag = CSU
-					tag = INC
-				}
-			}
-			effect = {
-				on_age_ability_taken = { age = age_of_discovery }
-			}
-			modifier = {
-				movement_speed = 0.15
-				num_of_age_rewards = 1
-			}
-			ai_will_do = {
-				factor = 100
-			}
-		}
-		ase_delhi_hindustani_claims = {
-			allow = {
-				tag = DLH
+				tag = NVK
 			}
 			effect = { 
 				on_age_ability_taken = { age = age_of_discovery }
 			}
 			modifier = {
-				ae_impact = -0.10
+				coast_raid_range = 3
 				num_of_age_rewards = 1
 			}
 			ai_will_do = {
 				factor = 100
 			}
 		}
-		ase_ethiopia_prester_john = {
+		itloc_ancient_ties = {
 			allow = {
-				tag = ETH
+				tag = TLM
 			}
 			effect = {
 				on_age_ability_taken = { age = age_of_discovery }
 			}
 			modifier = {
-				inflation_reduction = 0.5
+				reduced_liberty_desire = 15
 				num_of_age_rewards = 1
 			}
 			ai_will_do = {
 				factor = 100
 			}
 		}
-		ase_florence_renaissance = {
-			allow = {
-				OR = {
-					tag = LAN
-					tag = TUS
-				}
-			}
-			effect = {
-				on_age_ability_taken = { age = age_of_discovery }
-			}
-			modifier = {
-				idea_cost = -0.075
-				num_of_age_rewards = 1
-			}
-			ai_will_do = {
-				factor = 100
-			}
-		}
-		ase_hungary_defense = {
-			allow = {
-				tag = HUN
-			}
-			effect = {
-				on_age_ability_taken = { age = age_of_discovery }
-			}
-			modifier = {
-				defensiveness = 0.35
-				num_of_age_rewards = 1
-			}
-			ai_will_do = {
-				factor = 100
-			}
-		}
-		ase_malacca_spices = {
-			allow = {
-				OR = {
-					tag = MLC
-					tag = MSA
-				}
-			}
-			effect = {
-				on_age_ability_taken = { age = age_of_discovery }
-			}
-			modifier = {
-				global_own_trade_power = 0.30
-				num_of_age_rewards = 1
-			}
-			ai_will_do = {
-				factor = 100
-			}
-		}
-		ase_ming_grand_imperial_projects = {
-			allow = {
-				tag = MNG
-			}
-			effect = {
-				on_age_ability_taken = { age = age_of_discovery }
-			}
-			modifier = {
-				build_cost = -0.20
-				num_of_age_rewards = 1
-			}
-			ai_will_do = {
-				factor = 100
-			}
-		}
-		ase_qoyunlu_feuds = {
-			allow = {
-				OR = {
-					tag = AKK
-					tag = QAR
-				}
-			}
-			effect = {
-				on_age_ability_taken = { age = age_of_discovery }
-			}
-			modifier = {
-				province_warscore_cost = -0.25
-				num_of_age_rewards = 1
-			}
-			ai_will_do = {
-				factor = 100
-			}
-		}
-		ase_songhai_timbuktu_university = {
-			allow = {
-				tag = SON
-			}
-			effect = {
-				on_age_ability_taken = { age = age_of_discovery }
-			}
-			modifier = {
-				technology_cost = -0.10
-				num_of_age_rewards = 1
-			}
-			ai_will_do = {
-				factor = 100
-			}
-		}
-		ase_vijayanagar_nayankara = {
-			allow = {
-				tag = VIJ
-			}
-			effect = {
-				on_age_ability_taken = { age = age_of_discovery }
-			}
-			modifier = {
-				leader_cost = -0.50
-				maratha_loyalty_modifier = 0.1
-				num_of_age_rewards = 1
-			}
-			ai_will_do = {
-				factor = 100
-			}
-		}
+		# ase_florence_renaissance = {
+		# 	allow = {
+		# 		OR = {
+		# 			tag = LAN
+		# 			tag = TUS
+		# 		}
+		# 	}
+		# 	effect = {
+		# 		on_age_ability_taken = { age = age_of_discovery }
+		# 	}
+		# 	modifier = {
+		# 		idea_cost = -0.075
+		# 		num_of_age_rewards = 1
+		# 	}
+		# 	ai_will_do = {
+		# 		factor = 100
+		# 	}
+		# }
+		# ase_hungary_defense = {
+		# 	allow = {
+		# 		tag = HUN
+		# 	}
+		# 	effect = {
+		# 		on_age_ability_taken = { age = age_of_discovery }
+		# 	}
+		# 	modifier = {
+		# 		defensiveness = 0.35
+		# 		num_of_age_rewards = 1
+		# 	}
+		# 	ai_will_do = {
+		# 		factor = 100
+		# 	}
+		# }
+		# ase_malacca_spices = {
+		# 	allow = {
+		# 		OR = {
+		# 			tag = MLC
+		# 			tag = MSA
+		# 		}
+		# 	}
+		# 	effect = {
+		# 		on_age_ability_taken = { age = age_of_discovery }
+		# 	}
+		# 	modifier = {
+		# 		global_own_trade_power = 0.30
+		# 		num_of_age_rewards = 1
+		# 	}
+		# 	ai_will_do = {
+		# 		factor = 100
+		# 	}
+		# }
+		# ase_ming_grand_imperial_projects = {
+		# 	allow = {
+		# 		tag = MNG
+		# 	}
+		# 	effect = {
+		# 		on_age_ability_taken = { age = age_of_discovery }
+		# 	}
+		# 	modifier = {
+		# 		build_cost = -0.20
+		# 		num_of_age_rewards = 1
+		# 	}
+		# 	ai_will_do = {
+		# 		factor = 100
+		# 	}
+		# }
+		# ase_qoyunlu_feuds = {
+		# 	allow = {
+		# 		OR = {
+		# 			tag = AKK
+		# 			tag = QAR
+		# 		}
+		# 	}
+		# 	effect = {
+		# 		on_age_ability_taken = { age = age_of_discovery }
+		# 	}
+		# 	modifier = {
+		# 		province_warscore_cost = -0.25
+		# 		num_of_age_rewards = 1
+		# 	}
+		# 	ai_will_do = {
+		# 		factor = 100
+		# 	}
+		# }
+		# ase_songhai_timbuktu_university = {
+		# 	allow = {
+		# 		tag = SON
+		# 	}
+		# 	effect = {
+		# 		on_age_ability_taken = { age = age_of_discovery }
+		# 	}
+		# 	modifier = {
+		# 		technology_cost = -0.10
+		# 		num_of_age_rewards = 1
+		# 	}
+		# 	ai_will_do = {
+		# 		factor = 100
+		# 	}
+		# }
+		# ase_vijayanagar_nayankara = {
+		# 	allow = {
+		# 		tag = VIJ
+		# 	}
+		# 	effect = {
+		# 		on_age_ability_taken = { age = age_of_discovery }
+		# 	}
+		# 	modifier = {
+		# 		leader_cost = -0.50
+		# 		maratha_loyalty_modifier = 0.1
+		# 		num_of_age_rewards = 1
+		# 	}
+		# 	ai_will_do = {
+		# 		factor = 100
+		# 	}
+		# }
 	}
 }
 
@@ -552,7 +515,7 @@ age_of_reformation = {
 	start = 1530
 	
 	can_start = {
-		is_religion_enabled = protestant
+		is_institution_enabled = new_world_i
 	}
 	
 	

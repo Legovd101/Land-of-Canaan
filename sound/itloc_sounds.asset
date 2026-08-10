@@ -3,3 +3,8 @@ sound = {
 	file = "Caesarion_BRASS.wav"
 	always_load = yes
 }
+sound = {
+	name = age_of_expansion
+	file = "age_of_expansion.wav"
+	always_load = yes
+}
