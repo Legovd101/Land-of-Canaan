@@ -1,4 +1,6 @@
 religion = confucianism
+add_harmonized_religion = magyar_pagan
+add_harmonized_religion = vajrayana
 capital = 700
 technology_group = uralic_group
 primary_culture = hungarian
