@@ -1,4 +1,7 @@
 #639 - Banjar
+owner = MSA
+controller = MSA
+add_core = MSA
 culture = bornean
 religion = hinduism
 capital = "Banjar"

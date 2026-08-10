@@ -2,8 +2,9 @@
 latent_trade_goods = { 
 	coal 
 }
-owner = BEU
-controller = BEU
+owner = MSA
+controller = MSA
+add_core = MSA
 culture = bornean
 religion = hinduism
 capital = "Sambaliung"

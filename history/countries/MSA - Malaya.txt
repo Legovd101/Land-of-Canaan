@@ -1,6 +1,6 @@
 government = monarchy
 add_government_reform = malaya_failing_crown
 primary_culture = malayan
-religion = hindu
+religion = hinduism
 technology_group = chinese
 capital = 596	# Malacca

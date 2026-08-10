@@ -1,4 +1,7 @@
 #623 - Tulangbewang
+owner = MSA
+controller = MSA
+add_core = MSA
 culture = sumatran
 religion = hinduism
 capital = "Tulangbewang"

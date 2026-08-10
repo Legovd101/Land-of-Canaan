@@ -1,5 +1,6 @@
-owner = BEI
-controller = BEI
+owner = MSA
+controller = MSA
+add_core = MSA
 culture = bornean
 religion = animism
 capital = "Bintulu"

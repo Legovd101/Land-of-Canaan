@@ -1,6 +1,7 @@
 #2675 - Rokan
-owner = DLI
-controller = DLI
+owner = MSA
+controller = MSA
+add_core = MSA
 culture = sumatran
 religion = hinduism
 capital = "Rokan"

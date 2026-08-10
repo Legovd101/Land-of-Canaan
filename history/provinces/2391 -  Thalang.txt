@@ -1,6 +1,7 @@
 #2391 - Thalang
-owner = LIG
-controller = LIG
+owner = MSA
+controller = MSA
+add_core = MSA
 culture = malayan
 religion = mahayana
 capital = "Thalang"

@@ -1,6 +1,7 @@
 #2680 - Muko-Muko
-owner = IND
-controller = IND
+owner = MSA
+controller = MSA
+add_core = MSA
 culture = sumatran
 religion = hinduism
 capital = "Muko-Muko"

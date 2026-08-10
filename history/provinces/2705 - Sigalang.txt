@@ -1,6 +1,7 @@
 #2705 - Sigalang
-owner = BEI
-controller = BEI
+owner = MSA
+controller = MSA
+add_core = MSA
 culture = bornean
 religion = hinduism
 capital = "Sigalang"

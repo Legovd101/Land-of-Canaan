@@ -1,5 +1,6 @@
-owner = PAH
-controller = PAH
+owner = MSA
+controller = MSA
+add_core = MSA
 culture = malayan
 religion = mahayana
 capital = "Semantan"

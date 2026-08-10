@@ -1,6 +1,7 @@
 #594 - Pattani
-owner = PAT
-controller = PAT
+owner = MSA
+controller = MSA
+add_core = MSA
 culture = malayan
 religion = mahayana
 capital = "Pattani"

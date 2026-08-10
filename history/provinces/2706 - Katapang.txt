@@ -1,4 +1,7 @@
 #2706 - Katapang
+owner = MSA
+controller = MSA
+add_core = MSA
 culture = bornean
 religion = hinduism
 capital = "Katapang"
