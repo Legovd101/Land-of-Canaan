@@ -4,6 +4,7 @@ add_harmonized_religion = vajrayana
 capital = 700
 technology_group = uralic_group
 primary_culture = hungarian
+add_accepted_culture = xibei
 government = monarchy
 add_government_reform = celestial_empire
 government_rank = 1

@@ -1,7 +1,7 @@
 #4230 - Suwon
 owner = IZM
 controller = IZM
-culture = chuokuan
+culture = kansaijin
 religion = confucianism
 capital = "Suwon"
 trade_goods = silver

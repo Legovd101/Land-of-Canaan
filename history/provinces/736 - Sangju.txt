@@ -1,7 +1,7 @@
 #736 - Sangju
 owner = SOH
 controller = SOH
-culture = chibokuan
+culture = chuokuan
 religion = confucianism
 capital = "Sangju"
 trade_goods = cotton

@@ -1,7 +1,7 @@
 #737 - Jeonju
 owner = ZNS
 controller = ZNS
-culture = chuokuan
+culture = tatsujin
 religion = confucianism
 capital = "Jeonju"
 trade_goods = chinaware

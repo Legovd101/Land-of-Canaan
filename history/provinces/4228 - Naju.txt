@@ -1,7 +1,7 @@
 #4228 - Naju
 owner = SAI
 controller = SAI
-culture = chibokuan
+culture = honshujin
 religion = confucianism
 capital = "Naju"
 trade_goods = paper#And Silk

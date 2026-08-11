@@ -1,7 +1,7 @@
 #733 - Hwangju
 owner = KTK
 controller = KTK
-culture = kitakuan
+culture = chibokuan
 religion = mahayana
 capital = "Hwangju"
 trade_goods = fish

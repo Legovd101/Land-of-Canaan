@@ -1,7 +1,7 @@
 #4227 - Daegu
 owner = SOH
 controller = SOH
-culture = chibokuan
+culture = honshujin
 religion = confucianism
 capital = "Jinju"
 trade_goods = paper

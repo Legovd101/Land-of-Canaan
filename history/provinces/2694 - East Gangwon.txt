@@ -1,7 +1,7 @@
 #2694 - East Gangwon
 owner = KMM
 controller = KMM
-culture = chibokuan
+culture = kitakuan
 religion = confucianism
 capital = "Gangneung"
 trade_goods = whaling

@@ -1,7 +1,7 @@
 #4651 - Tsushima
 owner = OUC
 controller = OUC
-culture = iwami
+culture = tsukushi
 religion = shinto
 capital = "Tsushima"
 trade_goods = chinaware

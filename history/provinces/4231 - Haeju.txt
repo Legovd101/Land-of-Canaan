@@ -1,7 +1,7 @@
 #4231 - Haeju
 owner = KTK
 controller = KTK
-culture = kitakuan
+culture = chibokuan
 religion = mahayana
 capital = "Haeju"
 trade_goods = naval_supplies

@@ -1,7 +1,7 @@
 #735 - Hanseong
 owner = STS
 controller = STS
-culture = chuokuan
+culture = kansaijin
 religion = confucianism
 capital = "Hanseong"
 trade_goods = paper
