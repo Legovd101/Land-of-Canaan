@@ -2,7 +2,7 @@
 owner = KMM
 controller = KMM
 culture = kitakuan
-religion = confucianism
+religion = mahayana
 capital = "Gangneung"
 trade_goods = whaling
 base_tax = 1

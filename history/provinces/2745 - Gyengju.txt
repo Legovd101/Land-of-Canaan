@@ -2,7 +2,7 @@
 owner = OUC
 controller = OUC
 culture = honshujin
-religion = confucianism
+religion = shinto
 capital = "Gyeongju"
 trade_goods = gunpowder
 base_tax = 5

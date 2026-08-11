@@ -2,7 +2,7 @@
 owner = IZM
 controller = IZM
 culture = kansaijin
-religion = confucianism
+religion = mahayana
 capital = "Suwon"
 trade_goods = silver
 base_tax = 3

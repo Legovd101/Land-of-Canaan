@@ -2,7 +2,7 @@
 owner = SOH
 controller = SOH
 culture = honshujin
-religion = confucianism
+religion = shinto
 capital = "Jinju"
 trade_goods = paper
 base_tax = 4

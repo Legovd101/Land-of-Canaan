@@ -2,7 +2,7 @@
 owner = SAI
 controller = SAI
 culture = honshujin
-religion = confucianism
+religion = shinto
 capital = "Naju"
 trade_goods = paper#And Silk
 base_tax = 3

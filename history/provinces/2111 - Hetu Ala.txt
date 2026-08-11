@@ -2,7 +2,7 @@
 owner = KOR
 controller = KOR
 culture = korean
-religion = confucianism
+religion = korean_shamanism
 capital = "Hetu Ala"
 trade_goods = iron
 base_tax = 4

@@ -2,8 +2,8 @@
 owner = SAI
 controller = SAI
 culture = tsukushi
-religion = confucianism
-capital = "Jeju"
+religion = shinto
+capital = "Saishu"
 trade_goods = tropical_wood
 base_tax = 1
 base_production = 1

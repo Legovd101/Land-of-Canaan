@@ -2,7 +2,7 @@
 owner = SOH
 controller = SOH
 culture = chuokuan
-religion = confucianism
+religion = mahayana
 capital = "Chungju"
 trade_goods = cotton
 base_tax = 3

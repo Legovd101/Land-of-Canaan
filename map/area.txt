@@ -2816,15 +2816,15 @@ midwest_korea_area = {  #5
 }
 central_korea_area = {  #5
 
-	4229 5121 5125 736 734 
+	4229 5121 5125 736
 }
 mideast_korea_area = {  #4
 
-	2694 5127 5128 5132 
+	5127 5128 5126 734
 }
 eastern_korea_area = {  #3
 
-	5118 5126 5130 
+	5118 5130 5132 2694
 }
 south_korea_area = {  #5
 
