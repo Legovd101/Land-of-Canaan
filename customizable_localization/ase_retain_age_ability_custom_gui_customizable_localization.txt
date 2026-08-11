@@ -105,7 +105,7 @@ defined_text = {
 			current_age = age_of_reformation
 			is_variable_equal = { which = ase_retain_age_ability_page value = 2 }
 		}
-		localisation_key = ase_glorious_renaissance
+		localisation_key = itloc_malleable_borders
 	}
 	# Age of Absolutism
 	text = {
@@ -505,7 +505,7 @@ defined_text = {
 			current_age = age_of_reformation
 			is_variable_equal = { which = ase_retain_age_ability_page value = 1 }
 		}
-		localisation_key = ab_cavalry_armies
+		localisation_key = itloc_concentrated_investments
 	}
 	text = {
 		trigger = {
@@ -677,14 +677,14 @@ defined_text = {
 			current_age = age_of_reformation
 			is_variable_equal = { which = ase_retain_age_ability_page value = 1 }
 		}
-		localisation_key = ab_colony_boost_development
+		localisation_key = itloc_meticulous_urban_planning
 	}
 	text = {
 		trigger = {
 			current_age = age_of_reformation
 			is_variable_equal = { which = ase_retain_age_ability_page value = 2 }
 		}
-		localisation_key = ase_exploration_corp
+		localisation_key = itloc_efficient_recruiting
 	}
 	# Age of Absolutism
 	text = {

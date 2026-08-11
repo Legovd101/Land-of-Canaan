@@ -27,9 +27,9 @@ itloc_efficient_recruiting = {
 # ase_glorious_renaissance_modifier = {
 # 	prestige_decay = -0.01
 # }
-# ase_ruling_dynasty_modifier = {
-# 	reelection_cost = -0.10
-# }
+ase_ruling_dynasty_modifier = {
+	reelection_cost = -0.10
+}
 
 #Reformation Age
 ase_floating_batteries = {

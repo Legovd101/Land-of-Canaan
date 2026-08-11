@@ -7,7 +7,7 @@ spriteTypes = {
 		texturefile = "gfx/interface/ages/age_1/age_of_expansion.dds" # OG image by Vilius Petrauskas https://www.artstation.com/artwork/zAXGZ
 	}
 	spriteType = {
-		name = "GFX_age_of_expansion_g"
+		name = "GFX_icon_age_of_expansion_g"
 		texturefile = "gfx/interface/ages/age_1/age_of_expansion_g.dds"
 	}
 	spriteType = {

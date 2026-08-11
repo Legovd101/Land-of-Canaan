@@ -19,7 +19,7 @@ ase_retain_age_ability_entry_1_effect = {
 				is_variable_equal = { which = ase_retain_age_ability_page value = 2 }
 			}
 			add_country_modifier = {
-				name = ase_glorious_renaissance_modifier
+				name = itloc_malleable_borders
 				duration = -1
 			}
 		}
@@ -206,7 +206,7 @@ ase_retain_age_ability_entry_3_effect = {
 				is_variable_equal = { which = ase_retain_age_ability_page value = 1 }
 			}
 			add_country_modifier = {
-				name = ase_cavalry_armies
+				name = itloc_concentrated_investments
 				duration = -1
 			}
 		}
@@ -284,7 +284,7 @@ ase_retain_age_ability_entry_4_effect = {
 				is_variable_equal = { which = ase_retain_age_ability_page value = 1 }
 			}
 			add_country_modifier = {
-				name = ase_boost_colony
+				name = itloc_meticulous_urban_planning
 				duration = -1
 			}
 		}
@@ -293,7 +293,7 @@ ase_retain_age_ability_entry_4_effect = {
 				is_variable_equal = { which = ase_retain_age_ability_page value = 2 }
 			}
 			add_country_modifier = {
-				name = ase_exploration_corp_modifier
+				name = itloc_efficient_recruiting
 				duration = -1
 			}
 		}

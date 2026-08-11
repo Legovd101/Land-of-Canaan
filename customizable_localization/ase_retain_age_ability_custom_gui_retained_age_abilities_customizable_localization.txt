@@ -50,9 +50,9 @@ defined_text = {
 	}
 	text = {
 		trigger = {
-			has_country_modifier = ase_glorious_renaissance_modifier
+			has_country_modifier = itloc_malleable_borders
 		}
-		localisation_key = ase_glorious_renaissance
+		localisation_key = itloc_malleable_borders
 	}
 	text = {
 		trigger = {
@@ -68,9 +68,9 @@ defined_text = {
 	}
 	text = {
 		trigger = {
-			has_country_modifier = ase_cavalry_armies
+			has_country_modifier = itloc_concentrated_investments
 		}
-		localisation_key = ab_cavalry_armies
+		localisation_key = itloc_concentrated_investments
 	}
 	text = {
 		trigger = {
@@ -80,15 +80,15 @@ defined_text = {
 	}
 	text = {
 		trigger = {
-			has_country_modifier = ase_boost_colony
+			has_country_modifier = itloc_meticulous_urban_planning
 		}
-		localisation_key = ab_colony_boost_development
+		localisation_key = itloc_meticulous_urban_planning
 	}
 	text = {
 		trigger = {
-			has_country_modifier = ase_exploration_corp_modifier
+			has_country_modifier = itloc_efficient_recruiting
 		}
-		localisation_key = ase_exploration_corp
+		localisation_key = itloc_efficient_recruiting
 	}
 
 	text = {
@@ -140,13 +140,13 @@ defined_text = {
 	}
 	text = {
 		trigger = {
-			has_country_modifier = ase_boost_colony
+			has_country_modifier = itloc_meticulous_urban_planning
 		}
 		localisation_key = ase_retain_age_ability_effects_ab_colony_boost_development
 	}
 	text = {
 		trigger = {
-			has_country_modifier = ase_exploration_corp_modifier
+			has_country_modifier = itloc_efficient_recruiting
 		}
 		localisation_key = ase_retain_age_ability_effects_ase_exploration_corp
 	}
