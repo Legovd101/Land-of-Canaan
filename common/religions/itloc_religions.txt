@@ -1174,6 +1174,8 @@ eastern = {
 		heretic = { ZEN }
 		
 		uses_karma = yes
+		
+		harmonized_modifier = harmonized_confucian
 	}
 	
 	hmongism = {
@@ -1193,6 +1195,7 @@ eastern = {
 		
 		heretic = { ZEN }
 		
+		harmonized_modifier = harmonized_confucian
 	}
 	
 	moism = {
@@ -1212,6 +1215,7 @@ eastern = {
 		
 		heretic = { ZEN }
 		
+		harmonized_modifier = harmonized_confucian
 	}
 	
 	bimoism = {
@@ -1231,6 +1235,7 @@ eastern = {
 		
 		heretic = { ZEN }
 		
+		harmonized_modifier = harmonized_confucian
 	}
 	
 	daoism = {
@@ -1250,6 +1255,7 @@ eastern = {
 		
 		heretic = { ZEN }
 		
+		harmonized_modifier = harmonized_confucian
 	}
 	
 	korean_shamanism = {

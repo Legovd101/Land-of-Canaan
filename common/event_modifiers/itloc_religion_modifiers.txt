@@ -1,0 +1,4 @@
+harmonized_confucian = {
+	global_unrest = -1
+	religion = yes
+}
