@@ -9,7 +9,7 @@ ase_jihad_triggered_modifier = {
 					tooltip = ase_jihad_triggered_modifier_TT
 					has_country_flag = muslim_jihad_flag
 				}
-				current_age = age_of_reformation
+				current_age = age_of_exploration
 			}
 			AND = {
 				custom_trigger_tooltip = {

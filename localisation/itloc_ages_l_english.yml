@@ -1,4 +1,7 @@
 ﻿l_english:
+
+# Expansion
+
  age_of_expansion: "Age of Expansion"
  age_of_expansion_short: "Expansion"
  age_of_expansion_desc: "The world lies in the shadows of many empires both past and present, with new ones rising and falling every day. Can any one polity truly rise above the chaos and consolidate its power?"
@@ -6,7 +9,7 @@
 ## Objectives
  itloc_consolidate_capital_area: "Consolidate Capital Area"
  itloc_consolidate_capital_area_desc: "Own every province in your capital's area."
- obj_own_capital_area_tt: "Own every province in your capital's area ([Root.Capital.GetAreaName])"
+ obj_own_capital_area_tt: "Own every province in your capital's area (§Y[Root.Capital.GetAreaName]§!)"
  itloc_buffer_states: "Buffer States"
  itloc_buffer_states_desc: "Have 3 non-tributary subjects or be a non-tributary subject yourself."
  obj_3_non_tributary_subjects: "Have §Y3§! non-tributary subjects"
@@ -34,3 +37,48 @@
  itloc_larger_holds: "Larger Holds"
  itloc_astral_navigation: "Astral Navigation"
  itloc_ancient_ties: "Ancient Ties"
+
+# Exploration
+
+ age_of_exploration: "Age of Exploration"
+ age_of_exploration_short: "Exploration"
+ age_of_exploration_desc: "News of land beyond the oceans is spreading like wildfire, with many scrambling to claim its riches for themselves. What will become of this "New World" and the people who live there?"
+
+## Objectives
+ itloc_3_continents: "Present on Three Continents"
+ itloc_3_continents_desc: "You or your subjects own provinces on a total of at least §Y3§! continents."
+ present_on_3_continents_tt: "\nYou or your subjects own provinces on a total of at least §Y3§! continents"
+ itloc_colonialism: "Embrace Colonialism"
+ itloc_colonialism_desc: "Embrace the Colonialism institution, and keep it in every province you own."
+ itloc_pragmatic_expulsions: "Pragmatic Expulsions"
+ itloc_pragmatic_expulsions_desc: "Expel at least 2 minorities"
+ itloc_colonial_empire: "Colonial Empire"
+ itloc_colonial_empire_desc: "Have at least 2 colonial subjects."
+ itloc_secure_the_capital: "Secure the Capital"
+ itloc_secure_the_capital_desc: "Have either a level 4 fort or a State House in the Capital."
+ itloc_riches_of_the_world: "Riches of the World"
+ itloc_riches_of_the_world_desc: "Gain the trade bonus from either String Instruments, Chocolate, Cigars, Oprics, Jewellery, Woodworking, or Leather."
+ itloc_3_full_idea_groups: "Have 3 Full Idea Groups"
+ itloc_3_full_idea_groups_desc: "Have 3 full idea groups."
+ have_3_full_idea_groups_tt: "Have 3 full idea groups"
+ itloc_discover_every_subcontinent: "Discover Every Subcontinent"
+ itloc_discover_every_subcontinent_desc: "Discover every subcontinent."
+ discover_every_subcontinent_tt: "Discover every subcontinent"
+ itloc_market_monopolies: "Market Monopolies"
+ itloc_market_monopolies_desc: "Have the strongest share of trade power in at least 3 Nodes."
+
+## Abilities
+ itloc_colonial_exodus: "Colonial Exodus"
+ itloc_wonders_of_exploration: "Wonders of Exploration"
+ itloc_mercantile_ventures: "Mercantile Ventures"
+ itloc_colonial_integration: "Colonial Integration"
+ itloc_foreign_herbology: "Foreign Herbology"
+ itloc_effective_colonial_management: "Colonial Management"
+ itloc_charismatic_recruiters: "Charismatic Recruiters"
+ itloc_atlantean_exchange: "Atlantean Exchange"
+ itloc_serican_siegecraft: "Serican Siegecraft"
+ itloc_crossroads_of_the_world: "Crossroads of the World"
+ itloc_heart_of_the_mediterranean: "Heart of the Mediterranean"
+ itloc_deals_with_the_haumenn: "Deals with the Haumenn"
+ itloc_charaphracts: "Charaphracts"
+ itloc_nibufu_inspired_ships: "Nibufu-Inspired Ships"

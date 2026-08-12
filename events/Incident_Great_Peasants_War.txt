@@ -15,7 +15,7 @@ country_event = {
 	
 	trigger = {
 		has_dlc = "Emperor"
-		current_age = age_of_reformation
+		current_age = age_of_exploration
 		hre_leagues_enabled = no
 		hre_religion_locked = no
 		hre_religion_treaty = no

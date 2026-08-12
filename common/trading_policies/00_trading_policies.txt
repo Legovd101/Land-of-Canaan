@@ -268,8 +268,8 @@ propagate_religion = {
 					#has_government_attribute = can_spread_the_reformation
 					has_reform = reformer_state_reform
 					OR = {
-						current_age = age_of_discovery
-						current_age = age_of_reformation
+						current_age = age_of_expansion
+						current_age = age_of_exploration
 					}
 				}
 			}
@@ -318,8 +318,8 @@ propagate_religion = {
 					#has_government_attribute = can_spread_the_reformation
 					has_reform = reformer_state_reform
 					OR = {
-						current_age = age_of_discovery
-						current_age = age_of_reformation
+						current_age = age_of_expansion
+						current_age = age_of_exploration
 					}
 				}
 			}

@@ -1,7 +1,114 @@
 spriteTypes = {
-	# Expansion
+
+	# EXPLORATION
+
+	spriteType = {
+		name = "GFX_age_of_exploration"
+		texturefile = "gfx/interface/ages/age_2/age_of_exploration.dds"
+	}
+	spriteType = {
+		name = "GFX_icon_age_of_exploration_g"
+		texturefile = "gfx/interface/ages/age_2/age_of_exploration_g.dds"
+	}
 	
 	## Objectives
+	spriteType = {
+		name = "GFX_itloc_3_continents"
+		texturefile = "gfx/interface/ages/age_2/objectives/itloc_3_continents.dds"
+	}
+	spriteType = {
+		name = "GFX_itloc_colonialism"
+		texturefile = "gfx/interface/ages/age_2/objectives/itloc_colonialism.dds"
+	}
+	spriteType = {
+		name = "GFX_itloc_pragmatic_expulsions"
+		texturefile = "gfx/interface/ages/age_2/objectives/itloc_pragmatic_expulsions.dds"
+	}
+	spriteType = {
+		name = "GFX_itloc_colonial_empire"
+		texturefile = "gfx/interface/ages/age_2/objectives/itloc_colonial_empire.dds"
+	}
+	spriteType = {
+		name = "GFX_itloc_secure_the_capital"
+		texturefile = "gfx/interface/ages/age_2/objectives/itloc_secure_the_capital.dds"
+	}
+	spriteType = {
+		name = "GFX_itloc_riches_of_the_world"
+		texturefile = "gfx/interface/ages/age_2/objectives/itloc_riches_of_the_world.dds"
+	}
+	spriteType = {
+		name = "GFX_itloc_3_full_idea_groups"
+		texturefile = "gfx/interface/ages/age_2/objectives/itloc_3_full_idea_groups.dds"
+	}
+	spriteType = {
+		name = "GFX_itloc_discover_every_subcontinent"
+		texturefile = "gfx/interface/ages/age_2/objectives/itloc_discover_every_subcontinent.dds"
+	}
+	spriteType = {
+		name = "GFX_itloc_market_monopolies"
+		texturefile = "gfx/interface/ages/age_2/objectives/itloc_market_monopolies.dds"
+	}
+	
+	# Abilities
+	spriteType = {
+		name = "GFX_itloc_colonial_exodus"
+		texturefile = "gfx/interface/ages/age_2/abilities/itloc_colonial_exodus.dds"
+	}
+	spriteType = {
+		name = "GFX_itloc_wonders_of_exploration"
+		texturefile = "gfx/interface/ages/age_2/abilities/itloc_wonders_of_exploration.dds"
+	}
+	spriteType = {
+		name = "GFX_itloc_mercantile_ventures"
+		texturefile = "gfx/interface/ages/age_2/abilities/itloc_mercantile_ventures.dds"
+	}
+	spriteType = {
+		name = "GFX_itloc_colonial_integration"
+		texturefile = "gfx/interface/ages/age_2/abilities/itloc_colonial_integration.dds"
+	}
+	spriteType = {
+		name = "GFX_itloc_foreign_herbology"
+		texturefile = "gfx/interface/ages/age_2/abilities/itloc_foreign_herbology.dds"
+	}
+	spriteType = {
+		name = "GFX_itloc_effective_colonial_management"
+		texturefile = "gfx/interface/ages/age_2/abilities/itloc_effective_colonial_management.dds"
+	}
+	spriteType = {
+		name = "GFX_itloc_charismatic_recruiters"
+		texturefile = "gfx/interface/ages/age_2/abilities/itloc_charismatic_recruiters.dds"
+	}
+	spriteType = {
+		name = "GFX_itloc_atlantean_exchange"
+		texturefile = "gfx/interface/ages/age_2/abilities/itloc_atlantean_exchange.dds"
+	}
+	spriteType = {
+		name = "GFX_itloc_serican_siegecraft"
+		texturefile = "gfx/interface/ages/age_2/abilities/itloc_serican_siegecraft.dds"
+	}
+	spriteType = {
+		name = "GFX_itloc_crossroads_of_the_world"
+		texturefile = "gfx/interface/ages/age_2/abilities/itloc_crossroads_of_the_world.dds"
+	}
+	spriteType = {
+		name = "GFX_itloc_heart_of_the_mediterranean"
+		texturefile = "gfx/interface/ages/age_2/abilities/itloc_heart_of_the_mediterranean.dds"
+	}
+	spriteType = {
+		name = "GFX_itloc_deals_with_the_haumenn"
+		texturefile = "gfx/interface/ages/age_2/abilities/itloc_deals_with_the_haumenn.dds"
+	}
+	spriteType = {
+		name = "GFX_itloc_charaphracts"
+		texturefile = "gfx/interface/ages/age_2/abilities/itloc_charaphracts.dds"
+	}
+	spriteType = {
+		name = "GFX_itloc_nibufu_inspired_ships"
+		texturefile = "gfx/interface/ages/age_2/abilities/itloc_nibufu_inspired_ships.dds"
+	}
+	
+	# EXPANSION
+
 	spriteType = {
 		name = "GFX_age_of_expansion"
 		texturefile = "gfx/interface/ages/age_1/age_of_expansion.dds" # OG image by Vilius Petrauskas https://www.artstation.com/artwork/zAXGZ
@@ -10,6 +117,8 @@ spriteTypes = {
 		name = "GFX_icon_age_of_expansion_g"
 		texturefile = "gfx/interface/ages/age_1/age_of_expansion_g.dds"
 	}
+	
+	## Objectives
 	spriteType = {
 		name = "GFX_itloc_foothold_in_two_regions"
 		texturefile = "gfx/interface/ages/age_1/objectives/itloc_foothold_in_two_regions.dds"

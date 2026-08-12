@@ -6196,7 +6196,7 @@ on_new_age = {
 	if = {
 		limit = {
 			has_government_mechanic = ottoman_decadence_mechanic
-			current_age = age_of_discovery
+			current_age = age_of_expansion
 		}
 		add_country_modifier = {
 			name = rise_of_the_ottomans
@@ -6207,7 +6207,7 @@ on_new_age = {
 	if = {
 		limit = {
 			has_government_mechanic = ottoman_decadence_mechanic
-			current_age = age_of_reformation
+			current_age = age_of_exploration
 		}
 		add_country_modifier = {
 			name = zenith_of_the_ottomans

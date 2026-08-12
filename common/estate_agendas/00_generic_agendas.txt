@@ -8629,8 +8629,8 @@ estate_nobles_build_manufactory_in_y = {
 		modifier = {
 			factor = 0.5
 			OR = {
-				current_age = age_of_discovery
-				current_age = age_of_reformation
+				current_age = age_of_expansion
+				current_age = age_of_exploration
 			}
 		}
 		modifier = {
@@ -8767,8 +8767,8 @@ estate_rajput_build_manufactory_in_y = {
 		modifier = {
 			factor = 0.5
 			OR = {
-				current_age = age_of_discovery
-				current_age = age_of_reformation
+				current_age = age_of_expansion
+				current_age = age_of_exploration
 			}
 		}
 		modifier = {
@@ -8905,8 +8905,8 @@ estate_maratha_build_manufactory_in_y = {
 		modifier = {
 			factor = 0.5
 			OR = {
-				current_age = age_of_discovery
-				current_age = age_of_reformation
+				current_age = age_of_expansion
+				current_age = age_of_exploration
 			}
 		}
 		modifier = {
@@ -9044,8 +9044,8 @@ estate_burghers_build_manufactory_in_y = {
 		modifier = {
 			factor = 0.5
 			OR = {
-				current_age = age_of_discovery
-				current_age = age_of_reformation
+				current_age = age_of_expansion
+				current_age = age_of_exploration
 			}
 		}
 		modifier = {
@@ -9182,8 +9182,8 @@ estate_vaisyas_build_manufactory_in_y = {
 		modifier = {
 			factor = 0.5
 			OR = {
-				current_age = age_of_discovery
-				current_age = age_of_reformation
+				current_age = age_of_expansion
+				current_age = age_of_exploration
 			}
 		}
 		modifier = {
@@ -9320,8 +9320,8 @@ estate_jains_build_manufactory_in_y = {
 		modifier = {
 			factor = 0.5
 			OR = {
-				current_age = age_of_discovery
-				current_age = age_of_reformation
+				current_age = age_of_expansion
+				current_age = age_of_exploration
 			}
 		}
 		modifier = {
@@ -9462,8 +9462,8 @@ estate_church_build_manufactory_in_y = {
 		modifier = {
 			factor = 0.5
 			OR = {
-				current_age = age_of_discovery
-				current_age = age_of_reformation
+				current_age = age_of_expansion
+				current_age = age_of_exploration
 			}
 		}
 		modifier = {
@@ -9604,8 +9604,8 @@ estate_brahmins_build_manufactory_in_y = {
 		modifier = {
 			factor = 0.5
 			OR = {
-				current_age = age_of_discovery
-				current_age = age_of_reformation
+				current_age = age_of_expansion
+				current_age = age_of_exploration
 			}
 		}
 		modifier = {

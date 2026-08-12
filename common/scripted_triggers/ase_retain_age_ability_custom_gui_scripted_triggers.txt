@@ -15,7 +15,7 @@ ase_retain_age_ability_max_page_for_age_not_reached = {
 
 ase_retain_age_ability_max_page_for_age_is_2 = {
 	OR = {
-		current_age = age_of_reformation
+		current_age = age_of_exploration
 	}
 }
 
@@ -36,8 +36,8 @@ ase_retain_age_ability_not_selected_for_current_age = {
 		tooltip = ase_chosen_retain_age_ability
 		OR = {
 			AND = {
-				current_age = age_of_reformation
-				NOT = { has_country_flag = ase_chosen_age_of_reformation }
+				current_age = age_of_exploration
+				NOT = { has_country_flag = ase_chosen_age_of_exploration }
 			}
 			AND = {
 				current_age = age_of_absolutism
@@ -56,7 +56,7 @@ ase_retain_age_ability_entry_1_visible = {
 		AND = {
 			is_variable_equal = { which = ase_retain_age_ability_page value = 1 }
 			OR = {
-				current_age = age_of_reformation
+				current_age = age_of_exploration
 				current_age = age_of_absolutism
 				current_age = age_of_revolutions
 			}
@@ -64,7 +64,7 @@ ase_retain_age_ability_entry_1_visible = {
 		AND = {
 			is_variable_equal = { which = ase_retain_age_ability_page value = 2 }
 			OR = {
-				current_age = age_of_reformation
+				current_age = age_of_exploration
 				current_age = age_of_absolutism
 				current_age = age_of_revolutions
 			}
@@ -97,7 +97,7 @@ ase_retain_age_ability_entry_2_visible = {
 		AND = {
 			is_variable_equal = { which = ase_retain_age_ability_page value = 1 }
 			OR = {
-				current_age = age_of_reformation
+				current_age = age_of_exploration
 				current_age = age_of_absolutism
 				current_age = age_of_revolutions
 			}
@@ -105,7 +105,7 @@ ase_retain_age_ability_entry_2_visible = {
 		AND = {
 			is_variable_equal = { which = ase_retain_age_ability_page value = 2 }
 			OR = {
-				current_age = age_of_reformation
+				current_age = age_of_exploration
 				current_age = age_of_absolutism
 				current_age = age_of_revolutions
 			}
@@ -121,7 +121,7 @@ ase_retain_age_ability_entry_2_visible = {
 ase_retain_age_ability_entry_2_selectable = {
 	if = {
 		limit = {
-			current_age = age_of_reformation
+			current_age = age_of_exploration
 		}
 		if = {
 			limit = {
@@ -137,7 +137,7 @@ ase_retain_age_ability_entry_3_visible = {
 		AND = {
 			is_variable_equal = { which = ase_retain_age_ability_page value = 1 }
 			OR = {
-				current_age = age_of_reformation
+				current_age = age_of_exploration
 				current_age = age_of_absolutism
 				current_age = age_of_revolutions
 			}
@@ -145,7 +145,7 @@ ase_retain_age_ability_entry_3_visible = {
 		AND = {
 			is_variable_equal = { which = ase_retain_age_ability_page value = 2 }
 			OR = {
-				current_age = age_of_reformation
+				current_age = age_of_exploration
 				current_age = age_of_absolutism
 				current_age = age_of_revolutions
 			}
@@ -153,17 +153,17 @@ ase_retain_age_ability_entry_3_visible = {
 	}
 }
 ase_retain_age_ability_entry_3_selectable = {
-	if = {
-		limit = {
-			current_age = age_of_absolutism
-		}
-		if = {
-			limit = {
-				check_variable = { which = ase_retain_age_ability_page value = 2 }
-			}
-			religion_group = muslim
-		}
-	}
+	# if = {
+	# 	limit = {
+	# 		current_age = age_of_absolutism
+	# 	}
+	# 	if = {
+	# 		limit = {
+	# 			check_variable = { which = ase_retain_age_ability_page value = 2 }
+	# 		}
+	# 		religion_group = muslim
+	# 	}
+	# }
 }
 
 ase_retain_age_ability_entry_4_visible = {
@@ -171,7 +171,7 @@ ase_retain_age_ability_entry_4_visible = {
 		AND = {
 			is_variable_equal = { which = ase_retain_age_ability_page value = 1 }
 			OR = {
-				current_age = age_of_reformation
+				current_age = age_of_exploration
 				current_age = age_of_absolutism
 				current_age = age_of_revolutions
 			}
@@ -179,7 +179,7 @@ ase_retain_age_ability_entry_4_visible = {
 		AND = {
 			is_variable_equal = { which = ase_retain_age_ability_page value = 2 }
 			OR = {
-				current_age = age_of_reformation
+				current_age = age_of_exploration
 				current_age = age_of_absolutism
 				current_age = age_of_revolutions
 			}
@@ -187,17 +187,17 @@ ase_retain_age_ability_entry_4_visible = {
 	}
 }
 ase_retain_age_ability_entry_4_selectable = {
-	if = {
-		limit = {
-			current_age = age_of_absolutism
-		}
-		if = {
-			limit = {
-				check_variable = { which = ase_retain_age_ability_page value = 2 }
-			}
-			religion_group = christian
-			NOT = { religion = orthodox }
-			NOT = { religion = coptic }
-		}
-	}
+	# if = {
+	# 	limit = {
+	# 		current_age = age_of_absolutism
+	# 	}
+	# 	if = {
+	# 		limit = {
+	# 			check_variable = { which = ase_retain_age_ability_page value = 2 }
+	# 		}
+	# 		religion_group = christian
+	# 		NOT = { religion = orthodox }
+	# 		NOT = { religion = coptic }
+	# 	}
+	# }
 }

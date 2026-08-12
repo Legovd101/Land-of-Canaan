@@ -5,7 +5,7 @@ defined_text = {
 	text = {
 		trigger = {
 			OR = {
-				has_country_flag = ase_chosen_age_of_reformation
+				has_country_flag = ase_chosen_age_of_exploration
 				has_country_flag = ase_chosen_age_of_absolutism
 				has_country_flag = ase_chosen_age_of_revolutions
 			}
@@ -27,9 +27,9 @@ defined_text = {
 
 	text = {
 		trigger = {
-			has_country_flag = ase_chosen_age_of_reformation
+			has_country_flag = ase_chosen_age_of_exploration
 		}
-		localisation_key = string_ase_retained_age_ability_for_age_of_reformation_tt
+		localisation_key = string_ase_retained_age_ability_for_age_of_exploration_tt
 	}
 	text = {
 		trigger = {
@@ -110,7 +110,7 @@ defined_text = {
 	}
 	text = {
 		trigger = {
-			has_country_modifier = ase_glorious_renaissance_modifier
+			has_country_modifier = itloc_malleable_borders
 		}
 		localisation_key = ase_retain_age_ability_effects_ase_glorious_renaissance
 	}
@@ -128,7 +128,7 @@ defined_text = {
 	}
 	text = {
 		trigger = {
-			has_country_modifier = ase_cavalry_armies
+			has_country_modifier = itloc_concentrated_investments
 		}
 		localisation_key = ase_retain_age_ability_effects_ab_cavalry_armies
 	}
@@ -189,33 +189,27 @@ defined_text = {
 	}
 	text = {
 		trigger = {
-			has_country_modifier = ase_institutional_spread
+			has_country_modifier = itloc_colonial_integration
 		}
-		localisation_key = ab_institution_spread_from_true_faith
+		localisation_key = itloc_colonial_integration
 	}
 	text = {
 		trigger = {
-			has_country_modifier = ase_institutional_spread
+			has_country_modifier = ase_dharmic_syncretism_modifier
 		}
 		localisation_key = ase_dharmic_syncretism
 	}
 	text = {
 		trigger = {
-			has_country_modifier = ase_religious_wars
+			has_country_modifier = itloc_foreign_herbology
 		}
-		localisation_key = ab_warscore_vs_religion
+		localisation_key = itloc_foreign_herbology
 	}
 	text = {
 		trigger = {
-			has_country_modifier = ase_prestigious_conversion
+			has_country_modifier = itloc_mercantile_ventures
 		}
-		localisation_key = ab_prestige_per_development_from_conversion
-	}
-	text = {
-		trigger = {
-			has_country_modifier = ase_mercenary_discipline
-		}
-		localisation_key = ab_mercenary_discipline
+		localisation_key = itloc_mercantile_ventures
 	}
 	text = {
 		trigger = {
@@ -231,9 +225,15 @@ defined_text = {
 	}
 	text = {
 		trigger = {
-			has_country_modifier = ase_confessionalism_modifier
+			has_country_modifier = itloc_effective_colonial_management
 		}
-		localisation_key = ase_confessionalism
+		localisation_key = itloc_effective_colonial_management
+	}
+	text = {
+		trigger = {
+			has_country_modifier = ase_dharmic_syncretism_modifier
+		}
+		localisation_key = ase_dharmic_syncretism
 	}
 
 	text = {
@@ -255,31 +255,31 @@ defined_text = {
 	}
 	text = {
 		trigger = {
-			has_country_modifier = ase_institutional_spread
+			has_country_modifier = itloc_colonial_integration
 		}
 		localisation_key = ase_retain_age_ability_effects_ab_institution_spread_from_true_faith
 	}
+	# text = {
+	# 	trigger = {
+	# 		has_country_modifier = ase_institutional_spread
+	# 	}
+	# 	localisation_key = ase_retain_age_ability_effects_ase_dharmic_syncretism
+	# }
 	text = {
 		trigger = {
-			has_country_modifier = ase_institutional_spread
-		}
-		localisation_key = ase_retain_age_ability_effects_ase_dharmic_syncretism
-	}
-	text = {
-		trigger = {
-			has_country_modifier = ase_religious_wars
+			has_country_modifier = itloc_wonders_of_exploration
 		}
 		localisation_key = ase_retain_age_ability_effects_ab_warscore_vs_religion
 	}
 	text = {
 		trigger = {
-			has_country_modifier = ase_prestigious_conversion
+			has_country_modifier = itloc_foreign_herbology
 		}
 		localisation_key = ase_retain_age_ability_effects_ab_prestige_per_development_from_conversion
 	}
 	text = {
 		trigger = {
-			has_country_modifier = ase_mercenary_discipline
+			has_country_modifier = itloc_mercantile_ventures
 		}
 		localisation_key = ase_retain_age_ability_effects_ab_mercenary_discipline
 	}
@@ -297,7 +297,7 @@ defined_text = {
 	}
 	text = {
 		trigger = {
-			has_country_modifier = ase_confessionalism_modifier
+			has_country_modifier = itloc_effective_colonial_management
 		}
 		localisation_key = ase_retain_age_ability_effects_ase_confessionalism
 	}

@@ -1,22 +1,22 @@
 defined_text = {
-	name = age_of_discovery
+	name = age_of_expansion
 
 	text = {
 		trigger = {
 			always = yes
 		}
-		localisation_key = age_of_discovery
+		localisation_key = age_of_expansion
 	}
 }
 
 defined_text = {
-	name = age_of_reformation
+	name = age_of_exploration
 
 	text = {
 		trigger = {
 			always = yes
 		}
-		localisation_key = age_of_reformation
+		localisation_key = age_of_exploration
 	}
 }
 

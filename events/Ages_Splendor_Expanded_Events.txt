@@ -19,14 +19,14 @@ country_event = {
 	option = {
 		name = Ages_Splendor_Expanded_Events.11.OPT2
 		trigger = {
-			NOT = { has_country_flag = ase_chosen_age_of_reformation }
+			NOT = { has_country_flag = ase_chosen_age_of_exploration }
 		}
 		ai_chance = {
 			factor = 13
 		}
 
 		add_splendor = -1600
-		set_country_flag = ase_chosen_age_of_reformation
+		set_country_flag = ase_chosen_age_of_exploration
 		add_country_modifier = {
 			name = ase_justified_wars
 			duration = -1
@@ -36,14 +36,14 @@ country_event = {
 	option = {
 		name = Ages_Splendor_Expanded_Events.11.OPT3
 		trigger = {
-			NOT = { has_country_flag = ase_chosen_age_of_reformation }
+			NOT = { has_country_flag = ase_chosen_age_of_exploration }
 		}
 		ai_chance = {
 			factor = 13
 		}
 
 		add_splendor = -1600
-		set_country_flag = ase_chosen_age_of_reformation
+		set_country_flag = ase_chosen_age_of_exploration
 		add_country_modifier = {
 			name = ase_improved_wartaxes
 			duration = -1
@@ -53,14 +53,14 @@ country_event = {
 	option = {
 		name = Ages_Splendor_Expanded_Events.11.OPT4
 		trigger = {
-			NOT = { has_country_flag = ase_chosen_age_of_reformation }
+			NOT = { has_country_flag = ase_chosen_age_of_exploration }
 		}
 		ai_chance = {
 			factor = 13
 		}
 
 		add_splendor = -1600
-		set_country_flag = ase_chosen_age_of_reformation
+		set_country_flag = ase_chosen_age_of_exploration
 		add_country_modifier = {
 			name = itloc_malleable_borders
 			duration = -1
@@ -70,14 +70,14 @@ country_event = {
 	option = {
 		name = Ages_Splendor_Expanded_Events.11.OPT5
 		trigger = {
-			NOT = { has_country_flag = ase_chosen_age_of_reformation }
+			NOT = { has_country_flag = ase_chosen_age_of_exploration }
 		}
 		ai_chance = {
 			factor = 13
 		}
 
 		add_splendor = -1600
-		set_country_flag = ase_chosen_age_of_reformation
+		set_country_flag = ase_chosen_age_of_exploration
 		add_country_modifier = {
 			name = itloc_concentrated_investments
 			duration = -1
@@ -87,14 +87,14 @@ country_event = {
 	option = {
 		name = Ages_Splendor_Expanded_Events.11.OPT6
 		trigger = {
-			NOT = { has_country_flag = ase_chosen_age_of_reformation }
+			NOT = { has_country_flag = ase_chosen_age_of_exploration }
 		}
 		ai_chance = {
 			factor = 13
 		}
 
 		add_splendor = -1600
-		set_country_flag = ase_chosen_age_of_reformation
+		set_country_flag = ase_chosen_age_of_exploration
 		add_country_modifier = {
 			name = itloc_meticulous_urban_planning
 			duration = -1
@@ -104,14 +104,14 @@ country_event = {
 	option = {
 		name = Ages_Splendor_Expanded_Events.11.OPT7
 		trigger = {
-			NOT = { has_country_flag = ase_chosen_age_of_reformation }
+			NOT = { has_country_flag = ase_chosen_age_of_exploration }
 		}
 		ai_chance = {
 			factor = 13
 		}
 
 		add_splendor = -1600
-		set_country_flag = ase_chosen_age_of_reformation
+		set_country_flag = ase_chosen_age_of_exploration
 		add_country_modifier = {
 			name = itloc_efficient_recruiting
 			duration = -1
@@ -121,14 +121,14 @@ country_event = {
 	option = {
 		name = Ages_Splendor_Expanded_Events.11.OPT8
 		trigger = {
-			NOT = { has_country_flag = ase_chosen_age_of_reformation }
+			NOT = { has_country_flag = ase_chosen_age_of_exploration }
 		}
 		ai_chance = {
 			factor = 13
 		}
 
 		add_splendor = -1600
-		set_country_flag = ase_chosen_age_of_reformation
+		set_country_flag = ase_chosen_age_of_exploration
 		add_country_modifier = {
 			name = ase_adaptative_combat_terrain
 			duration = -1
@@ -138,7 +138,7 @@ country_event = {
 	# option = {
 	# 	name = Ages_Splendor_Expanded_Events.11.OPT9
 	# 	trigger = {
-	# 		NOT = { has_country_flag = ase_chosen_age_of_reformation }
+	# 		NOT = { has_country_flag = ase_chosen_age_of_exploration }
 	# 	}
 	# 	ai_chance = {
 	# 		factor = 13
@@ -152,7 +152,7 @@ country_event = {
 	# 	}
 
 	# 	add_splendor = -1600
-	# 	set_country_flag = ase_chosen_age_of_reformation
+	# 	set_country_flag = ase_chosen_age_of_exploration
 	# 	add_country_modifier = {
 	# 		name = ase_exploration_corp_modifier
 	# 		duration = -1

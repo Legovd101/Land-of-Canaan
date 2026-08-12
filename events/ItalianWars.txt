@@ -21,7 +21,7 @@ country_event = {
 	fire_only_once = yes
 	
 	trigger = {
-		current_age = age_of_discovery
+		current_age = age_of_expansion
 		culture_group = latin
 		capital_scope = { region = italy_region }
 		is_subject = no

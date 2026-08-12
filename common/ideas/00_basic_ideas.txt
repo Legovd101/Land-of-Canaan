@@ -789,7 +789,7 @@ defensive_ideas = {
 		}
 		modifier = {
 			factor = 1.25
-			current_age = age_of_discovery
+			current_age = age_of_expansion
 			num_of_owned_provinces_with = {
 				has_terrain = mountain
 				value = 5
@@ -1204,12 +1204,12 @@ maritime_ideas = {
 		modifier = {
 			factor = 0.25
 			NOT = { num_of_ports = 10 }
-			current_age = age_of_discovery 
+			current_age = age_of_expansion 
 		}
 		modifier = {
 			factor = 0.25
 			NOT = { num_of_ports = 20 }
-			current_age = age_of_reformation 
+			current_age = age_of_exploration 
 		}
 		modifier = {
 			factor = 0.25

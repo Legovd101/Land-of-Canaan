@@ -1252,12 +1252,12 @@ dock = {
 	ai_will_do = {
 		factor = 1
 		modifier = {
-			current_age = age_of_discovery 
+			current_age = age_of_expansion 
 			owner = { NOT = { navy_size = 25 } }
 			factor = 0.25
 		}
 		modifier = {
-			current_age = age_of_reformation
+			current_age = age_of_exploration
 			owner = { NOT = { navy_size = 50 } }
 			factor = 0.35
 		}

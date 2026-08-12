@@ -2,9 +2,9 @@ ase_retain_age_ability_entry_1_effect = {
 	add_splendor = -1600
 	if = {
 		limit = {
-			current_age = age_of_reformation
+			current_age = age_of_exploration
 		}
-		set_country_flag = ase_chosen_age_of_reformation
+		set_country_flag = ase_chosen_age_of_exploration
 		if = {
 			limit = {
 				is_variable_equal = { which = ase_retain_age_ability_page value = 1 }
@@ -43,7 +43,7 @@ ase_retain_age_ability_entry_1_effect = {
 				is_variable_equal = { which = ase_retain_age_ability_page value = 2 }
 			}
 			add_country_modifier = {
-				name = ase_institutional_spread
+				name = itloc_colonial_integration
 				duration = -1
 			}
 		}
@@ -100,9 +100,9 @@ ase_retain_age_ability_entry_2_effect = {
 	add_splendor = -1600
 	if = {
 		limit = {
-			current_age = age_of_reformation
+			current_age = age_of_exploration
 		}
-		set_country_flag = ase_chosen_age_of_reformation
+		set_country_flag = ase_chosen_age_of_exploration
 		if = {
 			limit = {
 				is_variable_equal = { which = ase_retain_age_ability_page value = 1 }
@@ -132,7 +132,7 @@ ase_retain_age_ability_entry_2_effect = {
 				is_variable_equal = { which = ase_retain_age_ability_page value = 1 }
 			}
 			add_country_modifier = {
-				name = ase_religious_wars
+				name = itloc_wonders_of_exploration
 				duration = -1
 			}
 		}
@@ -141,7 +141,7 @@ ase_retain_age_ability_entry_2_effect = {
 				is_variable_equal = { which = ase_retain_age_ability_page value = 2 }
 			}
 			add_country_modifier = {
-				name = ase_prestigious_conversion
+				name = itloc_foreign_herbology
 				duration = -1
 			}
 		}
@@ -198,9 +198,9 @@ ase_retain_age_ability_entry_3_effect = {
 	add_splendor = -1600
 	if = {
 		limit = {
-			current_age = age_of_reformation
+			current_age = age_of_exploration
 		}
-		set_country_flag = ase_chosen_age_of_reformation
+		set_country_flag = ase_chosen_age_of_exploration
 		if = {
 			limit = {
 				is_variable_equal = { which = ase_retain_age_ability_page value = 1 }
@@ -230,7 +230,7 @@ ase_retain_age_ability_entry_3_effect = {
 				is_variable_equal = { which = ase_retain_age_ability_page value = 1 }
 			}
 			add_country_modifier = {
-				name = ase_mercenary_discipline
+				name = itloc_mercantile_ventures
 				duration = -1
 			}
 		}
@@ -238,8 +238,10 @@ ase_retain_age_ability_entry_3_effect = {
 			limit = {
 				is_variable_equal = { which = ase_retain_age_ability_page value = 2 }
 			}
-			custom_tooltip = muslim_jihad_tt
-			set_country_flag = muslim_jihad_flag_infinite
+			add_country_modifier = {
+				name = itloc_colonial_exodus
+				duration = -1
+			}
 		}
 	}
 	else_if = {
@@ -276,9 +278,9 @@ ase_retain_age_ability_entry_4_effect = {
 	add_splendor = -1600
 	if = {
 		limit = {
-			current_age = age_of_reformation
+			current_age = age_of_exploration
 		}
-		set_country_flag = ase_chosen_age_of_reformation
+		set_country_flag = ase_chosen_age_of_exploration
 		if = {
 			limit = {
 				is_variable_equal = { which = ase_retain_age_ability_page value = 1 }
@@ -317,7 +319,7 @@ ase_retain_age_ability_entry_4_effect = {
 				is_variable_equal = { which = ase_retain_age_ability_page value = 2 }
 			}
 			add_country_modifier = {
-				name = ase_confessionalism_modifier
+				name = itloc_effective_colonial_management
 				duration = -1
 			}
 		}

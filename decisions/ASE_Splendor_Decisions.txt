@@ -6,7 +6,7 @@ country_decisions = {
 			splendor = 1700
 			NOT = { has_country_flag = ase_retaining_age_ability }
 			OR = {
-				current_age = age_of_reformation
+				current_age = age_of_exploration
 				current_age = age_of_absolutism
 				current_age = age_of_revolutions
 			}
@@ -18,7 +18,7 @@ country_decisions = {
 			custom_tooltip = ase_retain_decision_tooltip
 			set_country_flag = ase_retaining_age_ability
 			if = {
-				limit = { current_age = age_of_reformation }
+				limit = { current_age = age_of_exploration }
 				country_event = {
 					id = Ages_Splendor_Expanded_Events.11
 				}
@@ -60,7 +60,7 @@ country_decisions = {
 			factor = 1
 			modifier = {
 				factor = 0
-				NOT = { current_age = age_of_discovery }
+				NOT = { current_age = age_of_expansion }
 				ase_retain_age_ability_not_selected_for_current_age = yes
 			}
 		}

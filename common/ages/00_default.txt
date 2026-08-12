@@ -511,7 +511,7 @@ age_of_expansion = {
 	}
 }
 
-age_of_reformation = {
+age_of_exploration = {
 	start = 1530
 	
 	can_start = {
@@ -523,56 +523,77 @@ age_of_reformation = {
 	papacy = 1.25
 	
 	objectives = {
-		obj_christian_convert = {
+		itloc_3_continents = {
+			calc_true_if = {
+				amount = 3
+				desc = present_on_3_continents_tt
+				OR = { any_owned_province = { continent = europe } }
+				OR = { any_owned_province = { continent = asia } }
+				OR = { any_owned_province = { continent = africa } }
+				OR = { any_owned_province = { continent = north_america } }
+				OR = { any_owned_province = { continent = south_america } }
+				OR = { any_owned_province = { continent = oceania } }
+				OR = { any_subject_country = { any_owned_province = { continent = europe } } }
+				OR = { any_subject_country = { any_owned_province = { continent = asia } } }
+				OR = { any_subject_country = { any_owned_province = { continent = africa } } }
+				OR = { any_subject_country = { any_owned_province = { continent = north_america } } }
+				OR = { any_subject_country = { any_owned_province = { continent = south_america } } }
+				OR = { any_subject_country = { any_owned_province = { continent = oceania } } }
+			}
+		}
+		
+		itloc_colonialism = {
+	 		has_institution = new_world_i
+	 		all_state_province = {
+	 			new_world_i = 100
+	 		}
+		}
+		
+		itloc_pragmatic_expulsions = {
+			expelled_different_minorities = 2
+		}
+		
+		itloc_colonial_empire = {
+			colony = 2
+		}
+		
+		itloc_secure_the_capital = {
+			capital_scope = {
+				OR = {
+					fort_level = 4
+					has_building = state_house
+				}
+			}
+		}
+		
+		itloc_riches_of_the_world = {
 			OR = {
-				religion = protestant
-				religion = reformed
-				religion = anglican
-				religion = hussite
-			}
-		}
-		
-		obj_humanism_religious = {
-			OR = {
-				full_idea_group = humanist_ideas
-				full_idea_group = religious_ideas
-			}
-		}
-		
-		obj_convert_10_provinces = {
-			custom_trigger_tooltip = {
-				tooltip = obj_convert_10_provinces_tooltip
-				check_variable = { which = num_converted_religion value = 10 }
-			}
-		}
-		
-		obj_colonial_empire = {
-			colony = 5
-		}
-		
-		obj_force_converted = {
-			custom_trigger_tooltip = {
-				tooltip = obj_force_converted_tooltip
-				has_country_flag = force_converted
-			}
-		}
-		
-		obj_asian_trade = {
-			OR = {
 				trading_bonus = {
-					trade_goods = spices
+					trade_goods = string_instruments
 					value = yes
 				}
 				trading_bonus = {
-					trade_goods = cloves
+					trade_goods = chocolate
 					value = yes
 				}
 				trading_bonus = {
-					trade_goods = chinaware
+					trade_goods = cigars
 					value = yes
 				}
 				trading_bonus = {
-					trade_goods = silk
+					trade_goods = optics
+					value = yes
+				}
+				trading_bonus = {
+					trade_goods = jewellery
+					value = yes
+				}
+				trading_bonus = {
+					trade_goods = woodworking
+					value = yes
+				}
+				trading_bonus = {
+					trade_goods = leather
 					value = yes
 				}
 			}
@@ -580,46 +601,102 @@ age_of_reformation = {
 		
 		}
 		
-		obj_unify_culture = {	
-			is_subject = no
-			has_unified_culture_group = yes
+		itloc_3_full_idea_groups = {	
+			calc_true_if = {
+				amount = 3
+				custom_trigger_tooltip = {
+					tooltip = have_3_full_idea_groups_tt
+					OR = {
+						full_idea_group = innovativeness_ideas
+						full_idea_group = religious_ideas
+						full_idea_group = economic_ideas
+						full_idea_group = expansion_ideas
+						full_idea_group = administrative_ideas
+						full_idea_group = humanist_ideas
+						full_idea_group = infrastructure_ideas
+						full_idea_group = spy_ideas
+						full_idea_group = diplomatic_ideas
+						full_idea_group = trade_ideas
+						full_idea_group = exploration_ideas
+						full_idea_group = maritime_ideas
+						full_idea_group = influence_ideas
+						full_idea_group = court_ideas
+						full_idea_group = aristocracy_ideas
+						full_idea_group = offensive_ideas
+						full_idea_group = defensive_ideas
+						full_idea_group = quality_ideas
+						full_idea_group = quantity_ideas
+						full_idea_group = naval_ideas
+						full_idea_group = theocracy_gov_ideas
+						full_idea_group = indigenous_ideas
+						full_idea_group = horde_gov_ideas
+						full_idea_group = plutocracy_ideas
+						full_idea_group = mercenary_ideas
+					}
+				}
+			}
 		}
 
-		ase_foster_piety = {
-			num_of_owned_provinces_with = {
-				value = 10
-				has_tax_building_trigger = yes
+		itloc_discover_every_subcontinent = {
+			custom_trigger_tooltip = { # Load-Bearing ORs ahead! Do Not Remove!!
+				tooltip = discover_every_subcontinent_tt
+				OR = { north_america_superregion = { has_discovered = ROOT } }
+				OR = { central_america_superregion = { has_discovered = ROOT } }
+				OR = { south_america_superregion = { has_discovered = ROOT } }
+				OR = { andes_superregion = { has_discovered = ROOT } }
+				OR = { africa_superregion = { has_discovered = ROOT } }
+				OR = { southern_africa_superregion = { has_discovered = ROOT } }
+				OR = { europe_superregion = { has_discovered = ROOT } }
+				OR = { eastern_europe_superregion = { has_discovered = ROOT } }
+				OR = { near_east_superregion = { has_discovered = ROOT } }
+				OR = { persia_superregion = { has_discovered = ROOT } }
+				OR = { india_superregion = { has_discovered = ROOT } }
+				OR = { tartary_superregion = { has_discovered = ROOT } }
+				OR = { east_indies_superregion = { has_discovered = ROOT } }
+				OR = { far_east_superregion = { has_discovered = ROOT } }
+				OR = { china_superregion = { has_discovered = ROOT } }
+				OR = { oceania_superregion = { has_discovered = ROOT } }
 			}
 		}
-		ase_prepare_war = {
-			OR = {
-				AND = {
-					hre_leagues_enabled = yes
-					is_emperor = yes
+		# ase_prepare_war = {
+		# 	OR = {
+		# 		AND = {
+		# 			hre_leagues_enabled = yes
+		# 			is_emperor = yes
+		# 		}
+		# 		in_league = protestant
+		# 		in_league = catholic
+		# 	}
+		# }
+		itloc_market_monopolies = {
+			calc_true_if = {
+				amount = 3
+				all_trade_node = {
+					is_strongest_trade_power = ROOT
 				}
-				in_league = protestant
-				in_league = catholic
 			}
-		}
-		ase_strength_unity = {
-			religious_unity = 1
 		}
 
 	}	
 	
 	
 	abilities = {	
-		ab_allow_religion_enforced = {
+		itloc_colonial_exodus = {
 			effect = {
 				on_age_ability_taken = { age = age_of_reformation }
-				custom_tooltip = religion_enforced_edict
-				set_country_flag = religion_enforced_edict
 			}
 			modifier = {
+				colony_development_boost = 2
 				num_of_age_rewards = 1
 			}
 			ai_will_do = {
-				factor = 0
+				factor = 10
+				modifier = {
+					factor = 0
+					NOT = {
+						num_of_colonists = 1
+					}
+				}
 			}
 		}
 	
@@ -644,12 +721,12 @@ age_of_reformation = {
 		}
 
 		
-		ab_warscore_vs_religion = {
+		itloc_wonders_of_exploration = {
 			effect = { 
 				on_age_ability_taken = { age = age_of_reformation }
 			}
 			modifier = {
-				warscore_cost_vs_other_religion = -0.25
+				global_colonial_growth = 10
 				num_of_age_rewards = 1
 			}
 			ai_will_do = {
@@ -657,24 +734,25 @@ age_of_reformation = {
 			}
 		}
 		
-		ab_mercenary_discipline = {
+		itloc_mercantile_ventures = {
 			effect = { 
 				on_age_ability_taken = { age = age_of_reformation }
 			}
 			modifier = {
-				mercenary_discipline = 0.05
+				build_cost = -0.15
 				num_of_age_rewards = 1
 			}
 			ai_will_do = {
 				factor = 10
 			}
 		}
+
 		ab_ship_power_propagation = {
 			effect = { 
 				on_age_ability_taken = { age = age_of_reformation }
 			}
 			modifier = {
-				ship_power_propagation = 0.2
+				ship_power_propagation = 0.25
 				num_of_age_rewards = 1
 			}
 			ai_will_do = {
@@ -683,12 +761,12 @@ age_of_reformation = {
 		}
 		
 		
-		ab_institution_spread_from_true_faith = {
+		itloc_colonial_integration = {
 			effect = { 
 				on_age_ability_taken = { age = age_of_reformation }
 			}
 			modifier = {
-				institution_spread_from_true_faith = 0.5
+				ignore_coring_distance = yes
 				num_of_age_rewards = 1
 			}
 			ai_will_do = {
@@ -696,12 +774,12 @@ age_of_reformation = {
 			}
 		}
 
-		ab_prestige_per_development_from_conversion = {
+		itloc_foreign_herbology = {
 			effect = { 
 				on_age_ability_taken = { age = age_of_reformation }
 			}
 			modifier = {
-				prestige_per_development_from_conversion = 0.3
+				monarch_lifespan = 0.1
 				num_of_age_rewards = 1
 			}
 			ai_will_do = {
@@ -709,81 +787,60 @@ age_of_reformation = {
 			}
 		}
 
-		ab_spain_shock_tactics = {
+		itloc_effective_colonial_management = {
+			effect = { 
+				on_age_ability_taken = { age = age_of_reformation }
+			}
+			modifier = {
+				colony_cost_modifier = -0.15
+				num_of_age_rewards = 1
+			}
+			ai_will_do = {
+				factor = 10
+			}
+		}
+
+		itloc_charismatic_recruiters = {
 			allow = {
-				tag = SPA
+				tag = GDL
 			}
 			effect = { 
 				on_age_ability_taken = { age = age_of_reformation }
 			}
 			modifier = {
-				leader_land_shock = 1
+				colonist_placement_chance = 0.15
 				num_of_age_rewards = 1
 			}
 			ai_will_do = {
 				factor = 100
 			}
 		}
-		ab_mughal_artillery = {
+		
+		itloc_atlantean_exchange = {
 			allow = {
-				tag = MUG
+				tag = ALN
+			}
+			effect = { 
+				on_age_ability_taken = { age = age_of_reformation }
+			}
+			modifier = {
+				global_colonial_growth = 25
+				num_of_age_rewards = 1
+			}
+			ai_will_do = {
+				factor = 100
+			}
+		}
+		
+		itloc_serican_siegecraft = {
+			allow = {
+				tag = SRC
 			}
 			effect = { 
 				on_age_ability_taken = { age = age_of_reformation }
 			}
 			modifier = {
 				artillery_power = 0.15
-				num_of_age_rewards = 1
-			}
-			ai_will_do = {
-				factor = 100
-			}
-		}
-		
-		ab_polish_legitimacy = {
-			allow = {
-				OR = {
-					tag = PLC
-					tag = POL
-					custom_trigger_tooltip = {
-						tooltip = enable_this_ability_tt
-						has_country_flag = unlock_polish_ability_flag
-					}
-				}
-			}
-			effect = { 
-				on_age_ability_taken = { age = age_of_reformation }
-			}
-			modifier = {
-				global_trade_goods_size_modifier = 0.33
-				num_of_age_rewards = 1
-			}
-			ai_will_do = {
-				factor = 100
-			}
-		}
-		
-		ab_persia_development = {
-			allow = {
-				OR = {
-					custom_trigger_tooltip = {
-						tooltip = unlocked_this_ab_tt
-						has_country_flag = enable_persian_age_ability_flag
-					}
-					tag = PER
-					tag = ERS
-					AND = {
-						culture_group = iranian
-						government_rank = 3
-						NOT = { tag = MUG }
-					}
-				}
-			}
-			effect = { 
-				on_age_ability_taken = { age = age_of_reformation }
-			}
-			modifier = {
-				development_cost = -0.2
 				num_of_age_rewards = 1
 			}
 			ai_will_do = {
@@ -812,50 +869,16 @@ age_of_reformation = {
 		# 		factor = 100
 		# 	}
 		# }
-		ase_muslim_jihad = {
+
+		itloc_crossroads_of_the_world = {
 			allow = {
-				religion_group = muslim
-			}
-			effect = {
-				on_age_ability_taken = { age = age_of_reformation }
-				custom_tooltip = muslim_jihad_tt
-				set_country_flag = muslim_jihad_flag
-			}
-			modifier = {
-				num_of_age_rewards = 1
-			}
-			ai_will_do = {
-				factor = 100
-			}
-		}
-		ase_confessionalism = {
-			allow = {
-				religion_group = christian
-				NOT = { religion = orthodox }
-				NOT = { religion = coptic }
+				tag = KEM
 			}
 			effect = {
 				on_age_ability_taken = { age = age_of_reformation }
 			}
 			modifier = {
-				church_power_modifier = 0.15
-				curia_powers_cost = -0.20
-				monthly_fervor_increase = 1
-				num_of_age_rewards = 1
-			}
-			ai_will_do = {
-				factor = 100
-			}
-		}
-		ase_dharmic_syncretism = {
-			allow = {
-				religion_group = dharmic
-			}
-			effect = {
-				on_age_ability_taken = { age = age_of_reformation }
-			}
-			modifier = {
-				tolerance_heathen = 2
+				global_trade_goods_size_modifier = 0.33
 				num_of_age_rewards = 1
 			}
 			ai_will_do = {
@@ -863,115 +886,153 @@ age_of_reformation = {
 			}
 		}
 
-		ase_bavaria_centralisation = {
+		itloc_heart_of_the_mediterranean = {
 			allow = {
-				tag = BAV
+				tag = TUS
 			}
 			effect = {
 				on_age_ability_taken = { age = age_of_reformation }
 			}
 			modifier = {
-				global_autonomy = -0.3
+				trade_steering = 0.25
 				num_of_age_rewards = 1
 			}
 			ai_will_do = {
 				factor = 100
 			}
 		}
-		ase_brandenburg_war_commissariat = {
+
+		itloc_deals_with_the_haumenn = {
 			allow = {
-				tag = BRA
+				tag = GAU
 			}
 			effect = {
 				on_age_ability_taken = { age = age_of_reformation }
 			}
 			modifier = {
-				war_taxes_cost_modifier = -1.0
+				cb_on_primitives = yes
 				num_of_age_rewards = 1
 			}
 			ai_will_do = {
 				factor = 100
 			}
 		}
-		ase_palatinate_court = {
+
+		itloc_charaphracts = {
 			allow = {
-				tag = PAL
+				tag = KUS
 			}
 			effect = {
 				on_age_ability_taken = { age = age_of_reformation }
 			}
 			modifier = {
-				diplomatic_upkeep = 2
+				land_morale = 0.15
 				num_of_age_rewards = 1
 			}
 			ai_will_do = {
 				factor = 100
 			}
 		}
-		ase_papal_warrior = {
+
+		itloc_nibufu_inspired_ships = {
 			allow = {
-				tag = PAP
+				tag = JAP
 			}
 			effect = {
 				on_age_ability_taken = { age = age_of_reformation }
 			}
 			modifier = {
-				leader_land_shock = 1
-				enforce_religion_cost = -0.15
+				range = 0.6
 				num_of_age_rewards = 1
 			}
 			ai_will_do = {
 				factor = 100
 			}
 		}
-		ase_saxony_piety = {
-			allow = {
-				tag = SAX
-			}
-			effect = {
-				on_age_ability_taken = { age = age_of_reformation }
-			}
-			modifier = {
-				tolerance_own = 3
-				num_of_age_rewards = 1
-			}
-			ai_will_do = {
-				factor = 100
-			}
-		}
-		ase_switzerland_neutrality = {
-			allow = {
-				tag = SWI
-			}
-			effect = {
-				on_age_ability_taken = { age = age_of_reformation }
-			}
-			modifier = {
-				improve_relation_modifier = 0.30
-				num_of_age_rewards = 1
-			}
-			ai_will_do = {
-				factor = 100
-			}
-		}
-		ase_taungu_military_reforms = {
-			allow = {
-				OR = {
-					tag = TAU
-					primary_culture = burmese
-				}
-			}
-			effect = {
-				on_age_ability_taken = { age = age_of_reformation }
-			}
-			modifier = {
-				infantry_power = 0.20
-				num_of_age_rewards = 1
-			}
-			ai_will_do = {
-				factor = 100
-			}
-		}
+
+		# ase_palatinate_court = {
+		# 	allow = {
+		# 		tag = PAL
+		# 	}
+		# 	effect = {
+		# 		on_age_ability_taken = { age = age_of_reformation }
+		# 	}
+		# 	modifier = {
+		# 		diplomatic_upkeep = 2
+		# 		num_of_age_rewards = 1
+		# 	}
+		# 	ai_will_do = {
+		# 		factor = 100
+		# 	}
+		# }
+
+		# ase_papal_warrior = {
+		# 	allow = {
+		# 		tag = PAP
+		# 	}
+		# 	effect = {
+		# 		on_age_ability_taken = { age = age_of_reformation }
+		# 	}
+		# 	modifier = {
+		# 		leader_land_shock = 1
+		# 		enforce_religion_cost = -0.15
+		# 		num_of_age_rewards = 1
+		# 	}
+		# 	ai_will_do = {
+		# 		factor = 100
+		# 	}
+		# }
+
+		# ase_saxony_piety = {
+		# 	allow = {
+		# 		tag = SAX
+		# 	}
+		# 	effect = {
+		# 		on_age_ability_taken = { age = age_of_reformation }
+		# 	}
+		# 	modifier = {
+		# 		tolerance_own = 3
+		# 		num_of_age_rewards = 1
+		# 	}
+		# 	ai_will_do = {
+		# 		factor = 100
+		# 	}
+		# }
+
+		# ase_switzerland_neutrality = {
+		# 	allow = {
+		# 		tag = SWI
+		# 	}
+		# 	effect = {
+		# 		on_age_ability_taken = { age = age_of_reformation }
+		# 	}
+		# 	modifier = {
+		# 		improve_relation_modifier = 0.30
+		# 		num_of_age_rewards = 1
+		# 	}
+		# 	ai_will_do = {
+		# 		factor = 100
+		# 	}
+		# }
+		
+		# ase_taungu_military_reforms = {
+		# 	allow = {
+		# 		OR = {
+		# 			tag = TAU
+		# 			primary_culture = burmese
+		# 		}
+		# 	}
+		# 	effect = {
+		# 		on_age_ability_taken = { age = age_of_reformation }
+		# 	}
+		# 	modifier = {
+		# 		infantry_power = 0.20
+		# 		num_of_age_rewards = 1
+		# 	}
+		# 	ai_will_do = {
+		# 		factor = 100
+		# 	}
+		# }
 	
 	}
 }

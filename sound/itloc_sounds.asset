@@ -8,3 +8,8 @@ sound = {
 	file = "age_of_expansion.wav"
 	always_load = yes
 }
+sound = {
+	name = age_of_exploration
+	file = "age_of_exploration.wav"
+	always_load = yes
+}

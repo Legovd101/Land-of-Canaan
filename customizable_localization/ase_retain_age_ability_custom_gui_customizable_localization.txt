@@ -64,15 +64,15 @@ defined_text = {
 
 	text = {
 		trigger = {
-			current_age = age_of_reformation
+			current_age = age_of_exploration
 		}
-		localisation_key = age_of_discovery
+		localisation_key = age_of_expansion
 	}
 	text = {
 		trigger = {
 			current_age = age_of_absolutism
 		}
-		localisation_key = age_of_reformation
+		localisation_key = age_of_exploration
 	}
 	text = {
 		trigger = {
@@ -84,7 +84,7 @@ defined_text = {
 		trigger = {
 			always = yes
 		}
-		localisation_key = age_of_discovery
+		localisation_key = age_of_expansion
 	}
 }
 
@@ -95,14 +95,14 @@ defined_text = {
 	# Age of Reformation
 	text = {
 		trigger = {
-			current_age = age_of_reformation
+			current_age = age_of_exploration
 			is_variable_equal = { which = ase_retain_age_ability_page value = 1 }
 		}
 		localisation_key = ab_justified_wars
 	}
 	text = {
 		trigger = {
-			current_age = age_of_reformation
+			current_age = age_of_exploration
 			is_variable_equal = { which = ase_retain_age_ability_page value = 2 }
 		}
 		localisation_key = itloc_malleable_borders
@@ -120,7 +120,7 @@ defined_text = {
 			current_age = age_of_absolutism
 			is_variable_equal = { which = ase_retain_age_ability_page value = 2 }
 		}
-		localisation_key = ab_institution_spread_from_true_faith
+		localisation_key = itloc_colonial_integration
 	}
 	text = {
 		trigger = {
@@ -166,14 +166,14 @@ defined_text = {
 	# Age of Reformation
 	text = {
 		trigger = {
-			current_age = age_of_reformation
+			current_age = age_of_exploration
 			is_variable_equal = { which = ase_retain_age_ability_page value = 1 }
 		}
 		localisation_key = ase_retain_age_ability_effects_ab_justified_wars
 	}
 	text = {
 		trigger = {
-			current_age = age_of_reformation
+			current_age = age_of_exploration
 			is_variable_equal = { which = ase_retain_age_ability_page value = 2 }
 		}
 		localisation_key = ase_retain_age_ability_effects_ase_glorious_renaissance
@@ -237,14 +237,14 @@ defined_text = {
 	# Age of Reformation
 	text = {
 		trigger = {
-			current_age = age_of_reformation
+			current_age = age_of_exploration
 			is_variable_equal = { which = ase_retain_age_ability_page value = 1 }
 		}
 		localisation_key = ase_retain_age_ability_picture_ab_justified_wars
 	}
 	text = {
 		trigger = {
-			current_age = age_of_reformation
+			current_age = age_of_exploration
 			is_variable_equal = { which = ase_retain_age_ability_page value = 2 }
 		}
 		localisation_key = ase_retain_age_ability_picture_ase_glorious_renaissance
@@ -309,14 +309,14 @@ defined_text = {
 	# Age of Reformation
 	text = {
 		trigger = {
-			current_age = age_of_reformation
+			current_age = age_of_exploration
 			is_variable_equal = { which = ase_retain_age_ability_page value = 1 }
 		}
 		localisation_key = ab_free_war_taxes
 	}
 	text = {
 		trigger = {
-			current_age = age_of_reformation
+			current_age = age_of_exploration
 			is_variable_equal = { which = ase_retain_age_ability_page value = 2 }
 		}
 		localisation_key = ase_ruling_dynasty
@@ -327,14 +327,14 @@ defined_text = {
 			current_age = age_of_absolutism
 			is_variable_equal = { which = ase_retain_age_ability_page value = 1 }
 		}
-		localisation_key = ab_warscore_vs_religion
+		localisation_key = itloc_wonders_of_exploration
 	}
 	text = {
 		trigger = {
 			current_age = age_of_absolutism
 			is_variable_equal = { which = ase_retain_age_ability_page value = 2 }
 		}
-		localisation_key = ab_prestige_per_development_from_conversion
+		localisation_key = itloc_foreign_herbology
 	}
 	# Age of Revolutions
 	text = {
@@ -373,14 +373,14 @@ defined_text = {
 	# Age of Reformation
 	text = {
 		trigger = {
-			current_age = age_of_reformation
+			current_age = age_of_exploration
 			is_variable_equal = { which = ase_retain_age_ability_page value = 1 }
 		}
 		localisation_key = ase_retain_age_ability_effects_ab_free_war_taxes
 	}
 	text = {
 		trigger = {
-			current_age = age_of_reformation
+			current_age = age_of_exploration
 			is_variable_equal = { which = ase_retain_age_ability_page value = 2 }
 		}
 		localisation_key = ase_retain_age_ability_effects_ase_ruling_dynasty
@@ -437,14 +437,14 @@ defined_text = {
 	# Age of Reformation
 	text = {
 		trigger = {
-			current_age = age_of_reformation
+			current_age = age_of_exploration
 			is_variable_equal = { which = ase_retain_age_ability_page value = 1 }
 		}
 		localisation_key = ase_retain_age_ability_picture_ab_free_war_taxes
 	}
 	text = {
 		trigger = {
-			current_age = age_of_reformation
+			current_age = age_of_exploration
 			is_variable_equal = { which = ase_retain_age_ability_page value = 2 }
 		}
 		localisation_key = ase_retain_age_ability_picture_ase_ruling_dynasty
@@ -499,17 +499,17 @@ defined_text = {
 	name = GetAseRetainAgeAbilityName3
 	random = no
 
-	# Age of Reformation
+	# Age of Exploration
 	text = {
 		trigger = {
-			current_age = age_of_reformation
+			current_age = age_of_exploration
 			is_variable_equal = { which = ase_retain_age_ability_page value = 1 }
 		}
 		localisation_key = itloc_concentrated_investments
 	}
 	text = {
 		trigger = {
-			current_age = age_of_reformation
+			current_age = age_of_exploration
 			is_variable_equal = { which = ase_retain_age_ability_page value = 2 }
 		}
 		localisation_key = ab_attack_bonus_in_capital_terrain
@@ -520,14 +520,14 @@ defined_text = {
 			current_age = age_of_absolutism
 			is_variable_equal = { which = ase_retain_age_ability_page value = 1 }
 		}
-		localisation_key = ab_mercenary_discipline
+		localisation_key = itloc_mercantile_ventures
 	}
 	text = {
 		trigger = {
 			current_age = age_of_absolutism
 			is_variable_equal = { which = ase_retain_age_ability_page value = 2 }
 		}
-		localisation_key = ase_muslim_jihad
+		localisation_key = itloc_colonial_exodus
 	}
 	# Age of Revolutions
 	text = {
@@ -559,14 +559,14 @@ defined_text = {
 	# Age of Reformation
 	text = {
 		trigger = {
-			current_age = age_of_reformation
+			current_age = age_of_exploration
 			is_variable_equal = { which = ase_retain_age_ability_page value = 1 }
 		}
 		localisation_key = ase_retain_age_ability_effects_ab_cavalry_armies
 	}
 	text = {
 		trigger = {
-			current_age = age_of_reformation
+			current_age = age_of_exploration
 			is_variable_equal = { which = ase_retain_age_ability_page value = 2 }
 		}
 		localisation_key = ase_retain_age_ability_effects_ab_attack_bonus_in_capital_terrain
@@ -616,14 +616,14 @@ defined_text = {
 	# Age of Reformation
 	text = {
 		trigger = {
-			current_age = age_of_reformation
+			current_age = age_of_exploration
 			is_variable_equal = { which = ase_retain_age_ability_page value = 1 }
 		}
 		localisation_key = ase_retain_age_ability_picture_ab_cavalry_armies
 	}
 	text = {
 		trigger = {
-			current_age = age_of_reformation
+			current_age = age_of_exploration
 			is_variable_equal = { which = ase_retain_age_ability_page value = 2 }
 		}
 		localisation_key = ase_retain_age_ability_picture_ab_attack_bonus_in_capital_terrain
@@ -674,14 +674,14 @@ defined_text = {
 	# Age of Reformation
 	text = {
 		trigger = {
-			current_age = age_of_reformation
+			current_age = age_of_exploration
 			is_variable_equal = { which = ase_retain_age_ability_page value = 1 }
 		}
 		localisation_key = itloc_meticulous_urban_planning
 	}
 	text = {
 		trigger = {
-			current_age = age_of_reformation
+			current_age = age_of_exploration
 			is_variable_equal = { which = ase_retain_age_ability_page value = 2 }
 		}
 		localisation_key = itloc_efficient_recruiting
@@ -699,7 +699,7 @@ defined_text = {
 			current_age = age_of_absolutism
 			is_variable_equal = { which = ase_retain_age_ability_page value = 2 }
 		}
-		localisation_key = ase_confessionalism
+		localisation_key = itloc_effective_colonial_management
 	}
 	# Age of Revolutions
 	text = {
@@ -731,14 +731,14 @@ defined_text = {
 	# Age of Reformation
 	text = {
 		trigger = {
-			current_age = age_of_reformation
+			current_age = age_of_exploration
 			is_variable_equal = { which = ase_retain_age_ability_page value = 1 }
 		}
 		localisation_key = ase_retain_age_ability_effects_ab_colony_boost_development
 	}
 	text = {
 		trigger = {
-			current_age = age_of_reformation
+			current_age = age_of_exploration
 			is_variable_equal = { which = ase_retain_age_ability_page value = 2 }
 		}
 		localisation_key = ase_retain_age_ability_effects_ase_exploration_corp
@@ -788,14 +788,14 @@ defined_text = {
 	# Age of Reformation
 	text = {
 		trigger = {
-			current_age = age_of_reformation
+			current_age = age_of_exploration
 			is_variable_equal = { which = ase_retain_age_ability_page value = 1 }
 		}
 		localisation_key = ase_retain_age_ability_picture_ab_colony_boost_development
 	}
 	text = {
 		trigger = {
-			current_age = age_of_reformation
+			current_age = age_of_exploration
 			is_variable_equal = { which = ase_retain_age_ability_page value = 2 }
 		}
 		localisation_key = ase_retain_age_ability_picture_ase_exploration_corp

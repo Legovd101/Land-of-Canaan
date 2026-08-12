@@ -1529,7 +1529,7 @@ country_event = {
 		capital_scope = { continent = europe }
 		dip_tech = 12
 		OR = {
-			current_age = age_of_reformation #Not before this
+			current_age = age_of_exploration #Not before this
 			current_age = age_of_absolutism
 			current_age = age_of_revolutions
 		}
@@ -2437,7 +2437,7 @@ country_event = {
 
 	trigger = {
 		NOT = { has_global_flag = brazilian_gems_happened }
-		NOT = { current_age = age_of_discovery }
+		NOT = { current_age = age_of_expansion }
 		primitives = no
 		any_owned_province = {
 			trade_goods = gems
