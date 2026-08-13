@@ -2,6 +2,9 @@
 latent_trade_goods = { 
 	coal 
 }
+owner = MSA
+controller = MSA
+add_core = MSA
 culture = sumatran
 religion = hinduism
 capital = "Bengkulu"

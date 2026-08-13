@@ -3,6 +3,7 @@ add_government_reform = steppe_horde
 primary_culture = korean
 religion = confucianism
 add_harmonized_religion = mahayana
+add_harmonized_religion = korean_shamanism
 technology_group = chinese
 capital = 726
 1393.1.1 = { 

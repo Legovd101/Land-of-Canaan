@@ -1,6 +1,7 @@
 #627 - Blambangan
-owner = BLM
-controller = BLM
+owner = MSA
+controller = MSA
+add_core = MSA
 add_core = BLM
 culture = javanese
 religion = hinduism

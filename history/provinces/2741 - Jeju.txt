@@ -1,9 +1,9 @@
 #2740 - Jeju
 owner = SAI
 controller = SAI
-culture = chibokuan
-religion = confucianism
-capital = "Jeju"
+culture = tsukushi
+religion = shinto
+capital = "Saishu"
 trade_goods = tropical_wood
 base_tax = 1
 base_production = 1

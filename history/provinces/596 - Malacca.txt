@@ -2,7 +2,7 @@
 owner = MSA
 controller = MSA
 culture = malayan
-religion = hindu
+religion = hinduism
 capital = "Melaka"
 trade_goods = elephants
 base_tax = 7

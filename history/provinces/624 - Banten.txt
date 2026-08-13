@@ -1,6 +1,7 @@
 #624 - Banten
-owner = SUN
-controller = SUN
+owner = MSA
+controller = MSA
+add_core = MSA
 add_core = SUN
 culture = sundanese
 religion = hinduism

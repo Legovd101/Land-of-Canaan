@@ -1,6 +1,7 @@
 #2692 - Madura
-owner = MAJ
-controller = MAJ
+owner = MSA
+controller = MSA
+add_core = MSA
 add_core = MAJ
 culture = javanese
 religion = hinduism

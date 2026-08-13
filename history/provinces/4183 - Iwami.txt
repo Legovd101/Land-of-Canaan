@@ -2,7 +2,7 @@
 owner = OUC
 controller = OUC
 culture = iwami
-religion = shinto
+religion = imperial_cult
 capital = "Hamada"
 trade_goods = fish
 base_tax = 4

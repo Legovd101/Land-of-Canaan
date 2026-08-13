@@ -1,6 +1,7 @@
 #2709 - Tarakan
-owner = BEU
-controller = BEU
+owner = MSA
+controller = MSA
+add_core = MSA
 culture = bornean
 religion = hinduism
 capital = "Tarakan"

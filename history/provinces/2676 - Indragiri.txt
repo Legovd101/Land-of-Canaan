@@ -1,6 +1,7 @@
 #2676 - Indragiri
-owner = SAK
-controller = SAK
+owner = MSA
+controller = MSA
+add_core = MSA
 culture = sumatran
 religion = hinduism
 capital = "Indragiri"

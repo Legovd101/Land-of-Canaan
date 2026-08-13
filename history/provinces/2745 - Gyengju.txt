@@ -1,8 +1,8 @@
 #2744 - Gyeongsang
 owner = OUC
 controller = OUC
-culture = chibokuan
-religion = confucianism
+culture = honshujin
+religion = shinto
 capital = "Gyeongju"
 trade_goods = gunpowder
 base_tax = 5

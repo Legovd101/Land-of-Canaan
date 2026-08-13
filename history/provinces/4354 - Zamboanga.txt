@@ -1,4 +1,7 @@
 #4354 - Zamboanga
+owner = MSA
+controller = MSA
+add_core = MSA
 culture = filipino
 religion = animism
 capital = "Zamboanga"

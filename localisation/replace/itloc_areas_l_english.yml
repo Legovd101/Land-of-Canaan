@@ -875,6 +875,35 @@
  perehi_area: "Perehi"
  perehi_area_adj: "Perehe"
 
-# KOREA
- western_korea_area: "Kokaishu"
- western_korea_area_adj: "Kokaijin"
+# KOREA/Honshu
+ western_korea_area: "Chiboku"
+ western_korea_area_adj: "Chibokuan"
+ midwest_korea_area: "Kansai"
+ midwest_korea_area_adj: "Kansaian"
+ pyongan_area: "Kitakuni"
+ pyongan_area_adj: "Kitakuan"
+ hamgyeong_area: "Okcho"
+ hamgyeong_area_adj: "Okchoan"
+ central_korea_area: "Chuoku"
+ central_korea_area_adj: "Chuokuan"
+ eastern_korea_area: "Hokuriku"
+ eastern_korea_area_adj: "Hokurikuan"
+ south_korea_area: "Tatsu"
+ south_korea_area_adj: "Tatsuan"
+ mideast_korea_area: "Yamasuso" 
+ mideast_korea_area_adj: "Yamasusoan" 
+ southeast_korea_area: "Honshu" 
+ southeast_korea_area_adj: "Honshuan" 
+
+
+# JAPAN
+ northern_kyushu: "Northern Tsukushi"
+ northern_kyushu_adj: "Northern Tsukushian"
+ central_kyushu_area: "Central Tsukushi"
+ central_kyushu_area_adj: "Central Tsukushian"
+ kyushu_area: "Southern Tsukushi"
+ kyushu_area_adj: "Southern Tsukushian"
+ south_shikoku_area: "South Iyo"
+ south_shikoku_area_adj: "South Iyoan"
+ shikoku_area: "North Iyo"
+ shikoku_area_adj: "North Iyoan"

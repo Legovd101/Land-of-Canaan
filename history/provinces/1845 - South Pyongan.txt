@@ -2,7 +2,7 @@
 owner = KTK
 controller = KTK
 culture = kitakuan
-religion = confucianism
+religion = mahayana
 capital = "Pyeongyang"
 trade_goods = jade
 base_tax = 3

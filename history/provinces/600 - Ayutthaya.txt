@@ -1,6 +1,6 @@
 #600 - Ayutthaya
-owner = AYU
-controller = AYU
+owner = SIM
+controller = SIM
 culture = mon
 religion = buddhism
 capital = "Ayutthaya"
@@ -9,7 +9,7 @@ base_tax = 8
 base_production = 8
 base_manpower = 4
 is_city = yes
-add_core = AYU
+add_core = SIM
 discovered_by = chinese
 discovered_by = indian
 extra_cost = 16

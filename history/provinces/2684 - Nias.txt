@@ -1,4 +1,7 @@
 #2684 - Nias
+owner = MSA
+controller = MSA
+add_core = MSA
 culture = sumatran
 religion = hinduism
 capital = "Nias"

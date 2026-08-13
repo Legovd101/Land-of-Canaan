@@ -1,6 +1,7 @@
 #2393 - Terengganu
-owner = KEL
-controller = KEL
+owner = MSA
+controller = MSA
+add_core = MSA
 culture = malayan
 religion = mahayana
 capital = "Terengganu"

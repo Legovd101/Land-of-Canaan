@@ -1,6 +1,7 @@
 #2390 - Chaiya
-owner = LIG
-controller = LIG
+owner = MSA
+controller = MSA
+add_core = MSA
 culture = malayan
 religion = buddhism
 capital = "Chaiya"

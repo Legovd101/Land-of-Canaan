@@ -1,6 +1,7 @@
 #2392 - Selangor
-owner = MLC
-controller = MLC
+owner = MSA
+controller = MSA
+add_core = MSA
 culture = malayan
 religion = mahayana
 capital = "Kelang"

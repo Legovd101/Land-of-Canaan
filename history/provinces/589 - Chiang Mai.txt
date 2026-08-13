@@ -1,6 +1,6 @@
 #589 - Chiang Mai
-owner = LNA
-controller = LNA
+owner = VPS
+controller = VPS
 culture = northern_thai
 religion = buddhism
 capital = "Chiang Mai"
@@ -9,7 +9,7 @@ base_tax = 7
 base_production = 5
 base_manpower = 5
 is_city = yes
-add_core = LNA
+add_core = VPS
 add_permanent_province_modifier = { 
 	name = emerald_buddha
 	duration = -1

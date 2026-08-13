@@ -1,6 +1,7 @@
 #631 - Bali
-owner = BLI
-controller = BLI
+owner = MSA
+controller = MSA
+add_core = MSA
 add_core = BLI
 culture = nusa_tenggara
 religion = hinduism

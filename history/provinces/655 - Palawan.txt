@@ -1,4 +1,7 @@
 #655 - Palawan
+owner = MSA
+controller = MSA
+add_core = MSA
 culture = filipino
 religion = animism
 capital = "Palawan"

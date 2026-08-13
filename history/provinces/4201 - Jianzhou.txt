@@ -2,7 +2,7 @@
 owner = KOR
 controller = KOR
 culture = korean
-religion = confucianism
+religion = korean_shamanism
 capital = "Jianzhou"
 trade_goods = fur
 base_tax = 4

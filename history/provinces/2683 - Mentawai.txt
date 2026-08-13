@@ -1,4 +1,7 @@
 #2683 - Mentawai
+owner = MSA
+controller = MSA
+add_core = MSA
 culture = sumatran
 religion = hinduism
 capital = "Mentawai"

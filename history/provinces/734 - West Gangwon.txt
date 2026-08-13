@@ -1,7 +1,7 @@
 #734 - Wonju
 owner = CUS
 controller = CUS
-culture = chuokuan
+culture = kansaijin
 religion = mahayana
 capital = "Wonju"
 trade_goods = lumber

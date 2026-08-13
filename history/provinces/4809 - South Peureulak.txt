@@ -1,5 +1,6 @@
-owner = PSA
-controller = PSA
+owner = MSA
+controller = MSA
+add_core = MSA
 culture = acehnese
 religion = buddhism
 capital = "Langkat"

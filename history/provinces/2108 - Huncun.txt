@@ -2,7 +2,7 @@
 owner = RDM
 controller = RDM
 culture = korean
-religion = confucianism
+religion = korean_shamanism
 capital = "Huncun"
 trade_goods = lumber
 base_tax = 5

@@ -1,6 +1,7 @@
 #2677 - Jambi
-owner = JMB
-controller = JMB
+owner = MSA
+controller = MSA
+add_core = MSA
 culture = sumatran
 religion = hinduism
 capital = "Jambi"

@@ -1,6 +1,6 @@
 #1016 - Ha Tinh
-owner = DAI
-controller = DAI
+owner = LNY
+controller = LNY
 culture = cham
 religion = mahayana
 capital = "Ha Tinh"
@@ -9,8 +9,8 @@ base_tax = 5
 base_production = 3
 base_manpower = 3
 is_city = yes
-add_core = DAI
-add_core = ANN
+add_core = KRN
+add_core = LNY
 discovered_by = chinese
 discovered_by = indian
 discovered_by = muslim

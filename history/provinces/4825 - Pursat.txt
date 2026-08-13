@@ -1,5 +1,5 @@
-owner = KHM
-controller = KHM
+owner = KH2
+controller = KH2
 culture = khmer
 religion = buddhism
 capital = "Pursat"
@@ -8,6 +8,6 @@ base_tax = 3
 base_production = 3
 base_manpower = 2
 is_city = yes
-add_core = KHM
+add_core = KH2
 discovered_by = chinese
 discovered_by = indian

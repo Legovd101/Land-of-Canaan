@@ -1,6 +1,6 @@
 #616 - Cao Bang
-owner = DAI
-controller = DAI
+owner = PHU
+controller = PHU
 culture = zhuang
 religion = moism
 capital = "Cao Bang"
@@ -9,7 +9,6 @@ base_tax = 2
 base_production = 2
 base_manpower = 3
 is_city = yes
-add_core = DAI
-add_core = TOK
+add_core = PHU
 discovered_by = chinese
 discovered_by = indian

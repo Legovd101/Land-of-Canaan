@@ -1,4 +1,7 @@
 #4356 - Taytay
+owner = MSA
+controller = MSA
+add_core = MSA
 culture = filipino
 religion = animism
 capital = "Taytay"

@@ -1,6 +1,6 @@
 #585 - Toungoo
-owner = TAU
-controller = TAU
+owner = SAD
+controller = SAD
 culture = paoo
 religion = buddhism
 capital = "Toungoo"
@@ -9,6 +9,6 @@ base_tax = 5
 base_production = 5
 base_manpower = 4
 is_city = yes
-add_core = TAU
+add_core = SAD
 discovered_by = chinese
 discovered_by = indian

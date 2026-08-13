@@ -1,6 +1,6 @@
 #4399 - Dagon
-owner = PEG
-controller = PEG
+owner = SAD
+controller = SAD
 culture = mon
 religion = buddhism
 capital = "Dagon"
@@ -9,7 +9,7 @@ base_tax = 5
 base_production = 3
 base_manpower = 3
 is_city = yes
-add_core = PEG
+add_core = SAD
 discovered_by = chinese
 discovered_by = indian
 discovered_by = muslim

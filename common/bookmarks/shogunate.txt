@@ -1,0 +1,6 @@
+bookmark = {
+	name = "HONSHU_SHOGUNATE"
+	desc = "HONSHU_SHOGUNATE_DESC"
+	date = "1444.11.11"
+	center = 735
+}

@@ -24,3 +24,43 @@ beit_abba_reform = {
 		factor = 0.5 #generic
 	}
 }
+
+
+izanagi_court_reform = {
+	icon = "shogunate"
+	allow_normal_conversion = yes
+	potential = {
+		OR = {
+			tag = AOC
+			was_tag = AOC
+			has_reform = izanagi_court_reform
+			have_had_reform = izanagi_court_reform
+		}
+	}
+	valid_for_nation_designer = yes
+	nation_designer_cost = 0
+	nation_designer_trigger = {
+		culture_group = japanese_g
+		technology_group = chinese
+		capital_scope = { region = japan_region }
+	}
+	maintain_dynasty = yes
+	allow_vassal_war = yes
+	allow_vassal_alliance = yes
+	lock_level_when_selected = yes
+	can_change_primary_culture = no
+	queen = yes
+	royal_marriage = yes
+
+	modifiers = {
+		diplomats = 1
+		envoy_travel_time = -0.25
+		max_absolutism = 5
+		amount_of_samurai = 10
+		has_samurai = yes
+	}
+
+	custom_attributes = {
+		locked_government_type = yes
+	}
+}

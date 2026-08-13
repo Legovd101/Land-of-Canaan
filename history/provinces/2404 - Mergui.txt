@@ -1,6 +1,6 @@
 #2404 - Mergui
-owner = AYU
-controller = AYU
+owner = SVP
+controller = SVP
 culture = mon
 religion = buddhism
 capital = "Mergui"
@@ -9,7 +9,7 @@ base_tax = 4
 base_production = 4
 base_manpower = 2
 is_city = yes
-add_core = AYU
+add_core = SVP
 discovered_by = chinese
 discovered_by = indian
 discovered_by = muslim

@@ -1,6 +1,6 @@
 #615 - Luang Prabang
-owner = LXA
-controller = LXA
+owner = NAN
+controller = NAN
 culture = northern_thai
 religion = animism
 capital = "Xieng Tong"
@@ -9,7 +9,7 @@ base_tax = 4
 base_production = 4
 base_manpower = 3
 is_city = yes
-add_core = LXA
-add_core = LUA
+add_core = NAN
+add_core = SIT
 discovered_by = chinese
 discovered_by = indian

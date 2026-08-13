@@ -1,5 +1,6 @@
-owner = DLI
-controller = DLI
+owner = MSA
+controller = MSA
+add_core = MSA
 culture = sumatran
 religion = buddhism
 capital = "Deli"

@@ -1,5 +1,6 @@
-owner = MLC
-controller = MLC
+owner = MSA
+controller = MSA
+add_core = MSA
 culture = malayan
 religion = vajrayana
 capital = "Singapura"

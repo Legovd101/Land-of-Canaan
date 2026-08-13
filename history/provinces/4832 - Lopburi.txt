@@ -1,5 +1,5 @@
-owner = AYU
-controller = AYU
+owner = SIM
+controller = SIM
 culture = vietnamese
 religion = buddhism
 capital = "Lopburi"
@@ -8,7 +8,7 @@ base_tax = 3
 base_production = 3
 base_manpower = 3
 is_city = yes
-add_core = AYU
+add_core = SIM
 discovered_by = chinese
 discovered_by = indian
 discovered_by = muslim

@@ -1,6 +1,7 @@
 #638 - Kutai
-owner = KUT
-controller = KUT
+owner = MSA
+controller = MSA
+add_core = MSA
 culture = bornean
 religion = hinduism
 capital = "Kutai"

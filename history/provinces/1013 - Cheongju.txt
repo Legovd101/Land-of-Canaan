@@ -1,7 +1,7 @@
 #1013 - Cheongju
 owner = TKS
 controller = TKS
-culture = chuokuan
+culture = tatsujin
 religion = confucianism
 capital = "Cheongju"
 trade_goods = rice
