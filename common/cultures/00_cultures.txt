@@ -10246,29 +10246,34 @@ gallic = {
 		primary = FRA
 	}
 	male_names = {
-		Wilhelm Ludwig Friedrich Hermann Karl Moritz Philipp Heinrich Otto Adolf Christian Georg Leopold 
-		Philipp Adelmar Albrecht Barnabas Denis Egon Erich Gerhard Gottlieb Gregor Hagan Helmut Isaak Isidor 
-		Joachim Joseph Kreszens Lothar Oskar Siegfried Stefan Thomas Wenzel Werner Wolfram Maximilian Ivo
+		Acarius Acfred Acfrid Aclefrid Aclulf Adald Adaldus Adalger Agofredus Alcuin
+		Amalgar Amblard Angalramnus Angelramnus Angilrammus Annemund Austrovald Autbert
+		Baudelius Berchar Bercharius Bertbert Bladast Bobo Boso Burgundofaro Chaganulf
+		Chariulf Chlodio Chramnelenus Chrodegang Clodion Clodoald Dulcedram Electulf
+		Fardinanth Fulko Gangulphus Gauzlin Genebald Genobaud Giso Gommarus Gozbert
+		Grifo Gummarus Hadelin Hildirik Hlodowig Hlodwig Hucbald Ingalramnus Ingerman
+		Ingilramnus Isarn Isoard Leodegarius Liphardus Mariwig Merovech Meroveus Nantelm
+		Narduin Nardwin Ragenfrid Remaclus Richemir Richomer Seliger Siclefrid Sigiranno
+		Sigisbold Ursmar Ursmarus Vaefar Vaneng Waldalenus Waningus Widradus Willigod
+		Wolvene Wulmar
 	}
 	female_names = {
-		Corinna Else Hedwig Helene Helen Hildegard Hildegard Hrothwina Ida Ida Imma Emma Irmgard Charlotte Chiara 
-		Christa Christel Christiane Christina Christine Clara Claudia Constanze
+		Aclehilde Acletrude Aclewalda Adalsindis Agilberta Aguilberte Albofledis Alpaïde
+		Alpaidis Altilde Amatilda Angadresma Ansegilde Ansgarde Aregunda Arngilde Audovère
+		Austregilde Bateuch Bathieult Begga Bernegilde Bertechildis Bertegilde Bertrade
+		Bertrude Betta Blitgilde Burgundofara Chimnechild Chlodosinda Chlothsind Chrothildis
+		Chunsina Clodoswinthe Closinde Deuteria Dhuoda Doda Dutberta Ehrentraud Engelberga
+		Ermentilde Evochilde Evochildis Faileube Frambalda Framberta Framengilde Fredegonda
+		Frédégonde Frederuna Frédérune Frederune Geilana Godlanda Gomentrude Guilla Gundelindis
+		Guntheuc Hafilda Haldetrude Hartgilde Hildegilde Hildigard Ingberta Ingoberga Ingund
+		Landelanda Lantilde Leubovera Leubovère Lintrude Liutgarde Madalgaria Marcovefa Monegundis
+		Nanthild Nanthilde Nanthildis Odelgilde Odétte Ragintrudis Rothilde Sadalberga Saidra
+		Saretrude Saroilde Sigrada Teudelinda Teutberga Théoda Théodrade Théoudehilde Ulphia
+		Ultrogotha Valdetrudis Wastrada Winegarde Winegilde Wisigardis Wulfefundis
 	}
 	dynasty_names = {
-		"Boeselager" "Jaworski" "Brauchitsch" "von Bülow" 
-		"von Calw" "von Cham" "von Steutzlingen" "von Wetterau" "von Julichgau" 
-		"von Helffenstein" "von Venis" "von Kyburg" "von Arbon" "von Urach" "von Cilli" "von Utlede" 
-		"von Kirchberg" "von Württemberg" "von Tübingen" "von Raabs" 
-		"zu Schwaben" "von Attems" "von Schweipünt" "von Saffenberg" "von Nörvenich" "von Querfurt" 
-		"Sieghardinger" "von Walbeck"
-		#Prussian
-		"von Knorring" "von Creytzen" Sack "von Taube" "Wöhrmann"
-		#Rheinlaender
-		"von Keller" "von der Mark" "von Wittelsbach" "von Baden" "Rotberg"
-		#Hessian
-		"von Frankenstein" "von Taube" "von Uffeln" "von Hessen" "von Boyneburg"
-		#Hannoveran
-		"von Schack" "von Fabrice" "von Hardenberg" "von Welf" "von Schauenburg" "von Holstein-Gottorp" "Askanier" "von Oldenburg"
+		"Akarid" "Bosonid" "Agilolfing" "Arduiniki" "Karoling" "Gundoining" "Ingelgering"
+		"Matfrieding" "Nibelungid" "Arnulfing" "Pippinid" "Ramnulfid" "Rorgonid" "Widonid"
 	}
 }
 

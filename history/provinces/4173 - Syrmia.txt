@@ -1,7 +1,7 @@
 #4173 - Syrmia
 owner = SAG
 controller = SAG
-religion = tengri_pagan
+religion = tengri_pagan_reformed
 capital = "Mitrovica"
 trade_goods = beer
 base_tax = 2

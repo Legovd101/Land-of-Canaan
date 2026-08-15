@@ -30,64 +30,95 @@ historical_units = {
 	napoleonic_lancers
 }
 monarch_names = { 
-	"Charles #0" = 80
-	"François #0" = 40
-	"Philippe #0" = 40
-	"Louis #3" = 20
-	"Pierre #1" = 20
-	"Engelbert #0" = 20
-	"Jacques #0" = 20
-	"Jean #0" = 20
-	"Jules #0" = 20
-	"Louis Jules #0" = 20
-	"Philippe Julien #0" = 20
-	"Philippe Jules #0" = 20
-	"Adolphe #0" = 10
-	"Fernand #0" = 10
-	"Frédéric #0" = 10
-	"Guillaume #5" = 5
-	"Henri #0" = 5
-	"Thierry #0" = 5
-	"Robert #3" = 1
-	"Rénaud #2" = 1
-	"Guy #1" = 1
-	"Hervé #1" = 1
-	"Alexandre #0" = 0
-	"Armand #0" = 0
-	"Barthélemy #0" = 0
-	"Bernard #0" = 0
-	"Claude #0" = 0
-	"Denis #0" = 0
-	"Étienne #0" = 0
-	"Gaston #0" = 0
-	"Georges #0" = 0
-	"Jean-Baptiste #0" = 0
-	"Joseph #0" = 0
-	"Marc #0" = 0
-	"Maurice #0" = 0
-	"Michel #0" = 0
-	"Nicolas #0" = 0
-	"Pierre #0" = 0
-	"Henriette #0" = -10
-	"Marie #0" = -10
-	"Mathilde #2" = -10# La Pléiade
-	"Yolande #2" = -10
-}
-ship_names = { 
-	"le Brinon" "le Cercy-la-Tour" "la Charité" "le Châtillon-en-Bazois" "le Chevenon" "le Clamecy" "le Corbigny" "le Cossaye" "le Decize" "le Dompierre"
-	"le Donzy" "le Dornes" "le Fourchambault" "le Fours" "le Frasnay-Reugny" "le Garchy" "le Coulanges" "le Guérigny" "l'Imphy" "la Machine"
-	"le Luthenay-Uxeloup" "le Luzy" "le Magny-Cours" "le Marzy" "le Menou" "le Montambert" "le Moulins-Engilbert" "le Nevers" "le Pouilly" "le Pougues"
-	"le Prémery" "le Saint-Aubin" "le Saint-Benin-d'Azy" "le Saint-Éloi" "le Saint-Franchy" "le Saint-Germain" "le Saint-Gratien-Savigny" "le Saint-Honoré" "le Saint-Imbert" "le Sainte-Marie"
-	"le Saint-Malo-en-Donziers" "le Saint-Ouen" "le Saint-Parize-en-Viry" "le Saint-Pierre-le-Moûtier" "le Saint-Révérien" "le Saint-Saulge" "le Tannay" "le Vandenesse" "le Varennes-Vauzelle" "le Varzy"
+	"Acarius #1" = 80
+	"Acfrid #0" = 30
+	"Adald #0" = 20
+	"Agofredus #0" = 10
+	"Amalgar #0" = 5
+	"Angalramnus #4" = 1
+	"Angilrammus #0" = 0
+	"Autbert #0" = 0
+	"Bercharius #0" = 0
+	"Bladast #0" = 0
+	"Burgundofaro #0" = 0
+	"Chariulf #0" = 0
+	"Chramnelenus #0" = 0
+	"Clodion #0" = 0
+	"Dulcedram #0" = 0
+	"Fardinanth #0" = 0
+	"Gangulphus #0" = 0
+	"Genobaud #0" = 0
+	"Gommarus #0" = 0
+	"Grifo #0" = 0
+	"Hadelin #0" = 0
+	"Hlodowig #0" = 0
+	"Hucbald #0" = 0
+	"Ingalramnus #0" = 0
+	"Isarn #0" = 0
+	"Liphardus #0" = 0
+	"Merovech #0" = 0
+	"Nantelm #0" = 0
+	"Nardwin #0" = 0
+	"Remaclus #0" = 0
+	"Seliger #0" = 0
+	"Sigisbold #0" = 0
+	"Ursmar #0" = 0
+	"Vaneng #0" = 0
+	"Widradus #0" = 0
+	"Wolvene #0" = 0
+	"Aclewalda #0" = -1
+	"Aguilberte #0" = -1
+	"Altilde #0" = -2
+	"Angadresma #0" = -1
+	"Aregunda #0" = -1
+	"Austregilde #0" = -1
+	"Begga #0" = -1
+	"Bertechildis #0" = -1
+	"Bertrade #0" = -1
+	"Blitgilde #0" = -1
+	"Chimnechild #0" = -1
+	"Chrothildis #0" = -1
+	"Clodoswinthe #0" = -1
+	"Dhuoda #0" = -1
+	"Ehrentraud #0" = -1
+	"Ermentilde #0" = -1
+	"Faileube #0" = -1
+	"Framengilde #0" = -1
+	"Frédégonde #0" = -1
+	"Frédérune #0" = -1
+	"Godlanda #0" = -1
+	"Guilla #0" = -1
+	"Hafilda #0" = -1
+	"Hildegilde #0" = -1
+	"Ingoberga #0" = -1
+	"Lantilde #0" = -1
+	"Leubovère #0" = -1
+	"Madalgaria #0" = -1
+	"Nanthild #0" = -1
+	"Odétte #0" = -1
+	"Rothilde #0" = -1
+	"Saidra #0" = -1
+	"Sigrada #0" = -1
+	"Teutberga #0" = -1
+	"Théodrade #0" = -1
+	"Ulphia #0" = -1
+	"Valdetrudis #0" = -1
+	"Winegarde #0" = -1
+	"Wulfefundis #0" = -1
 }
 leader_names = { 
-	d'Ailly d'Alixand "Andrault de Langeron" "Angrand d'Alleray" d'Anlezy d'Armes "de Bélanger" "de Berthier" "de Bèze" "de Bonnay"
-	"de Borniol" "de Bourgoing" "du Broc" "de Chabannes" "de Chassy" "de Chevenon" "de Damas" "Des Prez" "Éon de Beaumont" d'Estutt
-	"de la Ferté-Meun" Gascoing "de Gonzague" "de Husson" d'Inteville
-	"de La Boulaye" "de La Buxières" "La Vaux" "de Maulnoury" "de Maumigny" "de Mesgriny" "de Norry" "de Paris" Perreau "de Rémigny"
-	"de Rouffignac" "Rousseau de Chamoy" "de Saincy" "de Sainte-Maure" "de Saint-Verrain" "de Sandras" "de Sérent" Tenaille "de Toucy" "de Troussebois"
-	"Vaillant de Guélis" "de Vaux" "du Verne" "de Viau" "de Villars" 
+	"Acarius" "Acfrid" "Adald" "Agofredus" "Amalgar" "Angalramnus" "Angilrammus" "Autbert"
+	"Bercharius" "Bladast" "Burgundofaro" "Chariulf" "Chramnelenus" "Clodion" "Dulcedram" "Fardinanth"
+	"Gangulphus" "Genobaud" "Gommarus" "Grifo" "Hadelin" "Hlodowig" "Hucbald" "Ingalramnus"
+	"Isarn" "Liphardus" "Merovech" "Nantelm"
 }
-army_names = { 
-	"Armée du Nivernais" "Armée de La Ferté-Langeron" "Armée du Bazois" "Armée du Dionzais" "Armée du Corbigeois" "Armée du Charitois" "Armée de $PROVINCE$" 
+ship_names = { 
+	"Acarius" "Acfrid" "Adald" "Agofredus" "Amalgar" "Angalramnus" "Angilrammus" "Autbert"
+	"Bercharius" "Bladast" "Burgundofaro" "Chariulf" "Chramnelenus" "Clodion" "Dulcedram" "Fardinanth"
+	"Gangulphus" "Genobaud" "Gommarus" "Grifo" "Hadelin" "Hlodowig" "Hucbald" "Ingalramnus"
+	"Isarn" "Liphardus" "Merovech" "Nantelm" "Nardwin" "Remaclus" "Seliger" "Sigisbold"
+	"Ursmar" "Vaneng" "Widradus" "Wolvene"
+}
+army_names = {
+    "Gardjans af $PROVINCE$"
 }
