@@ -1,7 +1,7 @@
 # 3479 - Sisak
 owner = SAG
 controller = SAG
-religion = tengri_pagan
+religion = tengri_pagan_reformed
 capital = "Sisak"
 trade_goods = livestock
 base_tax = 2

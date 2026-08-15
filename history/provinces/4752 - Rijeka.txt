@@ -1,7 +1,7 @@
 #4752 - Rijeka
 owner = SAG
 controller = SAG
-religion = tengri_pagan
+religion = tengri_pagan_reformed
 capital = "Rijeka"
 trade_goods = cloth
 base_tax = 4

@@ -1,7 +1,7 @@
 # 4756 - Bjelovar
 owner = SAG
 controller = SAG
-religion = tengri_pagan
+religion = tengri_pagan_reformed
 capital = "Bjelovar"
 trade_goods = grain
 base_tax = 2

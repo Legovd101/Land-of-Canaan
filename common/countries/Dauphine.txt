@@ -30,73 +30,95 @@ historical_units = {
 	napoleonic_lancers
 }
 monarch_names = { 
-	"Guigues #8" = 40
-	"Humbert #2" = 40
-	"Jean #2" = 40
-	"Huges #2" = 10
-	"Anne #1" = -10
-	"Adhémar #0" = 0
-	"Arnaud #0" = 0
-	"Aymeric #0" = 0
-	"Bartomiu #0" = 0
-	"Bernat #0" = 0
-	"Bertran #0" = 0
-	"Charles #0" = 0
-	"Damián #0" = 0
-	"Enric #0" = 0
-	"Estève #0" = 0
-	"Ferrán #0" = 0
-	"Folquet #0" = 0
-	"Frances #0" = 0
-	MONARCH_NAME_GASTO = 0
-	"Gaufré #0" = 0
-	"Guilhem #0" = 0
-	"Ignaci #0" = 0
-	"Jacme #0" = 0
-	"Jordan #0" = 0
-	"Loys #0" = 0
-	"Martí #0" = 0
-	"Matheu #0" = 0
-	"Miqueu #0" = 0
-	"Nicolau #0" = 0
-	"Per #0" = 0
-	"Pol #0" = 0
-	"Pons #0" = 0
-	"Ramond #0" = 0
-	"Ricard #0" = 0
-	"Sanc #0" = 0
-	"Simos #0" = 0
-	"Vicentz #0" = 0
-	"Xavier #0" = 0
-	"Victor #0" = 0
-	"John #0" = 0
-	"Joan #0" = -1
-	"Marie #0" = -1
-	"Charlotte #0" = -1
-	"Anne #0" = -1
-	"Margaret #0" = -1
-	"Adelaide #0" = -1
+	"Acarius #1" = 80
+	"Acfrid #0" = 30
+	"Adald #0" = 20
+	"Agofredus #0" = 10
+	"Amalgar #0" = 5
+	"Angalramnus #4" = 1
+	"Angilrammus #0" = 0
+	"Autbert #0" = 0
+	"Bercharius #0" = 0
+	"Bladast #0" = 0
+	"Burgundofaro #0" = 0
+	"Chariulf #0" = 0
+	"Chramnelenus #0" = 0
+	"Clodion #0" = 0
+	"Dulcedram #0" = 0
+	"Fardinanth #0" = 0
+	"Gangulphus #0" = 0
+	"Genobaud #0" = 0
+	"Gommarus #0" = 0
+	"Grifo #0" = 0
+	"Hadelin #0" = 0
+	"Hlodowig #0" = 0
+	"Hucbald #0" = 0
+	"Ingalramnus #0" = 0
+	"Isarn #0" = 0
+	"Liphardus #0" = 0
+	"Merovech #0" = 0
+	"Nantelm #0" = 0
+	"Nardwin #0" = 0
+	"Remaclus #0" = 0
+	"Seliger #0" = 0
+	"Sigisbold #0" = 0
+	"Ursmar #0" = 0
+	"Vaneng #0" = 0
+	"Widradus #0" = 0
+	"Wolvene #0" = 0
+	"Aclewalda #0" = -1
+	"Aguilberte #0" = -1
+	"Altilde #0" = -2
+	"Angadresma #0" = -1
+	"Aregunda #0" = -1
+	"Austregilde #0" = -1
+	"Begga #0" = -1
+	"Bertechildis #0" = -1
+	"Bertrade #0" = -1
+	"Blitgilde #0" = -1
+	"Chimnechild #0" = -1
+	"Chrothildis #0" = -1
+	"Clodoswinthe #0" = -1
+	"Dhuoda #0" = -1
+	"Ehrentraud #0" = -1
+	"Ermentilde #0" = -1
+	"Faileube #0" = -1
+	"Framengilde #0" = -1
+	"Frédégonde #0" = -1
+	"Frédérune #0" = -1
+	"Godlanda #0" = -1
+	"Guilla #0" = -1
+	"Hafilda #0" = -1
+	"Hildegilde #0" = -1
+	"Ingoberga #0" = -1
+	"Lantilde #0" = -1
+	"Leubovère #0" = -1
+	"Madalgaria #0" = -1
+	"Nanthild #0" = -1
+	"Odétte #0" = -1
+	"Rothilde #0" = -1
+	"Saidra #0" = -1
+	"Sigrada #0" = -1
+	"Teutberga #0" = -1
+	"Théodrade #0" = -1
+	"Ulphia #0" = -1
+	"Valdetrudis #0" = -1
+	"Winegarde #0" = -1
+	"Wulfefundis #0" = -1
 }
 leader_names = { 
-	d'Abon d'Agoult "Agrain des Ubaz" d'Alande-Mirabel d'Alauzon d'Albon Alleman d'Andrevet d'Angerès d'Arbalestier
-	d'Arcilay Artaud d'Aspremont "de Balathier" "de Bardonnenche" "de Beaumont" "de Belmont" "de Bernard" "de Bocsozel" "de Bompart"
-	"de Bonlieu" "de Boulieu" "de Bressieu" "de Calignon" "de Chalendar" "de Chambarlhac" "de Chambly" "de la Chambre" "de Champiney" "de Cheilus"
-	"de Clérieux" "de Dié" "de Domaine" "de l'Espine" "de Forbin" "de Gandil" "de Genève" "de Granges" "de La Balme" "de La Farge"
-	"de La Porte" "de La Tour du Pin" Lesdiguières "de Marcieu" "de Mérins" "de Miribel" "de Mollin" "de Montchenu" "de Montferrat" "Pape de Saint Auban"
-	"de Peccat" "de Peloux" "de Périssol" "de Perdrix" "de Pracomtal" "de Révilasc" "de Sassenage" "de Seyssel" "du Terrail" "de Virieu"
+	"Acarius" "Acfrid" "Adald" "Agofredus" "Amalgar" "Angalramnus" "Angilrammus" "Autbert"
+	"Bercharius" "Bladast" "Burgundofaro" "Chariulf" "Chramnelenus" "Clodion" "Dulcedram" "Fardinanth"
+	"Gangulphus" "Genobaud" "Gommarus" "Grifo" "Hadelin" "Hlodowig" "Hucbald" "Ingalramnus"
+	"Isarn" "Liphardus" "Merovech" "Nantelm"
 }
 ship_names = { 
-	Apprieu
-	Barnave Beaurepaire Bellegarde-Poussieu Bourg-de-Péage "Bourg d'Oisans" "Bourgoin" "Briançon" Cessieu Clelles Crolles
-	Dieu-le-Fit
-	Embrun
-	Gap Grenoble Huez
-	"La Côte Saint André" "La Mure" "La Tour du Pin" "Le Poet-Laval" "Le Pont de Claix" "Le Teil" Livet-et-Gavet "Les Abrets" Loriol "Lus la Croix Haute"
-	Mens Moirans Montélimar Rochemaure Roussillon Saillans "Saint Clair de la Tour" "Saint Etienne en Dévoluy" "Saint Geoir" "Saint Jean de Bournay"
-	"Saint Laurent en Royan" "Saint Roman" Sauzet Serres Tullin
-	Valbonnais Valence Venosc Veynes Vienne Vif Vizille Voiron Voreppe 
+	"Acarius" "Acfrid" "Adald" "Agofredus" "Amalgar" "Angalramnus" "Angilrammus" "Autbert"
+	"Bercharius" "Bladast" "Burgundofaro" "Chariulf" "Chramnelenus" "Clodion" "Dulcedram" "Fardinanth"
+	"Gangulphus" "Genobaud" "Gommarus" "Grifo" "Hadelin" "Hlodowig" "Hucbald" "Ingalramnus"
+	"Isarn" "Liphardus" "Merovech" "Nantelm" "Nardwin" "Remaclus" "Seliger" "Sigisbold"
+	"Ursmar" "Vaneng" "Widradus" "Wolvene"
 }
-army_names = { 
-	"Armée du Dauphin" "Armée du Viennois" "Armée du Grésivaudan" "Armée du Valentinois" "Armée du Royans" "Armée du Queyras" "Armée de l'Embrunais" "Armée du Gapençais" "Armée du Briançonnais" "Armée du Diois"
-	"Armée du Dévoluy" "Armée du Vercors" "Armée des Baronnies" "Armée du Trièves" "Armée du Champsaur" "Armée de $PROVINCE$" 
+army_names = {
+    "Gardjans af $PROVINCE$"
 }

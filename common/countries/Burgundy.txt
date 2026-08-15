@@ -31,73 +31,95 @@ historical_units = {
 	napoleonic_lancers
 }
 monarch_names = { 
-	"Philippe #1" = 80
-	"Charles #0" = 60
-	"Louis #0" = 30
-	"Jean #0" = 20
-	"Louis-Henri #0" = 20
-	"Louis-Joseph #0" = 20
-	"Henri #1" = 10
-	"Antoine #0" = 10
-	"Henri-Jules #0" = 10
-	"Joseph #0" = 10
-	"François #0" = 5
-	"Hughes #5" = 1
-	"Eudes #4" = 1
-	"Robert #2" = 1
-	"Armand #0" = 0
-	"Barthélemy #0" = 0
-	"Benoît #0" = 0
-	"Bernard #0" = 0
-	"Claude #0" = 0
-	"Denis #0" = 0
-	"Étienne #0" = 0
-	"Eugène #0" = 0
-	"Eustache #0" = 0
-	"Georges #0" = 0
-	"Guy #0" = 0
-	"Guillaume #0" = 0
-	"Isidore #0" = 0
-	"Jean-Baptiste #0" = 0
-	"Jules #0" = 0
-	"Marc #0" = 0
-	"Maurice #0" = 0
-	"Michel #0" = 0
-	"Nicolas #0" = 0
-	"Pascal #0" = 0
-	"Pierre #0" = 0
-	"Raoul #0" = 0
-	"René #0" = 0
-	"Sébastien #0" = 0
-	"Simon #0" = 0
-	"Marie #0" = -10
-	"Geneviève #0" = -2
-	"Anne #0" = -1
-	"Louise #0" = -1
-	"Charlotte #0" = -1
-	"Hélène #0" = -1
-	"Éléonore #0" = -1
-	"Isabelle #0" = -1
-	"Catherine #0" = -2
-	"Marguerite #0" = -2# La Pléiade
-	"Jeanne #0" = -1# La Pléiade
-	"Agnès #0" = -1# La Pléiade
+	"Acarius #1" = 80
+	"Acfrid #0" = 30
+	"Adald #0" = 20
+	"Agofredus #0" = 10
+	"Amalgar #0" = 5
+	"Angalramnus #4" = 1
+	"Angilrammus #0" = 0
+	"Autbert #0" = 0
+	"Bercharius #0" = 0
+	"Bladast #0" = 0
+	"Burgundofaro #0" = 0
+	"Chariulf #0" = 0
+	"Chramnelenus #0" = 0
+	"Clodion #0" = 0
+	"Dulcedram #0" = 0
+	"Fardinanth #0" = 0
+	"Gangulphus #0" = 0
+	"Genobaud #0" = 0
+	"Gommarus #0" = 0
+	"Grifo #0" = 0
+	"Hadelin #0" = 0
+	"Hlodowig #0" = 0
+	"Hucbald #0" = 0
+	"Ingalramnus #0" = 0
+	"Isarn #0" = 0
+	"Liphardus #0" = 0
+	"Merovech #0" = 0
+	"Nantelm #0" = 0
+	"Nardwin #0" = 0
+	"Remaclus #0" = 0
+	"Seliger #0" = 0
+	"Sigisbold #0" = 0
+	"Ursmar #0" = 0
+	"Vaneng #0" = 0
+	"Widradus #0" = 0
+	"Wolvene #0" = 0
+	"Aclewalda #0" = -1
+	"Aguilberte #0" = -1
+	"Altilde #0" = -2
+	"Angadresma #0" = -1
+	"Aregunda #0" = -1
+	"Austregilde #0" = -1
+	"Begga #0" = -1
+	"Bertechildis #0" = -1
+	"Bertrade #0" = -1
+	"Blitgilde #0" = -1
+	"Chimnechild #0" = -1
+	"Chrothildis #0" = -1
+	"Clodoswinthe #0" = -1
+	"Dhuoda #0" = -1
+	"Ehrentraud #0" = -1
+	"Ermentilde #0" = -1
+	"Faileube #0" = -1
+	"Framengilde #0" = -1
+	"Frédégonde #0" = -1
+	"Frédérune #0" = -1
+	"Godlanda #0" = -1
+	"Guilla #0" = -1
+	"Hafilda #0" = -1
+	"Hildegilde #0" = -1
+	"Ingoberga #0" = -1
+	"Lantilde #0" = -1
+	"Leubovère #0" = -1
+	"Madalgaria #0" = -1
+	"Nanthild #0" = -1
+	"Odétte #0" = -1
+	"Rothilde #0" = -1
+	"Saidra #0" = -1
+	"Sigrada #0" = -1
+	"Teutberga #0" = -1
+	"Théodrade #0" = -1
+	"Ulphia #0" = -1
+	"Valdetrudis #0" = -1
+	"Winegarde #0" = -1
+	"Wulfefundis #0" = -1
 }
 leader_names = { 
-	d'Aban d'Abonde Arbelot d'Auxy "de Balay" "de Bauffremont" "de Beaumont" "de Beugre" "de Boulay" "de Bourgeois"
-	Bourgogne-Montaigu "de Brachet" "de Brimeu" "de Castaing" "de Chabot" "de Châlon" "de Châlon-Arlay" "de Chandieu" "de Chastellux" "de Chin"
-	"de Cicon" "de Coligny" "de Créquy" "de Cuiseaux" "de Damas" "de Dammartin" "de Donzy" "de Dyo" "d'Egmont" "de Ferrette"
-	"de Lalaing" "de Lannoy" "Le Corgne" "de Lugny" "de Marle" "de Melun" "de Montfaucon" "Nagu de Varennes" "de Nanton" "de Neufchâtel"
-	"de Noyelles" "de Pontailler" "de la Porte" "Pot de la Roche" "de Rochebaron" "de Rochechouart" "de Roye" "de Scorailles" "de Sémur" "de Ternant"
-	"de Tonnerre" "de Toucy" "de Toulonjon" "de Vaubresson" "de Vaudrey" "de Vellexon" "de Vergy" "de Vienne" "de Villaines" "de Villiers"
+	"Acarius" "Acfrid" "Adald" "Agofredus" "Amalgar" "Angalramnus" "Angilrammus" "Autbert"
+	"Bercharius" "Bladast" "Burgundofaro" "Chariulf" "Chramnelenus" "Clodion" "Dulcedram" "Fardinanth"
+	"Gangulphus" "Genobaud" "Gommarus" "Grifo" "Hadelin" "Hlodowig" "Hucbald" "Ingalramnus"
+	"Isarn" "Liphardus" "Merovech" "Nantelm"
 }
 ship_names = { 
-	"l'Armançon" "l'Arroux" "le Bourgogne" "le Bruges" "le Cambrai" "le Castrum Divionense" "le Childebert" "le Childebert II" "le Chilpéric" "le Cîteaux"
-	"le Clotaire" "le Cluny" "la Comtesse" "le Côte-d'Or" "le Dijon" "le Duc-de-Bourgogne" "la Duchesse" "le Gibica" "le Giselher" "le Godégisel"
-	"le Gondéric" "le Gondebaud" "le Gondemar" "le Gondemar II" "le Gunther" "le Gontran" "le Jean-sans-Peur" "la Marie-de-Bourgogne" "le Philippe-le-Bon" "le Philippe-le-Hardi"
-	"le Richard-de-Bourgogne" "la Saône" "le Sigismond" "le Théodebert" "le Theudéric II" "le Vézelay" 
+	"Acarius" "Acfrid" "Adald" "Agofredus" "Amalgar" "Angalramnus" "Angilrammus" "Autbert"
+	"Bercharius" "Bladast" "Burgundofaro" "Chariulf" "Chramnelenus" "Clodion" "Dulcedram" "Fardinanth"
+	"Gangulphus" "Genobaud" "Gommarus" "Grifo" "Hadelin" "Hlodowig" "Hucbald" "Ingalramnus"
+	"Isarn" "Liphardus" "Merovech" "Nantelm" "Nardwin" "Remaclus" "Seliger" "Sigisbold"
+	"Ursmar" "Vaneng" "Widradus" "Wolvene"
 }
-army_names = { 
-	"Armée du Charolais" "Armée de Chalon" "Armée du Comté" "Armée de l'Autunois" "Armée du Mâconnais" "Armée de l'Auxerrois" "Armée de l'Avallonnais" "Armée de Tonnerre" "Armée de l'Auxonnois" "Armée de la Saône"
-	"Armée de $PROVINCE$" 
+army_names = {
+    "Gardjans af $PROVINCE$"
 }
