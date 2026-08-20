@@ -332,7 +332,7 @@ KNA_ideas = {
 	}
 }
 
-VEN_ideas = {
+VEN2_ideas = {
 	start = {
 		global_manpower_modifier = 0.25
 		land_maintenance_modifier = -0.05
