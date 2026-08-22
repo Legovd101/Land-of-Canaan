@@ -69,4 +69,34 @@ spriteTypes = {
 		name = "GFX_great_project_pildughr"	
 		texturefile = "gfx//interface//great_projects//great_project_pildughr.dds"
 	}
+
+	spriteType = {
+		name = "GFX_great_project_arena_of_verona"	
+		texturefile = "gfx//interface//great_projects//great_project_arena_of_verona.dds"
+	}
+
+	spriteType = {
+		name = "GFX_great_project_palace_of_nicomedia"	
+		texturefile = "gfx//interface//great_projects//great_project_palace_of_nicomedia.dds"
+	}
+
+	spriteType = {
+		name = "GFX_great_project_cothon"	
+		texturefile = "gfx//interface//great_projects//great_project_cothon.dds"
+	}
+
+	spriteType = {
+		name = "GFX_great_project_nemeton_of_bordegalla"	
+		texturefile = "gfx//interface//great_projects//great_project_nemeton_of_bordegalla.dds"
+	}
+
+	spriteType = {
+		name = "GFX_great_project_citadel_of_numantia"	
+		texturefile = "gfx//interface//great_projects//great_project_citadel_of_numantia.dds"
+	}
+
+	spriteType = {
+		name = "GFX_great_project_temple_of_radegast_svarohits"	
+		texturefile = "gfx//interface//great_projects//great_project_temple_of_radegast_svarohits.dds"
+	}
 }

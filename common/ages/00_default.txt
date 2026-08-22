@@ -597,42 +597,38 @@ age_of_exploration = {
 					value = yes
 				}
 			}
-		
-		
 		}
 		
-		itloc_3_full_idea_groups = {	
+		itloc_3_full_idea_groups = { # Load-Bearing ORs ahead! Do Not Remove!!
 			calc_true_if = {
 				amount = 3
 				custom_trigger_tooltip = {
 					tooltip = have_3_full_idea_groups_tt
-					OR = {
-						full_idea_group = innovativeness_ideas
-						full_idea_group = religious_ideas
-						full_idea_group = economic_ideas
-						full_idea_group = expansion_ideas
-						full_idea_group = administrative_ideas
-						full_idea_group = humanist_ideas
-						full_idea_group = infrastructure_ideas
-						full_idea_group = spy_ideas
-						full_idea_group = diplomatic_ideas
-						full_idea_group = trade_ideas
-						full_idea_group = exploration_ideas
-						full_idea_group = maritime_ideas
-						full_idea_group = influence_ideas
-						full_idea_group = court_ideas
-						full_idea_group = aristocracy_ideas
-						full_idea_group = offensive_ideas
-						full_idea_group = defensive_ideas
-						full_idea_group = quality_ideas
-						full_idea_group = quantity_ideas
-						full_idea_group = naval_ideas
-						full_idea_group = theocracy_gov_ideas
-						full_idea_group = indigenous_ideas
-						full_idea_group = horde_gov_ideas
-						full_idea_group = plutocracy_ideas
-						full_idea_group = mercenary_ideas
-					}
+					OR = { full_idea_group = innovativeness_ideas }
+					OR = { full_idea_group = religious_ideas }
+					OR = { full_idea_group = economic_ideas }
+					OR = { full_idea_group = expansion_ideas }
+					OR = { full_idea_group = administrative_ideas }
+					OR = { full_idea_group = humanist_ideas }
+					OR = { full_idea_group = infrastructure_ideas }
+					OR = { full_idea_group = spy_ideas }
+					OR = { full_idea_group = diplomatic_ideas }
+					OR = { full_idea_group = trade_ideas }
+					OR = { full_idea_group = exploration_ideas }
+					OR = { full_idea_group = maritime_ideas }
+					OR = { full_idea_group = influence_ideas }
+					OR = { full_idea_group = court_ideas }
+					OR = { full_idea_group = aristocracy_ideas }
+					OR = { full_idea_group = offensive_ideas }
+					OR = { full_idea_group = defensive_ideas }
+					OR = { full_idea_group = quality_ideas }
+					OR = { full_idea_group = quantity_ideas }
+					OR = { full_idea_group = naval_ideas }
+					OR = { full_idea_group = theocracy_gov_ideas }
+					OR = { full_idea_group = indigenous_ideas }
+					OR = { full_idea_group = horde_gov_ideas }
+					OR = { full_idea_group = plutocracy_ideas }
+					OR = { full_idea_group = mercenary_ideas }
 				}
 			}
 		}
@@ -1040,7 +1036,7 @@ age_of_exploration = {
 
 
 
-age_of_absolutism = {
+age_of_gunpowder = {
 	start = 1620
 	
 	can_start = {
@@ -1064,54 +1060,111 @@ age_of_absolutism = {
 	}
 		
 	objectives = {
-		obj_3_trade_companies = {
-			num_of_trade_companies = 3
+		itloc_army_modernisation = {
+			army_size_percentage = 0.9
+			num_of_artillery = 15
 		}
 		
-		obj_universities = {
-			num_of_owned_provinces_with = {
-				has_building = university 
-				value = 5 
+		itloc_loyal_court = {
+			calc_true_if = {
+				amount = 2
+				custom_trigger_tooltip = {
+					tooltip = have_2_level_5_advisors_tt
+					OR = { has_adm_advisor_of_level = { level = 5 } }
+					OR = { has_dip_advisor_of_level = { level = 5 } }
+					OR = { has_mil_advisor_of_level = { level = 5 } }
+				}
+			}
+			is_in_deficit = no
+		}
+
+		itloc_siege_25_forts = {
+			custom_trigger_tooltip = {
+				tooltip = siege_25_forts_tt
+				check_variable = {
+					which = fort_provinces_sieged
+					value = 25
+				}
 			}
 		}
 	
-		obj_large_forcelimit = {
-			land_forcelimit = 200
-		}
-		
-		obj_90_absolutism = {
-			absolutism = 90
-		}
-		
-		obj_emperor_of_china = {
-			is_emperor_of_china = yes
-			imperial_mandate = 50
-		}
-		
-		obj_cultures_accepted = {
-			num_accepted_cultures = 5
-		}
-		
-		obj_win_religious_war = {
-			custom_trigger_tooltip = {
-				tooltip = obj_religious_league_war_on_winning_side_tooltip
-				has_country_flag = religious_league_war_on_winning_side
+		itloc_metropolis = {
+			development_in_provinces = {
+				value = 120
+				area = capital
 			}
-			
+		}
+		
+		itloc_cultural_unity = {
+			owns_all_provinces = {
+				culture = ROOT
+			}
+		}
+		
+		itloc_monumental_achievements = {
+			calc_true_if = {
+				amount = 2
+				all_owned_province = {
+					has_great_project = {
+						type = any
+						tier = 2
+					}
+				}
+			}
+		}
+		
+		itloc_perfect_numbers = {
+			calc_true_if = {
+				amount = 6
+				all_owned_province = {
+					num_of_buildings_in_province = 6
+					fort_level = 6
+				}
+			}
+		}
+		
+		itloc_military_industrial_complex = {
+			OR = {
+				trading_bonus = {
+					trade_goods = cannon
+					value = yes
+				}
+				trading_bonus = {
+					trade_goods = munitions
+					value = yes
+				}
+				trading_bonus = {
+					trade_goods = metalworking
+					value = yes
+				}
+				trading_bonus = {
+					trade_goods = uniforms
+					value = yes
+				}
+			}
 		}
 
-		ase_economic_theory = {
-			OR = {
-				full_idea_group = trade_ideas
-				full_idea_group = economic_ideas
+		itloc_defensive_outposts = {
+			calc_true_if = {
+				amount = 5
+				desc = forts_on_border_with_non_subject_tt
+				all_owned_province = {
+					has_fort_building_trigger = yes
+					any_neighbor_province = {
+						owner = {
+							NOT = { is_subject_of = ROOT }
+						}
+						NOT = { owned_by = ROOT }
+						is_empty = no
+						is_sea = no
+						is_wasteland = no
+					}
+				}
 			}
 		}
-		ase_innovative_culture = {
-			innovativeness = 30
-		}
-		ase_stable_society = {
-			NOT = { unrest = -7 }
-		}
+		# ase_stable_society = {
+		# 	NOT = { unrest = -7 }
+		# }
 	}	
 	
 	abilities = {
@@ -1279,48 +1332,45 @@ age_of_absolutism = {
 			}
 		}
 	
-		ab_french_absolutism = {
+		itloc_cherny_blesk = {
 			effect = { 
 				on_age_ability_taken = { age = age_of_absolutism }
 			}
 			allow = {
-				tag = FRA
+				tag = MVA
 			}
 			modifier = {
-				max_absolutism_effect = 0.3
+				artillery_fire = 1
 				num_of_age_rewards = 1
 			}
 			ai_will_do = {
 				factor = 100
 			}
 		}
-		ab_dutch_trade = {
+		itloc_gall_of_the_gall_goidil = {
 			effect = { 
 				on_age_ability_taken = { age = age_of_absolutism }
 			}
 			allow = {
-				tag = NED
+				tag = AST
 			}
 			modifier = {
-				trade_steering = 0.33
+				culture_conversion_cost = -0.4
 				num_of_age_rewards = 1
 			}
 			ai_will_do = {
 				factor = 100
 			}
 		}	
-		ab_sweden_manpower = {
+		itloc_heavenly_protection = {
 			effect = { 
 				on_age_ability_taken = { age = age_of_absolutism }
 			}
 			allow = {
-				OR = {
-					tag = SWE
-					tag = SCA
-				}
+				tag = TGU
 			}
 			modifier = {
-				manpower_recovery_speed = 0.35
+				core_decay_on_your_own = -0.25
 				num_of_age_rewards = 1
 			}
 			ai_will_do = {
@@ -1328,26 +1378,15 @@ age_of_absolutism = {
 			}
 		}
 
-		ab_manchu_banner = {
+		itloc_paths_of_the_peninsula = {
 			allow = {
-				OR = {
-					tag = MCH
-					tag = QNG
-				}
+				tag = JDD
 			}
 			effect = {
 				on_age_ability_taken = { age = age_of_absolutism }
-				if = {
-					limit = {
-						NOT = { primary_culture = manchu }
-						NOT = { primary_culture = manchu_new }
-						NOT = { has_government_attribute = allow_banners }
-					}
-					custom_tooltip = ab_manchu_banner_tt
-				}
 			}
 			modifier = {
-				amount_of_banners = 0.5
+				no_religion_penalty = yes
 				num_of_age_rewards = 1
 			}
 			ai_will_do = {
@@ -1355,67 +1394,60 @@ age_of_absolutism = {
 			}
 		}
 
-		ase_ayutthaya_venice_east = {
+		itloc_desert_expeditions = {
 			allow = {
-				OR = {
-					tag = AYU
-					tag = SIA
-				}
+				tag = AFR
 			}
 			effect = {
 				on_age_ability_taken = { age = age_of_absolutism }
 			}
 			modifier = {
-				global_trade_power = 0.25
+				trade_range_modifier = 0.25
 				num_of_age_rewards = 1
 			}
 			ai_will_do = {
 				factor = 100
 			}
 		}
-		ase_japan_prosperity = {
+		itloc_hegemon_of_the_nile = {
 			allow = {
-				tag = JAP
+				tag = QES
 			}
 			effect = {
 				on_age_ability_taken = { age = age_of_absolutism }
 			}
 			modifier = {
-				development_cost = -0.05
-				global_prosperity_growth = 1
-				global_monthly_devastation = -0.10
+				can_claim_states = yes
 				num_of_age_rewards = 1
 			}
 			ai_will_do = {
 				factor = 100
 			}
 		}
-		ase_morocco_expedition = {
+		itloc_homeland_advantage = {
 			allow = {
-				tag = MOR
+				tag = ARM
 			}
 			effect = {
 				on_age_ability_taken = { age = age_of_absolutism }
 			}
 			modifier = {
-				land_attrition = -0.50
+				attack_bonus_in_capital_terrain = 3
 				num_of_age_rewards = 1
 			}
 			ai_will_do = {
 				factor = 100
 			}
 		}
-		ase_maghrebi_piracy = {
+		itloc_rulers_of_the_seas = {
 			allow = {
-				culture_group = maghrebi
-				NOT = { tag = MOR }
+				tag = MGN
 			}
 			effect = {
 				on_age_ability_taken = { age = age_of_absolutism }
 			}
 			modifier = {
-				#light_ship_power = 0.20
-				naval_forcelimit_modifier = 0.25
+				siege_blockade_progress = 2
 				num_of_age_rewards = 1
 			}
 			ai_will_do = {

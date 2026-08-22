@@ -82,3 +82,42 @@
  itloc_deals_with_the_haumenn: "Deals with the Haumenn"
  itloc_charaphracts: "Charaphracts"
  itloc_nibufu_inspired_ships: "Nibufu-Inspired Ships"
+
+# Gunpowder
+
+ age_of_gunpowder: "Age of Gunpowder"
+ age_of_gunpowder_short: "Gunpowder"
+ age_of_gunpowder_desc: "Invented in the East and brought to the West, black powder has revolutionised warfare beyond recognition. With larger and slower bombards being phased out for slimmer and quicker cannons and mortars, those on the business end of a barrel must rapidly adapt to this changing world or risk drowning in the tide of innovation."
+
+## Objectives
+ itloc_army_modernisation: "Army Modernisation"
+ itloc_army_modernisation_desc: "Be at 90% of your force limit while having 15 units of artillery."
+ itloc_loyal_court: "Loyal Court"
+ itloc_loyal_court_desc: "Maintain 2 level 5 advisors without having a deficit"
+ have_2_level_5_advisors_tt: "Have 2 level 5 advisors"
+ itloc_siege_25_forts: "Siege 25 Forts"
+ itloc_siege_25_forts_desc: "Siege 25 provinces with at least 1 fort level."
+ siege_25_forts_tt: "Siege 25 provinces with at least 1 fort level (Currently: §Y[Root.fort_provinces_sieged]§!)"
+ itloc_metropolis: "Metropolis"
+ itloc_metropolis_desc: "Have 120 total development in your capital area."
+ itloc_cultural_unity: "Cultural Unity"
+ itloc_cultural_unity_desc: "Own every province of your primary culture"
+ itloc_monumental_achievements: "Monumental Achievements"
+ itloc_monumental_achievements_desc: "Own two provinces with a great project of level two or higher."
+ itloc_perfect_numbers: "Perfect Numbers"
+ itloc_perfect_numbers_desc: "Own 6 provinces with 6 buildings and a fort level of at least 6."
+ itloc_military_industrial_complex: "Military-Industrial Complex"
+ itloc_military_industrial_complex_desc: "Gain the trade bonus from either cannons, munitions, metalworking, or uniforms."
+ itloc_defensive_outposts: "Defensive Outposts"
+ itloc_defensive_outposts_desc: "Have 5 forts on the border of any nation that is not your subject."
+ forts_on_border_with_non_subject_tt: "\nForts on the border of any nation that is not your subject"
+
+## Abilities
+ itloc_cherny_blesk: "Cherný Blesk"
+ itloc_gall_of_the_gall_goidil: "Gall of the Gall-Goidil"
+ itloc_heavenly_protection: "Heavenly Protection"
+ itloc_paths_of_the_peninsula: "Paths of the Peninsula"
+ itloc_desert_expeditions: "Desert Expeditions"
+ itloc_hegemon_of_the_nile: "Hegemon of the Nile"
+ itloc_homeland_advantage: "Homeland Advantage"
+ itloc_rulers_of_the_seas: "Rulers of the Seas"

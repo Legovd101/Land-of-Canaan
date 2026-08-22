@@ -70,7 +70,7 @@ defined_text = {
 	}
 	text = {
 		trigger = {
-			current_age = age_of_absolutism
+			current_age = age_of_gunpowder
 		}
 		localisation_key = age_of_exploration
 	}
@@ -78,7 +78,7 @@ defined_text = {
 		trigger = {
 			current_age = age_of_revolutions
 		}
-		localisation_key = age_of_absolutism
+		localisation_key = age_of_gunpowder
 	}
 	text = {
 		trigger = {
@@ -110,21 +110,21 @@ defined_text = {
 	# Age of Absolutism
 	text = {
 		trigger = {
-			current_age = age_of_absolutism
+			current_age = age_of_gunpowder
 			is_variable_equal = { which = ase_retain_age_ability_page value = 1 }
 		}
 		localisation_key = ab_siege_blockades
 	}
 	text = {
 		trigger = {
-			current_age = age_of_absolutism
+			current_age = age_of_gunpowder
 			is_variable_equal = { which = ase_retain_age_ability_page value = 2 }
 		}
 		localisation_key = itloc_colonial_integration
 	}
 	text = {
 		trigger = {
-			current_age = age_of_absolutism
+			current_age = age_of_gunpowder
 			is_variable_equal = { which = ase_retain_age_ability_page value = 3 }
 		}
 		localisation_key = ase_dharmic_syncretism
@@ -181,21 +181,21 @@ defined_text = {
 	# Age of Absolutism
 	text = {
 		trigger = {
-			current_age = age_of_absolutism
+			current_age = age_of_gunpowder
 			is_variable_equal = { which = ase_retain_age_ability_page value = 1 }
 		}
 		localisation_key = ase_retain_age_ability_effects_ab_siege_blockades
 	}
 	text = {
 		trigger = {
-			current_age = age_of_absolutism
+			current_age = age_of_gunpowder
 			is_variable_equal = { which = ase_retain_age_ability_page value = 2 }
 		}
 		localisation_key = ase_retain_age_ability_effects_ab_institution_spread_from_true_faith
 	}
 	text = {
 		trigger = {
-			current_age = age_of_absolutism
+			current_age = age_of_gunpowder
 			is_variable_equal = { which = ase_retain_age_ability_page value = 3 }
 		}
 		localisation_key = ase_retain_age_ability_effects_ase_dharmic_syncretism
@@ -252,21 +252,21 @@ defined_text = {
 	# Age of Absolutism
 	text = {
 		trigger = {
-			current_age = age_of_absolutism
+			current_age = age_of_gunpowder
 			is_variable_equal = { which = ase_retain_age_ability_page value = 1 }
 		}
 		localisation_key = ase_retain_age_ability_picture_ab_siege_blockades
 	}
 	text = {
 		trigger = {
-			current_age = age_of_absolutism
+			current_age = age_of_gunpowder
 			is_variable_equal = { which = ase_retain_age_ability_page value = 2 }
 		}
 		localisation_key = ase_retain_age_ability_picture_ab_institution_spread_from_true_faith
 	}
 	text = {
 		trigger = {
-			current_age = age_of_absolutism
+			current_age = age_of_gunpowder
 			is_variable_equal = { which = ase_retain_age_ability_page value = 3 }
 		}
 		localisation_key = ase_retain_age_ability_picture_ase_dharmic_syncretism
@@ -324,14 +324,14 @@ defined_text = {
 	# Age of Absolutism
 	text = {
 		trigger = {
-			current_age = age_of_absolutism
+			current_age = age_of_gunpowder
 			is_variable_equal = { which = ase_retain_age_ability_page value = 1 }
 		}
 		localisation_key = itloc_wonders_of_exploration
 	}
 	text = {
 		trigger = {
-			current_age = age_of_absolutism
+			current_age = age_of_gunpowder
 			is_variable_equal = { which = ase_retain_age_ability_page value = 2 }
 		}
 		localisation_key = itloc_foreign_herbology
@@ -388,14 +388,14 @@ defined_text = {
 	# Age of Absolutism
 	text = {
 		trigger = {
-			current_age = age_of_absolutism
+			current_age = age_of_gunpowder
 			is_variable_equal = { which = ase_retain_age_ability_page value = 1 }
 		}
 		localisation_key = ase_retain_age_ability_effects_ab_warscore_vs_religion
 	}
 	text = {
 		trigger = {
-			current_age = age_of_absolutism
+			current_age = age_of_gunpowder
 			is_variable_equal = { which = ase_retain_age_ability_page value = 2 }
 		}
 		localisation_key = ase_retain_age_ability_effects_ab_prestige_per_development_from_conversion
@@ -452,14 +452,14 @@ defined_text = {
 	# Age of Absolutism
 	text = {
 		trigger = {
-			current_age = age_of_absolutism
+			current_age = age_of_gunpowder
 			is_variable_equal = { which = ase_retain_age_ability_page value = 1 }
 		}
 		localisation_key = ase_retain_age_ability_picture_ab_warscore_vs_religion
 	}
 	text = {
 		trigger = {
-			current_age = age_of_absolutism
+			current_age = age_of_gunpowder
 			is_variable_equal = { which = ase_retain_age_ability_page value = 2 }
 		}
 		localisation_key = ase_retain_age_ability_picture_ab_prestige_per_development_from_conversion
@@ -517,14 +517,14 @@ defined_text = {
 	# Age of Absolutism
 	text = {
 		trigger = {
-			current_age = age_of_absolutism
+			current_age = age_of_gunpowder
 			is_variable_equal = { which = ase_retain_age_ability_page value = 1 }
 		}
 		localisation_key = itloc_mercantile_ventures
 	}
 	text = {
 		trigger = {
-			current_age = age_of_absolutism
+			current_age = age_of_gunpowder
 			is_variable_equal = { which = ase_retain_age_ability_page value = 2 }
 		}
 		localisation_key = itloc_colonial_exodus
@@ -574,14 +574,14 @@ defined_text = {
 	# Age of Absolutism
 	text = {
 		trigger = {
-			current_age = age_of_absolutism
+			current_age = age_of_gunpowder
 			is_variable_equal = { which = ase_retain_age_ability_page value = 1 }
 		}
 		localisation_key = ase_retain_age_ability_effects_ab_mercenary_discipline
 	}
 	text = {
 		trigger = {
-			current_age = age_of_absolutism
+			current_age = age_of_gunpowder
 			is_variable_equal = { which = ase_retain_age_ability_page value = 2 }
 		}
 		localisation_key = ase_retain_age_ability_effects_ase_muslim_jihad
@@ -631,14 +631,14 @@ defined_text = {
 	# Age of Absolutism
 	text = {
 		trigger = {
-			current_age = age_of_absolutism
+			current_age = age_of_gunpowder
 			is_variable_equal = { which = ase_retain_age_ability_page value = 1 }
 		}
 		localisation_key = ase_retain_age_ability_picture_ab_mercenary_discipline
 	}
 	text = {
 		trigger = {
-			current_age = age_of_absolutism
+			current_age = age_of_gunpowder
 			is_variable_equal = { which = ase_retain_age_ability_page value = 2 }
 		}
 		localisation_key = ase_retain_age_ability_picture_ase_muslim_jihad
@@ -689,14 +689,14 @@ defined_text = {
 	# Age of Absolutism
 	text = {
 		trigger = {
-			current_age = age_of_absolutism
+			current_age = age_of_gunpowder
 			is_variable_equal = { which = ase_retain_age_ability_page value = 1 }
 		}
 		localisation_key = ab_ship_power_propagation
 	}
 	text = {
 		trigger = {
-			current_age = age_of_absolutism
+			current_age = age_of_gunpowder
 			is_variable_equal = { which = ase_retain_age_ability_page value = 2 }
 		}
 		localisation_key = itloc_effective_colonial_management
@@ -746,14 +746,14 @@ defined_text = {
 	# Age of Absolutism
 	text = {
 		trigger = {
-			current_age = age_of_absolutism
+			current_age = age_of_gunpowder
 			is_variable_equal = { which = ase_retain_age_ability_page value = 1 }
 		}
 		localisation_key = ase_retain_age_ability_effects_ab_ship_power_propagation
 	}
 	text = {
 		trigger = {
-			current_age = age_of_absolutism
+			current_age = age_of_gunpowder
 			is_variable_equal = { which = ase_retain_age_ability_page value = 2 }
 		}
 		localisation_key = ase_retain_age_ability_effects_ase_confessionalism
@@ -803,14 +803,14 @@ defined_text = {
 	# Age of Absolutism
 	text = {
 		trigger = {
-			current_age = age_of_absolutism
+			current_age = age_of_gunpowder
 			is_variable_equal = { which = ase_retain_age_ability_page value = 1 }
 		}
 		localisation_key = ase_retain_age_ability_picture_ab_ship_power_propagation
 	}
 	text = {
 		trigger = {
-			current_age = age_of_absolutism
+			current_age = age_of_gunpowder
 			is_variable_equal = { which = ase_retain_age_ability_page value = 2 }
 		}
 		localisation_key = ase_retain_age_ability_picture_ase_confessionalism

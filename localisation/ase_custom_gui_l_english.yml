@@ -119,10 +119,10 @@
  string_ase_retain_age_ability_next_page_button_tt_max_reached: "§RYou already reached the last page.§!"
 
  string_ase_retained_age_abilities_tt: "\n-------------\nYou have retained the following abilities from previous ages: \n[Root.GetAseRetainedAgeAbilityTooltipForAgeOfDiscovery][Root.GetAseRetainedAgeAbilityTooltipForAgeOfReformation][Root.GetAseRetainedAgeAbilityTooltipForAgeOfAbsolutism][Root.GetAseRetainedAgeAbilityTooltipForAgeOfRevolutions]"
- string_ase_retained_age_ability_for_age_of_discovery_tt: "§Y[late_middle_ages]§!: [Root.GetAseRetainedAgeAbilityNameForAgeOfDiscovery] \n[Root.GetAseRetainedAgeAbilityEffectsForAgeOfDiscovery]\n\n"
+ string_ase_retained_age_ability_for_age_of_expansion_tt: "§Y[late_middle_ages]§!: [Root.GetAseRetainedAgeAbilityNameForAgeOfDiscovery] \n[Root.GetAseRetainedAgeAbilityEffectsForAgeOfDiscovery]\n\n"
  string_ase_retained_age_ability_for_age_of_exploration_tt: "§Y[age_of_expansion]§!: [Root.GetAseRetainedAgeAbilityNameForAgeOfReformation] \n[Root.GetAseRetainedAgeAbilityEffectsForAgeOfReformation]\n\n"
- string_ase_retained_age_ability_for_age_of_absolutism_tt: "§Y[age_of_exploration]§!: [Root.GetAseRetainedAgeAbilityNameForAgeOfAbsolutism] \n[Root.GetAseRetainedAgeAbilityEffectsForAgeOfAbsolutism]\n\n"
- string_ase_retained_age_ability_for_age_of_revolutions_tt: "§Y[age_of_absolutism]§!: [Root.GetAseRetainedAgeAbilityNameForAgeOfRevolutions] \n[Root.GetAseRetainedAgeAbilityEffectsForAgeOfRevolutions]\n\n"
+ string_ase_retained_age_ability_for_age_of_gunpowder_tt: "§Y[age_of_exploration]§!: [Root.GetAseRetainedAgeAbilityNameForAgeOfAbsolutism] \n[Root.GetAseRetainedAgeAbilityEffectsForAgeOfAbsolutism]\n\n"
+ string_ase_retained_age_ability_for_age_of_revolutions_tt: "§Y[aage_of_gunpowder§!: [Root.GetAseRetainedAgeAbilityNameForAgeOfRevolutions] \n[Root.GetAseRetainedAgeAbilityEffectsForAgeOfRevolutions]\n\n"
 
  ase_retain_age_ability_effects_ab_justified_wars: "[ae_impact]: §G-10.0%§!"
  ase_retain_age_ability_picture_ab_justified_wars: "£ab_justified_wars£"

@@ -2,8 +2,18 @@ country_decisions = {
 	colonize_tuat_decision = {
 		potential = {
 			# has_country_flag = can_colonize_the_strait
-			1127 = {
-				is_empty = yes
+			OR = {
+				1127 = {
+					is_empty = yes
+				}
+				3348 = {
+					is_empty = yes
+				}
+			}
+			OR = {
+				owns = 1128
+				owns = 2466
+				owns = 2460
 			}
 		}
 		provinces_to_highlight = {
@@ -17,8 +27,6 @@ country_decisions = {
 				owned_by = ROOT
 				is_state = yes
 			}
-			owns = 1128
-			1127 = { is_empty = yes }
 		}
 		effect = {
 			# clr_country_flag = can_colonize_the_strait
@@ -50,6 +58,11 @@ country_decisions = {
 					is_empty = yes
 				}
 			}
+			OR = {
+				owns = 2275
+				owns = 2277
+				owns = 2448
+			}
 		}
 		allow = {
 			is_at_war = no
@@ -57,10 +70,6 @@ country_decisions = {
 				owned_by = ROOT
 				base_manpower = 5
 				is_state = yes
-			}
-			OR = {
-				owns = 2275
-				owns = 2277
 			}
 			OR = {
 				2475 = { is_empty = yes }

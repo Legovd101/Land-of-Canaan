@@ -6,7 +6,7 @@ defined_text = {
 		trigger = {
 			OR = {
 				has_country_flag = ase_chosen_age_of_exploration
-				has_country_flag = ase_chosen_age_of_absolutism
+				has_country_flag = ase_chosen_age_of_gunpowder
 				has_country_flag = ase_chosen_age_of_revolutions
 			}
 		}
@@ -166,9 +166,9 @@ defined_text = {
 
 	text = {
 		trigger = {
-			has_country_flag = ase_chosen_age_of_absolutism
+			has_country_flag = ase_chosen_age_of_gunpowder
 		}
-		localisation_key = string_ase_retained_age_ability_for_age_of_absolutism_tt
+		localisation_key = string_ase_retained_age_ability_for_age_of_gunpowder_tt
 	}
 	text = {
 		trigger = {

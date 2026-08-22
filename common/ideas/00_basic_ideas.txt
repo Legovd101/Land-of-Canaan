@@ -1214,7 +1214,7 @@ maritime_ideas = {
 		modifier = {
 			factor = 0.25
 			NOT = { num_of_ports = 30 }
-			current_age = age_of_absolutism 
+			current_age = age_of_gunpowder 
 		}
 		modifier = {
 			factor = 0.25

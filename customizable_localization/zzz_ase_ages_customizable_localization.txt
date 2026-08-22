@@ -21,13 +21,13 @@ defined_text = {
 }
 
 defined_text = {
-	name = age_of_absolutism
+	name = age_of_gunpowder
 
 	text = {
 		trigger = {
 			always = yes
 		}
-		localisation_key = age_of_absolutism
+		localisation_key = age_of_gunpowder
 	}
 }
 

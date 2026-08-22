@@ -26,9 +26,9 @@ ase_retain_age_ability_entry_1_effect = {
 	}
 	else_if = {
 		limit = {
-			current_age = age_of_absolutism
+			current_age = age_of_gunpowder
 		}
-		set_country_flag = ase_chosen_age_of_absolutism
+		set_country_flag = ase_chosen_age_of_gunpowder
 		if = {
 			limit = {
 				is_variable_equal = { which = ase_retain_age_ability_page value = 1 }
@@ -124,9 +124,9 @@ ase_retain_age_ability_entry_2_effect = {
 	}
 	else_if = {
 		limit = {
-			current_age = age_of_absolutism
+			current_age = age_of_gunpowder
 		}
-		set_country_flag = ase_chosen_age_of_absolutism
+		set_country_flag = ase_chosen_age_of_gunpowder
 		if = {
 			limit = {
 				is_variable_equal = { which = ase_retain_age_ability_page value = 1 }
@@ -222,9 +222,9 @@ ase_retain_age_ability_entry_3_effect = {
 	}
 	else_if = {
 		limit = {
-			current_age = age_of_absolutism
+			current_age = age_of_gunpowder
 		}
-		set_country_flag = ase_chosen_age_of_absolutism
+		set_country_flag = ase_chosen_age_of_gunpowder
 		if = {
 			limit = {
 				is_variable_equal = { which = ase_retain_age_ability_page value = 1 }
@@ -302,9 +302,9 @@ ase_retain_age_ability_entry_4_effect = {
 	}
 	else_if = {
 		limit = {
-			current_age = age_of_absolutism
+			current_age = age_of_gunpowder
 		}
-		set_country_flag = ase_chosen_age_of_absolutism
+		set_country_flag = ase_chosen_age_of_gunpowder
 		if = {
 			limit = {
 				is_variable_equal = { which = ase_retain_age_ability_page value = 1 }

@@ -23,6 +23,10 @@ on_startup = {
 	1 = {
 		province_event = { id = prices_marcin.13 days = 365 }
 	}
+	set_variable = {
+		which = fort_provinces_sieged
+		value = 0
+	}
 
 }
 
@@ -83,6 +87,15 @@ on_siege_won_province = {
 		owner = {
 			country_event = {
 				id = flavor_ROM.1
+			}
+		}
+	}
+	if = {
+		limit = { fort_level = 1 }
+		controller = {
+			change_variable = {
+				which = fort_provinces_sieged
+				value = 1
 			}
 		}
 	}

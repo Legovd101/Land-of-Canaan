@@ -1391,7 +1391,7 @@ country_event = {
 		capital_scope = { continent = europe }
 		dip_tech = 18
 		OR = {
-			current_age = age_of_absolutism #Not before this
+			current_age = age_of_gunpowder #Not before this
 			current_age = age_of_revolutions
 		}
 		OR = {
@@ -1530,7 +1530,7 @@ country_event = {
 		dip_tech = 12
 		OR = {
 			current_age = age_of_exploration #Not before this
-			current_age = age_of_absolutism
+			current_age = age_of_gunpowder
 			current_age = age_of_revolutions
 		}
 		OR = {

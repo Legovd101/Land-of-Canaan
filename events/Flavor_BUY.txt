@@ -118,8 +118,8 @@ country_event = {
 			limit = { war_with = BUY }
 			white_peace = BUY
 		}
-		3220 = { cede_province = OSE }
-		3219 = { cede_province = OSE }
+		3220 = { cede_province = OSE remove_core = BUY }
+		3219 = { cede_province = OSE remove_core = BUY }
 		1967 = { cede_province = OSE }
 
 		3218 = { cede_province = BUY }

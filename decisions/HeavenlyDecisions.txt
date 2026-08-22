@@ -5,6 +5,7 @@ country_decisions = {
 			culture_group = east_asian
 			NOT = { tag = BIL }
 			NOT = { any_country = { is_in_heavenly_alliance = yes } }
+			NOT = { exists = TGU }
 		}
 
 		provinces_to_highlight = {

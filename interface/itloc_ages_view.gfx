@@ -1,5 +1,100 @@
 spriteTypes = {
 
+	# GUNPOWDER
+
+	spriteType = {
+		name = "GFX_age_of_gunpowder"
+		texturefile = "gfx/interface/ages/age_3/age_of_gunpowder.dds"
+	}
+	spriteType = {
+		name = "GFX_icon_age_of_gunpowder_g"
+		texturefile = "gfx/interface/ages/age_3/age_of_gunpowder_g.dds"
+	}
+	
+	## Objectives
+	spriteType = {
+		name = "GFX_itloc_army_modernisation"
+		texturefile = "gfx/interface/ages/age_3/objectives/itloc_army_modernisation.dds"
+	}
+	spriteType = {
+		name = "GFX_itloc_loyal_court"
+		texturefile = "gfx/interface/ages/age_3/objectives/itloc_loyal_court.dds"
+	}
+	spriteType = {
+		name = "GFX_itloc_siege_25_forts"
+		texturefile = "gfx/interface/ages/age_3/objectives/itloc_siege_25_forts.dds"
+	}
+	spriteType = {
+		name = "GFX_itloc_metropolis"
+		texturefile = "gfx/interface/ages/age_3/objectives/itloc_metropolis.dds"
+	}
+	spriteType = {
+		name = "GFX_itloc_cultural_unity"
+		texturefile = "gfx/interface/ages/age_3/objectives/itloc_cultural_unity.dds"
+	}
+	spriteType = {
+		name = "GFX_itloc_monumental_achievements"
+		texturefile = "gfx/interface/ages/age_3/objectives/itloc_monumental_achievements.dds"
+	}
+	spriteType = {
+		name = "GFX_itloc_perfect_numbers"
+		texturefile = "gfx/interface/ages/age_3/objectives/itloc_perfect_numbers.dds"
+	}
+	spriteType = {
+		name = "GFX_itloc_military_industrial_complex"
+		texturefile = "gfx/interface/ages/age_3/objectives/itloc_military_industrial_complex.dds"
+	}
+	spriteType = {
+		name = "GFX_itloc_defensive_outposts"
+		texturefile = "gfx/interface/ages/age_3/objectives/itloc_defensive_outposts.dds"
+	}
+	
+	# Abilities
+	spriteType = {
+		name = "GFX_itloc_cherny_blesk"
+		texturefile = "gfx/interface/ages/age_3/abilities/itloc_cherny_blesk.dds"
+	}
+
+	spriteType = {
+		name = "GFX_itloc_merchants_of_the_east"
+		texturefile = "gfx/interface/ages/age_3/abilities/itloc_merchants_of_the_east.dds"
+	}
+
+	spriteType = {
+		name = "GFX_itloc_gall_of_the_gall_goidil"
+		texturefile = "gfx/interface/ages/age_3/abilities/itloc_gall_of_the_gall_goidil.dds"
+	}
+
+	spriteType = {
+		name = "GFX_itloc_heavenly_protection"
+		texturefile = "gfx/interface/ages/age_3/abilities/itloc_heavenly_protection.dds"
+	}
+
+	spriteType = {
+		name = "GFX_itloc_paths_of_the_peninsula"
+		texturefile = "gfx/interface/ages/age_3/abilities/itloc_paths_of_the_peninsula.dds"
+	}
+
+	spriteType = {
+		name = "GFX_itloc_desert_expeditions"
+		texturefile = "gfx/interface/ages/age_3/abilities/itloc_desert_expeditions.dds"
+	}
+
+	spriteType = {
+		name = "GFX_itloc_hegemon_of_the_nile"
+		texturefile = "gfx/interface/ages/age_3/abilities/itloc_hegemon_of_the_nile.dds"
+	}
+
+	spriteType = {
+		name = "GFX_itloc_homeland_advantage"
+		texturefile = "gfx/interface/ages/age_3/abilities/itloc_homeland_advantage.dds"
+	}
+
+	spriteType = {
+		name = "GFX_itloc_rulers_of_the_seas"
+		texturefile = "gfx/interface/ages/age_3/abilities/itloc_rulers_of_the_seas.dds"
+	}
+
 	# EXPLORATION
 
 	spriteType = {

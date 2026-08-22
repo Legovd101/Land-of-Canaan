@@ -6218,7 +6218,7 @@ on_new_age = {
 	if = {
 		limit = {
 			has_government_mechanic = ottoman_decadence_mechanic
-			current_age = age_of_absolutism
+			current_age = age_of_gunpowder
 		}
 		add_country_modifier = {
 			name = twilight_of_the_ottomans

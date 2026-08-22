@@ -7,7 +7,7 @@ country_decisions = {
 			NOT = { has_country_flag = ase_retaining_age_ability }
 			OR = {
 				current_age = age_of_exploration
-				current_age = age_of_absolutism
+				current_age = age_of_gunpowder
 				current_age = age_of_revolutions
 			}
 			ase_retain_age_ability_not_selected_for_current_age = yes
@@ -24,7 +24,7 @@ country_decisions = {
 				}
 			}
 			else_if = {
-				limit = { current_age = age_of_absolutism }
+				limit = { current_age = age_of_gunpowder }
 				country_event = {
 					id = Ages_Splendor_Expanded_Events.12
 				}

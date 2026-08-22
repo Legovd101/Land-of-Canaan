@@ -42,7 +42,7 @@ guiTypes = {
 				frame = 2
 			}
 			iconType = {
-				name ="icon_age_of_absolutism"
+				name ="icon_age_of_gunpowder"
 				spriteType = "GFX_icon_age_s"
 				position = { x = -15 y = 111 }
 				frame = 3
@@ -72,7 +72,7 @@ guiTypes = {
 				frame = 2
 			}
 			iconType = {
-				name ="icon_age_of_absolutism"
+				name ="icon_age_of_gunpowder"
 				spriteType = "GFX_icon_age_s"
 				position = { x = -15 y = 111 }
 				frame = 3
@@ -86,9 +86,9 @@ guiTypes = {
 		}
 
 		WindowType = {
-			name = "age_of_absolutism"
+			name = "age_of_gunpowder"
 			position = { x = 148 y = -29}
-			upsound = age_of_absolutism
+			upsound = age_of_gunpowder
 
 			iconType = {
 				name ="icon_age_of_expansion"
@@ -96,7 +96,7 @@ guiTypes = {
 				position = { x = -15 y = 22 }
 			}
 			iconType = {
-				name ="icon_age_of_absolutism"
+				name ="icon_age_of_gunpowder"
 				spriteType = "GFX_icon_age_l"
 				position = { x = -30 y = 100 }
 				frame = 3
@@ -130,8 +130,8 @@ guiTypes = {
 				position = { x = -15 y = 63 }
 			}
 			iconType = {
-				name ="icon_age_of_absolutism"
-				spriteType = "GFX_icon_age_of_absolutism_g"
+				name ="icon_age_of_gunpowder"
+				spriteType = "GFX_icon_age_of_gunpowder_g"
 				position = { x = -15 y = 104 }
 			}
 			iconType = {

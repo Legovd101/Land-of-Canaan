@@ -287,10 +287,7 @@ serican_5 = {
 		trigger = {
 			OR = {
 				is_part_of_hre = yes
-				reverse_has_opinion_modifier = {
-					who = emperor
-					modifier = insulted
-				}
+				emperor = { has_been_insulted_by_root = yes }
 			}
 		}
 

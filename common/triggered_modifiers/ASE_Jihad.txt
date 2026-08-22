@@ -17,7 +17,7 @@ ase_jihad_triggered_modifier = {
 					has_country_flag = muslim_jihad_flag_infinite
 				}
 				OR = {
-					current_age = age_of_absolutism
+					current_age = age_of_gunpowder
 					current_age = age_of_revolutions
 				}
 			}
