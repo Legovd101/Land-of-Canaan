@@ -110,65 +110,18 @@ From;To;Type;Through;start_x;start_y;stop_x;stop_y;Comment
 1242;4938;sea;1431;-1;-1;-1;-1;Vitu Levu-Vanua Levu
 1087;4869;sea;1414;-1;-1;-1;-1;Wurundjeri-Peerapper
 631;627;sea;1354;-1;-1;-1;-1;Bali-Blambangan
-3293;355;sea;3297;-1;-1;-1;-1;El Agheila-Sirt
-355;3294;sea;3297;-1;-1;-1;-1;Sirt-Tawergha
-3295;354;sea;3298;-1;-1;-1;-1;Al-Khums-Tripoli
-3296;2452;sea;3299;-1;-1;-1;-1;Sabratha-Zuwarah
-2452;353;sea;3299;-1;-1;-1;-1;Zuwarah-Tataouine
-355;3302;sea;3297;-1;-1;-1;-1;Sirt-Ghirza
-3302;3303;sea;3311;-1;-1;-1;-1;Ghirza-Waddan
 3302;3301;sea;3309;-1;-1;-1;-1;Ghirza-Zella
 3300;3301;sea;3309;-1;-1;-1;-1;Maradah-Zella
 3300;3293;sea;3309;-1;-1;-1;-1;Maradah-El Agheila
-3303;3305;sea;3310;-1;-1;-1;-1;Waddan-Sokna
 3301;2449;sea;3310;-1;-1;-1;-1;Zella-Jufra
 3303;2449;sea;3310;-1;-1;-1;-1;Waddan-Jufra
-3304;3295;sea;3298;-1;-1;-1;-1;Gharyan-Al-Khums
-3304;3305;sea;3312;-1;-1;-1;-1;Gharyan-Sokna
-3304;3307;sea;3299;-1;-1;-1;-1;Gharyan-Nalut
-3307;3306;sea;3316;-1;-1;-1;-1;Nalut-Berrhi
-3306;2450;sea;3316;-1;-1;-1;-1;Berrhi-Ghadames
-3306;4567;sea;3312;-1;-1;-1;-1;Berrhi-Sabha
-3306;3314;sea;3312;-1;-1;-1;-1;Berrhi-Tabaqah
-3314;4567;sea;3312;-1;-1;-1;-1;Tabaqah-Sabha
-2450;3315;sea;3316;-1;-1;-1;-1;Ghadames-Zintam
-4567;3315;sea;3316;-1;-1;-1;-1;Sabha-Zintam
 3315;3308;sea;3316;-1;-1;-1;-1;Zintam-Germa
 3308;2448;sea;3313;-1;-1;-1;-1;Germa-Fezzan
 2449;2448;sea;3313;-1;-1;-1;-1;Jufra-Fezzan
 2448;2474;sea;1794;-1;-1;-1;-1;Fezzan-Tajarhi
 2474;2475;sea;1794;-1;-1;-1;-1;Tajarhi-Djado
-2472;3317;sea;3334;-1;-1;-1;-1;Ghadames-El Borma
-2472;2457;sea;3334;-1;-1;-1;-1;Ghadames-Mzab
-3330;2457;sea;3334;-1;-1;-1;-1;El Allia-Mzab
-3330;3329;sea;3334;-1;-1;-1;-1;El Allia-Debila
-3330;3331;sea;3335;-1;-1;-1;-1;El Allia-Guettara
-3318;3329;sea;3333;-1;-1;-1;-1;Nefta-Debila
-3318;3307;sea;3333;-1;-1;-1;-1;Nefta-Nalut
-3318;3319;sea;3333;-1;-1;-1;-1;Nefta-Gabés
-3318;2456;sea;3333;-1;-1;-1;-1;Nefta-Touggourt
-2456;352;sea;3333;-1;-1;-1;-1;Touggourt-Gafsa
-2456;351;sea;3336;-1;-1;-1;-1;Touggourt-Biskra
-3331;350;sea;3336;-1;-1;-1;-1;Guettara-Laghouat
-2459;350;sea;3336;-1;-1;-1;-1;Titteri-Laghouat
-2459;2458;sea;3336;-1;-1;-1;-1;Titteri-Hodna
-3328;2458;sea;3336;-1;-1;-1;-1;Sétif-Hodna
-2459;3339;sea;3336;-1;-1;-1;-1;Titteri-Medea
-3332;350;sea;3336;-1;-1;-1;-1;Aflou-Laghouat
-3339;2462;sea;3350;-1;-1;-1;-1;Medea-Ouarsenis
-336;2462;sea;3350;-1;-1;-1;-1;Tlemcen-Ouarsenis
-336;2463;sea;3350;-1;-1;-1;-1;Tlemcen-Kasdir
-3342;2463;sea;3350;-1;-1;-1;-1;Sfissifa-Kasdir
-3342;3349;sea;3351;-1;-1;-1;-1;Sfissifa-Badla
-3342;349;sea;3351;-1;-1;-1;-1;Sfissifa-Figuig
-349;346;sea;3351;-1;-1;-1;-1;Figuig-Tafilalt
-3349;2460;sea;3351;-1;-1;-1;-1;Badla-Saoura
-346;2460;sea;3351;-1;-1;-1;-1;Tafilalt-Saoura
-2464;2460;sea;3353;-1;-1;-1;-1;Ouarzazate-Saoura
 1127;2460;sea;3353;-1;-1;-1;-1;Tuat-Saoura
 1127;2466;sea;3353;-1;-1;-1;-1;Tuat-Draa
-348;2466;sea;3352;-1;-1;-1;-1;Sus-Draa
-2464;4568;sea;3352;-1;-1;-1;-1;Ouarzazate-Demnate
 1127;3348;sea;3353;-1;-1;-1;-1;Tuat-Sali
 1128;3348;sea;3353;-1;-1;-1;-1;Taudeni-Sali
 96;4383;sea;3353;-1;-1;-1;-1;Zeeland-Den Haag
