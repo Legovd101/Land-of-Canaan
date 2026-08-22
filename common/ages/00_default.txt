@@ -1096,8 +1096,11 @@ age_of_gunpowder = {
 		}
 		
 		itloc_cultural_unity = {
-			owns_all_provinces = {
-				culture = ROOT
+			all_province = {
+				if = {
+					limit = { culture = ROOT }
+					country_or_non_sovereign_subject_holds = ROOT
+				}
 			}
 		}
 		
