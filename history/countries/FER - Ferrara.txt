@@ -7,7 +7,7 @@
 government = monarchy
 add_government_reform = feudalism_reform
 government_rank = 1
-primary_culture = romagnan
+primary_culture = tuscan
 religion = jupiterian
 technology_group = latin_group
 capital = 113
