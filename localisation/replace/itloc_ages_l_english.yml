@@ -1,20 +1,5 @@
 ﻿l_english:
 
-# Revolutions
-
- age_of_revolutions: "Age of Revolutions"
- age_of_revolutions_short: "Revolutions"
- age_of_revolutions_desc: "The advent of gunpowder has democratised warfare, allowing any wanton upstart to declare their own rule with the right amount of firepower. Will order prevail, or shall the great powers of the world fall to chaos and infighting?"
-
-## Objectives
-
-## Abilities
- itloc_dreams_of_unification: "Dreams of Unification"
- itloc_canaanite_fleet: "Canaanite Fleet"
- itloc_polish_empire: "Polish Empire"
- itloc_tangut_tenacity: "Tangut Tenacity"
- itloc_power_of_the_sun: "The Power of the Sun..."
-
 # Expansion
 
  age_of_expansion: "Age of Expansion"
@@ -136,3 +121,18 @@
  itloc_hegemon_of_the_nile: "Hegemon of the Nile"
  itloc_homeland_advantage: "Homeland Advantage"
  itloc_rulers_of_the_seas: "Rulers of the Seas"
+
+# Revolutions
+
+ age_of_revolutions: "Age of Revolutions"
+ age_of_revolutions_short: "Revolutions"
+ age_of_revolutions_desc: "The advent of gunpowder has democratised warfare, allowing any wanton upstart to declare their own rule with the right amount of firepower. Will order prevail, or shall the great powers of the world fall to chaos and infighting?"
+
+## Objectives
+
+## Abilities
+ itloc_dreams_of_unification: "Dreams of Unification"
+ itloc_canaanite_fleet: "Canaanite Fleet"
+ itloc_polish_empire: "Polish Empire"
+ itloc_tangut_tenacity: "Tangut Tenacity"
+ itloc_power_of_the_sun: "The Power of the Sun..."
