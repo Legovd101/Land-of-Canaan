@@ -1699,14 +1699,15 @@ age_of_revolutions = {
 			}
 		}
 
-		ab_pru_military = {
+		itloc_dreams_of_unification = {
 			effect = { 
 				on_age_ability_taken = { age = age_of_revolutions }
 			}
 			allow = {
 				OR = {
-					tag = PRU
-					tag = GER
+					tag = SIL
+					tag = SOR
+					tag = ZPD
 				}
 			}
 			modifier = {
@@ -1717,15 +1718,12 @@ age_of_revolutions = {
 				factor = 100
 			}
 		}
-		ab_gbr_fleet = {
+		itloc_canaanite_fleet = {
 			effect = { 
 				on_age_ability_taken = { age = age_of_revolutions }
 			}
 			allow = {
-				OR = {
-					tag = AVE
-					tag = GBR
-				}
+				tag = KNA
 			}
 			modifier = {
 				max_admiral_fire = 1
@@ -1735,12 +1733,12 @@ age_of_revolutions = {
 				factor = 100
 			}
 		}
-		ab_russia_boost = {
+		itloc_polish_empire = {
 			effect = { 
 				on_age_ability_taken = { age = age_of_revolutions }
 			}
 			allow = {
-				tag = RUS
+				tag = POL
 			}
 			modifier = {
 				min_autonomy_in_territories = -0.1
@@ -1750,15 +1748,13 @@ age_of_revolutions = {
 				factor = 100
 			}
 		}
-		ab_austrian_morale = {
+		itloc_tangut_tenacity = {
 			effect = { 
 				on_age_ability_taken = { age = age_of_revolutions }
 			}
 			allow = {
 				OR = {
-					tag = HAB
-					tag = HLR
-					tag = AUH
+					tag = BIL
 				}
 			}
 			modifier = {
@@ -1770,9 +1766,9 @@ age_of_revolutions = {
 			}
 		}
 
-		ase_germany_industrialisation = {
+		itloc_power_of_the_sun = {
 			allow = {
-				tag = GER
+				tag = JAP
 			}
 			effect = {
 				on_age_ability_taken = { age = age_of_revolutions }
@@ -1785,68 +1781,68 @@ age_of_revolutions = {
 				factor = 100
 			}
 		}
-		ase_hanover_marriages = {
-			allow = {
-				tag = HAN
-			}
-			effect = {
-				on_age_ability_taken = { age = age_of_revolutions }
-			}
-			modifier = {
-				prestige = 2
-				num_of_age_rewards = 1
-			}
-			ai_will_do = {
-				factor = 100
-			}
-		}
-		ase_italian_hegemony = {
-			allow = {
-				OR = {
-					tag = SPI
-					tag = ITA
-				}
-			}
-			effect = {
-				on_age_ability_taken = { age = age_of_revolutions }
-			}
-			modifier = {
-				administrative_efficiency = 0.05
-				num_of_age_rewards = 1
-			}
-			ai_will_do = {
-				factor = 100
-			}
-		}
-		ase_marathas_horsemen = {
-			allow = {
-				tag = MAR
-			}
-			effect = {
-				on_age_ability_taken = { age = age_of_revolutions }
-			}
-			modifier = {
-				shock_damage = 0.20
-				num_of_age_rewards = 1
-			}
-			ai_will_do = {
-				factor = 100
-			}
-		}
-		ase_united_states = {
-			allow = {
-				tag = USA
-			}
-			effect = {
-				on_age_ability_taken = { age = age_of_revolutions }
-			}
-			modifier = {
-				reinforce_speed = 0.50
-				num_of_age_rewards = 1
-			}
-			ai_will_do = {
-				factor = 100
-			}
-		}
+		# ase_hanover_marriages = {
+		# 	allow = {
+		# 		tag = HAN
+		# 	}
+		# 	effect = {
+		# 		on_age_ability_taken = { age = age_of_revolutions }
+		# 	}
+		# 	modifier = {
+		# 		prestige = 2
+		# 		num_of_age_rewards = 1
+		# 	}
+		# 	ai_will_do = {
+		# 		factor = 100
+		# 	}
+		# }
+		# ase_italian_hegemony = {
+		# 	allow = {
+		# 		OR = {
+		# 			tag = SPI
+		# 			tag = ITA
+		# 		}
+		# 	}
+		# 	effect = {
+		# 		on_age_ability_taken = { age = age_of_revolutions }
+		# 	}
+		# 	modifier = {
+		# 		administrative_efficiency = 0.05
+		# 		num_of_age_rewards = 1
+		# 	}
+		# 	ai_will_do = {
+		# 		factor = 100
+		# 	}
+		# }
+		# ase_marathas_horsemen = {
+		# 	allow = {
+		# 		tag = MAR
+		# 	}
+		# 	effect = {
+		# 		on_age_ability_taken = { age = age_of_revolutions }
+		# 	}
+		# 	modifier = {
+		# 		shock_damage = 0.20
+		# 		num_of_age_rewards = 1
+		# 	}
+		# 	ai_will_do = {
+		# 		factor = 100
+		# 	}
+		# }
+		# ase_united_states = {
+		# 	allow = {
+		# 		tag = USA
+		# 	}
+		# 	effect = {
+		# 		on_age_ability_taken = { age = age_of_revolutions }
+		# 	}
+		# 	modifier = {
+		# 		reinforce_speed = 0.50
+		# 		num_of_age_rewards = 1
+		# 	}
+		# 	ai_will_do = {
+		# 		factor = 100
+		# 	}
+		# }
 	}
 }

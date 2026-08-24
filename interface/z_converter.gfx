@@ -69,5 +69,15 @@ spriteTypes = {
 		effectFile = "gfx/FX/buttonstate.lua"
 		loadType = "INGAME"
 	}
+	# Ages
+
+	spriteType = {
+		name = "GFX_age_of_revolutions"
+		texturefile = "gfx/interface/ages/age_4/age_of_revolutions.dds"
+	}
+	spriteType = {
+		name = "GFX_icon_age_of_revolutions_g"
+		texturefile = "gfx/interface/ages/age_4/age_of_revolutions_g.dds"
+	}
 	
 }

@@ -1,5 +1,46 @@
 spriteTypes = {
 
+	# REVOLUTIONS
+
+	# Find these first two definitions in z_converter.gfx
+
+	# spriteType = {
+	# 	name = "GFX_age_of_revolutions"
+	# 	texturefile = "gfx/interface/ages/age_4/age_of_revolutions.dds"
+	# }
+	# spriteType = {
+	# 	name = "GFX_icon_age_of_revolutions_g"
+	# 	texturefile = "gfx/interface/ages/age_4/age_of_revolutions_g.dds"
+	# }
+	
+	## Objectives
+	# spriteType = {
+	# 	name = "GFX_itloc_army_modernisation"
+	# 	texturefile = "gfx/interface/ages/age_4/objectives/itloc_army_modernisation.dds"
+	# }
+	
+	# Abilities
+	spriteType = {
+		name = "GFX_itloc_dreams_of_unification"
+		texturefile = "gfx/interface/ages/age_4/abilities/itloc_dreams_of_unification.dds"
+	}
+	spriteType = {
+		name = "GFX_itloc_canaanite_fleet"
+		texturefile = "gfx/interface/ages/age_4/abilities/itloc_canaanite_fleet.dds"
+	}
+	spriteType = {
+		name = "GFX_itloc_polish_empire"
+		texturefile = "gfx/interface/ages/age_4/abilities/itloc_polish_empire.dds"
+	}
+	spriteType = {
+		name = "GFX_itloc_tangut_tenacity"
+		texturefile = "gfx/interface/ages/age_4/abilities/itloc_tangut_tenacity.dds"
+	}
+	spriteType = {
+		name = "GFX_itloc_power_of_the_sun"
+		texturefile = "gfx/interface/ages/age_4/abilities/itloc_power_of_the_sun.dds"
+	}
+
 	# GUNPOWDER
 
 	spriteType = {
