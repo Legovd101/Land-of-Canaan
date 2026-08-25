@@ -99,4 +99,9 @@ spriteTypes = {
 		name = "GFX_great_project_temple_of_radegast_svarohits"	
 		texturefile = "gfx//interface//great_projects//great_project_temple_of_radegast_svarohits.dds"
 	}
+
+	spriteType = {
+		name = "GFX_great_project_vineyards_of_aquileia"	
+		texturefile = "gfx//interface//great_projects//great_project_vineyards_of_aquileia.dds"
+	}
 }

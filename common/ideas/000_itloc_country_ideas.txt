@@ -332,10 +332,10 @@ KNA_ideas = {
 	}
 }
 
-VEN2_ideas = {
+VEN_ideas = {
 	start = {
-		global_manpower_modifier = 0.25
-		land_maintenance_modifier = -0.05
+		cavalry_cost = -0.15
+		reform_progress_growth = 0.2
 	}
 	bonus = {
 		global_institution_spread = 0.1
@@ -350,9 +350,10 @@ VEN2_ideas = {
 		devotion = 1
 		republican_tradition = 0.3
 		meritocracy = 1
+		spy_offence = 0.2
 	}
 	flexible_culture = {
-		core_creation = -0.25
+		global_institution_spread = 0.15
 	}
 	horsemen_of_italia = {
 		cavalry_power = 0.20
