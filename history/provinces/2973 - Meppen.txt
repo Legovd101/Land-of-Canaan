@@ -1,8 +1,8 @@
 # Meppen
 owner = MEB
 controller = MEB
-culture = hannoverian
-religion = new_gothic
+culture = lule
+religion = sami_pagan
 trade_goods = cloth
 capital = "Meppen"
 base_tax = 3

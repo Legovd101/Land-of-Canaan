@@ -1,7 +1,7 @@
 # 4769 - Jülich
 owner = NED
 controller = NED
-culture = dutch
+culture = flemish
 religion = old_gothic
 trade_goods = zinc
 capital = "Jülich"

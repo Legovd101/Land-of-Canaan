@@ -6,8 +6,9 @@
 government = tribal
 add_government_reform = steppe_horde
 government_rank = 1
-primary_culture = coralli
+primary_culture = pannonian
 religion = pyrrhonism
 technology_group = celtic_group
 capital = 1764
 # Specific Effects #
+add_accepted_culture = bessi

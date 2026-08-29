@@ -1,6 +1,6 @@
 #1111 - Arguin
-culture = berber
-religion = shamanism
+culture = shilha
+religion = amazighism
 capital = "Arguin"
 trade_goods = unknown
 base_tax = 1

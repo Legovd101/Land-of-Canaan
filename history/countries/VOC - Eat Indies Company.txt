@@ -3,6 +3,6 @@ add_government_reform = trade_company_government
 mercantilism = 15
 government_rank = 1
 technology_group = western
-primary_culture = dutch
+primary_culture = flemish
 religion = catholic
 capital = 4476 #Nadia

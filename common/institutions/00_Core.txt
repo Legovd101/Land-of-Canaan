@@ -286,63 +286,70 @@ renaissance = {
 	historical_start_province = 116 # Florence
 
 	history = {
-		OR = {
+		# OR = {
 			AND = {
 				is_year = 1450
 				region = italy_region
 			}
 			
-			AND = {
-				is_year = 1450
-				continent = europe
-			}
-			AND = {
-				is_year = 1500
-				owner = {
-					NOT = { technology_group = north_american }
-					NOT = { technology_group = mesoamerican }
-					NOT = { technology_group = south_american }
-					NOT = { technology_group = andean }
-				}
-				superregion = south_america_superregion
-			}
-			AND = {
-				is_year = 1500
-				owner = {
-					NOT = { technology_group = north_american }
-					NOT = { technology_group = mesoamerican }
-					NOT = { technology_group = south_american }
-					NOT = { technology_group = andean }
-				}
-				superregion = north_america_superregion
-			}
-			AND = {
-				is_year = 1500
-				owner = {
-					NOT = { technology_group = north_american }
-					NOT = { technology_group = mesoamerican }
-					NOT = { technology_group = south_american }
-					NOT = { technology_group = andean }
-				}
-				superregion = central_america_superregion
-			}
-			AND = {
-				is_year = 1600
-				continent = asia
-				owner = {
-					NOT = { government = tribal }
-				}
-			}
-			is_year = 1780
-		}
+		# 	AND = {
+		# 		is_year = 1450
+		# 		continent = europe
+		# 	}
+		# 	AND = {
+		# 		is_year = 1500
+		# 		owner = {
+		# 			NOT = { technology_group = north_american }
+		# 			NOT = { technology_group = mesoamerican }
+		# 			NOT = { technology_group = south_american }
+		# 			NOT = { technology_group = andean }
+		# 		}
+		# 		superregion = south_america_superregion
+		# 	}
+		# 	AND = {
+		# 		is_year = 1500
+		# 		owner = {
+		# 			NOT = { technology_group = north_american }
+		# 			NOT = { technology_group = mesoamerican }
+		# 			NOT = { technology_group = south_american }
+		# 			NOT = { technology_group = andean }
+		# 		}
+		# 		superregion = north_america_superregion
+		# 	}
+		# 	AND = {
+		# 		is_year = 1500
+		# 		owner = {
+		# 			NOT = { technology_group = north_american }
+		# 			NOT = { technology_group = mesoamerican }
+		# 			NOT = { technology_group = south_american }
+		# 			NOT = { technology_group = andean }
+		# 		}
+		# 		superregion = central_america_superregion
+		# 	}
+		# 	AND = {
+		# 		is_year = 1600
+		# 		continent = asia
+		# 		owner = {
+		# 			NOT = { government = tribal }
+		# 		}
+		# 	}
+		# 	is_year = 1780
+		# }
 	}
 	
 	can_start = {
 		is_year = 1450
 		is_institution_enabled = feudalism
-		region = italy_region
+		OR = {
+			superregion = persia_superregion
+			region = anatolia_region
+			region = mashriq_region
+			region = balkan_region
+		}
+		NOT = {
+			region = caucasia_region
+		}
 		is_state = yes
-		NOT = { province_id = 126 }
 		is_island = no
 		OR = {
 			development = 20
@@ -399,13 +406,13 @@ renaissance = {
 		modifier = {
 			factor = 1
 			potential = {
-				region = italy_region
+				region = balkan_region
 			}
 			custom_trigger_tooltip = {
-				tooltip = tooltip_italian_capital
+				tooltip = tooltip_haemian_hellenic_capital
 				is_capital = yes
-				region = italy_region
-				culture_group = latin
+				region = balkan_region
+				culture_group = hellenic
 			}
 			
 			
@@ -414,58 +421,87 @@ renaissance = {
 			factor = 0.05
 			scale = yes
 			potential = {
-				continent = europe
+				OR = {
+					region = anatolia_region
+					region = mashriq_region
+					superregion = persia_superregion
+				}
+				culture_group = hellenic
+			}
+			custom_trigger_tooltip = {
+				tooltip = tooltip_development_5
+				OR = {
+					region = anatolia_region
+					region = mashriq_region
+					superregion = persia_superregion
+				}
+				culture_group = hellenic
+				development = 5
+			}
+		}
+		modifier = {
+			factor = 0.05
+			scale = yes
+			potential = {
+				OR = {
+					region = anatolia_region
+					region = mashriq_region
+					superregion = persia_superregion
+				}
+				culture_group = hellenic
 			}
 			custom_trigger_tooltip = {
 				tooltip = tooltip_development_10
-				continent = europe
 				development = 10
-			}
-		}
-		modifier = {
-			factor = 0.05
-			scale = yes
-			potential = {
-				continent = europe
-			}
-			custom_trigger_tooltip = {
-				tooltip = tooltip_development_20
-				development = 20
-				continent = europe
+				OR = {
+					region = anatolia_region
+					region = mashriq_region
+					superregion = persia_superregion
+				}
+				culture_group = hellenic
 			}
 		}
 		modifier = {
 			factor = 0.1
 			scale = yes
 			potential = {
-				continent = europe
+				OR = {
+					region = anatolia_region
+					region = mashriq_region
+					superregion = persia_superregion
+				}
+				culture_group = hellenic
 			}
 			custom_trigger_tooltip = {
-				tooltip = tooltip_development_5_post_1500
-				continent = europe
+				tooltip = tooltip_hellenistic_post_1500
+				OR = {
+					region = anatolia_region
+					region = mashriq_region
+					superregion = persia_superregion
+				}
+				culture_group = hellenic
 				is_year = 1500
-				development = 5
 			}
 		}
-		modifier = {
-			factor = 0.5
-			scale = yes
-			potential = {
-				OR = {
-					area = flanders_area
-					area = tuscany_area
-					area = venetia_area
-				}
-			}
-			custom_trigger_tooltip = {
-				tooltip = tooltip_flanders_tuscany_venetia
-				OR = {
-					area = flanders_area
-					area = tuscany_area
-					area = venetia_area
-				}
-			}
-		}
+		# modifier = {
+		# 	factor = 0.5
+		# 	scale = yes
+		# 	potential = {
+		# 		OR = {
+		# 			area = flanders_area
+		# 			area = tuscany_area
+		# 			area = venetia_area
+		# 		}
+		# 	}
+		# 	custom_trigger_tooltip = {
+		# 		tooltip = tooltip_flanders_tuscany_venetia
+		# 		OR = {
+		# 			area = flanders_area
+		# 			area = tuscany_area
+		# 			area = venetia_area
+		# 		}
+		# 	}
+		# }
 		modifier = {
 			factor = 5
 			scale = yes
@@ -633,7 +669,7 @@ new_world_i = {
 			continent = africa
 		}
 		has_port = yes
-		is_island = no
+		# is_island = no
 		is_state = yes
 		OR = {
 			province_has_center_of_trade_of_level = 1
@@ -931,10 +967,10 @@ printing_press = {
 			trade_goods = paper
 		}
 		OR = {
-			religion = protestant
-			religion = reformed
-			region = north_german_region
-			region = south_german_region
+			# religion = protestant
+			# religion = reformed
+			region = anatolia_region
+			owner = { culture_group = greco_serican }
 		}
 
 	}
@@ -1019,80 +1055,81 @@ printing_press = {
 			factor = 0.05
 			scale = yes
 			potential = {
-				continent = europe
+				region = anatolia_region
 			}
 			custom_trigger_tooltip = {
 				tooltip = tooltip_development_20_capital
 				development = 20
 				is_capital = yes
-				continent = europe
+				region = anatolia_region
+				culture_group = greco_serican
 			}
 		}
-		modifier = {
-			factor = 2
-			potential = {
-				owner = {
-					religion_group = christian
-				}
-			}
-			if = {
-				limit = { has_dlc = "Rule Britannia" }
-				custom_trigger_tooltip = {
-					tooltip = tooltip_owner_protestant
-					is_owned_by_trade_company = no
-					owner = {
-						OR = {
-							religion = protestant
-							religion = reformed
-							religion = anglican
-							religion = hussite
-						}
-					}
-				}
-			}
-			else = {
-				custom_trigger_tooltip = {
-					tooltip = tooltip_owner_protestant
-					is_owned_by_trade_company = no
-					owner = {
-						OR = {
-							religion = protestant
-							religion = reformed
-							religion = anglican
-							religion = hussite
-						}
-					}
-				}
-			}
-		}
-		modifier = {
-			factor = 1
-			if = {
-				limit = {
-					has_dlc = "Rule Britannia"
-				}
-				custom_trigger_tooltip = {
-					tooltip = tooltip_province_protestant_RB
-					OR = {
-						religion = reformed
-						religion = protestant
-						religion = anglican
-						religion = hussite
-					}
-				}
-			}
-			else = {
-				custom_trigger_tooltip = {
-					tooltip = tooltip_province_protestant
-					OR = {
-						religion = reformed
-						religion = protestant
-						religion = anglican
-						religion = hussite
-					}
-				}
-			}
-		}
+		# modifier = {
+		# 	factor = 2
+		# 	potential = {
+		# 		owner = {
+		# 			religion_group = christian
+		# 		}
+		# 	}
+		# 	if = {
+		# 		limit = { has_dlc = "Rule Britannia" }
+		# 		custom_trigger_tooltip = {
+		# 			tooltip = tooltip_owner_protestant
+		# 			is_owned_by_trade_company = no
+		# 			owner = {
+		# 				OR = {
+		# 					religion = protestant
+		# 					religion = reformed
+		# 					religion = anglican
+		# 					religion = hussite
+		# 				}
+		# 			}
+		# 		}
+		# 	}
+		# 	else = {
+		# 		custom_trigger_tooltip = {
+		# 			tooltip = tooltip_owner_protestant
+		# 			is_owned_by_trade_company = no
+		# 			owner = {
+		# 				OR = {
+		# 					religion = protestant
+		# 					religion = reformed
+		# 					religion = anglican
+		# 					religion = hussite
+		# 				}
+		# 			}
+		# 		}
+		# 	}
+		# }
+		# modifier = {
+		# 	factor = 1
+		# 	if = {
+		# 		limit = {
+		# 			has_dlc = "Rule Britannia"
+		# 		}
+		# 		custom_trigger_tooltip = {
+		# 			tooltip = tooltip_province_protestant_RB
+		# 			OR = {
+		# 				religion = reformed
+		# 				religion = protestant
+		# 				religion = anglican
+		# 				religion = hussite
+		# 			}
+		# 		}
+		# 	}
+		# 	else = {
+		# 		custom_trigger_tooltip = {
+		# 			tooltip = tooltip_province_protestant
+		# 			OR = {
+		# 				religion = reformed
+		# 				religion = protestant
+		# 				religion = anglican
+		# 				religion = hussite
+		# 			}
+		# 		}
+		# 	}
+		# }
 		modifier = {
 			factor = 3
 			scale = yes
@@ -2191,7 +2228,15 @@ enlightenment = {
 			}
 			has_building = university
 			AND = {
-				continent = europe
+				OR = {
+					superregion = persia_superregion
+					region = anatolia_region
+					region = mashriq_region
+					region = balkan_region
+				}
+				NOT = {
+					region = caucasia_region
+				}
 				owner = {
 					ADM = 5
 					MIL = 5

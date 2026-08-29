@@ -12,12 +12,12 @@
 # Dortaga
 4150 = { "Ephorus" "Ephorus" } # Évora
 3178 = { "Cenetos" "Cenetos" } # Sines
-229 = { "Paiula" "Paiula" } # Beja
+229 = { "Cenister" "Cenister" } # Beja/Conistorgis
 230 = { "Suniba" "Suniba" } # Faro
 
 # Dortaga
-1747 = { "Caezeragus" "Caezeragus" } # Évora
+1747 = { "Anepat" "Anepat" } # "Guadiana-City"
 3177 = { "Maia" "Maia" } # Ammaia
 4788 = { "Embrez" "Embrez" } # Plasencia
-3170 = { "Agusemiraen" "Agusemiraen" } # Mérida
-218 = { "Phidarelusaen" "Phidarelusaen" } # Badajoz
+3170 = { "Cizgar" "Cizgar" } # "Girl City"
+218 = { "Sedoden" "Sedoden" } # Proto-Celtic for "Peace City"

@@ -1,8 +1,8 @@
 #4771 - Verden
 owner = DLK
 controller = DLK
-culture = lower_saxon
-religion = tivahus
+culture = pite
+religion = sami_pagan
 capital = "Verden"
 trade_goods = livestock
 base_tax = 2

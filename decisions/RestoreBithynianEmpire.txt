@@ -7,7 +7,7 @@ country_decisions = {
 			normal_or_historical_nations = yes
 			NOT = { has_country_flag = formed_bithynia_flag }
 			OR = {
-				ai = no
+				# ai = no
 				is_playing_custom_nation = no
 			}
 			OR = {

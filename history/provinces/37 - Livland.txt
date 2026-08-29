@@ -1,7 +1,7 @@
 #273 - Livland
 owner = LVA
 controller = LVA
-culture = latvian
+culture = livonian
 religion = baltic_pagan
 capital = "Fellin"
 trade_goods = livestock
