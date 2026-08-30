@@ -9387,7 +9387,7 @@ hellenic = {
 	goths = {
 		primary = FEO
 		dynasty_names = { 
-			"of Gothia"
+			Balthi Phillipi Liuvid
 		}
 		male_names = {
 			Alexios Ioannes Manuel David Basileios Skantarios Andronikos Michael Georgios Aineias 
@@ -10666,8 +10666,7 @@ ibero_germanic = {
 			"Witizano" "Egicano" "Rodérico"
 			"Gesaleco" "Amalarico"
 			# CKII
-			"Balthida" "Amalida" "Gothica"
-			"Hispanogodo" "Visigodo"
+			"Balthida" "Amalida"
 		}
 	}
 	suebi = {
@@ -10705,8 +10704,7 @@ ibero_germanic = {
 			"Witizano" "Egicano" "Rodérico"
 			"Gesaleco" "Amalarico"
 			# CKII
-			"Balthida" "Amalida" "Gothica"
-			"Hispanogodo" "Visigodo"
+			"Balthida" "Amalida"
 		}
 	}
 
@@ -11304,8 +11302,7 @@ scythian_group = {
 			"Witizano" "Egicano" "Rodérico"
 			"Gesaleco" "Amalarico"
 			# CKII
-			"Balthida" "Amalida" "Gothica"
-			"Hispanogodo" "Visigodo"
+			"Balthida" "Amalida"
 		}
 	}
 

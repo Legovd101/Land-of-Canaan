@@ -1,0 +1,78 @@
+graphical_culture = muslimgfx
+color = { 19 76 119 }
+revolutionary_colors = { 5 0 1 }
+historical_idea_groups = { 
+	maritime_ideas
+	defensive_ideas
+	religious_ideas
+	trade_ideas
+	offensive_ideas
+	administrative_ideas
+	economic_ideas
+	expansion_ideas
+}
+historical_units = { 
+	mamluk_archer
+	mamluk_cavalry_charge
+	mamluk_duel
+	mamluk_musket_charge
+	muslim_mass_infantry
+	muslim_dragoon
+	ali_bey_reformed_infantry
+}
+monarch_names = { 
+	"Narmer #0" = 60
+	"Djer #4" = 40
+	"Djet #2" = 20
+	"Den #2" = 20
+	"Khasekhemwy #0" = 10
+	"Anedjib #1" = 5
+	"Qa'a #0" = 5
+	"Khufu #0" = 5
+	"Djedefre #0" = 0
+	"Khafre #0" = 0
+	"Menkaure #0" = 0
+	"Userkaf #0" = 0
+	"Sahure #0" = 0
+	"Neferirkare #0" = 0
+	"Nyuserre #0" = 0
+	"Teti #0" = 0
+	"Pepi #0" = 0
+	"Mentuhotep #0" = 0
+	"Senusret #0" = 0
+	"Amenemhat #0" = 0
+	"Ahmose #0" = 0
+	"Amenhotep #0" = 0
+	"Thutmose #0" = 0
+	"Hatshepsut #0" = 0
+	"Akhenaten #0" = 0
+	"Tutankhamun #0" = 0
+	"Ay #0" = 0
+	"Horemheb #0" = 0
+	"Seti #0" = 0
+	"Ramesses #0" = 0
+	"Merenptah #0" = 0
+	"Psamtik #0" = 0
+	"Nectanebo #0" = 0
+	"Cleopatra #0" = -10
+	"Merneith #0" = -10
+	"Ahhotep #0" = -1
+	"Nefertiti #0" = -1
+	"Tiye #0" = -1
+	"Mutnodjmet #0" = -1
+	"Ankhesenamun #0" = -1
+}
+leader_names = { 
+	"Narmer" "Djer" "Den" "Khufu" "Khafre" "Menkaure" "Senusret" "Amenemhat" "Ahmose" "Thutmose"
+	"Amenhotep" "Ramesses" "Seti" "Horemheb" "Vizier" "Nomarch" "Medjay" "Shemsu-Hor" "Ta-Seti" "Ta-Mery"
+	"Waset" "Ineb-Hedj" "Men-nefer" 
+}
+ship_names = { 
+	"Ra" "Atum" "Amun" "Ptah" "Osiris" "Isis" "Horus" "Set" "Anubis" "Thoth"
+	"Ma'at" "Sekhmet" "Hathor" "Bastet" "Sobek" "Khonsu" "Montu" "Neith" "Wadjet" "Nekhbet"
+	"Mandjet" "Mesektet" "Akhet" "Duat" "Per-Wadjet" "Waset" "Men-nefer" "Ineb-Hedj" 
+}
+army_names = { 
+	"Meshwesh Host" "Medjay Host" "Shemsu-Hor Host" "Ta-Mery Host" "Ta-Seti Host" "Waset Host" "Men-nefer Host" "Ineb-Hedj Host" "Per-Ra Host" "Per-Amun Host"
+	"Crown Host" "Host of $PROVINCE$" 
+}

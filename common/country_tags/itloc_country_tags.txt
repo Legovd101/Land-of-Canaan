@@ -265,6 +265,7 @@ TYK = "countries/Tiyakhu.txt"
 KNM = "countries/Kenmet.txt"
 TST = "countries/Tast.txt"
 AMK = "countries/AmKhent.txt"
+HBR = "countries/Haibru.txt"
 
  ## Nomes
 N01 = "countries/Nome 1.txt"
