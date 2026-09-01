@@ -4,9 +4,10 @@
 ### Modified 10/14/2025 2:36:58 PM ###
 # Mainz
 # 78 Mainz - 10/14/2025 2:36:58 PM 
-add_core = MAI
-owner = MAI
-controller = MAI
+owner = BOS
+controller = BOS
+add_core = BOS
+add_core = NSA
 base_tax = 4
 base_production = 4
 base_manpower = 2

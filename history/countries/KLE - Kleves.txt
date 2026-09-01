@@ -1,7 +1,7 @@
 government = monarchy
 add_government_reform = feudalism_reform
 government_rank = 1
-primary_culture = hessian
+primary_culture = flemish
 religion = new_gothic
 technology_group = western
 capital = 2975# Cleves

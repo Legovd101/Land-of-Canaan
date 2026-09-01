@@ -1,0 +1,5 @@
+﻿l_english:
+ itloc_generic.1.title: "[From.GetName] Offers Subjugation"
+ itloc_generic.1.desc: "Diplomats from [From.GetName] have arrived at [Root.Capital.GetName], offering for us to become their subject."
+ itloc_generic.1.a: "We graciously accept!"
+ itloc_generic.1.b: "No... No!"

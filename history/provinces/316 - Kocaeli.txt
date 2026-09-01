@@ -8,6 +8,7 @@ trade_goods = paper
 base_tax = 2
 base_production = 1
 base_manpower = 2
+center_of_trade = 2
 is_city = yes
 discovered_by = western
 discovered_by = latin_group

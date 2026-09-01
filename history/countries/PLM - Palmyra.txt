@@ -5,7 +5,7 @@
 # PLM (PLM)
 religion = zoroastrian
 # Specific Effects #
-capital = 3055
+capital = 405
 technology_group = muslim
 government_rank = 1
 government = monarchy

@@ -1,0 +1,28 @@
+namespace = itloc_generic
+
+# [From.GetName] Offers Subjugation
+country_event = {
+	id = itloc_generic.1
+	title = itloc_generic.1.title
+	picture = DIPLOMACY_eventPicture
+	desc = itloc_generic.1.desc
+	is_triggered_only = yes
+
+	option = { # We graciously accept!
+		name = itloc_generic.1.a
+		FROM = { vassalize = ROOT }
+	}
+
+	option = { # Do they take us for fools!?
+		name = itloc_generic.1.b
+		FROM = {
+			add_casus_belli = {
+				type = cb_vassalize_mission
+				target = ROOT
+			}
+		}
+		ai_chance = {
+			factor = 0
+		}
+	}
+}

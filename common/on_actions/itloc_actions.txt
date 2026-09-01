@@ -121,3 +121,20 @@ on_new_monarch = {
 		itloc_serican.3
 	}
 }
+
+on_annexed = {
+	if = {
+		limit = {
+			FROM = { has_country_flag = is_dragon }
+		}
+		event_target:western_dragon = {
+			clr_country_flag = is_dragon
+		}
+		random_country = {
+			limit = { culture_group = greco_serican }
+			country_event = {
+				id = itloc_serican.2
+			}
+		}
+	}
+}

@@ -4,9 +4,10 @@
 ### Modified 10/14/2025 2:36:58 PM ###
 # Aschaffenburg
 # 4718 Aschaffenburg - 10/14/2025 2:36:58 PM 
-add_core = MAI
-owner = MAI
-controller = MAI
+owner = BOS
+controller = BOS
+add_core = BOS
+add_core = DRV
 base_tax = 3
 base_production = 2
 base_manpower = 2

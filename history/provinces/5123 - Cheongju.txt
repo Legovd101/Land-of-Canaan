@@ -2,7 +2,6 @@ capital = "Cheongju"
 discovered_by = chinese
 discovered_by = nomad_group
 discovered_by = uralic_group
-add_core = CUK
 owner = IZM
 culture = tatsujin
 religion = mahayana

@@ -1,7 +1,7 @@
 GDL_ideas = {
 	start = {
 		infantry_power = 0.10 # Invasion Campaign
-		global_unrest = -1 # legacy of the Invasion
+		years_of_nationalism = -5 # legacy of the Invasion
 	}
 
 	bonus = {
@@ -14,8 +14,8 @@ GDL_ideas = {
 	free = yes		#will be added at load.
 	
 	tuile_de_daoine = {
-		culture_conversion_cost = -0.05
-		province_warscore_cost = -0.05
+		culture_conversion_cost = -0.25
+		province_warscore_cost = -0.15
 	}
 	daisbhaile = {
 		fort_maintenance_modifier = -0.15
@@ -24,19 +24,18 @@ GDL_ideas = {
 		global_unrest = -3
 	}
 	uisead = {
-		movement_speed_onto_off_boat_modifier = -0.2
-		leader_naval_shock = 2
+		movement_speed_onto_off_boat_modifier = 0.1
+		leader_naval_shock = 1
 	}
 	muir_na_fola = {
 		recover_navy_morale_speed = 0.1
 	}
 	hy_brasil = {
 		colonists = 1
-		global_colonial_growth = 0.2
+		global_colonial_growth = 20
 	}
 	trath_de_athru = {
-		years_of_nationalism = -5
-		core_creation = -0.1
+		core_creation = -0.15
 	}
 }
 
@@ -56,7 +55,7 @@ ALN_ideas = {
 	free = yes		#will be added at load.
 	
 	attaces_glory = {
-		cavalry_shock = 2
+		cavalry_shock = 1
 		cav_to_inf_ratio = 0.25
 	}
 	origin_of_the_invaders = {
@@ -86,7 +85,7 @@ ALN_ideas = {
 
 NTI_ideas = {
 	start = {
-		development_cost = -0.25 # City-Builting Legacy
+		development_cost = -0.10 # City-Builting Legacy
 		fort_maintenance_modifier = -0.25 # Legacy of Antiochus
 	}
 
@@ -100,32 +99,29 @@ NTI_ideas = {
 	free = yes		#will be added at load.
 	
 	city_of_antiochos = {
-		build_cost = -0.15
-		build_time = -0.25
+		build_cost = -0.20
+		build_time = -0.15
 	}
 	leaders_of_the_empire = {
 		imperial_authority = 0.1
-		improve_relation_modifier = 0.2
+		improve_relation_modifier = 0.25
 	}
 	antipatrean_walls = {
-		garrison_size = 0.25
-		defensiveness = 0.1
+		defensiveness = 0.15
 	}
 	words_of_zoroaster = {
-		prestige_per_development_from_conversion = 0.2
-		global_missionary_strength = 0.02
+		tolerance_heathen = 2
 	}
 	mediterranean_markets = {
-		trade_steering = 0.15
 		light_ship_power = 0.1
 	}
 	reformed_hetairoi = {
 		cavalry_flanking = 0.5
-		morale_damage_received = -0.025
+		morale_damage_received = -0.1
 	}
 	legacy_of_alexander = {
-		prestige_decay = -0.25
-		discipline = 0.02
+		prestige_decay = -0.02
+		discipline = 0.05
 	}
 }
 
@@ -256,7 +252,7 @@ BBL_ideas = {
 CYR_ideas = {
 	start = {
 		production_efficiency = 0.1
-		trade_range_modifier = -0.25
+		trade_range_modifier = 0.25
 	}
 
 	bonus = {

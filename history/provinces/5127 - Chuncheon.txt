@@ -2,7 +2,6 @@ capital = "Chuncheon"
 discovered_by = chinese
 discovered_by = nomad_group
 discovered_by = uralic_group
-add_core = CUK
 owner = STS
 culture = kansaijin
 religion = mahayana

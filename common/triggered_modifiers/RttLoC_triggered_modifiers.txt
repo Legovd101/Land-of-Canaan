@@ -1,0 +1,12 @@
+imperial_council = {
+	potential = {
+		is_part_of_hre = yes
+	}
+	trigger = {
+		is_elector = yes
+	}
+	imperial_mercenary_cost = -0.5
+	improve_relation_modifier = 0.2
+	diplomatic_reputation = 1
+
+}

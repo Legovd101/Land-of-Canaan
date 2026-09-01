@@ -125,6 +125,15 @@ country_event = {
 		3218 = { cede_province = BUY }
 		3240 = { cede_province = BUY }
 		2363 = { cede_province = BUY }
+		# every_province = {
+		# 	limit = {
+		# 		OR = {
+		# 			country_or_non_sovereign_subject_holds = BUY
+		# 			country_or_non_sovereign_subject_holds = OSE
+		# 		}
+		# 	}
+		# 	set_in_empire = no
+		# }
 		MKN = {
 			release_all_subjects = yes
 			every_owned_province = {

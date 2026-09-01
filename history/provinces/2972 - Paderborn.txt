@@ -1,6 +1,8 @@
 #Paderborn
-owner = RWN
-controller = RWN
+owner = BOS
+controller = BOS
+add_core = BOS
+add_core = RWN
 culture = linonian
 religion = new_gothic
 trade_goods = wool
@@ -8,8 +10,7 @@ capital = "Paderborn"
 base_tax = 2
 base_production = 2
 base_manpower = 1
-is_city = yes# Paderborn is through its history dependant on Münster and Köln.
-add_core = PAD
+is_city = yes # Paderborn is through its history dependant on Münster and Köln.
 discovered_by = eastern
 discovered_by = slavic_group
 discovered_by = baltic_group
@@ -23,4 +24,3 @@ discovered_by = ottoman
 discovered_by = thraco_illyrian
 discovered_by = serican_group
 discovered_by = iranic_group
-add_core = RWN

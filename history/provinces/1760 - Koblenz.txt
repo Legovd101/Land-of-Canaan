@@ -4,9 +4,10 @@
 ### Modified 10/14/2025 2:36:58 PM ###
 # Koblenz
 # 1760 Koblenz - 10/14/2025 2:36:58 PM 
+owner = BOS
+controller = BOS
+add_core = BOS
 add_core = NSA
-owner = NSA
-controller = NSA
 base_tax = 4
 base_production = 4
 base_manpower = 2

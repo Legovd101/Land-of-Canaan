@@ -2559,7 +2559,7 @@ zoroastrian_group = {
 	flag_emblem_index_range = { 110 110 }
 	defender_of_faith = yes
 
-	zoroastrian = {
+	zoroastrian_placeholder = {
 		icon = 26
 		color = { 204 160 16 }
 		province = {

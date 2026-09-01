@@ -21,15 +21,15 @@
 1861 = { "Djúrabýr" "Djúrabýr" }
 
 # Wales/Bretland
-241 = { "Taffborg" "Sveinsey" }
-242 = { "Norður-Bretland" "Arfonborg" }
-4366 = { "Fjeldsæter" "Fjeldsæter" }
-4369 = { "Karmårten" "Karmårten" }
+241 = { "Karå" "Sveinsey" } # Caerau, Swansea 
+242 = { "Norður-Bretland" "Arfonborg" } # Caernarfon
+4366 = { "Karinýr" "Karinýr" } # Caereinion
+4369 = { "Karåtigr" "Karåtigr" } # Caer Guorthigirn
 
 # West Midlands/Cymru
-4372 = { "Klausturbýr" "Klausturbýr" }
-239 = { "Gleawceaster" "Brycgstow" }
-240 = { "Scrobbesborg" "Scrobbesborg" }
+4372 = { "Karligow" "Karlibýr" } # Caerlwytgoed
+239 = { "Karlow" "Brycgstow" } # Caerloyw
+240 = { "Skrobbesborg" "Skrobbesborg" }
 
 # Wessex/Priðin
 234 = { "Hamtun" "Searesborg" }

@@ -1,0 +1,17 @@
+# RULE
+# All names here will be my attempt at reconstructing fictional Gaulish Toponyms.
+# Format: ID = { "Province" "Capital" } # Origin
+
+## Galle/France 
+
+# Guyenne/Bordegalla
+174 = { "Bordegalla" "Bordegalla" } # Burdigala
+194 = { "Diuona" "Diuona" } # Divona
+198 = { "Segodunom" "Segodunom" } # Rodez
+4112 = { "Albiga" "Albiga" } # Albi
+
+# Guyenne/Bordegalla
+173 = { "Bordegalla" "Bordegalla" } # Burdigala
+175 = { "Diuona" "Diuona" } # Divona
+176 = { "Segodunom" "Segodunom" } # Rodez
+4694 = { "Albiga" "Albiga" } # Albi

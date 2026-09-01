@@ -27,9 +27,13 @@ po_claim_emperorship = {
 		always = yes
 	}
 	effect = { # Defaults to empty effect (which makes error log entry but is safe)
-		THIS = {
-			set_in_empire = yes
-			set_emperor = yes
+		hidden_effect = {
+			THIS = {
+				set_in_empire = yes
+				hre_inheritable = no
+				set_emperor = yes
+				hre_inheritable = yes
+			}
 		}
 		custom_tooltip = we_will_become_kosmokrator_tt
 	}

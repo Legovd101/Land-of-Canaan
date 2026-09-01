@@ -4,9 +4,10 @@
 ### Modified 10/14/2025 2:36:58 PM ###
 # Pfalz
 # 1761 Pfalz - 10/14/2025 2:36:58 PM 
-add_core = PAL
-owner = PAL
-controller = PAL
+owner = BOS
+controller = BOS
+add_core = BOS
+add_core = NSA
 base_tax = 4
 base_production = 4
 base_manpower = 2

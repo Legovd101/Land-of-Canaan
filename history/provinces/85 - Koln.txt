@@ -4,9 +4,10 @@
 ### Modified 10/14/2025 2:36:58 PM ###
 # Köln
 # 85 Köln - 10/14/2025 2:36:58 PM 
+owner = BOS
+controller = BOS
+add_core = BOS
 add_core = KOL
-owner = KOL
-controller = KOL
 base_tax = 6
 base_production = 6
 base_manpower = 3

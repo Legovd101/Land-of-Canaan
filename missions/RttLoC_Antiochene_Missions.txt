@@ -1,0 +1,2302 @@
+RttLoC_NTI_1_1 = {
+	slot = 1
+	generic = no
+	ai = yes
+	has_country_shield = yes
+	potential = {
+		NOT = { map_setup = map_setup_random } 
+		tag = NTI
+	}
+
+	NTI_secure_the_imperial_crown = {
+		icon = mission_alliances
+		position = 1
+		provinces_to_highlight = {
+			OR = {
+				AND = {
+					owner = { is_emperor = yes } 
+					root = { is_emperor = no } 
+				}
+				AND = {
+					owner = {
+						is_elector = yes
+						NOT = {
+							has_opinion = {
+								who = ROOT
+								value = 100
+							}
+						}
+					}
+					NOT = {
+						ROOT = {
+							calc_true_if = {
+								all_elector = {
+									has_opinion = {
+										who = ROOT
+										value = 100
+									}
+								}
+								amount = 4
+							}
+						}
+					}
+				}
+			}
+		}
+
+		trigger = {
+			is_emperor = yes
+			calc_true_if = {
+				desc = NTI_secure_the_imperial_crown.tooltip
+				all_elector = {
+					has_opinion = {
+						who = ROOT
+						value = 100
+					}
+				}
+				amount = 4
+			}
+		}
+
+		effect = {
+			if = {
+				limit = {
+					exists = KAI
+					valid_for_personal_unions_trigger = yes
+					KAI = { valid_for_personal_unions_trigger = yes } 
+				}
+				add_casus_belli = {
+					type = cb_restore_personal_union
+					months = 300
+					target = KAI
+				}
+			}
+			tarsus_area = {
+				limit = {
+					NOT = { is_permanent_claim = ROOT } 
+					NOT = { is_core = ROOT } 
+				}
+				add_permanent_claim = ROOT
+			}
+			dulkadir_area = {
+				limit = {
+					NOT = { is_permanent_claim = ROOT } 
+					NOT = { is_core = ROOT } 
+				}
+				add_permanent_claim = ROOT
+			}
+			rum_area = {
+				limit = {
+					NOT = { is_permanent_claim = ROOT } 
+					NOT = { is_core = ROOT } 
+				}
+				add_permanent_claim = ROOT
+			}
+			karaman_area = {
+				limit = {
+					NOT = { is_permanent_claim = ROOT } 
+					NOT = { is_core = ROOT } 
+				}
+				add_permanent_claim = ROOT
+			}
+			iconia_area = {
+				limit = {
+					NOT = { is_permanent_claim = ROOT } 
+					NOT = { is_core = ROOT } 
+				}
+				add_permanent_claim = ROOT
+			}
+			add_country_modifier = {
+				name = "succesful_bid_for_imperial_crown"
+				duration = 5475
+			}
+		}
+	}
+
+	NTI_control_cappadocia = {
+		icon = mission_empire
+		position = 1
+		required_missions = { NTI_secure_the_imperial_crown } 
+		provinces_to_highlight = {
+			OR = {
+				province_id = 323
+				AND = {
+					ROOT = {
+						NOT = {
+							num_of_provinces_owned_or_owned_by_non_sovereign_subjects_with = {
+								value = 10
+								OR = {
+									area = tarsus_area
+									area = dulkadir_area
+									area = rum_area
+									area = karaman_area
+									area = iconia_area
+								}
+							}
+						}
+					}
+					OR = {
+						area = tarsus_area
+						area = dulkadir_area
+						area = rum_area
+						area = karaman_area
+						area = iconia_area
+					}
+				}
+			}
+			NOT = { country_or_non_sovereign_subject_holds = ROOT } 
+		}
+
+		trigger = {
+			owns_or_non_sovereign_subject_of = 323
+			num_of_provinces_owned_or_owned_by_non_sovereign_subjects_with = {
+				value = 10
+				OR = {
+					area = tarsus_area
+					area = dulkadir_area
+					area = rum_area
+					area = karaman_area
+					area = iconia_area
+				}
+			}
+		}
+
+		effect = {
+			add_country_modifier = {
+				name = "habsburg_bohemia"
+				duration = 5475
+			}
+			lycia_area = { add_permanent_claim = ROOT } 
+			germiyan_area = { add_permanent_claim = ROOT } 
+			aydin_area = { add_permanent_claim = ROOT } 
+			hidden_effect = {
+				remove_casus_belli = {
+					type = cb_restore_personal_union
+					target = KAI
+				}
+			}
+		}
+	}
+
+	NTI_recover_southern_anatolia = {
+		icon = mission_unite_home_region
+		position = 1
+		required_missions = { NTI_control_cappadocia } 
+		provinces_to_highlight = {
+			OR = {
+				area = lycia_area
+				area = germiyan_area
+				area = aydin_area
+			}
+			NOT = { country_or_non_sovereign_subject_holds = ROOT } 
+		}
+
+		trigger = {
+			lycia_area = {
+				type = all
+				country_or_non_sovereign_subject_holds = ROOT
+			}
+			germiyan_area = {
+				type = all
+				country_or_non_sovereign_subject_holds = ROOT
+			}
+			aydin_area = {
+				type = all
+				country_or_non_sovereign_subject_holds = ROOT
+			}
+		}
+
+		effect = {
+			aydin_area = {
+				add_province_modifier = {
+					name = "austrian_silesia"
+					duration = 7300
+				}
+				add_nationalism = -5
+			}
+			TRE = { country_event = { id = itloc_generic.1 }  } 
+			anatolia_region = {
+				limit = {
+					NOT = { is_permanent_claim = ROOT } 
+					NOT = { is_core = ROOT } 
+				}
+				add_permanent_claim = ROOT
+			}
+		}
+	}
+
+	NTI_conquer_anatolia = {
+		icon = mission_noble_council
+		position = 1
+		required_missions = { NTI_recover_southern_anatolia } 
+		provinces_to_highlight = {
+			OR = { region = anatolia_region } 
+			NOT = { country_or_non_sovereign_subject_holds = ROOT } 
+			NOT = { country_or_non_sovereign_subject_holds = ARM } 
+		}
+
+		trigger = {
+			anatolia_region = {
+				type = all
+				country_or_non_sovereign_subject_holds = ROOT
+			}
+		}
+
+		effect = {
+			if = {
+				limit = { has_dlc = "Emperor" } 
+				add_adm_power = 100
+				balkan_region = {
+					limit = {
+						NOT = { is_permanent_claim = ROOT } 
+						NOT = { is_core = ROOT } 
+					}
+					add_permanent_claim = ROOT
+				}
+			}
+			else = {
+				add_country_modifier = {
+					name = "austrian_empire"
+					duration = 7300
+				}
+			}
+		}
+	}
+}
+RttLoC_NTI_5_1 = {
+	slot = 5
+	generic = no
+	ai = yes
+	has_country_shield = yes
+	potential = {
+		NOT = { map_setup = map_setup_random } 
+		tag = NTI
+	}
+
+	NTI_decline_of_armenia = {
+		icon = mission_eastern_european_city
+		position = 1
+		provinces_to_highlight = {  } 
+
+		trigger = {
+			if = {
+				limit = { exists = ARM } 
+				total_own_and_non_tributary_subject_development = ARM
+				total_own_and_non_tributary_subject_development = 200
+			}
+			else = { total_own_and_non_tributary_subject_development = 200 } 
+		}
+
+		effect = {
+			erzurum_area = {
+				limit = {
+					NOT = { is_core = ROOT } 
+					NOT = { is_permanent_claim = ROOT } 
+				}
+				add_permanent_claim = ROOT
+			}
+			north_kurdistan_area = {
+				limit = {
+					NOT = { is_core = ROOT } 
+					NOT = { is_permanent_claim = ROOT } 
+				}
+				add_permanent_claim = ROOT
+			}
+		}
+	}
+
+	NTI_royal_armenia = {
+		icon = mission_monarch_in_throne_room
+		position = 4
+		required_missions = { NTI_decline_of_armenia } 
+		provinces_to_highlight = {
+			OR = {
+				area = erzurum_area
+				area = north_kurdistan_area
+			}
+			NOT = {
+				ROOT = {
+					num_of_provinces_owned_or_owned_by_non_sovereign_subjects_with = {
+						value = 8
+						OR = {
+							area = erzurum_area
+							area = north_kurdistan_area
+						}
+					}
+				}
+			}
+			NOT = { country_or_non_sovereign_subject_holds = ROOT } 
+		}
+
+		trigger = {
+			num_of_provinces_owned_or_owned_by_non_sovereign_subjects_with = {
+				value = 8
+				OR = {
+					area = erzurum_area
+					area = north_kurdistan_area
+				}
+			}
+		}
+
+		effect = {
+			samtskhe_area = {
+				limit = {
+					NOT = { is_core = ROOT } 
+					NOT = { is_permanent_claim = ROOT } 
+				}
+				add_permanent_claim = ROOT
+			}
+			imereti_area = {
+				limit = {
+					NOT = { is_core = ROOT } 
+					NOT = { is_permanent_claim = ROOT } 
+				}
+				add_permanent_claim = ROOT
+			}
+			armenia_area = {
+				limit = {
+					NOT = { is_core = ROOT } 
+					NOT = { is_permanent_claim = ROOT } 
+				}
+				add_permanent_claim = ROOT
+			}
+			kartli_kakheti_area = {
+				limit = {
+					NOT = { is_core = ROOT } 
+					NOT = { is_permanent_claim = ROOT } 
+				}
+				add_permanent_claim = ROOT
+			}
+			add_country_modifier = {
+				name = "royal_hungary"
+				duration = 5475
+			}
+		}
+	}
+
+	NTI_secure_colchis = {
+		icon = mission_galleys_in_port
+		position = 6
+		required_missions = { NTI_royal_armenia } 
+		provinces_to_highlight = {
+			OR = {
+				area = samtskhe_area
+				area = imereti_area
+			}
+			NOT = {
+				ROOT = {
+					num_of_owned_provinces_with = {
+						value = 6
+						OR = {
+							area = samtskhe_area
+							area = imereti_area
+						}
+					}
+				}
+			}
+			NOT = { owned_by = ROOT } 
+		}
+
+		trigger = {
+			num_of_provinces_owned_or_owned_by_non_sovereign_subjects_with = {
+				value = 6
+				OR = {
+					area = samtskhe_area
+					area = imereti_area
+				}
+			}
+		}
+
+		effect = {
+			add_casus_belli = {
+				type = cb_vassalize_mission
+				target = HMZ
+			}
+			add_casus_belli = {
+				type = cb_vassalize_mission
+				target = BOS
+			}
+		}
+	}
+
+	NTI_conquer_the_amazons = {
+		icon = mission_eastern_european_city
+		position = 1
+		required_missions = { NTI_secure_colchis } 
+		provinces_to_highlight = {
+			owned_by = HMZ
+			NOT = { country_or_non_sovereign_subject_holds = ROOT } 
+		}
+
+		trigger = { HMZ = { is_subject_of = ROOT }  } 
+
+		effect = {
+			crimea_region = {
+				limit = {
+					NOT = { is_core = ROOT } 
+					NOT = { is_permanent_claim = ROOT } 
+				}
+				add_permanent_claim = ROOT
+			}
+		}
+	}
+}
+RttLoC_NTI_1_2 = {
+	slot = 1
+	generic = no
+	ai = yes
+	has_country_shield = yes
+	potential = {
+		tag = NTI
+		NOT = { map_setup = map_setup_random } 
+	}
+
+	NTI_home_of_alexander = {
+		icon = foothold_in_greece
+		position = 5
+		required_missions = { NTI_conquer_anatolia } 
+		provinces_to_highlight = {
+			region = balkan_region
+			ROOT = {
+				NOT = {
+					num_of_provinces_owned_or_owned_by_non_sovereign_subjects_with = {
+						value = 30
+						region = balkan_region
+					}
+				}
+			}
+			NOT = { country_or_non_sovereign_subject_holds = ROOT } 
+		}
+
+		trigger = {
+			num_of_provinces_owned_or_owned_by_non_sovereign_subjects_with = {
+				value = 30
+				region = balkan_region
+			}
+		}
+
+		effect = {
+			add_country_modifier = {
+				name = "austrian_empire"
+				duration = 7300
+			}
+		}
+	}
+}
+RttLoC_NTI_2_1 = {
+	slot = 2
+	generic = no
+	ai = yes
+	has_country_shield = yes
+	potential = {
+		tag = NTI
+		NOT = { map_setup = map_setup_random } 
+	}
+
+	NTI_imperial_ascendancy = {
+		icon = imperial_ascendancy
+		position = 2
+		required_missions = { NTI_secure_the_imperial_crown } 
+		provinces_to_highlight = {
+			owner = {
+				NOT = { tag = root } 
+				NOT = { is_subject_of = ROOT } 
+				OR = {
+					AND = {
+						num_of_provinces_owned_or_owned_by_non_sovereign_subjects_with = {
+							value = 10
+							OR = {
+								superregion = near_east_superregion
+								superregion = persia_superregion
+							}
+						}
+						is_part_of_hre = yes
+					}
+					is_emperor = yes
+				}
+			}
+		}
+
+		trigger = {
+			is_emperor = yes
+			OR = {
+				hre_reform_passed = emperor_privilegia_de_non_appelando
+				AND = {
+					custom_trigger_tooltip = {
+						tooltip = NTI_imperial_ascendancy_trigger_tooltip
+						NOT = {
+							any_country = {
+								NOT = { tag = root } 
+								NOT = { is_subject_of = ROOT } 
+								is_part_of_hre = yes
+								num_of_provinces_owned_or_owned_by_non_sovereign_subjects_with = {
+									value = 10
+									OR = {
+										superregion = near_east_superregion
+										superregion = persia_superregion
+									}
+								}
+							}
+						}
+					}
+					calc_true_if = {
+						desc = NTI_imperial_ascendancy_trigger2_tooltip
+						amount = 10
+						all_country = { has_reform = free_city } 
+					}
+				}
+			}
+		}
+
+		effect = {
+			add_dip_power = 50
+			add_country_modifier = {
+				name = "hab_ascendancy_in_empire"
+				duration = 7300
+			}
+		}
+	}
+
+	NTI_imperial_border = {
+		icon = the_imperial_border
+		position = 1
+		required_missions = { NTI_imperial_ascendancy } 
+		provinces_to_highlight = {
+			OR = {
+				AND = {
+					owner = { is_emperor = yes } 
+					root = { is_emperor = no } 
+				}
+				AND = {
+					is_part_of_hre = yes
+					owner = {
+						OR = {
+							is_part_of_hre = no
+							AND = {
+								is_subject = yes
+								overlord = { is_part_of_hre = no } 
+							}
+						}
+					}
+				}
+			}
+		}
+
+		trigger = {
+			is_emperor = yes
+			custom_trigger_tooltip = {
+				tooltip = no_hre_province_owned_by_non_hre_member_or_overlord_trigger
+				europe = {
+					type = all
+					OR = {
+						is_part_of_hre = no
+						AND = {
+							is_part_of_hre = yes
+							owner = {
+								is_part_of_hre = yes
+								OR = {
+									is_subject = no
+									AND = {
+										is_subject = yes
+										overlord = { is_part_of_hre = yes } 
+									}
+								}
+							}
+						}
+					}
+				}
+			}
+		}
+
+		effect = {
+			add_imperial_influence = 15
+			if = {
+				limit = { has_dlc = "The Cossacks" } 
+				add_dip_power = 100
+				custom_tooltip = NTI_imperial_border_effect_tooltip
+				hidden_effect = {
+					every_country = {
+						limit = {
+							is_part_of_hre = yes
+							NOT = { is_rival = root } 
+							NOT = { root = { is_rival = prev }  } 
+						}
+						add_trust = {
+							who = root
+							value = 10
+						}
+					}
+				}
+			}
+			else = { add_dip_power = 200 } 
+		}
+	}
+
+	NTI_united_in_religion = {
+		icon = holy_state
+		position = 1
+		required_missions = { NTI_imperial_border } 
+		provinces_to_highlight = {
+			OR = {
+				AND = {
+					owner = { is_emperor = yes } 
+					root = { is_emperor = no } 
+				}
+				AND = {
+					owner = {
+						is_part_of_hre = yes
+						NOT = { religion = root } 
+					}
+					hre_religion_locked = no
+				}
+			}
+		}
+
+		trigger = {
+			is_emperor = yes
+			if = {
+				limit = { has_dlc = "Art of War" } 
+				custom_trigger_tooltip = {
+					tooltip = NTI_united_in_religion_trigger_tooltip
+					NOT = {
+						any_country = {
+							is_part_of_hre = yes
+							NOT = { religion = root } 
+						}
+					}
+				}
+			}
+			else = {
+				custom_trigger_tooltip = {
+					tooltip = NTI_united_in_religion_trigger_tooltip
+					NOT = {
+						any_country = {
+							is_part_of_hre = yes
+							NOT = { religion = root } 
+						}
+					}
+				}
+			}
+		}
+
+		effect = {
+			if = {
+				limit = { religion = zoroastrian } 
+				add_country_modifier = {
+					name = "eth_united_church"
+					duration = -1
+				}
+			}
+			else_if = {
+				limit = {
+					religion = katholikos
+					has_dlc = "Common Sense"
+				}
+				add_country_modifier = {
+					name = "son_religious_scholars"
+					duration = -1
+				}
+			}
+			else = {
+				add_country_modifier = {
+					name = "hab_empire_united_in_religion_mod_generic"
+					duration = -1
+				}
+			}
+			custom_tooltip = NTI_united_in_religion_effect_remove_tooltip
+		}
+	}
+
+	NTI_a_seleukid_empire = {
+		icon = per_convert_persia
+		position = 1
+		required_missions = { NTI_united_in_religion } 
+		provinces_to_highlight = {
+			OR = {
+				AND = {
+					owner = { is_emperor = yes } 
+					root = { is_emperor = no } 
+				}
+				AND = {
+					province_id = 3131
+					province_id = 2312
+					OR = {
+						is_part_of_hre = no
+						owner = { is_part_of_hre = no } 
+					}
+				}
+			}
+		}
+
+		trigger = {
+			is_emperor = yes
+			3131 = {
+				is_part_of_hre = yes
+				owner = { is_part_of_hre = yes } 
+			}
+			2312 = {
+				is_part_of_hre = yes
+				owner = { is_part_of_hre = yes } 
+			}
+		}
+
+		effect = {
+			add_prestige = 33
+			add_country_modifier = {
+				name = "hab_empire_has_rome"
+				duration = -1
+			}
+			custom_tooltip = NTI_united_in_religion_effect_remove_tooltip
+		}
+	}
+
+	NTI_pass_imperial_reforms = {
+		icon = a.e.i.o.u.
+		position = 7
+		required_missions = { NTI_a_seleukid_empire } 
+		provinces_to_highlight = {
+			OR = {
+				AND = {
+					owner = { is_emperor = yes } 
+					root = { is_emperor = no } 
+				}
+				AND = {
+					is_part_of_hre = yes
+					owner = {
+						OR = {
+							is_part_of_hre = no
+							AND = {
+								is_subject = yes
+								overlord = { is_part_of_hre = no } 
+							}
+						}
+					}
+				}
+				owner = {
+					is_part_of_hre = yes
+					NOT = {
+						has_opinion = {
+							who = root
+							value = 1
+						}
+					}
+				}
+			}
+		}
+
+		trigger = {
+			is_emperor = yes
+			OR = {
+				hre_reform_passed = emperor_landfriede
+				hre_reform_passed = emperor_reichskrieg
+				hre_reform_passed = emperor_privilegia_de_non_appelando
+			}
+			custom_trigger_tooltip = {
+				tooltip = NTI_pass_imperial_reforms_trigger_tooltip
+				NOT = {
+					any_country = {
+						is_part_of_hre = yes
+						NOT = {
+							has_opinion = {
+								who = root
+								value = 1
+							}
+						}
+					}
+				}
+			}
+			custom_trigger_tooltip = {
+				tooltip = no_hre_province_owned_by_non_hre_member_or_overlord_trigger
+				europe = {
+					type = all
+					OR = {
+						is_part_of_hre = no
+						AND = {
+							is_part_of_hre = yes
+							owner = {
+								is_part_of_hre = yes
+								OR = {
+									is_subject = no
+									AND = {
+										is_subject = yes
+										overlord = { is_part_of_hre = yes } 
+									}
+								}
+							}
+						}
+					}
+				}
+			}
+		}
+
+		effect = {
+			add_power_projection = {
+				type = mission_rewards_power_projection
+				amount = 25
+			}
+			add_country_modifier = {
+				name = "hab_aeiou_mod"
+				duration = -1
+			}
+			custom_tooltip = NTI_united_in_religion_effect_remove_tooltip
+		}
+	}
+}
+RttLoC_NTI_4_1 = {
+	slot = 4
+	generic = no
+	ai = yes
+	has_country_shield = yes
+	potential = {
+		tag = NTI
+		NOT = { map_setup = map_setup_random } 
+	}
+
+	NTI_balance_the_estates = {
+		icon = balance_the_estates
+		position = 1
+		provinces_to_highlight = {  } 
+
+		trigger = {
+			crown_land_share = 30
+			if = {
+				limit = { has_estate = estate_nobles } 
+				estate_loyalty = {
+					estate = estate_nobles
+					loyalty = 60
+				}
+			}
+			if = {
+				limit = { has_estate = estate_burghers } 
+				estate_loyalty = {
+					estate = estate_burghers
+					loyalty = 60
+				}
+			}
+			if = {
+				limit = { has_estate = estate_church } 
+				estate_loyalty = {
+					estate = estate_church
+					loyalty = 60
+				}
+			}
+		}
+
+		effect = {
+			if = {
+				limit = {
+					NOT = { has_estate = estate_nobles } 
+					NOT = { has_estate = estate_burghers } 
+					NOT = { has_estate = estate_church } 
+				}
+				add_stability_or_adm_power = yes
+			}
+			else = {
+				if = {
+					limit = { NOT = { crown_land_share = 60 }  } 
+					custom_tooltip = add_5_crown_land_share
+					hidden_effect = {
+						change_estate_land_share = {
+							estate = all
+							share = -5
+						}
+					}
+				}
+				if = {
+					limit = { has_estate = estate_nobles } 
+					add_estate_loyalty_modifier = {
+						estate = estate_nobles
+						desc = VAL_HAB_BALANCED_ESTATES
+						loyalty = 10
+						duration = 7300
+					}
+				}
+				if = {
+					limit = { has_estate = estate_church } 
+					add_estate_loyalty_modifier = {
+						estate = estate_church
+						desc = VAL_HAB_BALANCED_ESTATES
+						loyalty = 10
+						duration = 7300
+					}
+				}
+				if = {
+					limit = { has_estate = estate_burghers } 
+					add_estate_loyalty_modifier = {
+						estate = estate_burghers
+						desc = VAL_HAB_BALANCED_ESTATES
+						loyalty = 10
+						duration = 7300
+					}
+				}
+			}
+		}
+	}
+
+	NTI_antiocheia_prospers = {
+		icon = austria_prospers
+		position = 1
+		required_missions = { NTI_balance_the_estates } 
+		provinces_to_highlight = {
+			culture = antiochoi
+			OR = {
+				ROOT = {
+					NOT = {
+						development_in_provinces = {
+							value = 180
+							culture = antiochoi
+						}
+					}
+				}
+				AND = {
+					ROOT = {
+						NOT = {
+							num_of_owned_provinces_with = {
+								value = 5
+								culture = antiochoi
+								has_manufactory_trigger = yes
+							}
+						}
+					}
+					has_manufactory_trigger = no
+					owned_by = root
+				}
+			}
+		}
+
+		trigger = {
+			development_in_provinces = {
+				value = 180
+				culture = antiochoi
+			}
+			num_of_owned_provinces_with = {
+				value = 5
+				culture = antiochoi
+				has_manufactory_trigger = yes
+			}
+		}
+
+		effect = {
+			add_country_modifier = {
+				name = "hab_prosperity_windfall"
+				duration = 7300
+			}
+		}
+	}
+
+	NTI_imperial_capitals = {
+		icon = imperial_capitals
+		position = 1
+		required_missions = { NTI_antiocheia_prospers } 
+		provinces_to_highlight = {
+			OR = {
+				AND = {
+					owner = { is_emperor = yes } 
+					root = { is_emperor = no } 
+				}
+				AND = {
+					OR = {
+						superregion = near_east_superregion
+						superregion = persia_superregion
+					}
+					owned_by = root
+					development = 20
+					OR = {
+						NOT = { development = 30 } 
+						is_part_of_hre = no
+					}
+					NOT = {
+						ROOT = {
+							num_of_owned_provinces_with = {
+								value = 5
+								development = 30
+								is_part_of_hre = yes
+							}
+						}
+					}
+				}
+			}
+		}
+
+		trigger = {
+			if = {
+				limit = { is_part_of_hre = yes } 
+				is_emperor = yes
+				num_of_owned_provinces_with = {
+					value = 5
+					development = 30
+					is_part_of_hre = yes
+				}
+			}
+			else = {
+				num_of_owned_provinces_with = {
+					value = 5
+					development = 30
+				}
+			}
+		}
+
+		effect = {
+			add_prestige = 25
+			add_country_modifier = {
+				name = "hab_flourishing_in_empire"
+				duration = 7300
+			}
+		}
+	}
+
+	NTI_antiochene_syrtos = {
+		icon = the_viennese_waltz
+		position = 1
+		required_missions = { NTI_imperial_capitals } 
+		provinces_to_highlight = {
+			province_id = 2313
+			OR = {
+				NOT = { owned_by = root } 
+				NOT = { development = 50 } 
+				NOT = { num_of_buildings_in_province = 6 } 
+			}
+		}
+
+		trigger = {
+			2313 = {
+				owned_by = root
+				development = 50
+				num_of_buildings_in_province = 6
+			}
+			has_adm_advisor_3 = yes
+			has_dip_advisor_3 = yes
+			has_mil_advisor_3 = yes
+			is_in_deficit = no
+		}
+
+		effect = {
+			134 = {
+				add_province_modifier = {
+					name = "hab_viennese_ballrooms"
+					duration = -1
+				}
+			}
+		}
+	}
+}
+RttLoC_NTI_4_2 = {
+	slot = 4
+	generic = no
+	ai = yes
+	has_country_shield = yes
+	potential = {
+		tag = NTI
+		NOT = { map_setup = map_setup_random } 
+	}
+
+	NTI_the_cimmerian_question = {
+		icon = the_hungarian_question
+		position = 5
+		required_missions = { NTI_royal_armenia } 
+		provinces_to_highlight = {
+			OR = {
+				AND = {
+					OR = {
+						area = urmia_area
+						area = armenia_area
+						area = azerbaijan_area
+						area = hashtrud_area
+						area = tabriz_area
+					}
+					OR = {
+						NOT = { owned_by = root } 
+						NOT = { unrest = 1 } 
+						NOT = { nationalism = 1 } 
+						NOT = { local_autonomy = 1 } 
+					}
+					ROOT = {
+						NOT = {
+							num_of_owned_provinces_with = {
+								value = 12
+								OR = {
+									area = urmia_area
+									area = armenia_area
+									area = azerbaijan_area
+									area = hashtrud_area
+									area = tabriz_area
+								}
+								NOT = { unrest = 1 } 
+								NOT = { nationalism = 1 } 
+								NOT = { local_autonomy = 1 } 
+							}
+						}
+					}
+				}
+				AND = {
+					province_id = 153
+					OR = {
+						NOT = { owned_by = root } 
+						NOT = { is_core = root } 
+					}
+				}
+				AND = {
+					province_id = 1772
+					OR = {
+						NOT = { owned_by = root } 
+						NOT = { is_core = root } 
+					}
+				}
+			}
+		}
+
+		trigger = {
+			owns_core_province = 416
+			owns_core_province = 419
+			num_of_owned_provinces_with = {
+				value = 12
+				OR = {
+					area = urmia_area
+					area = armenia_area
+					area = azerbaijan_area
+					area = hashtrud_area
+					area = tabriz_area
+				}
+				NOT = { unrest = 1 } 
+				NOT = { nationalism = 1 } 
+				NOT = { local_autonomy = 1 } 
+			}
+		}
+
+		effect = {
+			caucasia_region = {
+				limit = { NOT = { is_permanent_claim = ROOT }  } 
+				add_permanent_claim = ROOT
+			}
+			if = {
+				limit = {
+					NOT = { accepted_culture = armenian } 
+					NOT = { primary_culture = armenian } 
+				}
+				add_accepted_culture_or_dip_power = {
+					culture = armenian
+					value = 100
+				}
+				if = {
+					limit = { 416 = { culture = antiochoi }  } 
+					416 = {
+						add_base_manpower = 1
+						add_base_production = 1
+						add_base_tax = 1
+					}
+				}
+			}
+			else = {
+				416 = {
+					add_base_manpower = 1
+					add_base_production = 1
+					add_base_tax = 1
+				}
+			}
+			if = {
+				limit = {
+					NOT = { accepted_culture = cimmerian } 
+					NOT = { primary_culture = cimmerian } 
+				}
+				add_accepted_culture_or_dip_power = {
+					culture = cimmerian
+					value = 100
+				}
+				if = {
+					limit = { 419 = { culture = antiochoi }  } 
+					419 = {
+						add_base_manpower = 1
+						add_base_production = 1
+						add_base_tax = 1
+					}
+				}
+			}
+			else = {
+				419 = {
+					add_base_manpower = 1
+					add_base_production = 1
+					add_base_tax = 1
+				}
+			}
+		}
+	}
+
+	NTI_multicultural_empire = {
+		icon = multicultural_empire
+		position = 1
+		required_missions = { NTI_the_cimmerian_question } 
+		provinces_to_highlight = {
+			owned_by = root
+			NOT = { culture_group = root } 
+			OR = {
+				unrest = 1
+				nationalism = 1
+				local_autonomy = 1
+			}
+			ROOT = {
+				NOT = {
+					num_of_owned_provinces_with = {
+						value = 50
+						NOT = { culture_group = root } 
+						NOT = { unrest = 1 } 
+						NOT = { nationalism = 1 } 
+						NOT = { local_autonomy = 1 } 
+					}
+				}
+			}
+		}
+
+		trigger = {
+			adm_tech = 10
+			num_of_owned_provinces_with = {
+				value = 50
+				NOT = { culture_group = root } 
+				NOT = { unrest = 1 } 
+				NOT = { nationalism = 1 } 
+				NOT = { local_autonomy = 1 } 
+			}
+		}
+
+		effect = {
+			if = {
+				limit = {
+					government = monarchy
+					is_revolutionary = no
+				}
+				country_event = { id = flavor_hab.20 } 
+			}
+			else = {
+				add_country_modifier = {
+					name = "hab_tolerant_society"
+					duration = -1
+				}
+			}
+		}
+	}
+}
+RttLoC_NTI_1_3 = {
+	slot = 1
+	generic = no
+	ai = yes
+	has_country_shield = yes
+	potential = {
+		tag = NTI
+		NOT = { map_setup = map_setup_random } 
+	}
+
+	NTI_deal_with_autonomies = {
+		icon = take_the_bishoprics
+		position = 6
+		provinces_to_highlight = {
+			OR = {
+				province_id = 379
+				province_id = 382
+				province_id = 405
+				province_id = 3055
+			}
+			ROOT = {
+				NOT = {
+					num_of_provinces_owned_or_owned_by_non_sovereign_subjects_with = {
+						value = 2
+						OR = {
+							province_id = 379
+							province_id = 382
+							province_id = 405
+							province_id = 3055
+						}
+					}
+				}
+			}
+			NOT = { country_or_non_sovereign_subject_holds = ROOT } 
+		}
+
+		trigger = {
+			num_of_provinces_owned_or_owned_by_non_sovereign_subjects_with = {
+				value = 2
+				OR = {
+					province_id = 379
+					province_id = 382
+					province_id = 405
+					province_id = 3055
+				}
+			}
+		}
+
+		effect = {
+			add_casus_belli = {
+				type = cb_restore_personal_union
+				months = 300
+				target = BHT
+			}
+			nineveh_area = {
+				limit = {
+					NOT = { is_core = root } 
+					NOT = { is_permanent_claim = root } 
+				}
+				add_permanent_claim = root
+			}
+			tadmor_area = {
+				limit = {
+					NOT = { is_core = root } 
+					NOT = { is_permanent_claim = root } 
+				}
+				add_permanent_claim = root
+			}
+			mikra_sogdia_area = {
+				limit = {
+					NOT = { is_core = root } 
+					NOT = { is_permanent_claim = root } 
+				}
+				add_permanent_claim = root
+			}
+		}
+	}
+
+	NTI_kingdom_of_assyria = {
+		icon = duchy_of_bavaria
+		position = 1
+		required_missions = { NTI_deal_with_autonomies } 
+		provinces_to_highlight = {
+			OR = {
+				area = nineveh_area
+				area = tadmor_area
+				area = mikra_sogdia_area
+			}
+			ROOT = {
+				NOT = {
+					num_of_provinces_owned_or_owned_by_non_sovereign_subjects_with = {
+						value = 9
+						OR = {
+							area = nineveh_area
+							area = tadmor_area
+							area = mikra_sogdia_area
+						}
+					}
+				}
+			}
+			NOT = { country_or_non_sovereign_subject_holds = ROOT } 
+		}
+
+		trigger = {
+			num_of_provinces_owned_or_owned_by_non_sovereign_subjects_with = {
+				value = 9
+				OR = {
+					area = nineveh_area
+					area = tadmor_area
+					area = mikra_sogdia_area
+				}
+			}
+		}
+
+		effect = {
+			add_country_modifier = {
+				name = "hab_pure_bavarian_beer"
+				duration = 7300
+			}
+		}
+	}
+
+	NTI_control_mesopotamia = {
+		icon = control_swabia
+		position = 10
+		required_missions = {
+			NTI_kingdom_of_assyria
+			NTI_connect_seleukia
+		}
+		provinces_to_highlight = {
+			region = mashriq_region
+			ROOT = {
+				NOT = {
+					num_of_provinces_owned_or_owned_by_non_sovereign_subjects_with = {
+						value = 35
+						region = mashriq_region
+					}
+				}
+			}
+			NOT = { country_or_non_sovereign_subject_holds = root } 
+		}
+
+		trigger = {
+			num_of_provinces_owned_or_owned_by_non_sovereign_subjects_with = {
+				value = 35
+				region = mashriq_region
+			}
+		}
+
+		effect = {
+			mashriq_region = {
+				limit = { country_or_non_sovereign_subject_holds = root } 
+				add_nationalism = -5
+			}
+			seleukia_area = {
+				limit = { owned_by = ROOT } 
+				add_province_modifier = {
+					name = "hab_holdings_in_swabia"
+					duration = -1
+				}
+			}
+			iraq_arabi_area = {
+				limit = { owned_by = ROOT } 
+				add_province_modifier = {
+					name = "hab_holdings_in_swabia"
+					duration = -1
+				}
+			}
+			basra_area = {
+				limit = { owned_by = ROOT } 
+				add_province_modifier = {
+					name = "hab_holdings_in_swabia"
+					duration = -1
+				}
+			}
+		}
+	}
+}
+RttLoC_NTI_2_2 = {
+	slot = 2
+	generic = no
+	ai = yes
+	has_country_shield = yes
+	potential = {
+		tag = NTI
+		NOT = { map_setup = map_setup_random } 
+	}
+
+	NTI_deal_with_basilto = {
+		icon = electorate_of_brandenburg
+		position = 8
+		required_missions = { NTI_kingdom_of_assyria } 
+		provinces_to_highlight = {
+			OR = {
+				AND = {
+					area = kermanshah_area
+					NOT = { country_or_non_sovereign_subject_holds = root } 
+				}
+				AND = {
+					exists = BSL
+					owned_by = BSL
+				}
+			}
+			OR = {
+				NOT = {
+					kermanshah_area = {
+						type = all
+						country_or_non_sovereign_subject_holds = root
+					}
+				}
+				NOT = {
+					AND = {
+						exists = BSL
+						BSL = {
+							has_opinion = {
+								who = root
+								value = 150
+							}
+							NOT = {
+								army_strength = {
+									who = root
+									value = 0.5
+								}
+							}
+						}
+					}
+				}
+			}
+		}
+
+		trigger = {
+			if = {
+				limit = { exists = BSL } 
+				OR = {
+					kermanshah_area = {
+						type = all
+						country_or_non_sovereign_subject_holds = root
+					}
+					BSL = {
+						has_opinion = {
+							who = root
+							value = 150
+						}
+						NOT = {
+							army_strength = {
+								who = root
+								value = 0.5
+							}
+						}
+					}
+				}
+			}
+			else = {
+				mittelmark_area = {
+					type = all
+					country_or_non_sovereign_subject_holds = root
+				}
+			}
+		}
+
+		effect = {
+			add_dip_power = 250
+			if = {
+				limit = { exists = BSL } 
+				if = {
+					limit = { has_dlc = "Cradle of Civilization" } 
+					define_advisor = {
+						type = army_reformer
+						skill = 5
+						cost_multiplier = 0.25
+						culture = mesopotamian
+						religion = BSL
+					}
+				}
+				else = {
+					define_advisor = {
+						type = army_reformer
+						skill = 3
+						cost_multiplier = 0.25
+						culture = mesopotamian
+						religion = BSL
+					}
+				}
+			}
+			else_if = {
+				limit = { has_dlc = "Cradle of Civilization" } 
+				define_advisor = {
+					type = army_reformer
+					skill = 5
+					cost_multiplier = 0.25
+					culture = mesopotamian
+				}
+			}
+			else = {
+				define_advisor = {
+					type = army_reformer
+					skill = 3
+					cost_multiplier = 0.25
+					culture = mesopotamian
+				}
+			}
+		}
+	}
+}
+RttLoC_NTI_2_3 = {
+	slot = 2
+	generic = no
+	ai = yes
+	has_country_shield = yes
+	potential = {
+		tag = NTI
+		NOT = { map_setup = map_setup_random } 
+	}
+
+	NTI_connect_seleukia = {
+		icon = connect_further_austria
+		position = 9
+		provinces_to_highlight = {
+			province_id = 2312
+			OR = {
+				NOT = { owned_by = root } 
+				is_in_capital_area = no
+			}
+		}
+
+		trigger = {
+			2312 = {
+				owned_by = root
+				is_in_capital_area = yes
+			}
+		}
+
+		effect = {
+			mashriq_region = {
+				limit = {
+					NOT = { is_core = root } 
+					NOT = { is_permanent_claim = root } 
+				}
+				add_permanent_claim = root
+			}
+			khuzestan_area = {
+				limit = {
+					NOT = { is_core = root } 
+					NOT = { is_permanent_claim = root } 
+				}
+				add_permanent_claim = root
+			}
+		}
+	}
+
+	NTI_conquer_chaldea = {
+		icon = mission_levantine_restoration
+		position = 1
+		required_missions = { NTI_connect_seleukia } 
+		provinces_to_highlight = {
+			OR = {
+				AND = {
+					OR = {
+						area = chaldea_area
+						area = syrian_desert_area
+						area = soriya_area
+						area = temaniya_area
+						area = basuya_area
+						area = iraq_arabi_area
+					}
+					NOT = { country_or_non_sovereign_subject_holds = root } 
+					ROOT = {
+						NOT = {
+							num_of_provinces_owned_or_owned_by_non_sovereign_subjects_with = {
+								value = 20
+								OR = {
+									area = chaldea_area
+									area = syrian_desert_area
+									area = soriya_area
+									area = temaniya_area
+									area = basuya_area
+									area = iraq_arabi_area
+								}
+							}
+						}
+					}
+				}
+				AND = {
+					owned_by = NBT
+					NBT = { NOT = { is_subject_of = ROOT }  } 
+				}
+			}
+		}
+
+		trigger = {
+			num_of_provinces_owned_or_owned_by_non_sovereign_subjects_with = {
+				value = 20
+				OR = {
+					area = chaldea_area
+					area = syrian_desert_area
+					area = soriya_area
+					area = temaniya_area
+					area = basuya_area
+					area = iraq_arabi_area
+				}
+			}
+			OR = {
+				NOT = { exists = NBT } 
+				overlord_of = NBT
+			}
+		}
+
+		effect = {
+			telmun_region = {
+				limit = {
+					NOT = { is_core = root } 
+					NOT = { is_permanent_claim = root } 
+				}
+				add_permanent_claim = root
+			}
+		}
+	}
+}
+RttLoC_NTI_4_2 = {
+	slot = 4
+	generic = no
+	ai = yes
+	has_country_shield = yes
+	potential = {
+		tag = NTI
+		NOT = { map_setup = map_setup_random } 
+	}
+
+	NTI_defeat_the_bosporans = {
+		icon = defeat_the_serbs
+		position = 7
+		required_missions = { NTI_secure_colchis } 
+		provinces_to_highlight = {
+			owned_by = BSP
+			NOT = { country_or_non_sovereign_subject_holds = ROOT } 
+		}
+
+		trigger = { BSP = { is_subject_of = ROOT }  } 
+
+		effect = {
+			2410 = {
+				add_base_tax = 1
+				add_base_production = 1
+				add_base_manpower = 1
+			}
+			add_country_modifier = {
+				name = "hab_conquered_serbia"
+				duration = 7300
+			}
+		}
+	}
+}
+RttLoC_NTI_5_2 = {
+	slot = 5
+	generic = no
+	ai = yes
+	has_country_shield = yes
+	potential = {
+		tag = NTI
+		NOT = { map_setup = map_setup_random } 
+	}
+
+	NTI_push_on_to_the_north = {
+		icon = push_on_to_bulgaria
+		position = 8
+		required_missions = {
+			NTI_defeat_the_bosporans
+			NTI_conquer_the_amazons
+		}
+		provinces_to_highlight = {
+			OR = {
+				region = caucasia_region
+				region = crimea_region
+			}
+			NOT = { country_or_non_sovereign_subject_holds = ROOT } 
+		}
+
+		trigger = {
+			caucasia_region = {
+				type = all
+				country_or_non_sovereign_subject_holds = ROOT
+			}
+			crimea_region = {
+				type = all
+				country_or_non_sovereign_subject_holds = ROOT
+			}
+		}
+
+		effect = {
+			add_country_modifier = {
+				name = "bosporus_to_beroia"
+				duration = -1
+			}
+		}
+	}
+
+	emp_hab_scourge_of_asia = {
+		icon = arm_proclaim_great_armenia
+		position = 10
+		required_missions = { NTI_push_on_to_the_north } 
+		provinces_to_highlight = { owned_by = ARM } 
+
+		trigger = { ARM = { exists = no }  } 
+
+		effect = {
+			add_prestige = 20
+			add_country_modifier = {
+				name = "hab_victory_over_ottomans"
+				duration = -1
+			}
+		}
+	}
+}
+RttLoC_NTI_4_3 = {
+	slot = 4
+	generic = no
+	ai = yes
+	has_country_shield = yes
+	potential = {
+		tag = NTI
+		NOT = { map_setup = map_setup_random } 
+	}
+
+	NTI_balance_of_power = {
+		icon = balance_of_power
+		position = 8
+		provinces_to_highlight = {
+			is_capital = yes
+			if = {
+				limit = {
+					ROOT = {
+						total_development = 1000
+						NOT = { any_country = { root = { is_rival = prev }  }  } 
+					}
+				}
+				is_capital = yes
+				owner = { army_size = root } 
+			}
+			else = {
+				OR = {
+					AND = {
+						owned_by = root
+						root = { is_great_power = no } 
+					}
+					AND = {
+						NOT = { owned_by = root } 
+						owner = {
+							is_great_power = yes
+							NOT = { alliance_with = root } 
+							NOT = { is_rival = root } 
+						}
+						root = {
+							OR = {
+								NOT = { any_rival_country = { is_great_power = yes }  } 
+								NOT = { any_ally = { is_great_power = yes }  } 
+							}
+						}
+					}
+				}
+			}
+		}
+
+		trigger = {
+			if = {
+				limit = {
+					total_development = 1000
+					NOT = { any_country = { root = { is_rival = prev }  }  } 
+				}
+				all_country = { NOT = { army_size = root }  } 
+			}
+			else = {
+				is_great_power = yes
+				any_rival_country = { is_great_power = yes } 
+				any_ally = { is_great_power = yes } 
+			}
+		}
+
+		effect = {
+			add_country_modifier = {
+				name = "hab_balance_of_power_mod"
+				duration = 7300
+			}
+		}
+	}
+
+	NTI_spread_dynasty = {
+		icon = spread_the_von_wettins
+		position = 1
+		required_missions = { NTI_balance_of_power } 
+		provinces_to_highlight = {  } 
+
+		trigger = {
+			if = {
+				limit = {
+					government = monarchy
+					has_government_attribute = heir
+				}
+				OR = {
+					calc_true_if = {
+						desc = NTI_spread_dynasty_trigger_tooltip2
+						amount = 4
+						all_country = {
+							OR = {
+								junior_union_with = root
+								dynasty = root
+							}
+							has_opinion = {
+								who = root
+								value = 120
+							}
+						}
+					}
+					custom_trigger_tooltip = {
+						tooltip = NTI_spread_dynasty_trigger_tooltip
+						calc_true_if = {
+							amount = 5
+							europe = {
+								owner = {
+									OR = {
+										tag = root
+										junior_union_with = root
+										dynasty = root
+										AND = {
+											is_colonial_nation = yes
+											overlord = {
+												OR = {
+													tag = root
+													junior_union_with = root
+													dynasty = root
+												}
+											}
+										}
+									}
+								}
+							}
+							asia = {
+								owner = {
+									OR = {
+										tag = root
+										junior_union_with = root
+										dynasty = root
+										AND = {
+											is_colonial_nation = yes
+											overlord = {
+												OR = {
+													tag = root
+													junior_union_with = root
+													dynasty = root
+												}
+											}
+										}
+									}
+								}
+							}
+							africa = {
+								owner = {
+									OR = {
+										tag = root
+										junior_union_with = root
+										dynasty = root
+										AND = {
+											is_colonial_nation = yes
+											overlord = {
+												OR = {
+													tag = root
+													junior_union_with = root
+													dynasty = root
+												}
+											}
+										}
+									}
+								}
+							}
+							south_america = {
+								owner = {
+									OR = {
+										tag = root
+										junior_union_with = root
+										dynasty = root
+										AND = {
+											is_colonial_nation = yes
+											overlord = {
+												OR = {
+													tag = root
+													junior_union_with = root
+													dynasty = root
+												}
+											}
+										}
+									}
+								}
+							}
+							north_america = {
+								owner = {
+									OR = {
+										tag = root
+										junior_union_with = root
+										dynasty = root
+										AND = {
+											is_colonial_nation = yes
+											overlord = {
+												OR = {
+													tag = root
+													junior_union_with = root
+													dynasty = root
+												}
+											}
+										}
+									}
+								}
+							}
+							oceania = {
+								owner = {
+									OR = {
+										tag = root
+										junior_union_with = root
+										dynasty = root
+										AND = {
+											is_colonial_nation = yes
+											overlord = {
+												OR = {
+													tag = root
+													junior_union_with = root
+													dynasty = root
+												}
+											}
+										}
+									}
+								}
+							}
+							new_world = {
+								owner = {
+									OR = {
+										tag = root
+										junior_union_with = root
+										dynasty = root
+										AND = {
+											is_colonial_nation = yes
+											overlord = {
+												OR = {
+													tag = root
+													junior_union_with = root
+													dynasty = root
+												}
+											}
+										}
+									}
+								}
+							}
+						}
+					}
+				}
+			}
+			else = {
+				calc_true_if = {
+					amount = 4
+					all_country = {
+						OR = {
+							is_subject_of = root
+							alliance_with = root
+						}
+						has_opinion = {
+							who = root
+							value = 120
+						}
+						custom_trigger_tooltip = {
+							tooltip = same_government_as_root
+							same_govt_as_root_trigger = yes
+						}
+					}
+				}
+			}
+		}
+
+		effect = {
+			if = {
+				limit = {
+					government = monarchy
+					has_government_attribute = heir
+				}
+				add_country_modifier = {
+					name = "hab_many_thrones"
+					duration = 7300
+				}
+			}
+			else = {
+				add_country_modifier = {
+					name = "hab_lots_of_influence"
+					duration = 7300
+				}
+			}
+		}
+	}
+
+	NTI_shift_the_balance = {
+		icon = shift_the_balance
+		position = 1
+		required_missions = { NTI_spread_dynasty } 
+		provinces_to_highlight = {
+			is_capital = yes
+			owner = {
+				any_owned_province = {
+					continent = europe
+					NOT = { region = anatolia_region } 
+					NOT = { region = caucasia_region } 
+				}
+				is_subject = no
+			}
+			NOT = { owned_by = root } 
+			NOT = {
+				owner = {
+					OR = {
+						AND = {
+							ROOT = { is_emperor = yes } 
+							is_part_of_hre = yes
+						}
+						alliance_with = ROOT
+					}
+				}
+			}
+			NOT = {
+				ROOT = {
+					calc_true_if = {
+						amount = 500
+						europe = {
+							type = all
+							NOT = { region = anatolia_region } 
+							NOT = { region = caucasia_region } 
+							owner = {
+								OR = {
+									tag = ROOT
+									is_subject_of = ROOT
+									AND = {
+										ROOT = { is_emperor = yes } 
+										is_part_of_hre = yes
+									}
+									alliance_with = ROOT
+									AND = {
+										is_subject = yes
+										overlord = {
+											OR = {
+												AND = {
+													ROOT = { is_emperor = yes } 
+													is_part_of_hre = yes
+												}
+												alliance_with = ROOT
+											}
+										}
+									}
+								}
+							}
+						}
+					}
+				}
+			}
+		}
+
+		trigger = {
+			calc_true_if = {
+				desc = NTI_shift_the_balance_tooltip
+				amount = 500
+				europe = {
+					type = all
+					NOT = { region = anatolia_region } 
+					NOT = { region = caucasia_region } 
+					OR = {
+						owned_by = root
+						owner = {
+							OR = {
+								is_subject_of = ROOT
+								AND = {
+									ROOT = { is_emperor = yes } 
+									is_part_of_hre = yes
+								}
+								alliance_with = ROOT
+								AND = {
+									is_subject = yes
+									overlord = {
+										OR = {
+											AND = {
+												ROOT = { is_emperor = yes } 
+												is_part_of_hre = yes
+											}
+											alliance_with = ROOT
+										}
+									}
+								}
+							}
+						}
+					}
+				}
+			}
+		}
+
+		effect = {
+			change_dip = 2
+			change_heir_dip = 2
+			add_country_modifier = {
+				name = "hab_our_balance_of_power_mod"
+				duration = 10950
+			}
+		}
+	}
+
+	NTI_crush_the_revolution = {
+		icon = crush_the_revolution
+		position = 1
+		required_missions = { NTI_shift_the_balance } 
+		provinces_to_highlight = {
+			is_capital = yes
+			owner = {
+				is_revolution_target = yes
+				NOT = { tag = ROOT } 
+			}
+		}
+
+		trigger = {
+			OR = {
+				has_reform = revolutionary_empire_reform
+				has_reform = revolutionary_republic_reform
+				custom_trigger_tooltip = {
+					tooltip = center_of_revolution.3000.A.tt
+					has_global_flag = no_more_revolutions_ever
+				}
+				any_known_country = {
+					is_revolution_target = yes
+					war_with = ROOT
+					capital_scope = { controlled_by = ROOT } 
+				}
+			}
+		}
+
+		effect = {
+			if = {
+				limit = {
+					NOT = {
+						OR = {
+							has_reform = revolutionary_empire_reform
+							has_reform = revolutionary_republic_reform
+						}
+					}
+				}
+				add_country_modifier = {
+					name = "hab_reactionary_zeal"
+					duration = 7300
+				}
+			}
+			else = { add_mil_power = 300 } 
+		}
+	}
+
+	NTI_glory_to_seleukids = {
+		icon = glory_to_von_habsburg
+		position = 1
+		required_missions = { NTI_crush_the_revolution } 
+		provinces_to_highlight = {
+			is_capital = yes
+			OR = {
+				AND = {
+					owned_by = root
+					root = { is_great_power = no } 
+				}
+				AND = {
+					NOT = { owned_by = root } 
+					owner = {
+						capital_scope = { continent = europe } 
+						OR = {
+							AND = {
+								has_dlc = "Rights of Man"
+								is_great_power = yes
+							}
+							AND = {
+								NOT = { has_dlc = "Rights of Man" } 
+								total_development = 300
+							}
+						}
+						NOT = { alliance_with = root } 
+						NOT = { is_subject_of = root } 
+						NOT = {
+							root = {
+								has_won_war_against = {
+									who = prev
+									max_years_since = 100
+								}
+							}
+						}
+					}
+				}
+			}
+		}
+
+		trigger = {
+			is_great_power = yes
+			custom_trigger_tooltip = {
+				tooltip = NTI_glory_to_seleukids_trigger_tooltip
+				NOT = {
+					any_country = {
+						NOT = { tag = root } 
+						capital_scope = { continent = europe } 
+						is_great_power = yes
+						NOT = { alliance_with = root } 
+						NOT = {
+							root = {
+								has_won_war_against = {
+									who = prev
+									max_years_since = 100
+								}
+							}
+						}
+					}
+				}
+			}
+		}
+
+		effect = {
+			add_power_projection = {
+				type = mission_rewards_power_projection
+				amount = 50
+			}
+			add_country_modifier = {
+				name = "hab_supreme_in_europe"
+				duration = -1
+			}
+		}
+	}
+}

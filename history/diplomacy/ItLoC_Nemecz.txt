@@ -1,0 +1,34 @@
+vassal = {
+	first = BOS
+	second = KLE
+	start_date = 1444.1.1
+	end_date = 1579.1.23
+}
+
+vassal = {
+	first = BOS
+	second = HCZ
+	start_date = 1444.1.1
+	end_date = 1579.1.23
+}
+
+vassal = {
+	first = BOS
+	second = DRV
+	start_date = 1444.1.1
+	end_date = 1579.1.23
+}
+
+alliance = {
+	first = BOS
+	second = CRO
+	start_date = 1444.1.1
+	end_date = 1579.1.23
+}
+
+vassal = {
+	first = CRO
+	second = ALS
+	start_date = 1444.1.1
+	end_date = 1579.1.23
+}

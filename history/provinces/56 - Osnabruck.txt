@@ -1,6 +1,8 @@
 #56 - Osnabrück
-owner = MEB
-controller = MEB
+owner = BOS
+controller = BOS
+add_core = BOS
+add_core = MEB
 culture = linonian
 religion = slavic_pagan
 capital = "Osnabrück"
@@ -9,7 +11,6 @@ base_tax = 3
 base_production = 4
 base_manpower = 2
 is_city = yes
-add_core = OSN
 discovered_by = eastern
 discovered_by = slavic_group
 discovered_by = baltic_group
@@ -23,4 +24,3 @@ discovered_by = ottoman
 discovered_by = thraco_illyrian
 discovered_by = serican_group
 discovered_by = iranic_group
-add_core = MEB
