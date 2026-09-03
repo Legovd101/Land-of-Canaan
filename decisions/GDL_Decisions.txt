@@ -22,10 +22,21 @@ country_decisions = {
 		}
 		
 		effect = {
-			SUV = {
-				change_primary_culture = gaelo_suebi
+			206 = {
+				change_culture = gaelo_suebi
 				change_religion = gaelic_pagan
-				override_country_name = SUV_gaelic
+			}
+			random_subject_country = {
+				limit = {
+					capital_scope = {
+						OR = {
+							area = galicia_area
+							area = brigantia_area
+						}
+					}
+				}
+				change_tag = SUV
+
 			}
 			every_subject_country = {
 				limit = {
@@ -36,7 +47,16 @@ country_decisions = {
 						}
 					}
 				}
-				SUV = { inherit = PREV }
+				SUV = {
+					inherit = PREV
+				}
+			}
+			SUV = {
+				set_capital = 206
+				change_primary_culture = gaelo_suebi
+				change_religion = gaelic_pagan
+				override_country_name = SUV_gaelic
+				change_technology_group = celtic_group
 			}
 			vassalize = SUV
 		}

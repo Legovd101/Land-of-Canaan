@@ -11,3 +11,15 @@ religion = confucianism
 technology_group = serican_group
 capital = 316
 # Specific Effects #
+
+1444.7.2 = {
+	monarch = {
+		name = "Guo"
+		dynasty = "Hong"
+		birth_date = 1413.1.1
+		adm = 2
+		dip = 2
+		mil = 6
+	}
+	add_ruler_personality = conqueror_personality
+}

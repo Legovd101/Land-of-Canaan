@@ -1,7 +1,7 @@
 # - Ortelsburg
 owner = PRU
 controller = PRU
-capital = "Ortelsburg"
+capital = "Galimestan"
 culture = pruthenian
 religion = baltic_pagan
 trade_goods = lumber

@@ -10,8 +10,34 @@
 198 = { "Segodunom" "Segodunom" } # Rodez
 4112 = { "Albiga" "Albiga" } # Albi
 
-# Guyenne/Bordegalla
-173 = { "Bordegalla" "Bordegalla" } # Burdigala
-175 = { "Diuona" "Diuona" } # Divona
-176 = { "Segodunom" "Segodunom" } # Rodez
-4694 = { "Albiga" "Albiga" } # Albi
+# Aquitaine/Asikoina
+173 = { "Uiuidunom" "Uiuidunom" } # Bituriges Vivisci
+175 = { "Ilosa" "Ilosa" } # Elusa/Éauze
+176 = { "Benarno" "Benarno" } # Beneharnum
+4694 = { "Ariga" "Ariga" } # Ariége
+
+# Languedoc/Narbona
+2753 = { "Narbo" "Narbo" } # Narbonne
+4695 = { "Karsak" "Karsak" } # Carcassonne
+200 = { "Magalon" "Magalon" } # Maguelone
+196 = { "Tolosa" "Tolosa" } # Toulouse
+4391 = { "Eluidunom" "Eluidunom" } # Helvii
+
+# Provence/Massalia
+4696 = { "Telon" "Telon" } # Toulon
+201 = { "Masala" "Masala" } # Massalia
+202 = { "Iueno" "Iueno" } # Avignon
+2991 = { "Kalkario" "Kalkario" } # Forcalquier
+
+# Dauphine/Dalfin
+203 = { "Lugudunon" "Lugudunon" } # Lyon
+204 = { "Dalfin" "Dalfin" } # Dauphiné
+205 = { "Sebudi" "Sebudi" } # Sabaudia
+4719 = { "Briko" "Briko" } # Bricius
+
+# # Auvergne/Auron
+# 190 = { "Lugudunon" "Lugudunon" } # Lyon
+# 195 = { "Dalfin" "Dalfin" } # Dauphiné
+# 199 = { "Sebudi" "Sebudi" } # Sabaudia
+# 4697 = { "Briko" "Briko" } # Bricius
+# 4777 = { "Briko" "Briko" } # Bricius

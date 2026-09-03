@@ -355,9 +355,10 @@ ALD = "countries/Altadunne.txt" # Evenk
 ZMG = "countries/Zimgola.txt"
 KRZ = "countries/Kurzeme.txt"
 SDV = "countries/Suduva.txt"
+ZMT = "countries/Zemaiteje.txt"
 
  # Soruston/Pontic Steppe
- ## Baltijas (Baltic)
+ ## Sorumata (Sarmatian)
 SRT = "countries/Sorumata.txt"
 IRN = "countries/Ironston.txt"
 AUR = "countries/Auriston.txt"

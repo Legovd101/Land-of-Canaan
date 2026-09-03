@@ -1,6 +1,10 @@
 ﻿l_english:
 
 # Replacement
+ PROV40: "Skalviai"
+ PROV_ADJ40: "Skalviaian"
+ PROV41: "Twangtse"
+ PROV_ADJ41: "Twangtsean"
  PROV148: "Thessaloniki"
  PROV_ADJ148: "Thessalonikan"
  PROV151: "Byzantion"
@@ -17,6 +21,8 @@
  PROV_ADJ545: "Devagiri"
  PROV547: "Jagdalpur"
  PROV_ADJ547: "Jagdalpuri"
+ PROV767: "Galinda"
+ PROV_ADJ767: "Galindian"
  PROV1233: "Tamiya"
  PROV_ADJ1233: "Tamiyan"
  PROV1793: "Africa Deserta"
@@ -25,6 +31,8 @@
  PROV_ADJ1794: "African"
  PROV1795: "Africa Deserta"
  PROV_ADJ1795: "African"
+ PROV1841: "Paguddi"
+ PROV_ADJ1841: "Paguddian"
  PROV2032: "Dwarasamudra"
  PROV_ADJ2032: "Dwarasamudran"
  PROV2075: "Trinara"
@@ -33,6 +41,8 @@
  PROV_ADJ2097: "Dahala Mandala"
  PROV2318: "Faqus"
  PROV_ADJ2318: "Faqusian"
+ PROV2958: "Sasna"
+ PROV_ADJ2958: "Sasnan"
  PROV4411: "Idra"
  PROV_ADJ4411: "Idra"
  PROV4442: "Vatsagulma"

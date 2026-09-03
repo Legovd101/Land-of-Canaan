@@ -3232,9 +3232,6 @@ iranian	= {
 	luri = {
 		primary = LRI
 	}
-	amazonian = {
-		primary = MZA
-	}
 	azerbaijani = {
 		primary = ARL
 		province = { local_has_qizilbash = yes }
@@ -11266,6 +11263,9 @@ scythian_group = {
 	}
 	saka = {
 		# primary = YZG
+	}
+	amazonian = {
+		primary = MZA
 	}
 	alanian = {
 		primary = ALN

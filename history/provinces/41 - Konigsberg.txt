@@ -1,7 +1,7 @@
 #41 - Königsberg
 owner = PRU
 controller = PRU
-capital = "Königsberg"
+capital = "Twangtse"
 culture = pruthenian
 religion = baltic_pagan
 trade_goods = amber

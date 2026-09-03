@@ -19,4 +19,6 @@ LMD = "countries/Lamudunne.txt"
 NGS = "countries/Anglo-Saxony.txt"
 SRC = "countries/Serica.txt"
 AUT = "countries/Austurland.txt"
+SCY = "countries/Scythia.txt"
+BTZ = "countries/Baltizeme.txt"
 

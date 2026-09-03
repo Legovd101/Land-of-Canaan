@@ -1,6 +1,7 @@
 #Marienburg
-owner = DNZ
-controller = DNZ
+owner = PRU
+controller = PRU
+add_core = PRU
 capital = "Marienburg"
 culture = pruthenian
 religion = baltic_pagan
@@ -22,5 +23,4 @@ discovered_by = ottoman
 discovered_by = thraco_illyrian
 discovered_by = serican_group
 discovered_by = iranic_group
-add_core = DNZ
 discovered_by = uralic_group
