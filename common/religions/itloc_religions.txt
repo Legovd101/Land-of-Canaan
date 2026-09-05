@@ -465,8 +465,9 @@ semitic_religions = {
 			prestige = 1
 			land_attrition = -0.10
 		}
-		uses_piety = yes
+		# uses_piety = yes
 		declare_war_in_regency = yes
+		# uses_harmony = yes
 		heretic = { BEAR_SPIRIT SNAKE_CLAN }
 	}
 
@@ -581,7 +582,7 @@ nilotic_religions = {
 			hostile_attrition = 1
 			tolerance_heathen = 2
 		}
-		uses_piety = yes
+		# uses_piety = yes
 		heretic = { SPHYNX }
 		allowed_conversion = {
 			kemetism

@@ -1,0 +1,40 @@
+namespace = flavor_PRU
+
+# Matters of Faith
+country_event = {
+	id = flavor_PRU.1
+	title = flavor_PRU.1.title
+	picture = ADVISOR_eventPicture
+	desc = flavor_PRU.1.desc
+
+	is_triggered_only = yes
+	fire_only_once = yes
+	trigger = {
+		tag = PRU
+	}
+	
+	immediate = {
+		add_ruler_modifier = {
+			name = philosopher_king
+			duration = -1
+		}
+	}
+
+	option = { # The realm shall bend to my will.
+		name = flavor_PRU.1.a
+		change_religion = vajrayana
+		set_country_flag = PRU_chose_vajrayana
+	}
+
+	option = { # I shall follow the wishes of my fellow Saka.
+		name = flavor_PRU.1.b
+		change_religion = xadarosh
+		set_country_flag = PRU_chose_xadarosh
+	}
+
+	option = { # I shall follow the wishes of my subjects.
+		name = flavor_PRU.1.c
+		change_religion = baltic_pagan
+		set_country_flag = PRU_chose_romuva
+	}
+}

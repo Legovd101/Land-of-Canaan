@@ -13,7 +13,7 @@
 4121 = { "Luplesi" "Luplesi" } # Etruscan "Lup clesne" (great/grand crossing)
 
 # The Isles
-4365 = { "Kell" "Kell" } # Etruscan "cele" (tall (island))
+4365 = { "Kel" "Kel" } # Etruscan "cele" (tall (island))
 
 # Lowlands
 249 = { "Gapa" "Gapa" } # Etruscan "gava" (watercourse)

@@ -2,8 +2,8 @@
 owner = ICE
 controller = ICE
 add_core = ICE
-culture = icelandic
-religion = konugatru
+culture = sictenian
+religion = gaelic_pagan
 base_tax = 1
 base_production = 1
 trade_goods = sulfur

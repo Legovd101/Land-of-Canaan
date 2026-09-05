@@ -55,9 +55,9 @@ country_decisions = {
 				}
 				set_government_rank = 3
 			}
-			every_owned_province = {
-				add_core = BTZ
-			}
+			# every_owned_province = {
+			# 	add_core = BTZ
+			# }
 			pskov_area = {
 				limit = {
 					NOT = { owned_by = ROOT }

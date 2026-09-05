@@ -1,15 +1,15 @@
 #1978 - Shetlands
-owner = NOR
-controller = NOR
-culture = norwegian
-religion = konugatru
+owner = ICE
+controller = ICE
+culture = sictenian
+religion = gaelic_pagan
 base_tax = 1
 base_production = 1
 trade_goods = seafood
 base_manpower = 1
 capital = "Lerwick"
 is_city = yes# Estimated
-add_core = NOR
+add_core = ICE
 discovered_by = western
 discovered_by = latin_group
 discovered_by = adventurer

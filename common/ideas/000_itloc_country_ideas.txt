@@ -367,3 +367,45 @@ VEN_ideas = {
 		tolerance_heathen = 2
 	}
 }
+
+HMZ_ideas = {
+	start = {
+		morale_damage = 0.1
+		yearly_corruption = -0.03
+		female_advisor_chance = 1
+		may_recruit_female_generals = yes
+	}
+	bonus = {
+		administrative_efficiency = 0.05
+	}
+	trigger = {
+		tag = HMZ
+	}
+	free = yes
+	
+	memories_of_themiscyra = {
+		legitimacy = 1
+		devotion = 1
+		republican_tradition = 1
+	}
+	warriors_of_myth = {
+		prestige = 1
+		cavalry_power = 0.15
+	}
+	manslayers = {
+		ae_impact = -0.1
+	}
+	northern_iranics = {
+		technology_cost = -0.05
+	}
+	saka_vasraka = { #Used by horde_ideas
+		may_establish_frontier = yes
+	}
+	revival_of_satrapies = {
+		vassal_income = 1
+		vassal_forcelimit_bonus = 0.25
+	}
+	resurrect_the_aroteres = {
+		shock_damage = 0.1
+	}
+}

@@ -1,5 +1,5 @@
 government = tribal
-government_rank = 1
+government_rank = 2
 primary_culture = pruthenian
 religion = baltic_pagan
 technology_group = baltic_group
@@ -15,4 +15,5 @@ capital = 41 # Königsberg
 		culture = saka
 		religion = vajrayana
 	}
+	add_ruler_personality = scholar_personality
 }
