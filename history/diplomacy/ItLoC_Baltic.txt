@@ -54,3 +54,10 @@ vassal = {
 	start_date = 1444.1.1
 	end_date = 1579.1.23
 }
+
+alliance = {
+	first = PRU
+	second = ALD
+	start_date = 1444.1.1
+	end_date = 1579.1.23
+}

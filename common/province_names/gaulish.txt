@@ -7,11 +7,11 @@
 # Guyenne/Bordegalla
 174 = { "Bordegalla" "Bordegalla" } # Burdigala
 194 = { "Diuona" "Diuona" } # Divona
-198 = { "Segodunom" "Segodunom" } # Rodez
+198 = { "Segodunon" "Segodunon" } # Rodez
 4112 = { "Albiga" "Albiga" } # Albi
 
 # Aquitaine/Asikoina
-173 = { "Uiuidunom" "Uiuidunom" } # Bituriges Vivisci
+173 = { "Uiuidunon" "Uiuidunon" } # Bituriges Vivisci
 175 = { "Ilosa" "Ilosa" } # Elusa/Éauze
 176 = { "Benarno" "Benarno" } # Beneharnum
 4694 = { "Ariga" "Ariga" } # Ariége
@@ -21,7 +21,7 @@
 4695 = { "Karsak" "Karsak" } # Carcassonne
 200 = { "Magalon" "Magalon" } # Maguelone
 196 = { "Tolosa" "Tolosa" } # Toulouse
-4391 = { "Eluidunom" "Eluidunom" } # Helvii
+4391 = { "Eluidunon" "Eluidunon" } # Helvii
 
 # Provence/Massalia
 4696 = { "Telon" "Telon" } # Toulon

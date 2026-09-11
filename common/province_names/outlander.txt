@@ -47,8 +47,8 @@
 # Northern England/Ystrad Clud
 4375 = { "Borgstaður" "Borgstaður" }
 247 = { "Karley" "Karley" }
-246 = { "Norðimbraland" "Norðimbraland" }
-244 = { "Lonceaster" "Lonceaster" }
+246 = { "Norðimbraland" "Nýborg" }
+244 = { "Karif" "Karif" } # Caerhirfryn/Lancaster
 
 # Lowlands
 4361 = { "Kelsæ" "Jedborg" }

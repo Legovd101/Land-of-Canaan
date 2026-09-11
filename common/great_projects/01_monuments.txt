@@ -20284,166 +20284,166 @@ city_of_sanaa = {
 	}
 }
 
-al_azhar_university = {
-	start = 361 
-	date = 970.12.7
-	time = { months = 0	}
-	build_cost = 0
-	can_be_moved = no
-	move_days_per_unit_distance = 10
-	starting_tier = 1
-	type = monument
-	build_trigger = {
-	}
-	on_built = {
-	}
-	on_destroyed = {
-	}
-	can_use_modifiers_trigger = {
-	}
-	can_upgrade_trigger = {
-	}
-	keep_trigger = {
-	}
+# al_azhar_university = {
+# 	start = 361 
+# 	date = 970.12.7
+# 	time = { months = 0	}
+# 	build_cost = 0
+# 	can_be_moved = no
+# 	move_days_per_unit_distance = 10
+# 	starting_tier = 1
+# 	type = monument
+# 	build_trigger = {
+# 	}
+# 	on_built = {
+# 	}
+# 	on_destroyed = {
+# 	}
+# 	can_use_modifiers_trigger = {
+# 	}
+# 	can_upgrade_trigger = {
+# 	}
+# 	keep_trigger = {
+# 	}
 
-	tier_0 = {
-		upgrade_time = {
-			months = 0
-		}
-		cost_to_upgrade = {
-			factor = 0
-		}
-		province_modifiers = {
-		}
-		area_modifier = {
-		}
-		country_modifiers = {
-		}
-		on_upgraded = {
-		}
-	}
+# 	tier_0 = {
+# 		upgrade_time = {
+# 			months = 0
+# 		}
+# 		cost_to_upgrade = {
+# 			factor = 0
+# 		}
+# 		province_modifiers = {
+# 		}
+# 		area_modifier = {
+# 		}
+# 		country_modifiers = {
+# 		}
+# 		on_upgraded = {
+# 		}
+# 	}
 
-	tier_1 = {
-		upgrade_time = {
-			months = 120
-		}
-		cost_to_upgrade = {
-			factor = 1000
-		}
-		province_modifiers = {
-			local_institution_spread = 0.25
-		}
-		area_modifier = {
+# 	tier_1 = {
+# 		upgrade_time = {
+# 			months = 120
+# 		}
+# 		cost_to_upgrade = {
+# 			factor = 1000
+# 		}
+# 		province_modifiers = {
+# 			local_institution_spread = 0.25
+# 		}
+# 		area_modifier = {
 			
-		}
-		country_modifiers = {
-			advisor_pool = 1
-			yearly_government_power = 0.25
-		}
-		on_upgraded = {
-			if = {
-				limit = { has_dlc = "Rule Britannia" }
-				owner = {
-					change_innovativeness = 1
-				}
-			}
-			if = {
-				limit = {
-					owner = { has_government_mechanic = egyptian_westernization }
-				}
-				owner = {
-					add_government_power = {
-						mechanic_type = egyptian_westernization
-						power_type = egyptian_westernization
-						value = 30
-					}
-				}
-			}
-		}
-	}
+# 		}
+# 		country_modifiers = {
+# 			advisor_pool = 1
+# 			yearly_government_power = 0.25
+# 		}
+# 		on_upgraded = {
+# 			if = {
+# 				limit = { has_dlc = "Rule Britannia" }
+# 				owner = {
+# 					change_innovativeness = 1
+# 				}
+# 			}
+# 			if = {
+# 				limit = {
+# 					owner = { has_government_mechanic = egyptian_westernization }
+# 				}
+# 				owner = {
+# 					add_government_power = {
+# 						mechanic_type = egyptian_westernization
+# 						power_type = egyptian_westernization
+# 						value = 30
+# 					}
+# 				}
+# 			}
+# 		}
+# 	}
 
-	tier_2 = {
-		upgrade_time = {
-			months = 240
-		}
-		cost_to_upgrade = {
-			factor = 2500
-		}
-		province_modifiers = {
+# 	tier_2 = {
+# 		upgrade_time = {
+# 			months = 240
+# 		}
+# 		cost_to_upgrade = {
+# 			factor = 2500
+# 		}
+# 		province_modifiers = {
 			
-		}
-		area_modifier = {
-			local_institution_spread = 0.25
-		}
-		region_modifier = { 
+# 		}
+# 		area_modifier = {
+# 			local_institution_spread = 0.25
+# 		}
+# 		region_modifier = { 
 			
-		}
-		country_modifiers = {
-			advisor_pool = 1
-			idea_cost = -0.05
-			yearly_government_power = 0.5
-		}	
-		on_upgraded = {
-			if = {
-				limit = { has_dlc = "Rule Britannia" }
-				owner = {
-					change_innovativeness = 3
-				}
-			}
-			if = {
-				limit = {
-					owner = { has_government_mechanic = egyptian_westernization }
-				}
-				owner = {
-					add_government_power = {
-						mechanic_type = egyptian_westernization
-						power_type = egyptian_westernization
-						value = 30
-					}
-				}
-			}
-		}
-	}
+# 		}
+# 		country_modifiers = {
+# 			advisor_pool = 1
+# 			idea_cost = -0.05
+# 			yearly_government_power = 0.5
+# 		}	
+# 		on_upgraded = {
+# 			if = {
+# 				limit = { has_dlc = "Rule Britannia" }
+# 				owner = {
+# 					change_innovativeness = 3
+# 				}
+# 			}
+# 			if = {
+# 				limit = {
+# 					owner = { has_government_mechanic = egyptian_westernization }
+# 				}
+# 				owner = {
+# 					add_government_power = {
+# 						mechanic_type = egyptian_westernization
+# 						power_type = egyptian_westernization
+# 						value = 30
+# 					}
+# 				}
+# 			}
+# 		}
+# 	}
 
-	tier_3 = {
-		upgrade_time = {
-			months = 480
-		}
-		cost_to_upgrade = {
-			factor = 5000
-		}
-		province_modifiers = {
-		}
-		area_modifier = {
-			local_institution_spread = 0.5
-		}
-		country_modifiers = {
-			advisor_pool = 2
-			idea_cost = -0.05
-			yearly_government_power = 1
-		}
-		on_upgraded = {
-			if = {
-				limit = { has_dlc = "Rule Britannia" }
-				owner = {
-					change_innovativeness = 5
-				}
-			}
-			if = {
-				limit = {
-					owner = { has_government_mechanic = egyptian_westernization }
-				}
-				owner = {
-					add_government_power = {
-						mechanic_type = egyptian_westernization
-						power_type = egyptian_westernization
-						value = 30
-					}
-				}
-			}
-		}
-	}
-}
+# 	tier_3 = {
+# 		upgrade_time = {
+# 			months = 480
+# 		}
+# 		cost_to_upgrade = {
+# 			factor = 5000
+# 		}
+# 		province_modifiers = {
+# 		}
+# 		area_modifier = {
+# 			local_institution_spread = 0.5
+# 		}
+# 		country_modifiers = {
+# 			advisor_pool = 2
+# 			idea_cost = -0.05
+# 			yearly_government_power = 1
+# 		}
+# 		on_upgraded = {
+# 			if = {
+# 				limit = { has_dlc = "Rule Britannia" }
+# 				owner = {
+# 					change_innovativeness = 5
+# 				}
+# 			}
+# 			if = {
+# 				limit = {
+# 					owner = { has_government_mechanic = egyptian_westernization }
+# 				}
+# 				owner = {
+# 					add_government_power = {
+# 						mechanic_type = egyptian_westernization
+# 						power_type = egyptian_westernization
+# 						value = 30
+# 					}
+# 				}
+# 			}
+# 		}
+# 	}
+# }
 
 venetian_arsenal_gp = {
 	start = 112 

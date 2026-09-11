@@ -10,7 +10,7 @@
 4370 = { "Bädfuurtskier" "Gantebrääch" } # "Beda's ford", "Granta bridge"
 
 # London
-236 = { "Löndunweg" "Löndunweg" } # "London village"
+236 = { "Lönduntun" "Lönduntun" } # "London village"
 235 = { "Känt" "Käntebuurich" }
 4371 = { "Suudlound" "Hästink" } # "South land"
 237 = { "Oksenfuurtskier" "Oksenfuurt" } # "Oxen ford"

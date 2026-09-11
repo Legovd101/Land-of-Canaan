@@ -53,7 +53,7 @@ country_decisions = {
 		effect = {
 			change_tag = GLL
 			if = {
-				limit = { was_tag = PAS }
+				limit = { was_tag = PAS NOT = { has_global_flag = english_toponyms } }
 				override_country_name = GLL_parisian
 			}
 			if = {

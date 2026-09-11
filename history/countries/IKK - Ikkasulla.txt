@@ -1,4 +1,4 @@
-government = monarchy
+government = tribal
 religion = finnish_pagan
 capital = 35
 technology_group = baltic_group

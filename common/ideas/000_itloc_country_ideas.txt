@@ -368,7 +368,7 @@ VEN_ideas = {
 	}
 }
 
-HMZ_ideas = {
+MZA_ideas = {
 	start = {
 		morale_damage = 0.1
 		yearly_corruption = -0.03
@@ -379,7 +379,7 @@ HMZ_ideas = {
 		administrative_efficiency = 0.05
 	}
 	trigger = {
-		tag = HMZ
+		tag = MZA
 	}
 	free = yes
 	
@@ -408,4 +408,120 @@ HMZ_ideas = {
 	resurrect_the_aroteres = {
 		shock_damage = 0.1
 	}
+}
+
+VSG_ideas = {
+	start = {
+		discipline = 0.05
+		tolerance_heathen = 2
+	}
+	bonus = {
+		tolerance_heretic = 2
+	}
+	trigger = {
+		tag = VSG
+	}
+	free = yes
+	
+	VSG_iberian_crown = {
+		legitimacy = 1
+	}
+	VSG_warrior_tradition = {
+		infantry_power = 0.15
+	}
+	VSG_decentralized_legacy = {
+		vassal_income = 1
+		vassal_forcelimit_bonus = 0.25
+	}
+	VSG_sea_raiders = {
+		may_perform_slave_raid = yes
+		galley_power = 0.15
+	}
+	VSG_cordoba_institute = {
+		technology_cost = -0.05
+	}
+	VSG_new_cannons = {
+		fire_damage = 0.1
+	}
+	VSG_revolutionary_thinkers = {
+		advisor_cost = -0.15
+	}
+}
+
+BUL_ideas = {
+    start = {
+        shock_damage_received = -0.10
+        institution_spread_from_true_faith = 0.25
+    }
+    bonus = {
+        morale_damage_received = 0.10
+    }
+    trigger = {
+        tag = BUL
+    }
+    free = yes
+    
+    BUL_monastery_cities = {
+        defensiveness = 0.25
+        garrison_size = 0.33
+    }
+    BUL_turkic_dominance = {
+        culture_conversion_cost = -0.33
+    }
+    BUL_horselords = {
+        cavalry_shock = 1
+    }
+    BUL_deforest = {
+        development_cost = -0.10
+    }
+    BUL_salt_and_iron = {
+        global_trade_goods_size_modifier = 0.10
+        production_efficiency = 0.10
+    }
+    BUL_old_ways = {
+        years_of_nationalism = -5
+    }
+    BUL_horse_breeds = {
+        movement_speed = 0.10
+        cavalry_power = 0.15
+    }
+}
+
+AUT_ideas = {
+    start = {
+        shock_damage = 0.15
+        tolerance_own = 3
+    }
+    bonus = {
+        leader_land_shock = 1
+    }
+    trigger = {
+        tag = AUT
+    }
+    free = yes
+    
+    AUT_new_home = {
+        development_cost = -0.10
+        culture_conversion_cost = -0.33
+    }
+    AUT_silver_tongued = {
+        improve_relation_modifier = 0.25
+    }
+    AUT_far_travellers = {
+        army_tradition_decay = -0.01
+        land_attrition = -0.10
+    }
+    AUT_seafaring_legacy = {
+        naval_morale = 0.15
+    }
+    AUT_great_westland = {
+        global_colonial_growth = 25
+    }
+    AUT_jarnkaupmenn = {
+        global_trade_power = 0.15
+        placed_merchant_power = 5
+    }
+    AUT_berserkers = {
+        infantry_shock = 1
+    }
 }

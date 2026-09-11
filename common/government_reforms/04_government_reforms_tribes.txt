@@ -63,7 +63,7 @@ great_mongol_state_reform = {
 		OR = {
 			has_reform = great_mongol_state_reform
 			have_had_reform = great_mongol_state_reform
-			tag = MGE
+			tag = LMD
 		}
 	}
 	legacy_equivalent = great_mongol_state_legacy

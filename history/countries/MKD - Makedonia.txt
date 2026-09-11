@@ -11,3 +11,12 @@ religion = pyrrhonism
 technology_group = ottoman
 capital = 148
 # Specific Effects #
+1390.1.1 = {
+	monarch = {
+		name = "Dios II"
+		dynasty = "Komnenos"
+		adm = 4
+		dip = 1
+		mil = 5
+	}
+}

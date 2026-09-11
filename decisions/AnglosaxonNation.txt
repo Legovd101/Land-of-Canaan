@@ -76,12 +76,25 @@ country_decisions = {
 			}
 			change_tag = NGS
 			if = {
-				limit = { culture = anglosaxon }
-				override_country_name = NGS_anglish
+				limit = { NOT = { has_global_flag = english_toponyms } }
+				if = {
+					limit = { culture = anglosaxon }
+					override_country_name = NGS_anglish
+				}
+				if = {
+					limit = { culture = saxon }
+					override_country_name = NGS_saxon
+				}
 			}
-			if = {
-				limit = { culture = saxon }
-				override_country_name = NGS_saxon
+			else = {
+				if = {
+					limit = { culture = anglosaxon }
+					override_country_name = NGS_anglish_english
+				}
+				if = {
+					limit = { culture = saxon }
+					override_country_name = NGS_saxon_english
+				}
 			}
 			if = {
 				limit = {

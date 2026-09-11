@@ -15,11 +15,10 @@ country_decisions = {
 				ai = no
 			}
 			NOT = { exists = BTH }
-			NOT = { exists = GRE }
 			NOT = { tag = HLR }
 			NOT = { tag = ROM }
 			NOT = { tag = TUR }
-			dynasty = "BarkÃ­"
+			dynasty = "Barkí"
 		}
 		provinces_to_highlight = {
 			OR = {
@@ -30,7 +29,7 @@ country_decisions = {
 				province_id = 148	# Macedonia
 				province_id = 146	# Athens
 				province_id = 145	# Morea
-				province_id = 1773	# Achea
+				province_id = 1773	# Achaea
 				province_id = 316	# Bithynia
 				province_id = 317	# Bursa
 				province_id = 318	# Smyrna
@@ -48,13 +47,13 @@ country_decisions = {
 			owns = 145	# Morea
 			owns = 1773	# Achea
 			owns = 316	# Bithynia
-			owns = 317	# Bursa
+			owns = 151	# Constantinople
 			owns = 318	# Smyrna
 			owns = 1853	# Kozani
 			owns = 2296	# Biga
-			owns = 151  # Constantinople
-			151 = {		# Constantinople
+			317 = {		# Bursa
 				is_state = yes
+				owned_by = ROOT
 			}
 			is_at_war = no
 			is_free_or_tributary_trigger = yes

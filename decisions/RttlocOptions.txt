@@ -1,0 +1,56 @@
+country_decisions = { 
+
+	english_localizations = {
+		major = yes
+		potential = {
+			ai = no
+			NOT = { has_global_flag = english_toponyms }	
+		}
+		
+		allow = {
+			always = yes
+		}
+		
+		effect = {
+			set_global_flag = english_toponyms
+			custom_tooltip = change_to_english_toponyms
+			hidden_effect = {
+				every_country = {
+					rttloc_english_name_effect = yes
+				}
+			}
+		}
+		
+		ai_will_do = {
+			factor = 0
+		}
+	
+	}	
+
+	native_localizations = {
+		major = yes
+		potential = {
+			ai = no
+			has_global_flag = english_toponyms
+		}
+		
+		allow = {
+			always = yes
+		}
+		
+		effect = {
+			clr_global_flag = english_toponyms
+			custom_tooltip = change_to_native_toponyms
+			hidden_effect = {
+				every_country = {
+					restore_country_name = yes
+				}
+			}
+		}
+		
+		ai_will_do = {
+			factor = 0
+		}
+	
+	}	
+}

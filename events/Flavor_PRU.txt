@@ -34,7 +34,243 @@ country_event = {
 
 	option = { # I shall follow the wishes of my subjects.
 		name = flavor_PRU.1.c
-		change_religion = baltic_pagan
+		set_ruler_religion = baltic_pagan
 		set_country_flag = PRU_chose_romuva
+	}
+
+	option = { # I just want to go home...
+		name = flavor_PRU.1.d
+		custom_tooltip = flavor_PRU.1.d.tt
+		add_stability = -3
+		define_ruler = {
+			culture = pruthenian
+			religion = baltic_pagan
+		}
+		custom_tooltip = collapse_of_baltudunne_tt
+		hidden_effect = {
+			release_all_subjects = yes
+			LIT = { release_all_subjects = yes }
+		}
+		
+	}
+}
+
+# Lietuvan Nobles Elect their Own King! 
+country_event = {
+	id = flavor_PRU.2
+	title = flavor_PRU.2.title
+	picture = ADVISOR_eventPicture
+	desc = flavor_PRU.2.desc
+	
+	fire_only_once = yes
+	
+	major = yes
+	
+	trigger = {
+		tag = PRU
+		NOT = { has_country_modifier = philosopher_king }
+		NOT = { has_country_flag = lithuanian_revolt }
+		LIT = { junior_union_with = PRU }
+		NOT = { is_year = 1500 }
+	}
+	
+	mean_time_to_happen = {
+		months = 48
+	}
+	
+	immediate = {
+		set_country_flag = lithuanian_revolt
+	}
+	
+	option = { # I couldn't care less, let them go for all I care! Just leave me be!
+		name = "flavor_PRU.2.a"
+		ai_chance = {
+			factor = 20
+		}
+		LIT = {
+			define_ruler = {
+				name = "Netimari"
+				dynasty = "Deltuviai"
+				adm = 4
+				dip = 2
+				mil = 6
+				claim = 50
+			}
+			break_union = PRU
+		}
+		add_prestige = -25
+	}
+	
+	option = { # Wait, they *what* now? They can't do that, send in the army!
+		name = "flavor_PRU.2.b"
+		ai_chance = {
+			factor = 1
+		}
+		LIT = {
+			define_ruler = {
+				name = "Netimari"
+				dynasty = "Deltuviai"
+				adm = 4
+				dip = 2
+				mil = 6
+				claim = 50
+			}
+			break_union = PRU
+		}
+		declare_war_with_cb = {
+			casus_belli = cb_restore_personal_union
+			who = LIT
+		}
+	}
+}
+
+# Looking for a Wife
+country_event = {
+	id = flavor_PRU.3
+	title = flavor_PRU.3.title
+	picture = HAREM_eventPicture
+	desc = flavor_PRU.3.desc
+
+	is_triggered_only = yes
+	trigger = {
+		tag = PRU
+	}
+
+	option = { # "...the Prussian girl"
+		name = flavor_PRU.3.a
+		define_consort = {
+			culture = pruthenian
+			religion = baltic_pagan
+			ADM = 1
+			DIP = 2
+			MIL = 6
+			age = 20
+		}
+		set_consort_flag = prussian_wife
+		add_ruler_modifier = {
+			name = local_consort
+			duration = -1
+		}
+	}
+
+	option = { # "...the Lithuanian woman"
+		name = flavor_PRU.3.b
+		define_consort = {
+			culture = lithuanian
+			religion = baltic_pagan
+			ADM = 3
+			DIP = 3
+			MIL = 3
+			age = 30
+			country_of_origin = LIT
+		}
+		set_consort_flag = lithuanian_wife
+		add_ruler_modifier = {
+			name = tribal_consort
+			duration = -1
+		}
+	}
+
+	option = { # "...one of Ugu Jolobey's daughters"
+		name = flavor_PRU.3.c
+		define_consort = {
+			culture = evenk
+			religion = tengri_pagan_reformed
+			ADM = 1
+			DIP = 4
+			MIL = 4
+			age = 34
+			country_of_origin = ALD
+		}
+		set_consort_flag = evenki_wife
+		add_ruler_modifier = {
+			name = foreign_consort
+			duration = -1
+		}
+	}
+
+	option = { # "...all three!"
+		name = flavor_PRU.3.d
+		define_heir = {
+			age = 0
+			dynasty = ROOT
+		}
+		every_country = {
+			limit = { culture_group = baltic }
+			reverse_add_opinion = {
+				who = ROOT
+				modifier = royal_marriage
+			}
+		}
+	}
+
+	option = { # From a nearby window, I see an older woman sitting in the grass... wait, is she *reading?* And *writing?*
+		name = flavor_PRU.3.e
+		trigger = {
+			NOT = { is_year = 1464 }
+		}
+		custom_tooltip = who_is_she_tt
+		custom_tooltip = will_leave_marriage_queue_tt
+		country_event = {
+			id = flavor_PRU.4
+		}
+	}
+
+}
+
+# The Woman in the Grass
+country_event = {
+	id = flavor_PRU.4
+	title = flavor_PRU.4.title
+	picture = BIG_BOOK_eventPicture
+	desc = flavor_PRU.4.desc
+
+	is_triggered_only = yes
+	trigger = {
+		tag = PRU
+	}
+
+	option = { # "A philosopher queen for a philosopher king."
+		name = flavor_PRU.4.a
+		define_consort = {
+			name = "Anna"
+			dynasty = "Komnini"
+			culture = greek
+			religion = pyrrhonism
+			ADM = 6
+			DIP = 6
+			MIL = 0
+			birth_date = 1394.1.1
+			female = yes
+		}
+		set_consort_flag = anna_komnene
+		add_queen_personality = scholar_personality
+		add_ruler_modifier = {
+			name = philosopher_queen
+			duration = -1
+		}
+	}
+
+	option = { # "How would you like a seat at my table?"
+		name = flavor_PRU.4.b
+		define_advisor = {
+			type = philosopher
+			skill = 5
+			name = "Anna Komnini"
+			cost_multiplier = 0.25
+			female = yes
+			culture = greek
+			religion = pyrrhonism
+
+		}
+	}
+
+	option = { # After an evening of delightful banter and philosophical debate, we say our goodbyes and part ways.
+		name = flavor_PRU.4.c
+		custom_tooltip = anna_goes_home_tt
+		add_ruler_modifier = {
+			name = eligible_bachelor
+			duration = 7300
+		}
 	}
 }

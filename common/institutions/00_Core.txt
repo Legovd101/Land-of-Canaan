@@ -116,6 +116,7 @@ feudalism = {
 			}
 			is_year = 1700
 		}
+		NOT = { owner = { government = tribal } }
 	}
 	
 	# no need for events, as its there from the start.

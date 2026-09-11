@@ -84,11 +84,14 @@ country_decisions = {
 		}
 		effect = {
 			change_tag = ASY
-			trigger_switch = {
-				on_trigger = primary_culture
-				palmyran = { ASY = { override_country_name = ASY_palmyran } }
-				aramean = { ASY = { override_country_name = ASY_aramean } }
-				assyrian = { ASY = { restore_country_name = yes } }
+			if = {
+				limit = { NOT = { has_global_flag = english_toponyms } }
+				trigger_switch = {
+					on_trigger = primary_culture
+					palmyran = { ASY = { override_country_name = ASY_palmyran } }
+					aramean = { ASY = { override_country_name = ASY_aramean } }
+					assyrian = { ASY = { restore_country_name = yes } }
+				}
 			}
 			set_capital = 411
 			if = {

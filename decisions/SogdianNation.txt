@@ -66,10 +66,13 @@ country_decisions = {
 		}
 		effect = {
 			change_tag = SGD
-			trigger_switch = {
-				on_trigger = primary_culture
-				sogdian = { SGD = { override_country_name = SGD_iranian } }
-				sogdik = { SGD = { override_country_name = SGD_hellenic } }
+			if = {
+				limit = { NOT = { has_global_flag = english_toponyms } }
+				trigger_switch = {
+					on_trigger = primary_culture
+					sogdian = { SGD = { override_country_name = SGD_iranian } }
+					sogdik = { SGD = { override_country_name = SGD_hellenic } }
+				}
 			}
 			if = {
 				limit = {

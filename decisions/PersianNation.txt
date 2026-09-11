@@ -77,11 +77,14 @@ country_decisions = {
 		}
 		effect = {
 			change_tag = PER
-			trigger_switch = {
-				on_trigger = primary_culture
-				persian = { PER = { override_country_name = PER_iranian } }
-				persoi = { PER = { override_country_name = PER_hellenic } }
-				pharsik = { PER = { override_country_name = PER_helleno_iranian } }
+			if = {
+				limit = { NOT = { has_global_flag = english_toponyms } }
+				trigger_switch = {
+					on_trigger = primary_culture
+					persian = { PER = { override_country_name = PER_iranian } }
+					persoi = { PER = { override_country_name = PER_hellenic } }
+					pharsik = { PER = { override_country_name = PER_helleno_iranian } }
+				}
 			}
 			if = {
 				limit = {

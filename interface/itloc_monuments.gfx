@@ -109,4 +109,9 @@ spriteTypes = {
 		name = "GFX_great_project_port_of_twangtse"	
 		texturefile = "gfx//interface//great_projects//great_project_port_of_twangtse.dds"
 	}	
+
+	spriteType = {
+		name = "GFX_great_project_library_of_alexandria"	
+		texturefile = "gfx//interface//great_projects//great_project_library_of_alexandria.dds"
+	}	
 }

@@ -7,3 +7,28 @@ philosopher_king = {
 	technology_cost = -0.05
 	monarch_lifespan = 0.25
 }
+
+local_consort = {
+	global_unrest = -2
+	global_prosperity_growth = 0.1
+}
+
+tribal_consort = {
+	reduced_liberty_desire = 15
+	vassal_forcelimit_bonus = 0.2
+}
+
+foreign_consort = {
+	diplomatic_upkeep = 3
+	improve_relation_modifier = 0.25
+}
+
+philosopher_queen = {
+	technology_cost = -0.05
+	embracement_cost = -0.1
+}
+
+eligible_bachelor = {
+	heir_chance = 0.5
+	diplomatic_reputation = 1
+}

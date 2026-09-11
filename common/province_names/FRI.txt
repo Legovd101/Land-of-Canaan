@@ -10,7 +10,7 @@
 4370 = { "Bedfurdeskier" "Krantebrêge" } # "Beda's ford", "Granta bridge"
 
 # London
-236 = { "Londenwyk" "Londenwyk" } # "London village"
+236 = { "Londenton" "Londenton" } # "London village"
 235 = { "Kent" "Kenterboarg" }
 4371 = { "Súdlân" "Hesting" } # "South land"
 237 = { "Oksenfurdeskier" "Oksenfurde" } # "Oxen ford"
