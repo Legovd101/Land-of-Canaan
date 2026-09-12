@@ -18,7 +18,7 @@ trade_goods = naval_supplies
 extra_cost = 18
 
 culture = latvian
-religion = 
+religion = baltic_pagan
 capital = "Riga"
 
 is_city = yes

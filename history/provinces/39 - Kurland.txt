@@ -16,7 +16,7 @@ base_manpower = 1
 trade_goods = amber
 
 culture = latvian
-religion = 
+religion = baltic_pagan
 capital = "Goldingen"
 
 is_city = yes

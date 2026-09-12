@@ -16,7 +16,7 @@ base_manpower = 1
 trade_goods = lumber
 
 culture = latvian
-religion = 
+religion = baltic_pagan
 capital = "Dünaburg"
 
 is_city = yes

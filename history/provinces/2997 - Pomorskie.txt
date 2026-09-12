@@ -16,7 +16,7 @@ base_manpower = 3
 trade_goods = grain
 
 culture = pruthenian
-religion = 
+religion = baltic_pagan
 capital = "Tuchel"
 
 is_city = yes

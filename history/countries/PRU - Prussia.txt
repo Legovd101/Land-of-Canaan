@@ -1,5 +1,6 @@
 government = tribal
 government_rank = 2
+add_government_reform = feudal_tribe
 primary_culture = pruthenian
 religion = baltic_pagan
 technology_group = baltic_group

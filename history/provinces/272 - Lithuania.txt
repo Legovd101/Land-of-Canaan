@@ -18,7 +18,7 @@ trade_goods = lumber
 extra_cost = 8
 
 culture = lithuanian
-religion = 
+religion = baltic_pagan
 capital = "Vilna"
 
 is_city = yes

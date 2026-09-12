@@ -16,7 +16,7 @@ base_manpower = 1
 trade_goods = fur
 
 culture = izhorian
-religion = 
+religion = finnish_pagan
 capital = "Koporye"
 
 is_city = yes

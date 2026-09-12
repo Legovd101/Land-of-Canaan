@@ -16,7 +16,7 @@ base_manpower = 1
 trade_goods = grain
 
 culture = voro_seto
-religion = 
+religion = finnish_pagan
 capital = "Narva"
 
 is_city = yes

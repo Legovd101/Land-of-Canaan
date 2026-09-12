@@ -16,7 +16,7 @@ base_manpower = 2
 trade_goods = apiculture
 
 culture = lithuanian
-religion = 
+religion = baltic_pagan
 capital = "Lyda"
 
 is_city = yes

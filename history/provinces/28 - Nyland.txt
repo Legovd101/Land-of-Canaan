@@ -16,7 +16,7 @@ base_manpower = 2
 trade_goods = beer
 
 culture = estonian
-religion = 
+religion = finnish_pagan
 capital = "Borgå"
 
 is_city = yes

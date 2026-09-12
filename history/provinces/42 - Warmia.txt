@@ -16,7 +16,7 @@ base_manpower = 2
 trade_goods = lumber
 
 culture = pruthenian
-religion = 
+religion = baltic_pagan
 capital = "Allenstein"
 
 is_city = yes

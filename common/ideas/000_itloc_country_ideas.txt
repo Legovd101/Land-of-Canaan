@@ -449,79 +449,120 @@ VSG_ideas = {
 }
 
 BUL_ideas = {
-    start = {
-        shock_damage_received = -0.10
-        institution_spread_from_true_faith = 0.25
-    }
-    bonus = {
-        morale_damage_received = 0.10
-    }
-    trigger = {
-        tag = BUL
-    }
-    free = yes
-    
-    BUL_monastery_cities = {
-        defensiveness = 0.25
-        garrison_size = 0.33
-    }
-    BUL_turkic_dominance = {
-        culture_conversion_cost = -0.33
-    }
-    BUL_horselords = {
-        cavalry_shock = 1
-    }
-    BUL_deforest = {
-        development_cost = -0.10
-    }
-    BUL_salt_and_iron = {
-        global_trade_goods_size_modifier = 0.10
-        production_efficiency = 0.10
-    }
-    BUL_old_ways = {
-        years_of_nationalism = -5
-    }
-    BUL_horse_breeds = {
-        movement_speed = 0.10
-        cavalry_power = 0.15
-    }
+	start = {
+		shock_damage_received = -0.10
+		institution_spread_from_true_faith = 0.25
+	}
+	bonus = {
+		morale_damage_received = 0.10
+	}
+	trigger = {
+		tag = BUL
+	}
+	free = yes
+	
+	BUL_monastery_cities = {
+		defensiveness = 0.25
+		garrison_size = 0.33
+	}
+	BUL_turkic_dominance = {
+		culture_conversion_cost = -0.33
+	}
+	BUL_horselords = {
+		cavalry_shock = 1
+	}
+	BUL_deforest = {
+		development_cost = -0.10
+	}
+	BUL_salt_and_iron = {
+		global_trade_goods_size_modifier = 0.10
+		production_efficiency = 0.10
+	}
+	BUL_old_ways = {
+		years_of_nationalism = -5
+	}
+	BUL_horse_breeds = {
+		movement_speed = 0.10
+		cavalry_power = 0.15
+	}
 }
 
 AUT_ideas = {
-    start = {
-        shock_damage = 0.15
-        tolerance_own = 3
-    }
-    bonus = {
-        leader_land_shock = 1
-    }
-    trigger = {
-        tag = AUT
-    }
-    free = yes
-    
-    AUT_new_home = {
-        development_cost = -0.10
-        culture_conversion_cost = -0.33
-    }
-    AUT_silver_tongued = {
-        improve_relation_modifier = 0.25
-    }
-    AUT_far_travellers = {
-        army_tradition_decay = -0.01
-        land_attrition = -0.10
-    }
-    AUT_seafaring_legacy = {
-        naval_morale = 0.15
-    }
-    AUT_great_westland = {
-        global_colonial_growth = 25
-    }
-    AUT_jarnkaupmenn = {
-        global_trade_power = 0.15
-        placed_merchant_power = 5
-    }
-    AUT_berserkers = {
-        infantry_shock = 1
-    }
+	start = {
+		shock_damage = 0.15
+		tolerance_own = 3
+	}
+	bonus = {
+		leader_land_shock = 1
+	}
+	trigger = {
+		tag = AUT
+	}
+	free = yes
+	
+	AUT_new_home = {
+		development_cost = -0.10
+		culture_conversion_cost = -0.33
+	}
+	AUT_silver_tongued = {
+		improve_relation_modifier = 0.25
+	}
+	AUT_far_travellers = {
+		army_tradition_decay = -0.01
+		land_attrition = -0.10
+	}
+	AUT_seafaring_legacy = {
+		naval_morale = 0.15
+	}
+	AUT_great_westland = {
+		global_colonial_growth = 25
+	}
+	AUT_jarnkaupmenn = {
+		global_trade_power = 0.15
+		placed_merchant_power = 5
+	}
+	AUT_berserkers = {
+		infantry_shock = 1
+	}
+}
+
+PRU_ideas_gurgamoya = {
+	start = {
+		idea_cost = -0.05
+		merc_maintenance_modifier = -0.25
+	}
+	bonus = {
+		build_cost = -0.25
+	}
+	trigger = {
+		tag = PRU
+		OR = {
+			has_ruler = "Gurgamoya"
+			has_country_flag = chapter_3_completed_flag
+		}
+
+	}
+	free = yes
+	
+	PRU_evenki_warbands = {
+		mercenary_cost = -0.2
+	}
+	PRU_amber_mines = {
+		production_efficiency = 0.15
+	}
+	PRU_integrate_balts = {
+		nobles_loyalty_modifier = 0.15
+	}
+	PRU_intellectual_guidance = {
+		all_power_cost = -0.05
+	}
+	PRU_regional_markets = {
+		global_prov_trade_power_modifier = 0.05
+	}
+	PRU_riches_of_the_world = {
+		trade_range_modifier = 0.35
+	}
+	PRU_mercantile_representatives = {
+		merchants = 1
+	}
 }

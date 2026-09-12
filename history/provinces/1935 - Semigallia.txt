@@ -16,7 +16,7 @@ base_manpower = 2
 trade_goods = lumber
 
 culture = latvian
-religion = 
+religion = baltic_pagan
 capital = "Mitau"
 
 is_city = yes

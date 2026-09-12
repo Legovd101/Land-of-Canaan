@@ -16,7 +16,7 @@ base_manpower = 1
 trade_goods = lumber
 
 culture = pruthenian
-religion = 
+religion = baltic_pagan
 capital = "Osterode"
 
 is_city = yes

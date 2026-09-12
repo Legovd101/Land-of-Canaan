@@ -17,7 +17,7 @@ center_of_trade = 1
 trade_goods = grain
 
 culture = voro_seto
-religion = 
+religion = finnish_pagan
 capital = "Reval"
 
 is_city = yes

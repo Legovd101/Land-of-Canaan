@@ -1587,46 +1587,46 @@ DAL_ideas = {
 }
 
 
-PRU_ideas = {
-	start = {
-		army_tradition = 0.5
-		ae_impact = -0.10
-	}
+# PRU_ideas = {
+# 	start = {
+# 		army_tradition = 0.5
+# 		ae_impact = -0.10
+# 	}
 	
-	bonus = {
-		discipline = 0.05
-	}
+# 	bonus = {
+# 		discipline = 0.05
+# 	}
 	
-	trigger = {
-		tag = PRU
-	}
-	free = yes		#will be added at load.
+# 	trigger = {
+# 		tag = PRU
+# 	}
+# 	free = yes		#will be added at load.
 	
-	teutonic_legacy = {
-		tolerance_own = 1
-		stability_cost_modifier = -0.1
-	}
-	soldier_king = {
-		army_tradition_decay = -0.01
-	}
-	army_professionalism = {
-		land_morale = 0.20
-	}	
-	noble_cadets = {
-		nobles_loyalty_modifier = 0.10
-	}
-	goose_step = {
-		infantry_power = 0.20
-	}
-	regimental_cantons = {
-		global_manpower_modifier = 0.25
-		global_regiment_recruit_speed = -0.10
-	}
-	religious_toleration = {
-		development_cost = -0.05
-		tolerance_heretic = 1
-	}
-}
+# 	teutonic_legacy = {
+# 		tolerance_own = 1
+# 		stability_cost_modifier = -0.1
+# 	}
+# 	soldier_king = {
+# 		army_tradition_decay = -0.01
+# 	}
+# 	army_professionalism = {
+# 		land_morale = 0.20
+# 	}	
+# 	noble_cadets = {
+# 		nobles_loyalty_modifier = 0.10
+# 	}
+# 	goose_step = {
+# 		infantry_power = 0.20
+# 	}
+# 	regimental_cantons = {
+# 		global_manpower_modifier = 0.25
+# 		global_regiment_recruit_speed = -0.10
+# 	}
+# 	religious_toleration = {
+# 		development_cost = -0.05
+# 		tolerance_heretic = 1
+# 	}
+# }
 
 BRA_ideas = {
 	start = {
@@ -6717,47 +6717,47 @@ LVA_ideas = {
 	}
 }
 
-BUL_ideas = {
-	start = {	
-		merchants = 1
-		core_creation = -0.1		
-	}
+# BUL_ideas = {
+# 	start = {	
+# 		merchants = 1
+# 		core_creation = -0.1		
+# 	}
 	
-	bonus = {
-		infantry_power = 0.15
-	}
+# 	bonus = {
+# 		infantry_power = 0.15
+# 	}
 	
-	trigger = {
-		tag = BUL
-	}
-	free = yes
+# 	trigger = {
+# 		tag = BUL
+# 	}
+# 	free = yes
 	
-	bul_idea_1 = {
-		stability_cost_modifier = -0.1
-	}
-	bul_idea_2 = {
-		global_heretic_missionary_strength = 0.02		
-	}
-	bul_idea_3 = {
- 		global_unrest = -1
-	}
-	bul_idea_4 = {
-		infantry_cost = -0.1
-	}
-	bul_idea_5 = {
-		prestige = 1
-	}
-	bul_idea_6 = {
-		land_morale = 0.10
-	}
-	bul_idea_7 = {
-		legitimacy = 1
-		devotion = 1
-		republican_tradition = 0.3
-		meritocracy = 1
-		horde_unity = 1
-	}
-}
+# 	bul_idea_1 = {
+# 		stability_cost_modifier = -0.1
+# 	}
+# 	bul_idea_2 = {
+# 		global_heretic_missionary_strength = 0.02		
+# 	}
+# 	bul_idea_3 = {
+#  		global_unrest = -1
+# 	}
+# 	bul_idea_4 = {
+# 		infantry_cost = -0.1
+# 	}
+# 	bul_idea_5 = {
+# 		prestige = 1
+# 	}
+# 	bul_idea_6 = {
+# 		land_morale = 0.10
+# 	}
+# 	bul_idea_7 = {
+# 		legitimacy = 1
+# 		devotion = 1
+# 		republican_tradition = 0.3
+# 		meritocracy = 1
+# 		horde_unity = 1
+# 	}
+# }
 
 KIE_ideas = {
 	start = {

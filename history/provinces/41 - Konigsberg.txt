@@ -18,7 +18,7 @@ trade_goods = amber
 extra_cost = 8
 
 culture = pruthenian
-religion = 
+religion = baltic_pagan
 capital = "Twangtse"
 
 is_city = yes

@@ -17,7 +17,7 @@ base_manpower = 2
 trade_goods = livestock
 
 culture = livonian
-religion = 
+religion = baltic_pagan
 capital = "Fellin"
 
 is_city = yes

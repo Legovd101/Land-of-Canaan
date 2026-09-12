@@ -18,7 +18,7 @@ trade_goods = amber
 extra_cost = 26
 
 culture = pruthenian
-religion = 
+religion = baltic_pagan
 capital = "Danzig"
 
 is_city = yes
